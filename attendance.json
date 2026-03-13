@@ -330,8 +330,8 @@
           "sess_3": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 2
           },
