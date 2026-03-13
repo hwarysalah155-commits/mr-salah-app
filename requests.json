@@ -20,5 +20,16 @@
     "group": "",
     "isNewGroup": false,
     "status": "new"
+  },
+  {
+    "time": "١٣‏/٣‏/٢٠٢٦، ٤:٤١:١٨ م",
+    "studentName": "محمد بن سلمان بن عبدالعزيز",
+    "parentName": "سلمان بن عبدالعزيز",
+    "phone": "01585248654",
+    "grade": "الصف الثالث الإعدادي",
+    "type": "group",
+    "group": "مجموعة جديدة",
+    "isNewGroup": true,
+    "status": "new"
   }
 ]
