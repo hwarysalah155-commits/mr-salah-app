@@ -195,7 +195,7 @@
             "checks": [
               false,
               false,
-              false
+              true
             ],
             "score": ""
           },
