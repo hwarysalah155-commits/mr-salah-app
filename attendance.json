@@ -101,7 +101,25 @@
       "2026-03-22",
       "2026-03-25"
     ],
-    "students": []
+    "students": [
+      {
+        "name": "اتمن",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": ""
+      }
+    ]
   },
   "g_default_9-2026-3": {
     "sessionDates": [
