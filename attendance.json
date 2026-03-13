@@ -170,8 +170,8 @@
           "sess_0": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 9
           },
@@ -179,7 +179,7 @@
             "checks": [
               false,
               false,
-              false
+              true
             ],
             "score": 9
           },
