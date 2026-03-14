@@ -1,153 +1,4 @@
 {
-  "g_1773171124556-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_1773228235378-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_1773141948046-2026-3": {
-    "sessionDates": [
-      "2026-03-07",
-      "2026-03-10",
-      "2026-03-14",
-      "2026-03-17",
-      "2026-03-21",
-      "2026-03-24",
-      "2026-03-28",
-      "2026-03-31"
-    ],
-    "students": [
-      {
-        "name": "Gh",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "payment": "",
-        "notes": [],
-        "paid": false,
-        "phone": "",
-        "eval": {
-          "sess_0": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_1": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_2": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_3": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_4": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_5": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_6": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_7": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          }
-        }
-      }
-    ]
-  },
-  "g_1773141985841-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_1773142006206-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
   "g_default_1-2026-3": {
     "sessionDates": [
       "",
@@ -213,6 +64,19 @@
     ],
     "students": []
   },
+  "g_default_6-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
   "g_default_7-2026-3": {
     "sessionDates": [
       "",
@@ -252,7 +116,7 @@
     ],
     "students": []
   },
-  "g_1773496861733-2026-3": {
+  "g_1773498371165-2026-3": {
     "sessionDates": [
       "",
       "",
@@ -265,7 +129,7 @@
     ],
     "students": [
       {
-        "name": "محمد رفعت بربري",
+        "name": "صلاح سيد علي",
         "sessions": [
           0,
           0,
@@ -278,13 +142,13 @@
         ],
         "payment": "",
         "notes": [
-          "تم التسجيل عبر الفورم — ١٣‏/٣‏/٢٠٢٦، ٤:٢٨:٤٦ م"
+          "تم التسجيل عبر الفورم — ١٣‏/٣‏/٢٠٢٦، ٧:٠١:١٣ ص"
         ],
         "paid": false,
         "phone": "01224263531",
-        "parentName": "رفعت بربري",
-        "grade": "الصف الأول الابتدائي",
-        "pin": "mhmd2652"
+        "parentName": "سيد علي",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "slah8618"
       }
     ]
   }
