@@ -1,8 +1,8 @@
 [
   {
-    "id": 1773510282295,
-    "savedAt": "١٤‏/٣‏/٢٠٢٦، ٧:٤٤:٤٢ م",
-    "type": "general",
+    "id": 1773513781600,
+    "savedAt": "١٤‏/٣‏/٢٠٢٦، ٨:٤٣:٠١ م",
+    "type": "group",
     "title": "مستر صلاح الهواري يهنئكم بمناسبه عيد الفطر المبارك كل عام والامه الاسلاميه العرب",
     "text": "",
     "date": "١٤ مارس ٢٠٢٦",
@@ -10,6 +10,12 @@
     "ctaFields": {
       "general": {
         "annCtaLink": ""
+      },
+      "group": {
+        "annCtaGroupName": "",
+        "annCtaStartDate": "",
+        "annCtaPrice": "",
+        "annCtaSeats": ""
       }
     }
   }
