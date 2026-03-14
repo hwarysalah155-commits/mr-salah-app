@@ -1,0 +1,33 @@
+{
+  "cards": [
+    {
+      "id": "c30",
+      "type": "consecutive_low",
+      "threshold": 50,
+      "value": "🎁 كارت 30 جنيه",
+      "message": "مبروك! استمر في المذاكرة وهتوصل لأحسن 💪",
+      "image": ""
+    },
+    {
+      "id": "c50",
+      "type": "unit_low",
+      "unit": 3,
+      "grade": 4,
+      "minLessons": 3,
+      "dropPerLesson": 1,
+      "maxScore": 10,
+      "value": "🎁 كارت 50 جنيه",
+      "message": "برافو على مجهودك في الوحدة! مستر صلاح فخور بيك 🌟",
+      "image": ""
+    },
+    {
+      "id": "c100",
+      "type": "multi_unit_low",
+      "totalDrop": 10,
+      "maxScore": 10,
+      "value": "🎁 كارت 100 جنيه",
+      "message": "إنجاز رائع! كسبت كارت تميز من مستر صلاح هواري 🏆",
+      "image": ""
+    }
+  ]
+}
