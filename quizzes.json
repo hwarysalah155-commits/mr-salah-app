@@ -1,17 +1,1 @@
-{
-  "quizzes": [
-    {
-      "id": "q001",
-      "title": "Shopping for a Picnic",
-      "subject": "English",
-      "grade": "الصف الرابع",
-      "unit": "الوحدة الثالثة",
-      "lesson": "الدرس الثاني",
-      "questions": 16,
-      "duration": 8,
-      "url": "https://hwarysalah155-commits.github.io/mr-salah-app/mr-salah-unit3-lesson2-quiz-FINAL.html",
-      "date": "2026-03-11",
-      "color": "#1a4a9e"
-    }
-  ]
-}
+[]
