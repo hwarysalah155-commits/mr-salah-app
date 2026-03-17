@@ -189,7 +189,7 @@
               true,
               true
             ],
-            "score": ""
+            "score": 10
           },
           "sess_3": {
             "checks": [
@@ -197,7 +197,7 @@
               false,
               false
             ],
-            "score": ""
+            "score": 10
           },
           "sess_4": {
             "checks": [
