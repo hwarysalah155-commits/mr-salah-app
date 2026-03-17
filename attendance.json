@@ -226,8 +226,8 @@
           "sess_7": {
             "checks": [
               false,
-              true,
-              true
+              false,
+              false
             ],
             "score": 10
           }
