@@ -210,8 +210,8 @@
           "sess_5": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
