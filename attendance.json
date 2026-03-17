@@ -170,8 +170,8 @@
           "sess_0": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
@@ -202,10 +202,10 @@
           "sess_4": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
-            "score": ""
+            "score": 10
           },
           "sess_5": {
             "checks": [
