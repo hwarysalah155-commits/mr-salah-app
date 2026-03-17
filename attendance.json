@@ -186,8 +186,8 @@
           "sess_2": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": ""
           },
