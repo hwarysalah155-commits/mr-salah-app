@@ -218,16 +218,16 @@
           "sess_6": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": ""
           },
           "sess_7": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           }
