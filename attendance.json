@@ -210,8 +210,8 @@
           "sess_5": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
@@ -226,10 +226,10 @@
           "sess_7": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
-            "score": ""
+            "score": 10
           }
         },
         "pin": "slah7993"
