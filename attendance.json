@@ -150,7 +150,73 @@
         "paid": false,
         "phone": "",
         "grade": "الصف الثالث الإعدادي",
-        "pin": "mhmw1417"
+        "pin": "mhmw1417",
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
       }
     ]
   },
