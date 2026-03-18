@@ -155,8 +155,8 @@
           "sess_0": {
             "checks": [
               false,
-              true,
-              true
+              false,
+              false
             ],
             "score": 1
           },
@@ -171,8 +171,8 @@
           "sess_2": {
             "checks": [
               false,
-              true,
-              true
+              false,
+              false
             ],
             "score": 10
           },
