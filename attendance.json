@@ -272,7 +272,7 @@
           "sess_2": {
             "checks": [
               false,
-              false,
+              true,
               true
             ],
             "score": 10
