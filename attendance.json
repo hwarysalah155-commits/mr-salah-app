@@ -155,32 +155,32 @@
           "sess_0": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 1
           },
           "sess_1": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
           "sess_2": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
           "sess_3": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
@@ -195,7 +195,7 @@
           "sess_5": {
             "checks": [
               false,
-              false,
+              true,
               false
             ],
             "score": 10
