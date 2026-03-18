@@ -132,7 +132,93 @@
       "2026-03-22",
       "2026-03-25"
     ],
-    "students": []
+    "students": [
+      {
+        "name": "محمود محمد طه",
+        "sessions": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "payment": "2080",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "grade": "الصف الثالث الإعدادي",
+        "pin": "mhmw1417",
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          }
+        }
+      }
+    ]
   },
   "g_1773412495786_0-2026-3": {
     "sessionDates": [
@@ -151,7 +237,7 @@
         "sessions": [
           1,
           1,
-          2,
+          1,
           1,
           1,
           1,
@@ -194,15 +280,15 @@
           "sess_3": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
           "sess_4": {
             "checks": [
               false,
-              true,
+              false,
               true
             ],
             "score": 10
