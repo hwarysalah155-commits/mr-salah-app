@@ -273,7 +273,7 @@
             "checks": [
               false,
               false,
-              false
+              true
             ],
             "score": 10
           },
