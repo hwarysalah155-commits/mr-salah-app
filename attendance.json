@@ -23,9 +23,9 @@
           1,
           1
         ],
-        "payment": "",
+        "payment": "2",
         "notes": [],
-        "paid": false,
+        "paid": true,
         "phone": "",
         "grade": "الصف الأول الابتدائي",
         "pin": "ahmd3984",
