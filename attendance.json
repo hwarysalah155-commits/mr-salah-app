@@ -10,7 +10,27 @@
       "2026-03-22",
       "2026-03-25"
     ],
-    "students": []
+    "students": [
+      {
+        "name": "احمد سراج عرفات",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "grade": "الصف الأول الابتدائي",
+        "pin": "ahmd3006"
+      }
+    ]
   },
   "g_default_2-2026-3": {
     "sessionDates": [
