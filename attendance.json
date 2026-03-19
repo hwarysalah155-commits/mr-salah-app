@@ -101,16 +101,16 @@
           "sess_2": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
           "sess_3": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
