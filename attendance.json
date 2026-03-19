@@ -117,8 +117,8 @@
           "sess_4": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": 10
           },
@@ -126,9 +126,9 @@
             "checks": [
               false,
               true,
-              false
+              true
             ],
-            "score": ""
+            "score": 10
           },
           "sess_6": {
             "checks": [
@@ -136,7 +136,7 @@
               false,
               false
             ],
-            "score": ""
+            "score": 10
           },
           "sess_7": {
             "checks": [
