@@ -125,7 +125,7 @@
           "sess_5": {
             "checks": [
               false,
-              false,
+              true,
               false
             ],
             "score": ""
