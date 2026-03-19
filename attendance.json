@@ -77,7 +77,7 @@
         ],
         "payment": "500",
         "notes": [],
-        "paid": false,
+        "paid": true,
         "phone": "",
         "grade": "الصف الخامس الابتدائي",
         "pin": "mhmd9274"
