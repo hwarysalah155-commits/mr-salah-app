@@ -86,7 +86,7 @@
             "checks": [
               false,
               true,
-              false
+              true
             ],
             "score": 10
           },
@@ -96,7 +96,7 @@
               true,
               true
             ],
-            "score": 1
+            "score": 10
           },
           "sess_2": {
             "checks": [
