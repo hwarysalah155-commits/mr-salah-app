@@ -133,7 +133,7 @@
           "sess_6": {
             "checks": [
               false,
-              false,
+              true,
               false
             ],
             "score": 10
