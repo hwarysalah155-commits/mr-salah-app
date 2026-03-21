@@ -364,7 +364,7 @@
             "checks": [
               false,
               true,
-              false
+              true
             ],
             "score": 10
           },
