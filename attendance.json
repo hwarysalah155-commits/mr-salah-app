@@ -363,7 +363,7 @@
           "sess_2": {
             "checks": [
               false,
-              false,
+              true,
               false
             ],
             "score": 10
