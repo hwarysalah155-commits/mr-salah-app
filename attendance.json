@@ -379,7 +379,7 @@
           "sess_4": {
             "checks": [
               false,
-              false,
+              true,
               true
             ],
             "score": 10
