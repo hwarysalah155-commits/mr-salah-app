@@ -1,0 +1,1177 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
+<title>Building Egypt's Modern Economy — مستر صلاح هواري</title>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&display=swap" rel="stylesheet">
+<style>
+:root{
+  --primary:#7c3aed;--primary-dark:#4c1d95;--primary-light:#f0e8ff;
+  --primary-mid:#a855f7;--bg:#f5f3ff;--surface:#fff;
+  --text:#0f172a;--muted:#64748b;--border:#e9d5ff;
+  --green:#10b981;--green-bg:#d1fae5;--red:#ef4444;--red-bg:#fee2e2;--gold:#f59e0b;
+}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+body{font-family:'Cairo',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;direction:rtl;overflow-x:hidden;}
+
+.app-header{background:linear-gradient(135deg,var(--primary-dark),var(--primary) 60%,var(--primary-mid));padding:14px 20px;display:flex;align-items:center;gap:13px;box-shadow:0 4px 20px rgba(76,29,149,.35);position:sticky;top:0;z-index:100;}
+.header-logo{width:48px;height:48px;border-radius:50%;border:2.5px solid var(--gold);overflow:hidden;flex-shrink:0;box-shadow:0 0 0 3px rgba(255,255,255,.18);background:#fff;}
+.header-logo img{width:100%;height:100%;object-fit:cover;}
+.header-info{flex:1;}
+.header-name{font-size:16px;font-weight:900;color:#fff;line-height:1.2;}
+.header-sub{font-size:11px;color:rgba(255,255,255,.72);font-weight:600;}
+.header-badge{background:var(--gold);color:var(--primary-dark);font-size:11px;font-weight:900;padding:5px 12px;border-radius:20px;}
+
+.screen{display:none;}
+.screen.active{display:block;animation:fadeUp .35s ease;}
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+.page-wrap{max-width:640px;margin:0 auto;padding:20px 16px 40px;}
+.card{background:#fff;border-radius:18px;padding:28px 24px;box-shadow:0 2px 16px rgba(76,29,149,.1);border:1px solid var(--border);margin-bottom:16px;}
+
+.start-hero{text-align:center;margin-bottom:24px;}
+.start-icon{font-size:52px;margin-bottom:10px;animation:bounce 1.5s infinite;}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.start-title{font-size:22px;font-weight:900;color:var(--primary-dark);margin-bottom:6px;}
+.start-sub{font-size:13px;color:var(--muted);line-height:1.6;}
+
+.notes-header{display:flex;align-items:center;gap:10px;padding:14px 18px;background:linear-gradient(135deg,var(--primary-dark),var(--primary));border-radius:14px;color:#fff;margin-bottom:24px;}
+.notes-header .nh-icon{font-size:22px;}
+.notes-header h3{font-size:15px;font-weight:900;}
+.notes-header p{font-size:11px;opacity:.8;margin-top:2px;}
+
+.vocab-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:24px;}
+.vocab-card{border-radius:20px;padding:18px 16px 14px;cursor:pointer;position:relative;overflow:hidden;min-height:130px;display:flex;flex-direction:column;justify-content:space-between;transition:transform .2s,box-shadow .2s;box-shadow:0 4px 20px rgba(0,0,0,.12);}
+.vocab-card:hover{transform:translateY(-4px);box-shadow:0 8px 28px rgba(0,0,0,.18);}
+.vocab-card:active{transform:scale(.97);}
+
+.vc-purple{background:linear-gradient(135deg,#7c3aed,#a855f7);}
+.vc-blue{background:linear-gradient(135deg,#2563eb,#60a5fa);}
+.vc-pink{background:linear-gradient(135deg,#db2777,#f472b6);}
+.vc-green{background:linear-gradient(135deg,#059669,#34d399);}
+.vc-orange{background:linear-gradient(135deg,#ea580c,#fb923c);}
+.vc-teal{background:linear-gradient(135deg,#0891b2,#22d3ee);}
+.vc-indigo{background:linear-gradient(135deg,#4338ca,#818cf8);}
+.vc-rose{background:linear-gradient(135deg,#e11d48,#fb7185);}
+.vc-amber{background:linear-gradient(135deg,#b45309,#fbbf24);}
+.vc-violet{background:linear-gradient(135deg,#6d28d9,#c084fc);}
+
+.vc-circles{position:absolute;inset:0;pointer-events:none;}
+.vc-circles span{position:absolute;border-radius:50%;background:rgba(255,255,255,.12);}
+.vc-circles span:nth-child(1){width:90px;height:90px;right:-20px;bottom:-20px;}
+.vc-circles span:nth-child(2){width:60px;height:60px;right:5px;bottom:5px;}
+.vc-circles span:nth-child(3){width:35px;height:35px;right:20px;bottom:20px;}
+
+.vc-top{position:relative;z-index:1;}
+.vc-num{font-size:10px;font-weight:900;color:rgba(255,255,255,.7);letter-spacing:1.5px;direction:ltr;margin-bottom:6px;}
+.vc-word{font-size:14px;font-weight:900;color:#fff;line-height:1.3;direction:ltr;margin-bottom:4px;}
+.vc-arabic{font-size:11px;color:rgba(255,255,255,.8);font-weight:600;}
+.vc-tap{font-size:10px;color:rgba(255,255,255,.7);font-weight:700;margin-top:4px;}
+.vc-icon{position:absolute;bottom:12px;left:12px;z-index:1;font-size:38px;opacity:.95;filter:drop-shadow(0 4px 8px rgba(0,0,0,.2));}
+
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(15,23,42,.6);z-index:500;align-items:flex-end;justify-content:center;backdrop-filter:blur(6px);}
+.modal-overlay.active{display:flex;animation:mfade .25s ease;}
+@keyframes mfade{from{opacity:0}to{opacity:1}}
+.modal-card{background:#fff;border-radius:28px 28px 0 0;width:100%;max-width:520px;box-shadow:0 -8px 40px rgba(0,0,0,.18);animation:mslide .35s cubic-bezier(.34,1.56,.64,1);max-height:92vh;overflow-y:auto;}
+@keyframes mslide{from{transform:translateY(100%)}to{transform:translateY(0)}}
+
+.modal-header-card{background:linear-gradient(135deg,#7c3aed,#a855f7 60%,#c084fc);padding:28px 24px 20px;position:relative;overflow:hidden;border-radius:28px 28px 0 0;}
+.modal-header-circles{position:absolute;inset:0;pointer-events:none;}
+.modal-header-circles span{position:absolute;border-radius:50%;background:rgba(255,255,255,.1);}
+.modal-header-circles span:nth-child(1){width:160px;height:160px;right:-30px;top:-40px;}
+.modal-header-circles span:nth-child(2){width:110px;height:110px;right:20px;top:10px;}
+.modal-header-circles span:nth-child(3){width:70px;height:70px;right:50px;top:40px;}
+.modal-header-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;position:relative;z-index:1;}
+.modal-num-badge{background:rgba(255,255,255,.2);color:#fff;font-size:11px;font-weight:900;padding:4px 12px;border-radius:20px;letter-spacing:1px;direction:ltr;}
+.modal-close{width:34px;height:34px;background:rgba(255,255,255,.2);border:none;border-radius:50%;font-size:15px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#fff;transition:background .2s;}
+.modal-close:hover{background:rgba(255,255,255,.35);}
+.modal-icon-wrap{width:80px;height:80px;background:rgba(255,255,255,.15);border-radius:22px;display:flex;align-items:center;justify-content:center;margin-bottom:14px;backdrop-filter:blur(4px);border:1.5px solid rgba(255,255,255,.25);position:relative;z-index:1;}
+.modal-icon-emoji{font-size:46px;line-height:1;}
+.modal-word{font-size:22px;font-weight:900;color:#fff;margin-bottom:6px;direction:ltr;position:relative;z-index:1;}
+.modal-arabic-pill{display:inline-block;background:rgba(255,255,255,.2);color:#fff;font-size:13px;font-weight:700;padding:5px 16px;border-radius:20px;border:1px solid rgba(255,255,255,.3);position:relative;z-index:1;}
+.modal-body{padding:20px 20px 24px;}
+.modal-section{border-radius:16px;padding:16px;margin-bottom:14px;background:linear-gradient(135deg,#fdf4ff,#f5f0ff);}
+.modal-section-header{display:flex;align-items:center;gap:8px;margin-bottom:10px;}
+.modal-section-icon{width:32px;height:32px;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:16px;flex-shrink:0;background:linear-gradient(135deg,#7c3aed,#a855f7);}
+.modal-section-title{font-size:13px;font-weight:900;color:#1e1e2e;}
+.modal-section-sub{font-size:11px;color:#94a3b8;font-weight:600;}
+.modal-story{font-size:13.5px;line-height:1.85;color:#334155;direction:ltr;text-align:left;}
+.modal-story b{color:#7c3aed;background:#f0e8ff;padding:1px 5px;border-radius:4px;font-weight:900;}
+.modal-formula{background:linear-gradient(135deg,#1e1b4b,#312e81);color:#fbbf24;font-size:13px;font-weight:700;padding:12px 16px;border-radius:12px;text-align:center;direction:ltr;letter-spacing:.5px;margin-top:10px;}
+.modal-meaning-box{background:#fff;border:2px solid #e9d5ff;border-radius:12px;padding:12px 14px;margin-bottom:4px;text-align:right;}
+.modal-meaning-label{font-size:10px;font-weight:700;color:#a855f7;letter-spacing:1px;margin-bottom:4px;}
+.modal-meaning-text{font-size:15px;font-weight:700;color:#1e1e2e;line-height:1.6;}
+.modal-btn{width:100%;padding:14px;background:linear-gradient(135deg,#7c3aed,#a855f7);color:#fff;border:none;border-radius:14px;font-family:'Cairo',sans-serif;font-size:15px;font-weight:700;cursor:pointer;transition:transform .15s;}
+.modal-btn:hover{transform:translateY(-2px);}
+.modal-drag-handle{width:48px;height:5px;background:rgba(100,116,139,.25);border-radius:10px;margin:10px auto 0;}
+
+.info-field{margin-bottom:16px;}
+.info-label{display:block;font-size:13px;font-weight:700;color:var(--text);margin-bottom:7px;}
+.info-input,.info-select{width:100%;background:var(--bg);border:2px solid var(--border);border-radius:12px;padding:13px 16px;font-family:'Cairo',sans-serif;font-size:14px;color:var(--text);outline:none;transition:border-color .2s;direction:rtl;}
+.info-input:focus,.info-select:focus{border-color:var(--primary);box-shadow:0 0 0 3px var(--primary-light);}
+.info-select{cursor:pointer;}
+.info-error{font-size:12px;color:var(--red);margin-top:6px;font-weight:600;display:none;}
+.info-error.show{display:block;}
+
+.btn-primary{width:100%;background:linear-gradient(135deg,var(--primary-dark),var(--primary));color:#fff;border:none;border-radius:14px;padding:15px;font-family:'Cairo',sans-serif;font-size:15px;font-weight:700;cursor:pointer;transition:transform .2s;margin-top:10px;}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(124,58,237,.35);}
+.btn-primary:disabled{opacity:.5;cursor:not-allowed;}
+
+.audio-controls{background:var(--primary-light);border:2px solid var(--border);border-radius:16px;padding:20px;text-align:center;margin-bottom:20px;}
+.listening-tip{background:linear-gradient(135deg,#fef3c7,#fde68a);border:2px solid #f59e0b;border-radius:12px;padding:12px 16px;margin-bottom:14px;text-align:center;font-size:13px;color:#92400e;font-weight:700;line-height:1.6;}
+.listening-tip::before{content:'💡 ';font-size:16px;}
+.question-counter{background:rgba(124,58,237,.1);border:2px solid var(--primary);border-radius:10px;padding:8px 14px;margin-bottom:14px;font-size:12px;color:var(--primary-dark);font-weight:700;display:inline-block;}
+.play-btn{width:70px;height:70px;background:linear-gradient(135deg,var(--primary-dark),var(--primary));border:none;border-radius:50%;color:#fff;font-size:28px;cursor:pointer;margin:0 auto 12px;display:flex;align-items:center;justify-content:center;box-shadow:0 8px 24px rgba(124,58,237,.3);transition:transform .2s;}
+.play-btn:hover{transform:scale(1.05);}
+.play-btn:disabled{opacity:.5;}
+.audio-status{font-size:12px;color:var(--muted);font-weight:600;margin-bottom:8px;}
+.play-counter{font-size:11px;color:var(--primary);font-weight:700;}
+
+.tf-question{background:var(--bg);border:2px solid var(--border);border-radius:16px;padding:20px;margin-bottom:16px;}
+.tf-q-num{background:var(--primary);color:#fff;width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;margin-bottom:12px;}
+.tf-q-text{font-size:14px;font-weight:700;color:var(--text);margin-bottom:14px;direction:ltr;text-align:left;line-height:1.6;}
+.tf-options{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px;}
+.tf-option{background:#fff;border:3px solid var(--border);border-radius:12px;padding:14px;text-align:center;cursor:pointer;transition:all .2s;display:flex;align-items:center;justify-content:center;gap:8px;font-size:14px;font-weight:700;}
+.tf-option:hover{border-color:var(--primary-mid);transform:translateY(-2px);}
+.tf-option.correct{background:var(--green-bg);border-color:var(--green);color:#065f46;}
+.tf-option.wrong{background:var(--red-bg);border-color:var(--red);color:#991b1b;}
+.tf-option.disabled{opacity:.6;cursor:not-allowed;pointer-events:none;}
+.tf-feedback{display:none;padding:10px;border-radius:8px;font-size:12px;font-weight:700;text-align:center;}
+.tf-feedback.show{display:block;}
+.tf-feedback.correct{background:var(--green-bg);color:#065f46;}
+.tf-feedback.wrong{background:var(--red-bg);color:#991b1b;}
+
+.fill-instruction{background:var(--primary-light);border:2px solid var(--border);border-radius:12px;padding:14px;margin-bottom:16px;font-size:13px;color:var(--primary-dark);font-weight:700;text-align:center;}
+.fill-passage{background:var(--bg);border:2px solid var(--border);border-radius:14px;padding:18px;margin-bottom:16px;font-size:14px;line-height:2.2;color:var(--text);direction:ltr;text-align:left;}
+.blank{display:inline-block;min-width:120px;border-bottom:3px solid var(--primary);padding:2px 8px;margin:0 4px;font-weight:700;color:transparent;text-align:center;background:transparent;}
+.blank.filled{color:var(--text);border-color:var(--muted);background:#fff;}
+.blank.correct{color:var(--green);border-color:var(--green);background:var(--green-bg);}
+.blank.wrong{color:var(--red);border-color:var(--red);background:var(--red-bg);}
+.word-bank{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:20px;justify-content:center;}
+.word-chip{background:linear-gradient(135deg,var(--primary),var(--primary-mid));color:#fff;border:none;border-radius:20px;padding:12px 20px;font-family:'Cairo',sans-serif;font-size:14px;font-weight:700;cursor:pointer;transition:all .2s;}
+.word-chip:hover{transform:translateY(-2px);box-shadow:0 4px 12px rgba(124,58,237,.3);}
+.word-chip.used{opacity:.3;cursor:not-allowed;pointer-events:none;}
+
+.mcq-single{background:var(--bg);border:2px solid var(--border);border-radius:16px;padding:20px;margin-bottom:20px;}
+.mcq-q-num{background:var(--primary);color:#fff;width:36px;height:36px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:900;font-size:14px;margin-bottom:12px;}
+.mcq-q-text{font-size:14px;font-weight:700;color:var(--text);margin-bottom:16px;direction:ltr;text-align:left;line-height:1.6;}
+.mcq-options{display:grid;gap:10px;}
+.mcq-option{background:#fff;border:3px solid var(--border);border-radius:12px;padding:14px 16px;cursor:pointer;transition:all .2s;font-size:14px;font-weight:600;text-align:right;}
+.mcq-option:hover{border-color:var(--primary-mid);transform:translateY(-1px);}
+.mcq-option.correct{background:var(--green-bg);border-color:var(--green);color:#065f46;}
+.mcq-option.wrong{background:var(--red-bg);border-color:var(--red);color:#991b1b;}
+.mcq-option.disabled{opacity:.6;cursor:not-allowed;pointer-events:none;}
+.mcq-feedback{display:none;margin-top:12px;padding:10px;border-radius:8px;font-size:12px;font-weight:700;text-align:center;}
+.mcq-feedback.show{display:block;}
+.mcq-feedback.correct{background:var(--green-bg);color:#065f46;}
+.mcq-feedback.wrong{background:var(--red-bg);color:#991b1b;}
+
+.section-title{font-size:18px;font-weight:900;color:var(--primary-dark);margin-bottom:18px;display:flex;align-items:center;gap:10px;}
+
+.timer-bar{background:#fff;border-radius:12px;padding:12px 20px;margin-bottom:16px;display:flex;align-items:center;justify-content:center;gap:10px;box-shadow:0 2px 12px rgba(124,58,237,.15);}
+.timer-icon{font-size:18px;}
+.timer-text{font-size:16px;font-weight:900;color:var(--primary-dark);direction:ltr;}
+.timer-bar.warning{background:linear-gradient(135deg,#fef3c7,#fde68a);animation:pulse 1s infinite;}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.02)}}
+
+.result-hero{text-align:center;margin-bottom:24px;}
+.result-icon{font-size:64px;margin-bottom:12px;}
+.result-title{font-size:24px;font-weight:900;color:var(--primary-dark);margin-bottom:6px;}
+.result-sub{font-size:14px;color:var(--muted);margin-bottom:20px;}
+.score-ring-wrap{position:relative;width:180px;height:180px;margin:0 auto 24px;}
+.score-ring{width:100%;height:100%;transform:rotate(-90deg);}
+.score-bg{fill:none;stroke:var(--border);stroke-width:12;}
+.score-bar{fill:none;stroke:url(#scoreGradient);stroke-width:12;stroke-linecap:round;transition:stroke-dashoffset 1.5s cubic-bezier(.34,1.56,.64,1);}
+.score-text{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:42px;font-weight:900;color:var(--primary-dark);direction:ltr;}
+.score-stats{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:20px;}
+.stat-box{background:var(--bg);border:2px solid var(--border);border-radius:12px;padding:14px;text-align:center;}
+.stat-num{font-size:28px;font-weight:900;margin-bottom:4px;}
+.stat-num.correct{color:var(--green);}
+.stat-num.wrong{color:var(--red);}
+.stat-label{font-size:12px;color:var(--muted);font-weight:600;}
+.sent-badge{background:var(--green-bg);color:#065f46;padding:10px;border-radius:10px;font-size:13px;font-weight:700;text-align:center;margin-bottom:14px;}
+
+.lb-section{margin-top:24px;}
+.lb-title{font-size:16px;font-weight:900;color:var(--primary-dark);margin-bottom:14px;text-align:center;}
+.lb-grade-badge{background:var(--primary);color:#fff;padding:4px 12px;border-radius:20px;font-size:12px;font-weight:700;margin-right:6px;}
+.lb-item{background:#fff;border:2px solid var(--border);border-radius:12px;padding:12px 16px;margin-bottom:10px;display:flex;align-items:center;gap:12px;}
+.lb-item.rank-1{border-color:#f59e0b;background:linear-gradient(135deg,#fffbeb,#fef3c7);}
+.lb-item.rank-2{border-color:#94a3b8;background:linear-gradient(135deg,#f8fafc,#f1f5f9);}
+.lb-item.rank-3{border-color:#d97706;background:linear-gradient(135deg,#fef3c7,#fde68a);}
+.lb-item.rank-me{border-color:var(--primary);border-width:3px;background:var(--primary-light);}
+.lb-rank{width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0;}
+.lb-rank.r1{background:#f59e0b;}
+.lb-rank.r2{background:#94a3b8;}
+.lb-rank.r3{background:#d97706;}
+.lb-rank.rme{background:var(--primary);color:#fff;font-size:16px;font-weight:900;}
+.lb-name{flex:1;font-size:14px;font-weight:700;color:var(--text);}
+.lb-name span{font-size:11px;color:var(--primary);font-weight:600;margin-right:6px;}
+.lb-score{font-size:18px;font-weight:900;color:var(--primary-dark);direction:ltr;}
+.lb-score small{font-size:12px;color:var(--muted);font-weight:600;}
+.lb-loading,.lb-error{text-align:center;padding:20px;color:var(--muted);font-size:13px;font-weight:600;}
+
+.review-toggle{background:var(--bg);border:2px solid var(--border);border-radius:12px;padding:14px;text-align:center;font-size:14px;font-weight:700;color:var(--primary);cursor:pointer;margin-bottom:14px;transition:all .2s;}
+.review-toggle:hover{border-color:var(--primary);background:var(--primary-light);}
+.review-list{display:none;margin-bottom:20px;}
+.review-item{background:#fff;border:2px solid var(--border);border-radius:12px;padding:14px;margin-bottom:10px;}
+.review-icon{font-size:20px;margin-bottom:8px;}
+.review-q{font-size:13px;font-weight:700;color:var(--text);margin-bottom:6px;direction:ltr;text-align:left;}
+.review-a{font-size:12px;color:var(--muted);direction:ltr;text-align:left;}
+.review-a .ok{color:var(--green);font-weight:700;}
+.review-a .err{color:var(--red);font-weight:700;}
+
+.sending-overlay{display:none;position:fixed;inset:0;background:rgba(15,23,42,.8);z-index:1000;align-items:center;justify-content:center;}
+.sending-overlay.active{display:flex;}
+.sending-spinner{width:50px;height:50px;border:4px solid rgba(255,255,255,.2);border-top-color:#fff;border-radius:50%;animation:spin 1s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+
+<div class="app-header">
+  <div class="header-logo">
+    <img src="https://i.imgur.com/8yZq3Qm.png" alt="Logo">
+  </div>
+  <div class="header-info">
+    <div class="header-name">مستر صلاح هواري</div>
+    <div class="header-sub">English Teacher • Grade 6</div>
+  </div>
+  <div class="header-badge">G6 • U4 • L2</div>
+</div>
+
+<div class="screen active" id="screen-vocab">
+  <div class="page-wrap">
+    <div class="card">
+      <div class="start-hero">
+        <div class="start-icon">🏭</div>
+        <div class="start-title">Building Egypt's Modern Economy</div>
+        <div class="start-sub">Unit 4 • Lesson 2 • الصف السادس الابتدائي</div>
+      </div>
+      
+      <div class="notes-header">
+        <div class="nh-icon">📚</div>
+        <div>
+          <h3>ملاحظات المذاكرة</h3>
+          <p>اضغط على أي كلمة لفتح التفاصيل</p>
+        </div>
+      </div>
+      
+      <div class="vocab-grid" id="vocab-grid"></div>
+      
+      <button class="btn-primary" onclick="goToGrammar()">التالي - القاعدة النحوية ➡️</button>
+    </div>
+  </div>
+</div>
+
+<div class="screen" id="screen-grammar">
+  <div class="page-wrap">
+    <div class="card">
+      <div class="start-hero">
+        <div class="start-icon">⏰</div>
+        <div class="start-title">Used to / didn't use to</div>
+        <div class="start-sub">للتعبير عن عادات الماضي التي لم تعد موجودة الآن</div>
+      </div>
+      
+      <div class="notes-header" style="background:linear-gradient(135deg,#dc2626,#f87171);">
+        <div class="nh-icon">⚡</div>
+        <div>
+          <h3>متى نستخدم used to؟</h3>
+          <p>للحديث عن عادات كانت موجودة في الماضي ولكن توقفت الآن</p>
+        </div>
+      </div>
+      
+      <!-- Positive Form -->
+      <div style="background:#dcfce7;border:2px solid #4ade80;border-radius:16px;padding:20px;margin-bottom:20px;">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+          <div style="width:46px;height:46px;background:linear-gradient(135deg,#16a34a,#4ade80);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;color:#fff;font-weight:900;">✓</div>
+          <div>
+            <div style="font-size:17px;font-weight:900;color:#166534;">Positive Form (الإثبات)</div>
+            <div style="font-size:12px;color:#15803d;font-weight:600;">للتعبير عن شيء كنا نفعله في الماضي</div>
+          </div>
+        </div>
+        
+        <div style="background:#fff;border-radius:12px;padding:16px;margin-bottom:14px;">
+          <div style="font-size:13px;font-weight:700;color:#166534;margin-bottom:8px;">📌 التركيب:</div>
+          <div style="font-size:14px;line-height:1.8;color:#334155;direction:ltr;text-align:left;">
+            <b style="background:#dcfce7;padding:4px 10px;border-radius:6px;color:#166534;">Subject + used to + base verb</b>
+          </div>
+        </div>
+        
+        <div style="background:#fff;border-radius:12px;padding:16px;margin-bottom:14px;">
+          <div style="font-size:13px;font-weight:700;color:#166534;margin-bottom:10px;">💡 أمثلة:</div>
+          <div style="font-size:13px;line-height:2.2;color:#334155;direction:ltr;text-align:left;">
+            • People <b style="color:#16a34a;">used to depend</b> on farming in the past.<br>
+            <span style="font-size:11px;color:#64748b;">(الناس كانوا يعتمدون على الزراعة في الماضي)</span><br><br>
+            • Egypt <b style="color:#16a34a;">used to get</b> many products from other countries.<br>
+            <span style="font-size:11px;color:#64748b;">(مصر كانت تحصل على منتجات كثيرة من دول أخرى)</span><br><br>
+            • Transportation <b style="color:#16a34a;">used to be</b> slow.<br>
+            <span style="font-size:11px;color:#64748b;">(المواصلات كانت بطيئة)</span>
+          </div>
+        </div>
+        
+        <div style="background:#f0fdf4;border:2px dashed #4ade80;border-radius:10px;padding:12px;text-align:center;">
+          <div style="font-size:12px;font-weight:700;color:#166534;">🎯 المعنى:</div>
+          <div style="font-size:13px;color:#15803d;margin-top:4px;">كنا نفعل هذا في الماضي، لكن <b>الآن توقفنا</b></div>
+        </div>
+      </div>
+      
+      <!-- Negative Form -->
+      <div style="background:#fee2e2;border:2px solid #f87171;border-radius:16px;padding:20px;margin-bottom:20px;">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+          <div style="width:46px;height:46px;background:linear-gradient(135deg,#dc2626,#f87171);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;color:#fff;font-weight:900;">✗</div>
+          <div>
+            <div style="font-size:17px;font-weight:900;color:#991b1b;">Negative Form (النفي)</div>
+            <div style="font-size:12px;color:#dc2626;font-weight:600;">للتعبير عن شيء لم نكن نفعله في الماضي</div>
+          </div>
+        </div>
+        
+        <div style="background:#fff;border-radius:12px;padding:16px;margin-bottom:14px;">
+          <div style="font-size:13px;font-weight:700;color:#991b1b;margin-bottom:8px;">📌 التركيب:</div>
+          <div style="font-size:14px;line-height:1.8;color:#334155;direction:ltr;text-align:left;">
+            <b style="background:#fee2e2;padding:4px 10px;border-radius:6px;color:#991b1b;">Subject + didn't use to + base verb</b>
+          </div>
+        </div>
+        
+        <div style="background:#fff;border-radius:12px;padding:16px;margin-bottom:14px;">
+          <div style="font-size:13px;font-weight:700;color:#991b1b;margin-bottom:10px;">💡 أمثلة:</div>
+          <div style="font-size:13px;line-height:2.2;color:#334155;direction:ltr;text-align:left;">
+            • Villages <b style="color:#dc2626;">didn't use to have</b> factories.<br>
+            <span style="font-size:11px;color:#64748b;">(القرى لم تكن تمتلك مصانع)</span><br><br>
+            • Egypt <b style="color:#dc2626;">didn't use to produce</b> steel.<br>
+            <span style="font-size:11px;color:#64748b;">(مصر لم تكن تنتج الحديد)</span><br><br>
+            • People <b style="color:#dc2626;">didn't use to travel</b> fast.<br>
+            <span style="font-size:11px;color:#64748b;">(الناس لم يكونوا يسافرون بسرعة)</span>
+          </div>
+        </div>
+        
+        <div style="background:#fef2f2;border:2px dashed #f87171;border-radius:10px;padding:12px;text-align:center;">
+          <div style="font-size:12px;font-weight:700;color:#991b1b;">⚠️ ملاحظة مهمة:</div>
+          <div style="font-size:13px;color:#dc2626;margin-top:4px;">استخدم <b>didn't use to</b> (وليس <strike>usedn't to</strike>)</div>
+        </div>
+      </div>
+      
+      <!-- Question Form -->
+      <div style="background:#dbeafe;border:2px solid #60a5fa;border-radius:16px;padding:20px;margin-bottom:20px;">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:14px;">
+          <div style="width:46px;height:46px;background:linear-gradient(135deg,#2563eb,#60a5fa);border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px;color:#fff;font-weight:900;">?</div>
+          <div>
+            <div style="font-size:17px;font-weight:900;color:#1e3a8a;">Question Form (السؤال)</div>
+            <div style="font-size:12px;color:#2563eb;font-weight:600;">للسؤال عن عادات الماضي</div>
+          </div>
+        </div>
+        
+        <div style="background:#fff;border-radius:12px;padding:16px;margin-bottom:14px;">
+          <div style="font-size:13px;font-weight:700;color:#1e3a8a;margin-bottom:8px;">📌 التركيب:</div>
+          <div style="font-size:14px;line-height:1.8;color:#334155;direction:ltr;text-align:left;">
+            <b style="background:#dbeafe;padding:4px 10px;border-radius:6px;color:#1e3a8a;">Did + subject + use to + base verb...?</b>
+          </div>
+        </div>
+        
+        <div style="background:#fff;border-radius:12px;padding:16px;margin-bottom:14px;">
+          <div style="font-size:13px;font-weight:700;color:#1e3a8a;margin-bottom:10px;">💡 أمثلة:</div>
+          <div style="font-size:13px;line-height:2.2;color:#334155;direction:ltr;text-align:left;">
+            • <b style="color:#2563eb;">Did</b> people <b style="color:#2563eb;">use to work</b> in factories?<br>
+            <span style="font-size:11px;color:#64748b;">(هل كان الناس يعملون في المصانع؟)</span><br><br>
+            • <b style="color:#2563eb;">Did</b> Egypt <b style="color:#2563eb;">use to import</b> goods?<br>
+            <span style="font-size:11px;color:#64748b;">(هل كانت مصر تستورد البضائع؟)</span>
+          </div>
+        </div>
+        
+        <div style="background:#eff6ff;border-radius:10px;padding:12px;">
+          <div style="font-size:12px;font-weight:700;color:#1e3a8a;margin-bottom:6px;">📝 الإجابات:</div>
+          <div style="font-size:13px;color:#334155;line-height:1.8;direction:ltr;text-align:left;">
+            ✓ <b style="color:#16a34a;">Yes, they did.</b><br>
+            ✗ <b style="color:#dc2626;">No, they didn't.</b>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Timeline Comparison -->
+      <div style="background:#fef3c7;border:2px solid #fbbf24;border-radius:16px;padding:20px;margin-bottom:20px;">
+        <div style="text-align:center;margin-bottom:14px;">
+          <div style="font-size:18px;font-weight:900;color:#92400e;margin-bottom:6px;">⏰ خط الزمن</div>
+          <div style="font-size:12px;color:#b45309;font-weight:600;">الفرق بين الماضي والحاضر</div>
+        </div>
+        
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;">
+          <div style="background:#fff;border-radius:12px;padding:14px;">
+            <div style="font-size:14px;font-weight:900;color:#92400e;margin-bottom:8px;text-align:center;">📜 الماضي (Past)</div>
+            <div style="font-size:12px;line-height:1.8;color:#334155;direction:ltr;text-align:left;">
+              • People <b>used to depend</b> on farming<br>
+              • Roads <b>used to be</b> narrow<br>
+              • Egypt <b>used to import</b> products
+            </div>
+          </div>
+          
+          <div style="background:#fff;border-radius:12px;padding:14px;">
+            <div style="font-size:14px;font-weight:900;color:#92400e;margin-bottom:8px;text-align:center;">🎯 الحاضر (Now)</div>
+            <div style="font-size:12px;line-height:1.8;color:#334155;direction:ltr;text-align:left;">
+              • People work in <b>factories</b><br>
+              • Roads are <b>wide and modern</b><br>
+              • Egypt <b>produces</b> its own goods
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Final Summary -->
+      <div style="background:linear-gradient(135deg,#7c3aed,#a855f7);border-radius:16px;padding:20px;color:#fff;text-align:center;margin-bottom:20px;">
+        <div style="font-size:18px;font-weight:900;margin-bottom:12px;">✨ الخلاصة</div>
+        <div style="font-size:14px;line-height:2;opacity:.95;font-weight:600;">
+          استخدم <b>used to</b> للحديث عن<br>
+          <b>عادات الماضي التي توقفت الآن</b><br><br>
+          <span style="font-size:12px;opacity:.8;">
+          Positive: used to + verb<br>
+          Negative: didn't use to + verb<br>
+          Question: Did...use to + verb?
+          </span>
+        </div>
+      </div>
+      
+      <button class="btn-primary" onclick="goToRegistration()">فهمت القاعدة - التالي ➡️</button>
+    </div>
+  </div>
+</div>
+
+<div class="screen" id="screen-registration">
+  <div class="page-wrap">
+    <div class="card">
+      <div class="start-hero">
+        <div class="start-icon">📝</div>
+        <div class="start-title">سجل بياناتك</div>
+        <div class="start-sub">للبدء في الامتحان</div>
+      </div>
+      
+      <div class="info-field">
+        <label class="info-label">الاسم الثلاثي 👤</label>
+        <input type="text" id="student-name" class="info-input" placeholder="مثال: أحمد محمد علي">
+        <div class="info-error" id="name-error">⚠️ اكتب اسمك الثلاثي</div>
+      </div>
+      <div class="info-field">
+        <label class="info-label">الصف 🎒</label>
+        <select id="student-grade" class="info-select">
+          <option value="">اختر صفك</option>
+          <option value="الصف السادس الابتدائي">الصف السادس الابتدائي</option>
+        </select>
+        <div class="info-error" id="grade-error">⚠️ اختر صفك</div>
+      </div>
+      <button class="btn-primary" onclick="startQuiz()">ابدأ الامتحان 🚀</button>
+    </div>
+  </div>
+</div>
+
+<div class="screen" id="screen-listening">
+  <div class="page-wrap">
+    <div class="timer-bar" id="timer-bar">
+      <span class="timer-icon">⏱️</span>
+      <span class="timer-text" id="timer-text">8:00</span>
+    </div>
+    <div class="card">
+      <div class="section-title">🎧 Listening</div>
+      <div class="listening-tip">اقرأ الأسئلة أولاً قبل الاستماع ثم استمع جيداً</div>
+      <div style="text-align:center;margin-bottom:14px;">
+        <span class="question-counter" id="listening-counter">السؤال 0 من 0</span>
+      </div>
+      <div class="audio-controls">
+        <button class="play-btn" id="play-btn" onclick="playAudio()">▶️</button>
+        <div class="audio-status" id="audio-status">اضغط للاستماع</div>
+        <div class="play-counter" id="play-counter">3 مرات متاحة</div>
+      </div>
+      <div id="listening-questions"></div>
+      <button class="btn-primary" id="listening-next-btn" onclick="goToFill()" style="display:none;">
+        التالي ➡️
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="screen" id="screen-fill">
+  <div class="page-wrap">
+    <div class="timer-bar" id="timer-bar-fill">
+      <span class="timer-icon">⏱️</span>
+      <span class="timer-text" id="timer-text-fill">8:00</span>
+    </div>
+    <div class="card">
+      <div class="section-title">📝 Fill in the Blanks</div>
+      <div class="fill-instruction">اسحب الكلمات لملء الفراغات</div>
+      <div class="word-bank" id="word-bank"></div>
+      <div id="fill-container"></div>
+      <button class="btn-primary" id="fill-check-btn" onclick="checkFillBlanks()" style="display:none;">
+        تحقق من الإجابات ✓
+      </button>
+      <button class="btn-primary" id="fill-next-btn" onclick="goToMCQ()" style="display:none;">
+        التالي ➡️
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="screen" id="screen-mcq">
+  <div class="page-wrap">
+    <div class="timer-bar" id="timer-bar-mcq">
+      <span class="timer-icon">⏱️</span>
+      <span class="timer-text" id="timer-text-mcq">8:00</span>
+    </div>
+    <div class="card">
+      <div class="section-title">✅ Multiple Choice</div>
+      <div id="mcq-container"></div>
+    </div>
+  </div>
+</div>
+
+<div class="screen" id="screen-result">
+  <div class="page-wrap">
+    <div class="card">
+      <div class="result-hero">
+        <div class="result-icon" id="result-icon">🎉</div>
+        <div class="result-title" id="result-title">ممتاز!</div>
+        <div class="result-sub" id="result-sub">أداء رائع!</div>
+      </div>
+      
+      <div class="score-ring-wrap">
+        <svg class="score-ring" viewBox="0 0 120 120">
+          <defs>
+            <linearGradient id="scoreGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" style="stop-color:#7c3aed"/>
+              <stop offset="100%" style="stop-color:#a855f7"/>
+            </linearGradient>
+          </defs>
+          <circle class="score-bg" cx="60" cy="60" r="54"/>
+          <circle class="score-bar" id="score-bar" cx="60" cy="60" r="54"/>
+        </svg>
+        <div class="score-text" id="score-value">0%</div>
+      </div>
+      
+      <div class="score-stats">
+        <div class="stat-box">
+          <div class="stat-num correct" id="stat-correct">0</div>
+          <div class="stat-label">إجابات صحيحة</div>
+        </div>
+        <div class="stat-box">
+          <div class="stat-num wrong" id="stat-wrong">0</div>
+          <div class="stat-label">إجابات خاطئة</div>
+        </div>
+      </div>
+      
+      <div id="result-sent-badge-wrap"></div>
+      
+      <div class="review-toggle" onclick="toggleReview()">
+        📋 مراجعة الإجابات
+      </div>
+      <div class="review-list" id="review-list"></div>
+      
+      <div class="lb-section">
+        <div class="lb-title">
+          🏆 لوحة الشرف
+          <span class="lb-grade-badge" id="lb-grade-label">الصف الخامس الابتدائي</span>
+        </div>
+        <div id="leaderboard-body" class="lb-loading">جاري التحميل...</div>
+      </div>
+      
+      <button class="btn-primary" onclick="restartQuiz()">
+        🔄 إعادة المحاولة
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="vocab-modal">
+  <div class="modal-card">
+    <div class="modal-header-card">
+      <div class="modal-header-circles">
+        <span></span><span></span><span></span>
+      </div>
+      <div class="modal-header-top">
+        <div class="modal-num-badge" id="modal-num">WORD 01</div>
+        <button class="modal-close" onclick="closeModal()">✕</button>
+      </div>
+      <div class="modal-icon-wrap">
+        <div class="modal-icon-emoji" id="modal-icon">🐄</div>
+      </div>
+      <div class="modal-word" id="modal-word">cows</div>
+      <div class="modal-arabic-pill" id="modal-arabic">أبقار</div>
+    </div>
+    <div class="modal-body">
+      <div class="modal-section">
+        <div class="modal-section-header">
+          <div class="modal-section-icon">📖</div>
+          <div>
+            <div class="modal-section-title">المعنى بالعربي</div>
+            <div class="modal-section-sub">Arabic Meaning</div>
+          </div>
+        </div>
+        <div class="modal-meaning-box">
+          <div class="modal-meaning-label">المعنى</div>
+          <div class="modal-meaning-text" id="modal-meaning">أبقار</div>
+        </div>
+      </div>
+      
+      <div class="modal-section">
+        <div class="modal-section-header">
+          <div class="modal-section-icon">📝</div>
+          <div>
+            <div class="modal-section-title">قصة تساعدك تفتكر</div>
+            <div class="modal-section-sub">Memory Story</div>
+          </div>
+        </div>
+        <div class="modal-story" id="modal-story">
+          Story here
+        </div>
+      </div>
+      
+      <div class="modal-section">
+        <div class="modal-section-header">
+          <div class="modal-section-icon">⚡</div>
+          <div>
+            <div class="modal-section-title">الصيغة النحوية</div>
+            <div class="modal-section-sub">Grammar Formula</div>
+          </div>
+        </div>
+        <div class="modal-formula" id="modal-formula">
+          Formula here
+        </div>
+      </div>
+      
+      <button class="modal-btn" onclick="closeModal()">فهمت! 👍</button>
+      <div class="modal-drag-handle"></div>
+    </div>
+  </div>
+</div>
+
+<div class="sending-overlay" id="sending-overlay">
+  <div class="sending-spinner"></div>
+</div>
+
+<script>
+const QUIZ_NAME='Grade 6 - Unit 4 - Lesson 2 - Building Egypt\'s Modern Economy';
+const SHEET_URL='https://script.google.com/macros/s/AKfycbwc3LYoTUwCDUAy0RHXJhk_rOcJACjLRqGWML6yT5dPVtlKJnvApqBiR1-f7NgjTJsc/exec';
+const TOTAL_Q=16;
+
+const vocabData=[
+  {word:'textile',arabic:'نسيج / صناعة الأقمشة',icon:'👕',story:'The <b>textile</b> industry produces high-quality clothes and fabrics. In cities like Mahalla, they make beautiful cotton clothes! Think "textile" = "text" (woven) + "ile" = woven fabric!',formula:'textile = fabric/cloth industry',color:'vc-purple'},
+  {word:'manufacture',arabic:'يُصنّع / تصنيع',icon:'🏭',story:'To <b>manufacture</b> means to produce goods using machines. The food industry <b>manufactures</b> pasta, juice, and snacks. Think "manu" (hand) + "facture" (make) = make by hand or machine!',formula:'manufacture = produce with machines',color:'vc-blue'},
+  {word:'steel industry',arabic:'صناعة الحديد والصلب',icon:'🏗️',story:'Egypt has developed a strong <b>steel industry</b> to build new roads and bridges. Steel is very strong metal! Think of buildings and bridges made of steel!',formula:'steel industry = making strong metal',color:'vc-pink'},
+  {word:'industrial',arabic:'صناعي',icon:'⚙️',story:'<b>Industrial</b> means related to factories and manufacturing. Egypt is becoming one of the strongest <b>industrial</b> countries. Think "industry" + "al" = related to industry!',formula:'industrial = related to factories',color:'vc-green'},
+  {word:'self-reliant',arabic:'معتمد على نفسه / مكتفٍ ذاتياً',icon:'💪',story:'<b>Self-reliant</b> means depending on yourself. These changes have made Egypt more modern and more <b>self-reliant</b>! Think "self" (نفس) + "reliant" (معتمد) = depending on yourself!',formula:'self-reliant = independent',color:'vc-orange'},
+  {word:'power source',arabic:'مصدر الطاقة',icon:'⚡',story:'A <b>power source</b> gives us energy. Natural gas, solar energy, and wind energy are types of <b>power sources</b>! Think: where does electricity come from?',formula:'power source = energy origin',color:'vc-teal'},
+  {word:'farming',arabic:'الزراعة',icon:'🌾',story:'<b>Farming</b> means growing crops and raising animals. In the past, life depended on <b>farming</b> and small local jobs. Think "farm" + "ing" = the activity of farming!',formula:'farming = agriculture/growing crops',color:'vc-indigo'},
+  {word:'products',arabic:'منتجات',icon:'📦',story:'<b>Products</b> are things that are made or grown to be sold. The textile industry produces high-quality clothes and fabrics as <b>products</b>. Think of things in stores!',formula:'products = things made to sell',color:'vc-rose'},
+  {word:'teamwork',arabic:'العمل الجماعي',icon:'🤝',story:'<b>Teamwork</b> means working together as a team. Egypt\'s industries show innovation, hard work, and <b>teamwork</b>! Think "team" + "work" = working together!',formula:'teamwork = working together',color:'vc-amber'},
+  {word:'advanced',arabic:'متقدم',icon:'🚀',story:'<b>Advanced</b> means very modern and developed. Egypt uses <b>advanced</b> technology in factories. Think: the opposite of "basic" or "simple"!',formula:'advanced = very modern/developed',color:'vc-violet'}
+];
+
+const listeningText=`Egypt is becoming one of the strongest industrial countries in Africa and the Middle East. In the past, life was very different. People used to depend mainly on farming and small local jobs, and most villages didn't use to have factories or machines. We used to get many products from other countries. Transportation used to be slow, and there were fewer jobs in cities. Today, Egypt has changed greatly. The textile industry in cities like Mahalla produces high-quality clothes and fabrics. These products are sold in Egypt and other countries. The food industry now manufactures many Egyptian products such as pasta, juice, and snacks. Egypt has also developed a strong steel industry, which helps build new roads, bridges, and houses. New power sources such as natural gas, solar energy, and wind energy are being used to create clean power for homes and factories. These changes have made Egypt more modern and more self-reliant! As the country builds new factories, more Egyptians find work and contribute to a growing economy. People today are proud of their country and how it is developing every day. Egypt's industries show how a nation can grow stronger when it believes in innovation, hard work, and teamwork. The factories that once didn't exist now light up the future for millions.`;
+
+const listeningQuestions=[
+  {q:'In the past, people used to depend mainly on farming.',correct:true},
+  {q:'Villages used to have many factories in the past.',correct:false},
+  {q:'The textile industry produces high-quality clothes and fabrics.',correct:true},
+  {q:'Egypt still gets all its products from other countries.',correct:false}
+];
+
+const fillBlanks=[
+  {
+    passage:'The [textile] industry produces high-quality clothes and fabrics.',
+    blank:'textile'
+  },
+  {
+    passage:'Egypt has developed a strong [steel industry] to build roads and bridges.',
+    blank:'steel industry'
+  },
+  {
+    passage:'In the past, people used to depend on [farming].',
+    blank:'farming'
+  },
+  {
+    passage:'Natural gas, solar energy, and wind energy are types of [power source].',
+    blank:'power source'
+  }
+];
+
+const fillWordBank=['textile','steel industry','farming','power source','products'];
+
+const mcqQuestions=[
+  {q:'What does "manufacture" mean?',opts:['To farm','To produce goods using machines','To sell','To destroy'],correct:1},
+  {q:'What industry produces clothes and fabrics?',opts:['Steel industry','Food industry','Textile industry','Tourism'],correct:2},
+  {q:'In the past, life in Egypt depended on:',opts:['Big factories','Farming and small jobs','Modern technology','Imports only'],correct:1},
+  {q:'What makes Egypt more self-reliant?',opts:['Buying everything from abroad','Building factories and producing goods','Stopping all work','Old methods'],correct:1},
+  {q:'Egypt\'s industries show:',opts:['Weakness','Innovation, hard work, and teamwork','Laziness','Old thinking'],correct:1},
+  {q:'Which is an example of a power source?',opts:['Cotton','Solar energy','Clothes','Roads'],correct:1},
+  {q:'The food industry manufactures:',opts:['Bridges','Pasta, juice, and snacks','Cars','Houses'],correct:1},
+  {q:'What did factories that didn\'t exist before do?',opts:['Close quickly','Light up the future for millions','Create problems','Stay empty'],correct:1}
+];
+
+let studentName='',studentGrade='';
+let timeLeft=480,timerInterval,score=0,answers=[],playCount=0,tfAnswered=0;
+let selectedWord=null,currentBlankIdx=null,fillAnswers=[],wordChipMap={};
+let currentMCQIndex=0;
+
+function showScreen(screenId){
+  document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));
+  document.getElementById(screenId).classList.add('active');
+}
+
+function goToGrammar(){
+  showScreen('screen-grammar');
+}
+
+function goToRegistration(){
+  showScreen('screen-registration');
+}
+
+function renderVocab(){
+  const html=vocabData.map((v,i)=>`
+    <div class="vocab-card ${v.color}" onclick="openModal(${i})">
+      <div class="vc-circles"><span></span><span></span><span></span></div>
+      <div class="vc-icon">${v.icon}</div>
+      <div class="vc-top">
+        <div class="vc-num">WORD ${String(i+1).padStart(2,'0')}</div>
+        <div class="vc-word">${v.word}</div>
+        <div class="vc-arabic">${v.arabic}</div>
+        <div class="vc-tap">اضغط للتفاصيل ✨</div>
+      </div>
+    </div>
+  `).join('');
+  document.getElementById('vocab-grid').innerHTML=html;
+}
+
+function openModal(idx){
+  const v=vocabData[idx];
+  document.getElementById('modal-num').textContent='WORD '+String(idx+1).padStart(2,'0');
+  document.getElementById('modal-icon').textContent=v.icon;
+  document.getElementById('modal-word').textContent=v.word;
+  document.getElementById('modal-arabic').textContent=v.arabic;
+  document.getElementById('modal-meaning').textContent=v.arabic;
+  document.getElementById('modal-story').innerHTML=v.story;
+  document.getElementById('modal-formula').textContent=v.formula;
+  document.getElementById('vocab-modal').classList.add('active');
+}
+
+function closeModal(){
+  document.getElementById('vocab-modal').classList.remove('active');
+}
+
+function startQuiz(){
+  const name=document.getElementById('student-name').value.trim();
+  const grade=document.getElementById('student-grade').value;
+  
+  const nameWords=name.split(/\s+/).filter(w=>w.length>0);
+  
+  if(nameWords.length<3){
+    document.getElementById('name-error').classList.add('show');
+    return;
+  }else{
+    document.getElementById('name-error').classList.remove('show');
+  }
+  
+  if(!grade){
+    document.getElementById('grade-error').classList.add('show');
+    return;
+  }else{
+    document.getElementById('grade-error').classList.remove('show');
+  }
+  
+  studentName=name;
+  studentGrade=grade;
+  
+  showScreen('screen-listening');
+  renderListening();
+  startTimer();
+}
+
+function startTimer(){
+  timerInterval=setInterval(()=>{
+    timeLeft--;
+    updateTimerDisplay();
+    if(timeLeft<=0){
+      clearInterval(timerInterval);
+      showResults(true);
+    }
+  },1000);
+}
+
+function updateTimerDisplay(){
+  const m=Math.floor(timeLeft/60);
+  const s=timeLeft%60;
+  const display=m+':'+(s<10?'0':'')+s;
+  
+  ['timer-text','timer-text-fill','timer-text-mcq'].forEach(id=>{
+    const el=document.getElementById(id);
+    if(el)el.textContent=display;
+  });
+  
+  if(timeLeft<=60){
+    ['timer-bar','timer-bar-fill','timer-bar-mcq'].forEach(id=>{
+      const el=document.getElementById(id);
+      if(el)el.classList.add('warning');
+    });
+  }
+}
+
+function playAudio(){
+  if(playCount>=3)return;
+  
+  playCount++;
+  document.getElementById('play-counter').textContent=(3-playCount)+' مرات متاحة';
+  document.getElementById('audio-status').textContent='جاري التشغيل...';
+  document.getElementById('play-btn').textContent='🔊';
+  
+  if('speechSynthesis' in window){
+    window.speechSynthesis.cancel();
+    const utterance=new SpeechSynthesisUtterance(listeningText);
+    utterance.lang='en-US';
+    utterance.rate=0.7;
+    utterance.pitch=1;
+    
+    utterance.onend=()=>{
+      document.getElementById('audio-status').textContent='انتهى';
+      document.getElementById('play-btn').textContent=playCount>=3?'❌':'🔁';
+    };
+    
+    window.speechSynthesis.speak(utterance);
+  }
+}
+
+function renderListening(){
+  const totalQuestions = listeningQuestions.length;
+  document.getElementById('listening-counter').textContent = `السؤال 0 من ${totalQuestions}`;
+  
+  document.getElementById('listening-questions').innerHTML=listeningQuestions.map((q,i)=>`
+    <div class="tf-question" id="tf-${i}">
+      <div class="tf-q-num">${i+1}</div>
+      <div class="tf-q-text">${q.q}</div>
+      <div class="tf-options">
+        <div class="tf-option" onclick="answerTF(${i},true)">
+          <span style="font-size:18px;">✅</span> True
+        </div>
+        <div class="tf-option" onclick="answerTF(${i},false)">
+          <span style="font-size:18px;">❌</span> False
+        </div>
+      </div>
+      <div class="tf-feedback" id="tf-fb-${i}"></div>
+    </div>
+  `).join('');
+}
+
+function answerTF(idx,answer){
+  const q=listeningQuestions[idx];
+  const isCorrect=answer===q.correct;
+  
+  if(isCorrect)score++;
+  
+  answers.push({
+    question:q.q,
+    chosen:answer?'True':'False',
+    correct:q.correct?'True':'False',
+    isCorrect
+  });
+  
+  const fb=document.getElementById(`tf-fb-${idx}`);
+  fb.className='tf-feedback show '+(isCorrect?'correct':'wrong');
+  fb.textContent=isCorrect?'✅ صحيح!':'❌ خطأ - الصحيح: '+(q.correct?'True':'False');
+  
+  document.querySelectorAll(`#tf-${idx} .tf-option`).forEach(opt=>opt.classList.add('disabled'));
+  
+  tfAnswered++;
+  
+  document.getElementById('listening-counter').textContent = `السؤال ${tfAnswered} من ${listeningQuestions.length}`;
+  
+  if(tfAnswered>=listeningQuestions.length){
+    document.getElementById('listening-next-btn').style.display='block';
+  }
+}
+
+function goToFill(){
+  showScreen('screen-fill');
+  renderFillBlanks();
+}
+
+function renderFillBlanks(){
+  let html='';
+  fillBlanks.forEach((item,i)=>{
+    fillAnswers.push({idx:i,blank:item.blank,answer:null});
+    const passageDisplay=item.passage.replace(/\[([^\]]+)\]/,`<span class="blank" id="blank-${i}" onclick="selectBlank(${i})">_____</span>`);
+    
+    html+=`<div class="fill-passage" id="fill-passage-${i}">${passageDisplay}</div>`;
+  });
+  
+  document.getElementById('fill-container').innerHTML=html;
+  
+  const shuffledWords = [...fillWordBank].sort(()=>Math.random()-0.5);
+  document.getElementById('word-bank').innerHTML=shuffledWords.map((w,i)=>`
+    <button class="word-chip" id="word-${i}" onclick="selectWord('${w}',${i})">${w}</button>
+  `).join('');
+}
+
+function selectWord(word,chipIdx){
+  if(currentBlankIdx===null)return;
+  
+  const blankEl=document.getElementById('blank-'+currentBlankIdx);
+  
+  const oldAnswer = fillAnswers[currentBlankIdx].answer;
+  if(oldAnswer && wordChipMap[currentBlankIdx]!==undefined){
+    const oldChipIdx = wordChipMap[currentBlankIdx];
+    const oldChip = document.getElementById('word-'+oldChipIdx);
+    if(oldChip){
+      oldChip.classList.remove('used');
+    }
+  }
+  
+  blankEl.textContent=word;
+  blankEl.classList.add('filled');
+  
+  fillAnswers[currentBlankIdx].answer=word;
+  wordChipMap[currentBlankIdx]=chipIdx;
+  
+  document.getElementById('word-'+chipIdx).classList.add('used');
+  
+  currentBlankIdx=null;
+  
+  if(fillAnswers.every(f=>f.answer)){
+    document.getElementById('fill-check-btn').style.display='block';
+  }
+}
+
+function selectBlank(idx){
+  document.querySelectorAll('.blank').forEach(b=>b.style.borderColor='var(--primary)');
+  const blankEl=document.getElementById('blank-'+idx);
+  blankEl.style.borderColor='#f59e0b';
+  currentBlankIdx=idx;
+}
+
+function checkFillBlanks(){
+  fillAnswers.forEach(f=>{
+    const blankEl=document.getElementById('blank-'+f.idx);
+    const isCorrect=f.answer===f.blank;
+    
+    if(isCorrect){
+      score++;
+      blankEl.classList.add('correct');
+    }else{
+      blankEl.classList.add('wrong');
+    }
+    
+    answers.push({
+      question:'Fill blank '+(f.idx+1),
+      chosen:f.answer||'(empty)',
+      correct:f.blank,
+      isCorrect
+    });
+  });
+  
+  document.getElementById('fill-check-btn').style.display='none';
+  document.getElementById('fill-next-btn').style.display='block';
+}
+
+function goToMCQ(){
+  showScreen('screen-mcq');
+  renderMCQ();
+}
+
+function renderMCQ(){
+  const q = mcqQuestions[currentMCQIndex];
+  const html = `
+    <div class="mcq-single" id="mcq-current">
+      <div style="text-align:center;margin-bottom:14px;">
+        <span class="question-counter">السؤال ${currentMCQIndex + 1} من ${mcqQuestions.length}</span>
+      </div>
+      <div class="mcq-q-num">${currentMCQIndex + 1}</div>
+      <div class="mcq-q-text">${q.q}</div>
+      <div class="mcq-options" id="mcq-options-current">
+        ${q.opts.map((opt,oi)=>`
+          <div class="mcq-option" onclick="answerMCQ(${oi})">${opt}</div>
+        `).join('')}
+      </div>
+      <div class="mcq-feedback" id="mcq-fb-current"></div>
+      <button class="btn-primary" id="mcq-next-btn" onclick="nextMCQ()" style="display:none;margin-top:16px;">
+        ${currentMCQIndex < mcqQuestions.length - 1 ? 'التالي ➡️' : 'إنهاء الامتحان ✓'}
+      </button>
+    </div>
+  `;
+  document.getElementById('mcq-container').innerHTML = html;
+}
+
+function answerMCQ(optIdx){
+  const q = mcqQuestions[currentMCQIndex];
+  const isCorrect = optIdx === q.correct;
+  
+  if(isCorrect) score++;
+  
+  answers.push({
+    question: q.q,
+    chosen: q.opts[optIdx],
+    correct: q.opts[q.correct],
+    isCorrect
+  });
+  
+  const fb = document.getElementById('mcq-fb-current');
+  fb.className = 'mcq-feedback show ' + (isCorrect ? 'correct' : 'wrong');
+  fb.textContent = isCorrect ? '✅ صحيح!' : '❌ خطأ - الصحيح: ' + q.opts[q.correct];
+  
+  const opts = document.querySelectorAll('#mcq-options-current .mcq-option');
+  opts.forEach((o, i) => {
+    o.classList.add('disabled');
+    if(i === q.correct) o.classList.add('correct');
+    else if(i === optIdx && !isCorrect) o.classList.add('wrong');
+  });
+  
+  document.getElementById('mcq-next-btn').style.display = 'block';
+}
+
+function nextMCQ(){
+  currentMCQIndex++;
+  
+  if(currentMCQIndex < mcqQuestions.length){
+    renderMCQ();
+  } else {
+    showResults(false);
+  }
+}
+
+function showResults(timedOut){
+  clearInterval(timerInterval);
+  showScreen('screen-result');
+  
+  const pct=Math.round((score/TOTAL_Q)*100);
+  const circumference=2*Math.PI*54;
+  const offset=circumference-((pct/100)*circumference);
+  
+  const bar=document.getElementById('score-bar');
+  bar.style.strokeDasharray=circumference;
+  bar.style.strokeDashoffset=circumference;
+  setTimeout(()=>bar.style.strokeDashoffset=offset,100);
+  
+  document.getElementById('score-value').textContent=pct+'%';
+  
+  document.getElementById('stat-correct').textContent=score;
+  document.getElementById('stat-wrong').textContent=TOTAL_Q-score;
+  
+  let title,sub;
+  if(pct>=90){title='ممتاز! 🌟';sub='أداء رائع!';}
+  else if(pct>=75){title='جيد جدًا! 👏';sub='عمل ممتاز!';}
+  else if(pct>=60){title='جيد 👍';sub='أحسنت!';}
+  else{title='حاول مرة أخرى 💪';sub='ستكون أفضل!';}
+  
+  document.getElementById('result-title').textContent=title;
+  document.getElementById('result-sub').textContent=sub;
+  
+  sendToSheet(score,pct,timedOut);
+}
+
+function sendToSheet(scoreVal,pct,timedOut){
+  const ov=document.getElementById('sending-overlay');
+  ov.classList.add('active');
+  
+  fetch(SHEET_URL,{
+    method:'POST',
+    mode:'no-cors',
+    headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({
+      name:studentName,
+      grade:studentGrade,
+      score:scoreVal,
+      total:TOTAL_Q,
+      percent:pct+'%',
+      quizName:QUIZ_NAME,
+      timedOut
+    })
+  }).then(()=>{
+    ov.classList.remove('active');
+    document.getElementById('result-sent-badge-wrap').innerHTML='<div class="sent-badge">✅ تم إرسال نتيجتك</div>';
+    setTimeout(()=>loadLeaderboard(),2000);
+  }).catch(()=>{
+    ov.classList.remove('active');
+    document.getElementById('result-sent-badge-wrap').innerHTML='<div class="sent-badge" style="background:#fee2e2;color:#991b1b;">⚠️ تعذّر الإرسال</div>';
+    loadLeaderboard();
+  });
+}
+
+function loadLeaderboard(){
+  const GITHUB_RAW='https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/results.json';
+  document.getElementById('lb-grade-label').textContent=studentGrade;
+  
+  fetch(GITHUB_RAW+'?t='+Date.now())
+    .then(r=>r.json())
+    .then(data=>{
+      const gradeData=data.filter(r=>r.grade===studentGrade && r.quizName===QUIZ_NAME);
+      if(!gradeData.length){
+        document.getElementById('leaderboard-body').innerHTML='<div class="lb-loading">لا توجد نتائج</div>';
+        return;
+      }
+      
+      const best={};
+      gradeData.forEach(r=>{
+        const key=r.name.trim();
+        if(!best[key]||r.score>best[key].score)best[key]={...r,name:key};
+      });
+      
+      const sorted=Object.values(best).sort((a,b)=>b.score-a.score);
+      const top=sorted.slice(0,3);
+      const myRank=sorted.findIndex(r=>r.name===studentName.trim())+1;
+      
+      const medals=['🥇','🥈','🥉'];
+      const rankClass=['r1','r2','r3'];
+      
+      let html=top.map((r,i)=>{
+        const isMe=r.name===studentName.trim();
+        return `<div class="lb-item rank-${i+1}${isMe?' rank-me':''}">
+          <div class="lb-rank ${rankClass[i]}">${medals[i]}</div>
+          <div class="lb-name">${r.name}${isMe?' <span>أنت 👋</span>':''}</div>
+          <div class="lb-score">${r.score}<small> / ${TOTAL_Q}</small></div>
+        </div>`;
+      }).join('');
+      
+      if(myRank>3){
+        const myScore=sorted.find(r=>r.name===studentName.trim()).score;
+        html+=`<div style="text-align:center;font-size:11px;color:var(--muted);padding:6px;">...</div>
+        <div class="lb-item rank-me">
+          <div class="lb-rank rme">${myRank}</div>
+          <div class="lb-name">${studentName} <span>أنت 👋</span></div>
+          <div class="lb-score">${myScore}<small> / ${TOTAL_Q}</small></div>
+        </div>`;
+      }
+      
+      document.getElementById('leaderboard-body').innerHTML=html;
+    })
+    .catch(()=>{
+      document.getElementById('leaderboard-body').innerHTML='<div class="lb-error">⚠️ فشل التحميل</div>';
+    });
+}
+
+function toggleReview(){
+  const list=document.getElementById('review-list');
+  if(list.style.display==='none'||!list.style.display){
+    list.style.display='block';
+    list.innerHTML=answers.map((a,i)=>`
+      <div class="review-item">
+        <div class="review-icon">${a.isCorrect?'✅':'❌'}</div>
+        <div class="review-q">Q${i+1}: ${a.question}</div>
+        <div class="review-a">
+          إجابتك: <span class="${a.isCorrect?'ok':'err'}">${a.chosen}</span>
+          ${!a.isCorrect?` — الصح: <span class="ok">${a.correct}</span>`:''}
+        </div>
+      </div>
+    `).join('');
+  }else{
+    list.style.display='none';
+  }
+}
+
+function restartQuiz(){
+  location.reload();
+}
+
+renderVocab();
+
+window.addEventListener('DOMContentLoaded',()=>{
+  const params=new URLSearchParams(window.location.search);
+  const name=params.get('name');
+  const grade=params.get('grade');
+  if(name && grade){
+    document.getElementById('student-name').value=name;
+    document.getElementById('student-grade').value=grade;
+  }
+});
+</script>
+</body>
+</html>
