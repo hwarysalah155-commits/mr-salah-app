@@ -506,8 +506,8 @@
           "sess_7": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": ""
           }
