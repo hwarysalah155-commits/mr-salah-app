@@ -482,8 +482,8 @@
           "sess_4": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
             "score": ""
           },
