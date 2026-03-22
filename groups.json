@@ -3,7 +3,7 @@
     "id": "g_default_1",
     "name": "الصف الأول الابتدائي",
     "days": "أحد وأربعاء",
-    "paused": true
+    "paused": false
   },
   {
     "id": "g_default_2",
