@@ -208,7 +208,8 @@
         "payment": "",
         "notes": [],
         "paid": false,
-        "phone": ""
+        "phone": "",
+        "pin": "atmn9016"
       }
     ]
   },
