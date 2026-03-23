@@ -14,8 +14,8 @@
       {
         "name": "ةفلىة ا غات ؤىؤ تغتقف",
         "sessions": [
-          0,
-          0,
+          1,
+          1,
           0,
           0,
           0,
@@ -28,7 +28,73 @@
         "paid": false,
         "phone": "",
         "grade": "الصف الأول الابتدائي",
-        "pin": "afla4885"
+        "pin": "afla4885",
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
       }
     ]
   }
