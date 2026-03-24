@@ -54,7 +54,73 @@
         "paid": false,
         "phone": "",
         "grade": "الصف الثالث الابتدائي",
-        "pin": "abda6717"
+        "pin": "abda6717",
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
       },
       {
         "name": "جنى محمود",
