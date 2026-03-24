@@ -164,7 +164,27 @@
       "",
       ""
     ],
-    "students": []
+    "students": [
+      {
+        "name": "نبن",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "nbn3313"
+      }
+    ]
   },
   "g_default_6-2026-3": {
     "sessionDates": [
