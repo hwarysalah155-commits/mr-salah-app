@@ -453,7 +453,7 @@
         ],
         "payment": "",
         "notes": [],
-        "paid": false,
+        "paid": true,
         "phone": "",
         "grade": "الصف الثالث الإعدادي",
         "pin": "mhmw1417",
