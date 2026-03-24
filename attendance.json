@@ -243,7 +243,27 @@
       "2026-03-22",
       "2026-03-25"
     ],
-    "students": []
+    "students": [
+      {
+        "name": "شريف عزت السوداني",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "shry5684"
+      }
+    ]
   },
   "g_default_6-2026-3": {
     "sessionDates": [
