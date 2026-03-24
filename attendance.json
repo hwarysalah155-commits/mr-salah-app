@@ -36,7 +36,27 @@
       "2026-03-22",
       "2026-03-25"
     ],
-    "students": []
+    "students": [
+      {
+        "name": "عبدالرحمن ناصر احمد",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "abda6717"
+      }
+    ]
   },
   "g_default_4-2026-3": {
     "sessionDates": [
