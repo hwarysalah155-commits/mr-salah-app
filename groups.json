@@ -156,8 +156,9 @@
   {
     "id": "g_default_6",
     "name": "الصف السادس الابتدائي",
-    "days": "غير محدد",
-    "students": []
+    "days": "أحد وأربعاء",
+    "students": [],
+    "time": "16:00"
   },
   {
     "id": "g_default_9",
