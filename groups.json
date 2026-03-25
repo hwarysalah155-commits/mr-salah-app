@@ -15,7 +15,18 @@
     "id": "g_default_3",
     "name": "الصف الثالث الابتدائي",
     "days": "غير محدد",
-    "students": []
+    "students": [
+      {
+        "name": "محمد احمد ابراهيم",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "mhmd2750",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ]
   },
   {
     "id": "g_default_4",
