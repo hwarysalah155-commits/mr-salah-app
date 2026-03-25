@@ -45,6 +45,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "جني إسلام",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "jny3026",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   },
