@@ -378,6 +378,18 @@
     "id": "g_1774435367894",
     "name": "جاد",
     "days": "أحد وأربعاء",
-    "time": "17:00"
+    "time": "17:00",
+    "students": [
+      {
+        "name": "جاد",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "jad7209",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ]
   }
 ]
