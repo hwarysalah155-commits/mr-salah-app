@@ -167,6 +167,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "ندين مصطفي",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "ndyn4120",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "16:00"
