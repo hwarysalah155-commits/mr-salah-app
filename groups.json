@@ -254,6 +254,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "شهد محمود ابو عشرة",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الإعدادي",
+        "pin": "shhd2331",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   }
