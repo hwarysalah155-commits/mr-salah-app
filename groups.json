@@ -292,6 +292,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "وئام ياسر بدران",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الابتدائي",
+        "pin": "wyam7407",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   }
