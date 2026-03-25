@@ -282,6 +282,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "مني ياسر بدران",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "mny7546",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   }
