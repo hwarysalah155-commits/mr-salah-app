@@ -101,32 +101,6 @@
       }
     ]
   },
-  "g_default_1-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_2-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
   "g_default_3-2026-3": {
     "sessionDates": [
       "2026-03-01",
@@ -562,35 +536,32 @@
       "2026-03-22",
       "2026-03-25"
     ],
-    "students": []
+    "students": [
+      {
+        "name": "شريف عزت السوداني",
+        "sessions": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "shry5325",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
   },
   "g_default_6-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_7-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_8-2026-3": {
     "sessionDates": [
       "",
       "",
@@ -616,7 +587,7 @@
     ],
     "students": [
       {
-        "name": "تترز",
+        "name": "عبدالوهاب احمد وزيري",
         "sessions": [
           0,
           0,
@@ -631,8 +602,11 @@
         "notes": [],
         "paid": false,
         "phone": "",
+        "parentName": "",
         "grade": "الصف الثالث الإعدادي",
-        "pin": "ttrz8654",
+        "pin": "abda6463",
+        "homeworks": [],
+        "localExams": [],
         "eval": {
           "sess_0": {
             "checks": [
@@ -698,44 +672,11 @@
             ],
             "score": ""
           }
-        },
-        "homeworks": [
-          {
-            "title": "تنن",
-            "done": false,
-            "date": "25/03/2026"
-          }
-        ]
+        }
       }
     ]
   },
   "g_1774408726335-2026-3": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_1-2026-5": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_2-2026-5": {
     "sessionDates": [
       "",
       "",
@@ -788,32 +729,6 @@
     "students": []
   },
   "g_default_6-2026-5": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_7-2026-5": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_8-2026-5": {
     "sessionDates": [
       "",
       "",
@@ -895,52 +810,26 @@
       }
     ]
   },
-  "g_default_1-2026-2": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_2-2026-2": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
   "g_default_3-2026-2": {
     "sessionDates": [
-      "2026-02-01",
-      "2026-02-04",
-      "2026-02-08",
-      "2026-02-11",
-      "2026-02-15",
-      "2026-02-18",
-      "2026-02-22",
-      "2026-02-25"
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "students": [
       {
         "name": "محمد احمد ابراهيم",
         "sessions": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -953,82 +842,16 @@
         "grade": "الصف الثالث الابتدائي",
         "pin": "mhmd2750",
         "homeworks": [],
-        "localExams": [],
-        "eval": {
-          "sess_0": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_1": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_2": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_3": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_4": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_5": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_6": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          },
-          "sess_7": {
-            "checks": [
-              false,
-              false,
-              false
-            ],
-            "score": ""
-          }
-        }
+        "localExams": []
       },
       {
         "name": "عبدالرحمن ناصر احمد",
         "sessions": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -1046,11 +869,11 @@
       {
         "name": "سليمان احمد وزيري",
         "sessions": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -1068,11 +891,11 @@
       {
         "name": "جني إسلام",
         "sessions": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -1090,11 +913,11 @@
       {
         "name": "مصطفى عرفة",
         "sessions": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -1112,11 +935,11 @@
       {
         "name": "فرح محمود مبارك",
         "sessions": [
-          1,
-          1,
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0,
           0,
           0,
           0
@@ -1280,32 +1103,6 @@
     ]
   },
   "g_default_6-2026-2": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_7-2026-2": {
-    "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "students": []
-  },
-  "g_default_8-2026-2": {
     "sessionDates": [
       "",
       "",
