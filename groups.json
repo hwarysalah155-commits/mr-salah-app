@@ -330,6 +330,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "مروان احمد محمود",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثاني الابتدائي",
+        "pin": "mrwa4540",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   }
