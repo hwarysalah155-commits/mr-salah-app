@@ -123,6 +123,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "ريتاج مصطفى توفيق",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "ryta9792",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "18:00"
