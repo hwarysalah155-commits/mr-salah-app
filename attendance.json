@@ -558,6 +558,25 @@
         "pin": "shry5325",
         "homeworks": [],
         "localExams": []
+      },
+      {
+        "name": "مروان محمود مبارك",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "mrwa1694"
       }
     ]
   },
@@ -784,6 +803,28 @@
             "score": ""
           }
         }
+      },
+      {
+        "name": "تترز",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الإعدادي",
+        "pin": "ttrz8654",
+        "homeworks": [],
+        "localExams": []
       }
     ]
   },
@@ -1604,6 +1645,42 @@
         "parentName": "",
         "grade": "الصف الثاني الابتدائي",
         "pin": "yasy5199",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
+  },
+  "g_1774435367894-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "جاد",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "jad7209",
         "homeworks": [],
         "localExams": []
       }
