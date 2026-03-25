@@ -149,6 +149,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "مروان محمود مبارك",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "mrwa1694",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "12:00"
