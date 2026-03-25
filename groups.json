@@ -133,6 +133,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "عمر هاني الليبيدي",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "amr2098",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "18:00"
