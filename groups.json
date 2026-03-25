@@ -157,7 +157,18 @@
     "id": "g_default_6",
     "name": "الصف السادس الابتدائي",
     "days": "أحد وأربعاء",
-    "students": [],
+    "students": [
+      {
+        "name": "ملك أيمن جلال",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "mlk8581",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
     "time": "16:00"
   },
   {
