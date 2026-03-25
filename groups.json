@@ -350,6 +350,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "ياسين محمد محمود",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثاني الابتدائي",
+        "pin": "yasy5199",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   }
