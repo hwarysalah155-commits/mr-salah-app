@@ -572,7 +572,118 @@
       "",
       ""
     ],
-    "students": []
+    "students": [
+      {
+        "name": "ملك أيمن جلال",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "mlk8581",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "ندين مصطفي",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "ndyn4120",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "رحمة محمود",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "rhma5703",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "احمد عرفة",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "ahmd7951",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "ياسين ابو القاسم",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "yasy1250",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
   },
   "g_default_9-2026-3": {
     "sessionDates": [
@@ -1211,6 +1322,290 @@
             "score": ""
           }
         }
+      }
+    ]
+  },
+  "g_1774434399533-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "زياد احمد ابو عشرة",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الإعدادي",
+        "pin": "zyad5302",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "يزيد احمد ابو عشرة",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "yzyd2999",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "شهد محمود ابو عشرة",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الإعدادي",
+        "pin": "shhd2331",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
+  },
+  "g_1774434684099-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "يوسف ياسر بدران",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثاني الإعدادي",
+        "pin": "ywsf6519",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "مني ياسر بدران",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "mny7546",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "وئام ياسر بدران",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الابتدائي",
+        "pin": "wyam7407",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
+  },
+  "g_1774434887605-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "شاكر احمد محمد",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الإعدادي",
+        "pin": "shak2260",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "محمود احمد محمود",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الأول الإعدادي",
+        "pin": "mhmw5277",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "مروان احمد محمود",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثاني الابتدائي",
+        "pin": "mrwa4540",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "منة محمد محمود",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثاني الابتدائي",
+        "pin": "mna2475",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "ياسين محمد محمود",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثاني الابتدائي",
+        "pin": "yasy5199",
+        "homeworks": [],
+        "localExams": []
       }
     ]
   }
