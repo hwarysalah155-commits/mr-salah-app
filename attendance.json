@@ -392,11 +392,179 @@
         "grade": "الصف الأول الابتدائي",
         "pin": "mhmd2132",
         "homeworks": [],
-        "localExams": []
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
       }
     ]
   },
   "g_1774413362985-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "2026-03-16",
+      "2026-03-19",
+      "2026-03-23",
+      "2026-03-26",
+      "2026-03-30",
+      "2026-04-02"
+    ],
+    "students": [
+      {
+        "name": "صلاح سيد علي",
+        "sessions": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "payment": "200",
+        "notes": [],
+        "paid": true,
+        "phone": "01224263531",
+        "parentName": "سيد علي",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "slah5359",
+        "homeworks": [],
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
+      }
+    ]
+  },
+  "g_1774413362985-2026-2": {
     "sessionDates": [
       "",
       "",
@@ -427,6 +595,488 @@
         "parentName": "سيد علي",
         "grade": "الصف الرابع الابتدائي",
         "pin": "slah5359",
+        "homeworks": [],
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
+      }
+    ]
+  },
+  "g_1774413362985-2024-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "صلاح سيد علي",
+        "sessions": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01224263531",
+        "parentName": "سيد علي",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "slah5359",
+        "homeworks": [],
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
+      }
+    ]
+  },
+  "g_1774413362985-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "صلاح سيد علي",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01224263531",
+        "parentName": "سيد علي",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "slah5359",
+        "homeworks": [],
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
+      }
+    ]
+  },
+  "g_default_1-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_2-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_3-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_4-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_5-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_6-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_7-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_8-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": []
+  },
+  "g_default_9-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "تترز",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الإعدادي",
+        "pin": "ttrz8654",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
+  },
+  "g_1774413355125-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "الشعراوي",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01150436093",
+        "parentName": "جابر",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "alsh7437",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
+  },
+  "g_1774413362190-2026-5": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "محمد رفعت بربري",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01224263531",
+        "parentName": "رفعت بربري",
+        "grade": "الصف الأول الابتدائي",
+        "pin": "mhmd2132",
         "homeworks": [],
         "localExams": []
       }
