@@ -7,13 +7,14 @@
     "students": [
       {
         "name": "محمد احمد اابراهيم",
-        "phone": "",
+        "phone": "01224263531",
         "parentName": "",
         "grade": "الصف الثالث الابتدائي",
         "pin": "mhmd1186",
         "payment": "",
         "paid": false,
-        "joinedAt": "2026-03-25"
+        "joinedAt": "2026-03-25",
+        "avatar": ""
       },
       {
         "name": "سليمان احمد وزيري",
