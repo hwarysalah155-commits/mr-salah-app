@@ -150,8 +150,9 @@
   {
     "id": "g_default_5",
     "name": "الصف الخامس الابتدائي",
-    "days": "غير محدد",
-    "students": []
+    "days": "أحد وأربعاء",
+    "students": [],
+    "time": "12:00"
   },
   {
     "id": "g_default_6",
