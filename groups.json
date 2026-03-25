@@ -103,6 +103,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "اريج عمرو حشمت",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "aryj4122",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "18:00"
