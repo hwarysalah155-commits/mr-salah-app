@@ -151,7 +151,18 @@
     "id": "g_default_5",
     "name": "الصف الخامس الابتدائي",
     "days": "أحد وأربعاء",
-    "students": [],
+    "students": [
+      {
+        "name": "شريف عزت السوداني",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "shry5325",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
     "time": "12:00"
   },
   {
