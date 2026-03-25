@@ -244,6 +244,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "يزيد احمد ابو عشرة",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "yzyd2999",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   }
