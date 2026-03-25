@@ -187,6 +187,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "احمد عرفة",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "ahmd7951",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "16:00"
