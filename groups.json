@@ -65,6 +65,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "فرح محمود مبارك",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "frh1941",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ]
   },
