@@ -335,7 +335,30 @@
       "",
       ""
     ],
-    "students": []
+    "students": [
+      {
+        "name": "الشعراوي",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01150436093",
+        "parentName": "جابر",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "alsh7437",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
   },
   "g_1774413362190-2026-3": {
     "sessionDates": [
@@ -348,7 +371,30 @@
       "",
       ""
     ],
-    "students": []
+    "students": [
+      {
+        "name": "محمد رفعت بربري",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01224263531",
+        "parentName": "رفعت بربري",
+        "grade": "الصف الأول الابتدائي",
+        "pin": "mhmd2132",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
   },
   "g_1774413362985-2026-3": {
     "sessionDates": [
@@ -361,6 +407,29 @@
       "",
       ""
     ],
-    "students": []
+    "students": [
+      {
+        "name": "صلاح سيد علي",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "01224263531",
+        "parentName": "سيد علي",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "slah5359",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
   }
 }
