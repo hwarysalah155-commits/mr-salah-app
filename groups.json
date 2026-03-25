@@ -83,7 +83,18 @@
     "id": "g_default_4",
     "name": "الصف الرابع الابتدائي",
     "days": "أحد وأربعاء",
-    "students": [],
+    "students": [
+      {
+        "name": "ملك ايمن ضاحي",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "mlk9095",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
     "time": "18:00"
   },
   {
