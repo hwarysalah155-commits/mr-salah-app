@@ -93,6 +93,16 @@
         "payment": "",
         "paid": false,
         "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "مرام سامح فؤاد",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "mram4637",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
       }
     ],
     "time": "18:00"
