@@ -1572,46 +1572,121 @@
   },
   "g_1774434887605-2026-3": {
     "sessionDates": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "2026-02-24",
+      "2026-02-28",
+      "2026-03-03",
+      "2026-03-07",
+      "2026-03-10",
+      "2026-03-14",
+      "2026-03-17",
+      "2026-03-21"
     ],
     "students": [
       {
         "name": "شاكر احمد محمد",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           0,
           0,
           0
         ],
         "payment": "",
-        "notes": [],
+        "notes": [
+          {
+            "text": "انت",
+            "date": "25/03/2026"
+          },
+          {
+            "text": "انتم",
+            "date": "25/03/2026"
+          }
+        ],
         "paid": false,
         "phone": "",
         "parentName": "",
         "grade": "الصف الأول الإعدادي",
         "pin": "shak2260",
         "homeworks": [],
-        "localExams": []
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
       },
       {
         "name": "محمود احمد محمود",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           0,
           0,
           0
@@ -1629,11 +1704,11 @@
       {
         "name": "مروان احمد محمود",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           0,
           0,
           0
@@ -1651,11 +1726,11 @@
       {
         "name": "منة محمد محمود",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           0,
           0,
           0
@@ -1673,11 +1748,11 @@
       {
         "name": "ياسين محمد محمود",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           0,
           0,
           0
