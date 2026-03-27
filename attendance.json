@@ -137,7 +137,13 @@
         "parentName": "",
         "grade": "الصف الثالث الابتدائي",
         "pin": "mhmd2750",
-        "homeworks": [],
+        "homeworks": [
+          {
+            "title": "الدرس السابع تم عمله بنجاح",
+            "done": false,
+            "date": "27/03/2026"
+          }
+        ],
         "localExams": [],
         "eval": {
           "sess_0": {
