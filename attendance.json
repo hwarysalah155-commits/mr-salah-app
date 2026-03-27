@@ -144,7 +144,14 @@
             "date": "27/03/2026"
           }
         ],
-        "localExams": [],
+        "localExams": [
+          {
+            "title": "امتحان الوحدة الاولي",
+            "score": 0,
+            "total": 10,
+            "date": "27/03/2026"
+          }
+        ],
         "eval": {
           "sess_0": {
             "checks": [
