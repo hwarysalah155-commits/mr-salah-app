@@ -125,7 +125,7 @@
           0,
           1
         ],
-        "payment": "",
+        "payment": "500",
         "notes": [],
         "paid": false,
         "phone": "",
@@ -138,18 +138,18 @@
           "sess_0": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
-            "score": ""
+            "score": 10
           },
           "sess_1": {
             "checks": [
               false,
-              false,
-              false
+              true,
+              true
             ],
-            "score": ""
+            "score": 10
           },
           "sess_2": {
             "checks": [
@@ -1958,5 +1958,41 @@
       "2026-03-26"
     ],
     "students": []
+  },
+  "g_1774541493317-2026-3": {
+    "sessionDates": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "students": [
+      {
+        "name": "بشاير احمد وزيري",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "bsha6676",
+        "homeworks": [],
+        "localExams": []
+      }
+    ]
   }
 }
