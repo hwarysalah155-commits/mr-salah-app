@@ -125,8 +125,13 @@
           0,
           1
         ],
-        "payment": "500",
-        "notes": [],
+        "payment": "",
+        "notes": [
+          {
+            "text": "السلام عليكم ورحمه الله وبركاته",
+            "date": "27/03/2026"
+          }
+        ],
         "paid": false,
         "phone": "",
         "parentName": "",
@@ -138,18 +143,18 @@
           "sess_0": {
             "checks": [
               false,
-              true,
-              true
+              false,
+              false
             ],
-            "score": 10
+            "score": ""
           },
           "sess_1": {
             "checks": [
               false,
-              true,
-              true
+              false,
+              false
             ],
-            "score": 10
+            "score": ""
           },
           "sess_2": {
             "checks": [
