@@ -1,1 +1,193 @@
-[{"id":"g_default_3","name":"الصف الثالث الابتدائي","days":"أحد وأربعاء","time":"14:00","paused":false,"students":[{"id":"st_1774913284686","name":"احمد علي","phone":"","parentName":"","joiningDate":"31/03/2026","sessions":[0,0,0,0,0,0,0,0],"paid":false,"payment":0.0,"expectedPayment":0.0,"pin":"83201","grade":null,"imagePath":null,"notes":[],"examScores":[],"homeworks":[]},{"id":"st_1774913296343","name":"نتتقنن","phone":"","parentName":"","joiningDate":"31/03/2026","sessions":[0,0,0,0,0,0,0,0],"paid":false,"payment":0.0,"expectedPayment":0.0,"pin":"63683","grade":null,"imagePath":null,"notes":[],"examScores":[],"homeworks":[]},{"id":"st_1774913375350","name":"احمد عرفة جروب","phone":"","parentName":"","joiningDate":"31/03/2026","sessions":[0,0,0,0,0,0,0,0],"paid":false,"payment":0.0,"expectedPayment":0.0,"pin":"143194","grade":null,"imagePath":null,"notes":[],"examScores":[],"homeworks":[]}]},{"id":"g_default_4","name":"الصف الرابع الابتدائي","days":"أحد وأربعاء","time":"18:00","paused":false,"students":[]},{"id":"g_default_5","name":"الصف الخامس الابتدائي","days":"أحد وأربعاء","time":"12:00","paused":false,"students":[]},{"id":"g_default_6","name":"الصف السادس الابتدائي","days":"أحد وأربعاء","time":"16:00","paused":false,"students":[]},{"id":"g_default_9","name":"الصف الثالث الإعدادي","days":"أحد وأربعاء","time":"15:00","paused":false,"students":[]},{"id":"g_1774434399533","name":"مجموعه زياد ابو عشرة","days":"إثنين وخميس","time":"12:20","paused":false,"students":[]},{"id":"g_1774434684099","name":"مجموعة يوسف ياسر","days":"إثنين وخميس","time":"14:10","paused":false,"students":[]},{"id":"g_1774434887605","name":"شاكر ومحمود","days":"سبت وثلاثاء","time":"13:00","paused":false,"students":[]},{"id":"g_1774435367894","name":"جاد","days":"أحد وأربعاء","time":"17:00","paused":false,"students":[]},{"id":"g_1774541493317","name":"مجموعة بشاير","days":"إثنين وخميس","time":"17:00","paused":false,"students":[]},{"id":"g_default_1","name":"الصف الأول الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_2","name":"الصف الثاني الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_7","name":"الصف الأول الإعدادي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_8","name":"الصف الثاني الإعدادي","days":"غير محدد","time":"","paused":false,"students":[]}]
+[
+  {
+    "id": "g_default_3",
+    "name": "الصف الثالث الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "14:00",
+    "paused": false,
+    "students": [
+      {
+        "id": "st_1774913284686",
+        "name": "احمد علي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "31/03/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "pin": "83201",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": []
+      },
+      {
+        "id": "st_1774913296343",
+        "name": "نتتقنن",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "31/03/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "pin": "63683",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": []
+      },
+      {
+        "id": "st_1774913375350",
+        "name": "احمد عرفة جروب",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "31/03/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "pin": "143194",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": []
+      }
+    ]
+  },
+  {
+    "id": "g_default_4",
+    "name": "الصف الرابع الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "18:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_5",
+    "name": "الصف الخامس الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "12:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_6",
+    "name": "الصف السادس الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "16:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_9",
+    "name": "الصف الثالث الإعدادي",
+    "days": "أحد وأربعاء",
+    "time": "15:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_1774434399533",
+    "name": "مجموعه زياد ابو عشرة",
+    "days": "إثنين وخميس",
+    "time": "12:20",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_1774434684099",
+    "name": "مجموعة يوسف ياسر",
+    "days": "إثنين وخميس",
+    "time": "14:10",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_1774434887605",
+    "name": "شاكر ومحمود",
+    "days": "سبت وثلاثاء",
+    "time": "13:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_1774435367894",
+    "name": "جاد",
+    "days": "أحد وأربعاء",
+    "time": "17:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_1774541493317",
+    "name": "مجموعة بشاير",
+    "days": "إثنين وخميس",
+    "time": "17:00",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_1",
+    "name": "الصف الأول الابتدائي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_2",
+    "name": "الصف الثاني الابتدائي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_7",
+    "name": "الصف الأول الإعدادي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "students": []
+  },
+  {
+    "id": "g_default_8",
+    "name": "الصف الثاني الإعدادي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "students": []
+  }
+]
