@@ -1,1 +1,222 @@
-[{"id":"g_default_1","name":"الصف الأول الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_2","name":"الصف الثاني الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_3","name":"الصف الثالث الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_4","name":"الصف الرابع الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_5","name":"الصف الخامس الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_6","name":"الصف السادس الابتدائي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_7","name":"الصف الأول الإعدادي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_8","name":"الصف الثاني الإعدادي","days":"غير محدد","time":"","paused":false,"students":[]},{"id":"g_default_9","name":"الصف الثالث الإعدادي","days":"غير محدد","time":"","paused":false,"students":[{"id":"st_1774837028348","name":"احمد علي ماهر","phone":"","parentName":"","joiningDate":"30/03/2026","sessions":[0,0,0,0,0,0,0,0],"paid":false,"payment":0,"expectedPayment":0,"pin":"ahmd7977","grade":null,"imagePath":null,"notes":[],"examScores":[],"homeworks":[]}]}]
+[
+  {
+    "id": "g_default_3",
+    "name": "الصف الثالث الابتدائي",
+    "days": "أحد وأربعاء",
+    "students": [
+      {
+        "name": "محمد احمد ابراهيم",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "mhmd2750",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "عبدالرحمن ناصر احمد",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "abda6644",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "سليمان احمد وزيري",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "slym2432",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "جني إسلام",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "jny3026",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "مصطفى عرفة",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "mstf3362",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "فرح محمود مبارك",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الابتدائي",
+        "pin": "frh1941",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
+    "time": "14:00"
+  },
+  {
+    "id": "g_default_4",
+    "name": "الصف الرابع الابتدائي",
+    "days": "أحد وأربعاء",
+    "students": [
+      {
+        "name": "ملك ايمن ضاحي",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "mlk9095",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "مرام سامح فؤاد",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "mram4637",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "اريج عمرو حشمت",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "aryj4122",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "رقيه معتز منصور",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "rqyh3765",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "ريتاج مصطفى توفيق",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "ryta9792",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "عمر هاني الليبيدي",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الرابع الابتدائي",
+        "pin": "amr2098",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
+    "time": "18:00"
+  },
+  {
+    "id": "g_default_5",
+    "name": "الصف الخامس الابتدائي",
+    "days": "أحد وأربعاء",
+    "students": [
+      {
+        "name": "شريف عزت السوداني",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الخامس الابتدائي",
+        "pin": "shry5325",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
+    "time": "12:00"
+  },
+  {
+    "id": "g_default_6",
+    "name": "الصف السادس الابتدائي",
+    "days": "أحد وأربعاء",
+    "students": [
+      {
+        "name": "ملك أيمن جلال",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "mlk8581",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "ندين مصطفي",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "ndyn4120",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "رحمة محمود",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "rhma5703",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      },
+      {
+        "name": "احمد عرفة",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف السادس الابتدائي",
+        "pin": "ahmd7951",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
+    "time": "16:00"
+  },
+  {
+    "id": "g_default_9",
+    "name": "الصف الثالث الإعدادي",
+    "days": "أحد وأربعاء",
+    "students": [
+      {
+        "name": "عبدالوهاب احمد وزيري",
+        "phone": "",
+        "parentName": "",
+        "grade": "الصف الثالث الإعدادي",
+        "pin": "abda6463",
+        "payment": "",
+        "paid": false,
+        "joinedAt": "2026-03-25"
+      }
+    ],
+    "time": "15:00"
+  }
+]
