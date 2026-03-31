@@ -30,7 +30,8 @@
         "imagePath": null,
         "notes": [],
         "examScores": [],
-        "homeworks": []
+        "homeworks": [],
+        "eval": {}
       },
       {
         "id": "st_1774913296343",
@@ -56,7 +57,8 @@
         "imagePath": null,
         "notes": [],
         "examScores": [],
-        "homeworks": []
+        "homeworks": [],
+        "eval": {}
       },
       {
         "id": "st_1774913375350",
@@ -82,7 +84,8 @@
         "imagePath": null,
         "notes": [],
         "examScores": [],
-        "homeworks": []
+        "homeworks": [],
+        "eval": {}
       }
     ]
   },
