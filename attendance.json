@@ -1,1 +1,357 @@
-{"g_default_1-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_2-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_3-2026-3":{"students":[],"sessionDates":["31/03","24/03","31/03","31/03","31/03","31/03","31/03","31/03"]},"g_default_4-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_5-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_6-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_7-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_8-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_default_9-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_1774860225284-2026-3":{"students":[{"id":"st_1774860238358","name":"غا7","phone":"","parentName":"","joiningDate":"30/03/2026","sessions":[0,0,0,0,0,0,0,0],"paid":false,"payment":0.0,"expectedPayment":0.0,"pin":"39516","grade":null,"imagePath":null,"notes":[],"examScores":[],"homeworks":[],"eval":{}}],"sessionDates":[null,null,null,null,null,null,null,null]},"g_1774434399533-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_1774434684099-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_1774434887605-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_1774435367894-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]},"g_1774541493317-2026-3":{"students":[],"sessionDates":[null,null,null,null,null,null,null,null]}}
+{
+  "g_default_1-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_2-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_3-2026-3": {
+    "students": [
+      {
+        "name": "احمد علي",
+        "sessions": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "",
+        "pin": "83201",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "نتتقنن",
+        "sessions": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "",
+        "pin": "63683",
+        "homeworks": [],
+        "localExams": []
+      },
+      {
+        "name": "احمد عرفة جروب",
+        "sessions": [
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          2
+        ],
+        "payment": "",
+        "notes": [],
+        "paid": false,
+        "phone": "",
+        "parentName": "",
+        "grade": "",
+        "pin": "143194",
+        "homeworks": [],
+        "localExams": [],
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          },
+          "sess_7": {
+            "checks": [
+              false,
+              false,
+              false
+            ],
+            "score": ""
+          }
+        }
+      }
+    ],
+    "sessionDates": [
+      "31/03",
+      "24/03",
+      "31/03",
+      "31/03",
+      "31/03",
+      "31/03",
+      "31/03",
+      "31/03"
+    ]
+  },
+  "g_default_4-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_5-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_6-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_7-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_8-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_default_9-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_1774860225284-2026-3": {
+    "students": [
+      {
+        "id": "st_1774860238358",
+        "name": "غا7",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "30/03/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "pin": "39516",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": []
+      }
+    ],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_1774434399533-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_1774434684099-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_1774434887605-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_1774435367894-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "g_1774541493317-2026-3": {
+    "students": [],
+    "sessionDates": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  }
+}
