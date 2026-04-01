@@ -5,7 +5,19 @@
     "days": "غير محدد",
     "time": "",
     "paused": false,
-    "students": []
+    "students": [
+      {
+        "id": "st_1775077156729",
+        "name": "محمد حماده حماد",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "01/04/2026",
+        "pin": "mhmd6430",
+        "grade": null,
+        "imagePath": null,
+        "months": []
+      }
+    ]
   },
   {
     "id": "g_default_3",
@@ -20,26 +32,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mhmd2750",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028302",
@@ -47,26 +77,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "abda6644",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028303",
@@ -74,26 +122,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "slym2432",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028304",
@@ -101,26 +167,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "jny3026",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028305",
@@ -128,26 +212,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mstf3362",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028306",
@@ -155,26 +257,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "frh1941",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -191,26 +311,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mlk9095",
         "grade": "الصف الرابع الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028308",
@@ -218,26 +356,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mram4637",
         "grade": "الصف الرابع الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028309",
@@ -245,26 +401,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "aryj4122",
         "grade": "الصف الرابع الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028310",
@@ -272,26 +446,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "rqyh3765",
         "grade": "الصف الرابع الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028311",
@@ -299,26 +491,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "ryta9792",
         "grade": "الصف الرابع الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028312",
@@ -326,26 +536,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "amr2098",
         "grade": "الصف الرابع الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775061814897",
@@ -353,26 +581,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mrwa3230",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -389,26 +635,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "shry5325",
         "grade": "الصف الخامس الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -425,26 +689,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mlk8581",
         "grade": "الصف السادس الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028315",
@@ -452,26 +734,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "ndyn4120",
         "grade": "الصف السادس الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028316",
@@ -479,26 +779,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "rhma5703",
         "grade": "الصف السادس الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1774837028317",
@@ -506,26 +824,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "ahmd7951",
         "grade": "الصف السادس الابتدائي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775052493999",
@@ -533,26 +869,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "braa8320",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775052579557",
@@ -560,26 +914,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "yasy3023",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775052939606",
@@ -587,26 +959,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "myxx3943",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775052998396",
@@ -614,26 +1004,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "smyh9160",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775053049234",
@@ -641,26 +1049,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "hnax7569",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -693,26 +1119,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "25/03/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "abda6463",
         "grade": "الصف الثالث الإعدادي",
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "25/03/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -729,26 +1173,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "bsha5588",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -765,26 +1227,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "ywsf6296",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775015503690",
@@ -792,26 +1272,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "wyam7528",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775015511928",
@@ -819,26 +1317,44 @@
         "phone": "",
         "parentName": "",
         "joiningDate": "01/04/2026",
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
         "pin": "mnyx5412",
         "grade": null,
         "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
