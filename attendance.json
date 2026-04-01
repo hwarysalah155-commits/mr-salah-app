@@ -839,6 +839,33 @@
         "examScores": [],
         "homeworks": [],
         "eval": {}
+      },
+      {
+        "id": "st_1775052579557",
+        "name": "ياسين محمد حمدان",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "01/04/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0.0,
+        "expectedPayment": 0.0,
+        "pin": "yasy3023",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": [],
+        "eval": {}
       }
     ],
     "sessionDates": [
