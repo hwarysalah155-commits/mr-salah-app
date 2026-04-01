@@ -346,6 +346,33 @@
         "examScores": [],
         "homeworks": [],
         "eval": {}
+      },
+      {
+        "id": "st_1775061814897",
+        "name": "مروان محمد حمدان",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "01/04/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0.0,
+        "expectedPayment": 0.0,
+        "pin": "mrwa3230",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": [],
+        "eval": {}
       }
     ]
   },
