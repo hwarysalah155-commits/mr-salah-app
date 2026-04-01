@@ -597,5 +597,13 @@
     "time": "14:00",
     "paused": false,
     "students": []
+  },
+  {
+    "id": "g_1775015451381",
+    "name": "مجموعة زياد وشهد ويزيد",
+    "days": "إثنين وخميس",
+    "time": "12:00",
+    "paused": false,
+    "students": []
   }
 ]
