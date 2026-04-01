@@ -851,7 +851,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          1,
+          0,
           0,
           0,
           0,
@@ -900,7 +900,7 @@
       }
     ],
     "sessionDates": [
-      null,
+      "01/04",
       null,
       null,
       null,
