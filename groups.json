@@ -1,13 +1,5 @@
 [
   {
-    "id": "g_default_1",
-    "name": "الصف الأول الابتدائي",
-    "days": "غير محدد",
-    "time": "",
-    "paused": false,
-    "students": []
-  },
-  {
     "id": "g_default_2",
     "name": "الصف الثاني الابتدائي",
     "days": "غير محدد",
