@@ -949,5 +949,46 @@
       null,
       null
     ]
+  },
+  "g_1775014029502-2026-4": {
+    "students": [
+      {
+        "id": "st_1775014040387",
+        "name": "بشاير احمد سليمان",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "01/04/2026",
+        "sessions": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "paid": false,
+        "payment": 0.0,
+        "expectedPayment": 0.0,
+        "pin": "bsha5588",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": [],
+        "eval": {}
+      }
+    ],
+    "sessionDates": [
+      "01/04",
+      "01/04",
+      "01/04",
+      "01/04",
+      "01/04",
+      "01/04",
+      "01/04",
+      "01/04"
+    ]
   }
 }
