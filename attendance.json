@@ -267,9 +267,9 @@
       },
       {
         "id": "st_1774837028303",
-        "name": "سليمان احمد وزيري",
+        "name": "سليمان احمد سليمان",
         "phone": "",
-        "parentName": "",
+        "parentName": "احمد سليمان",
         "joiningDate": "25/03/2026",
         "sessions": [
           1,
@@ -283,7 +283,7 @@
         ],
         "paid": false,
         "payment": 0.0,
-        "expectedPayment": 0.0,
+        "expectedPayment": 160.0,
         "pin": "slym2432",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
