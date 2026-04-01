@@ -879,7 +879,7 @@
         "joiningDate": "01/04/2026",
         "sessions": [
           2,
-          0,
+          1,
           0,
           0,
           0,
@@ -901,7 +901,7 @@
     ],
     "sessionDates": [
       "01/04",
-      null,
+      "01/04",
       null,
       null,
       null,
