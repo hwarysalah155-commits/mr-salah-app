@@ -1,17 +1,4 @@
 {
-  "g_default_1-2026-3": {
-    "students": [],
-    "sessionDates": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
-  },
   "g_default_2-2026-3": {
     "students": [],
     "sessionDates": [
@@ -407,7 +394,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
+          1,
           0,
           0,
           0,
@@ -434,7 +421,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
+          1,
           0,
           0,
           0,
@@ -461,7 +448,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
+          1,
           0,
           0,
           0,
@@ -488,7 +475,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
+          1,
           0,
           0,
           0,
@@ -515,7 +502,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
+          1,
           0,
           0,
           0,
@@ -542,7 +529,7 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
+          1,
           0,
           0,
           0,
@@ -564,7 +551,7 @@
       }
     ],
     "sessionDates": [
-      null,
+      "01/04",
       null,
       null,
       null,
@@ -765,33 +752,6 @@
         "examScores": [],
         "homeworks": [],
         "eval": {}
-      },
-      {
-        "id": "st_1775000484443",
-        "name": "محمد رفعت علي",
-        "phone": "",
-        "parentName": "",
-        "joiningDate": "01/04/2026",
-        "sessions": [
-          1,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "paid": false,
-        "payment": 0.0,
-        "expectedPayment": 0.0,
-        "pin": "mhmd1569",
-        "grade": null,
-        "imagePath": null,
-        "notes": [],
-        "examScores": [],
-        "homeworks": [],
-        "eval": {}
       }
     ],
     "sessionDates": [
@@ -858,19 +818,6 @@
     ]
   },
   "g_1774541493317-2026-4": {
-    "students": [],
-    "sessionDates": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
-    ]
-  },
-  "g_default_1-2026-4": {
     "students": [],
     "sessionDates": [
       null,
