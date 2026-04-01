@@ -1644,7 +1644,7 @@
         "parentName": "",
         "joiningDate": "01/04/2026",
         "pin": "mhmd6430",
-        "grade": null,
+        "grade": "الصف الأول الابتدائي",
         "imagePath": null,
         "months": [
           {
@@ -1675,7 +1675,72 @@
               null,
               null
             ],
-            "eval": {},
+            "eval": {
+              "sess_0": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_1": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_2": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_3": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_4": {
+                "checks": [
+                  true,
+                  false,
+                  false
+                ],
+                "score": null
+              },
+              "sess_5": {
+                "checks": [
+                  true,
+                  false,
+                  false
+                ],
+                "score": null
+              },
+              "sess_6": {
+                "checks": [
+                  true,
+                  false,
+                  false
+                ],
+                "score": null
+              },
+              "sess_7": {
+                "checks": [
+                  true,
+                  false,
+                  false
+                ],
+                "score": null
+              }
+            },
             "notes": [],
             "examScores": [],
             "homeworks": []
