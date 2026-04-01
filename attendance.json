@@ -400,23 +400,14 @@
         ],
         "paid": false,
         "payment": 0.0,
-        "expectedPayment": 0.0,
+        "expectedPayment": 160.0,
         "pin": "frh1941",
         "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
         "notes": [],
         "examScores": [],
         "homeworks": [],
-        "eval": {
-          "sess_7": {
-            "checks": [
-              false,
-              false,
-              true
-            ],
-            "score": 6.5
-          }
-        }
+        "eval": {}
       }
     ],
     "sessionDates": [
