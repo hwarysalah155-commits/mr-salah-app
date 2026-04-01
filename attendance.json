@@ -712,11 +712,11 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          2,
           0,
           0,
           0
@@ -841,7 +841,16 @@
         "notes": [],
         "examScores": [],
         "homeworks": [],
-        "eval": {}
+        "eval": {
+          "sess_6": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10.0
+          }
+        }
       },
       {
         "id": "st_1774837028317",
@@ -850,11 +859,11 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
           0,
           0,
           0
@@ -868,7 +877,16 @@
         "notes": [],
         "examScores": [],
         "homeworks": [],
-        "eval": {}
+        "eval": {
+          "sess_6": {
+            "checks": [
+              false,
+              false,
+              true
+            ],
+            "score": 10.0
+          }
+        }
       },
       {
         "id": "st_1775052493999",
@@ -895,7 +913,16 @@
         "notes": [],
         "examScores": [],
         "homeworks": [],
-        "eval": {}
+        "eval": {
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              true
+            ],
+            "score": 0.0
+          }
+        }
       },
       {
         "id": "st_1775052579557",
