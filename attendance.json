@@ -786,7 +786,7 @@
             "checks": [
               false,
               true,
-              false
+              true
             ],
             "score": null
           },
@@ -794,7 +794,7 @@
             "checks": [
               false,
               true,
-              false
+              true
             ],
             "score": null
           },
@@ -802,9 +802,17 @@
             "checks": [
               false,
               true,
-              false
+              true
             ],
             "score": null
+          },
+          "sess_6": {
+            "checks": [
+              false,
+              true,
+              true
+            ],
+            "score": 10.0
           }
         }
       },
