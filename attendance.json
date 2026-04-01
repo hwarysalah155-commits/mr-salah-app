@@ -244,8 +244,8 @@
             "startDate": "25/03/2026",
             "endDate": null,
             "isClosed": false,
-            "paid": false,
-            "payment": 0.0,
+            "paid": true,
+            "payment": 2.0,
             "expectedPayment": 0.0,
             "sessions": [
               1,
