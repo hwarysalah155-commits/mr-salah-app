@@ -275,6 +275,14 @@
                   true
                 ],
                 "score": 8.0
+              },
+              "sess_5": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
               }
             },
             "notes": [],
