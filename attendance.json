@@ -757,7 +757,56 @@
         "notes": [],
         "examScores": [],
         "homeworks": [],
-        "eval": {}
+        "eval": {
+          "sess_0": {
+            "checks": [
+              false,
+              false,
+              true
+            ],
+            "score": null
+          },
+          "sess_1": {
+            "checks": [
+              false,
+              false,
+              true
+            ],
+            "score": null
+          },
+          "sess_2": {
+            "checks": [
+              false,
+              false,
+              true
+            ],
+            "score": null
+          },
+          "sess_3": {
+            "checks": [
+              false,
+              true,
+              false
+            ],
+            "score": null
+          },
+          "sess_4": {
+            "checks": [
+              false,
+              true,
+              false
+            ],
+            "score": null
+          },
+          "sess_5": {
+            "checks": [
+              false,
+              true,
+              false
+            ],
+            "score": null
+          }
+        }
       },
       {
         "id": "st_1774837028316",
@@ -766,13 +815,13 @@
         "parentName": "",
         "joiningDate": "25/03/2026",
         "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           0
         ],
         "paid": false,
@@ -956,7 +1005,7 @@
       "01/04",
       "01/04",
       "01/04",
-      null,
+      "01/04",
       null
     ]
   },
