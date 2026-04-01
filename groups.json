@@ -607,6 +607,33 @@
         "examScores": [],
         "homeworks": [],
         "eval": {}
+      },
+      {
+        "id": "st_1775053049234",
+        "name": "هنا محمد مبارك",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "01/04/2026",
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "paid": false,
+        "payment": 0.0,
+        "expectedPayment": 0.0,
+        "pin": "hnax7569",
+        "grade": null,
+        "imagePath": null,
+        "notes": [],
+        "examScores": [],
+        "homeworks": [],
+        "eval": {}
       }
     ]
   },
