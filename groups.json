@@ -1398,7 +1398,19 @@
     "days": "إثنين وخميس",
     "time": "12:00",
     "paused": false,
-    "students": []
+    "students": [
+      {
+        "id": "st_1775131608216",
+        "name": "زياد محمد ثابت",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "02/04/2026",
+        "pin": "zyad6383",
+        "grade": null,
+        "imagePath": null,
+        "months": []
+      }
+    ]
   },
   {
     "id": "g_default_1",
