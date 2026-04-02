@@ -1814,9 +1814,9 @@
           {
             "monthNumber": 3,
             "startDate": "01/04/2026",
-            "endDate": null,
-            "isClosed": false,
-            "paid": false,
+            "endDate": "02/04/2026",
+            "isClosed": true,
+            "paid": true,
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
@@ -1827,7 +1827,7 @@
               1,
               1,
               1,
-              1
+              2
             ],
             "sessionDates": [
               null,
@@ -1879,6 +1879,39 @@
                 "text": "السلام عليكم ورحمه الله تعالى وبركاته اهلا بكم في فيديو جديد على قناه جوشن"
               }
             ],
+            "examScores": [],
+            "homeworks": []
+          },
+          {
+            "monthNumber": 4,
+            "startDate": "02/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
             "examScores": [],
             "homeworks": []
           }
