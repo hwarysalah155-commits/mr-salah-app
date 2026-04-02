@@ -2302,10 +2302,10 @@
         "id": "st_1775131608216",
         "name": "زياد محمد ثابت",
         "phone": "",
-        "parentName": "",
+        "parentName": "محمد ثابت",
         "joiningDate": "02/04/2026",
         "pin": "zyad6383",
-        "grade": null,
+        "grade": "الصف الأول الإعدادي",
         "imagePath": null,
         "months": [
           {
@@ -2348,7 +2348,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 600.0,
             "sessions": [
               1,
               0,
