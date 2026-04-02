@@ -2094,10 +2094,10 @@
         "id": "st_1775014040387",
         "name": "بشاير احمد سليمان",
         "phone": "",
-        "parentName": "",
+        "parentName": "احمد سليمان",
         "joiningDate": "01/04/2026",
         "pin": "bsha5588",
-        "grade": null,
+        "grade": "الصف الخامس الابتدائي",
         "imagePath": null,
         "months": [
           {
@@ -2107,7 +2107,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 700.0,
             "sessions": [
               1,
               1,
