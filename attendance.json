@@ -1839,8 +1839,46 @@
               null,
               null
             ],
-            "eval": {},
-            "notes": [],
+            "eval": {
+              "sess_0": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_1": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_2": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_3": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              }
+            },
+            "notes": [
+              {
+                "date": "2/4/2026",
+                "text": "السلام عليكم ورحمه الله تعالى وبركاته اهلا بكم في فيديو جديد على قناه جوشن"
+              }
+            ],
             "examScores": [],
             "homeworks": []
           }
