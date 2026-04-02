@@ -2375,6 +2375,84 @@
             "homeworks": []
           }
         ]
+      },
+      {
+        "id": "st_1775131635051",
+        "name": "شهد محمود ابراهيم",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "02/04/2026",
+        "pin": "shhd1978",
+        "grade": null,
+        "imagePath": null,
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "02/04/2026",
+            "endDate": "02/04/2026",
+            "isClosed": true,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          },
+          {
+            "monthNumber": 2,
+            "startDate": "02/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ],
     "sessionDates": [
