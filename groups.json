@@ -1420,6 +1420,17 @@
         "grade": null,
         "imagePath": null,
         "months": []
+      },
+      {
+        "id": "st_1775131668549",
+        "name": "زيد محمد ثابت",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "02/04/2026",
+        "pin": "zydx5385",
+        "grade": null,
+        "imagePath": null,
+        "months": []
       }
     ]
   },
