@@ -1669,7 +1669,53 @@
     ]
   },
   "g_default_2-2026-4": {
-    "students": [],
+    "students": [
+      {
+        "id": "st_1775077156729",
+        "name": "محمد حماده حماد",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "01/04/2026",
+        "pin": "mhmd6430",
+        "grade": null,
+        "imagePath": null,
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "01/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
+      }
+    ],
     "sessionDates": [
       "04/04",
       "06/04",
@@ -1970,12 +2016,12 @@
             "expectedPayment": 600.0,
             "sessions": [
               1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
@@ -2057,12 +2103,12 @@
             "expectedPayment": 0.0,
             "sessions": [
               1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
@@ -2144,12 +2190,12 @@
             "expectedPayment": 0.0,
             "sessions": [
               1,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
