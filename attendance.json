@@ -1689,7 +1689,7 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
+              1,
               0,
               0,
               0,
