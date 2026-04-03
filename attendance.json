@@ -1800,7 +1800,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 10.0
               },
               "sess_1": {
                 "checks": [
@@ -1808,7 +1808,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 10.0
               },
               "sess_2": {
                 "checks": [
@@ -1816,7 +1816,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 10.0
               },
               "sess_3": {
                 "checks": [
@@ -1824,7 +1824,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 10.0
               },
               "sess_4": {
                 "checks": [
@@ -1832,7 +1832,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 10.0
               },
               "sess_5": {
                 "checks": [
@@ -1840,7 +1840,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 9.0
               },
               "sess_6": {
                 "checks": [
@@ -1848,7 +1848,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 9.0
               },
               "sess_7": {
                 "checks": [
@@ -1856,7 +1856,7 @@
                   true,
                   true
                 ],
-                "score": null
+                "score": 10.0
               }
             },
             "notes": [],
