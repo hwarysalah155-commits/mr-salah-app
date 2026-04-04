@@ -2873,10 +2873,10 @@
         "id": "st_1775308338858",
         "name": "معاذ عبدالله فتحي",
         "phone": "",
-        "parentName": "",
+        "parentName": "عبدالله فتحي",
         "joiningDate": "04/04/2026",
         "pin": "maaz6721",
-        "grade": null,
+        "grade": "الصف الخامس الابتدائي",
         "imagePath": null,
         "months": [
           {
@@ -2886,7 +2886,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 450.0,
             "sessions": [
               1,
               1,
@@ -2955,6 +2955,108 @@
                   true
                 ],
                 "score": null
+              },
+              "sess_6": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              }
+            },
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
+      },
+      {
+        "id": "st_1775308488835",
+        "name": "بسمة حسن فتحي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "bsmh4847",
+        "grade": null,
+        "imagePath": null,
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {
+              "sess_0": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_1": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_2": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_3": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_4": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_5": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 5.0
               },
               "sess_6": {
                 "checks": [
