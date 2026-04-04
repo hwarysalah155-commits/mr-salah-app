@@ -2365,10 +2365,10 @@
         "id": "st_1775299437940",
         "name": "شاكر محمد رفعت",
         "phone": "",
-        "parentName": "",
+        "parentName": "محمد رفعت",
         "joiningDate": "04/04/2026",
         "pin": "shak2199",
-        "grade": null,
+        "grade": "الصف الأول الإعدادي",
         "imagePath": null,
         "months": [
           {
@@ -2378,7 +2378,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 450.0,
             "sessions": [
               1,
               1,
