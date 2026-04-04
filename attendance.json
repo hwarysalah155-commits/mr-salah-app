@@ -3077,10 +3077,10 @@
         "id": "st_1775310398254",
         "name": "جنى حسن فتحي",
         "phone": "",
-        "parentName": "",
+        "parentName": "حسن فتحي",
         "joiningDate": "04/04/2026",
         "pin": "jnyx8921",
-        "grade": null,
+        "grade": "الصف الثالث الابتدائي",
         "imagePath": null,
         "months": [
           {
@@ -3090,7 +3090,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 450.0,
             "sessions": [
               1,
               1,
@@ -3162,11 +3162,11 @@
               },
               "sess_6": {
                 "checks": [
-                  true,
-                  true,
+                  false,
+                  false,
                   false
                 ],
-                "score": null
+                "score": 0.0
               }
             },
             "notes": [],
