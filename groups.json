@@ -1583,5 +1583,36 @@
         "months": []
       }
     ]
+  },
+  {
+    "id": "g_1775304315200",
+    "name": "مجموعة علي ايمن",
+    "days": "سبت وثلاثاء",
+    "time": "13:30",
+    "paused": false,
+    "students": [
+      {
+        "id": "st_1775304329920",
+        "name": "وسام حسن فتحي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "wsam6525",
+        "grade": null,
+        "imagePath": null,
+        "months": []
+      },
+      {
+        "id": "st_1775304340796",
+        "name": "بوان محمد فتحي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "bwan8285",
+        "grade": null,
+        "imagePath": null,
+        "months": []
+      }
+    ]
   }
 ]
