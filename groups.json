@@ -1645,6 +1645,17 @@
         "grade": null,
         "imagePath": null,
         "months": []
+      },
+      {
+        "id": "st_1775311065396",
+        "name": "ادم عبدالله فتحي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "admx8642",
+        "grade": null,
+        "imagePath": null,
+        "months": []
       }
     ]
   }
