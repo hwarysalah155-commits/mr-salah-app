@@ -2255,10 +2255,10 @@
         "id": "st_1775299231527",
         "name": "محمود محمد محمود",
         "phone": "",
-        "parentName": "",
+        "parentName": "محمد محمود",
         "joiningDate": "04/04/2026",
         "pin": "mhmw8337",
-        "grade": null,
+        "grade": "الصف الأول الإعدادي",
         "imagePath": null,
         "months": [
           {
@@ -2268,7 +2268,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 450.0,
             "sessions": [
               0,
               0,
@@ -2380,13 +2380,13 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
@@ -2399,7 +2399,72 @@
               null,
               null
             ],
-            "eval": {},
+            "eval": {
+              "sess_0": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_1": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_2": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_3": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_4": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_5": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_6": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_7": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 10.0
+              }
+            },
             "notes": [],
             "examScores": [],
             "homeworks": []
