@@ -2975,10 +2975,10 @@
         "id": "st_1775308488835",
         "name": "بسمة حسن فتحي",
         "phone": "",
-        "parentName": "",
+        "parentName": "حسن فتحي",
         "joiningDate": "04/04/2026",
         "pin": "bsmh4847",
-        "grade": null,
+        "grade": "الصف الخامس الابتدائي",
         "imagePath": null,
         "months": [
           {
@@ -2988,7 +2988,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 450.0,
             "sessions": [
               1,
               1,
