@@ -2936,7 +2936,7 @@
                 "checks": [
                   true,
                   true,
-                  true
+                  false
                 ],
                 "score": 6.0
               },
@@ -2944,7 +2944,7 @@
                 "checks": [
                   true,
                   true,
-                  true
+                  false
                 ],
                 "score": null
               },
@@ -2960,9 +2960,9 @@
                 "checks": [
                   true,
                   true,
-                  true
+                  false
                 ],
-                "score": null
+                "score": 8.0
               }
             },
             "notes": [],
@@ -3081,7 +3081,7 @@
       "10/03",
       "14/03",
       "28/03",
-      "31/03",
+      "04/04",
       null
     ]
   }
