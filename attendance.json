@@ -3072,6 +3072,108 @@
             "homeworks": []
           }
         ]
+      },
+      {
+        "id": "st_1775310398254",
+        "name": "جني حسن فتحي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "jnyx8921",
+        "grade": null,
+        "imagePath": null,
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {
+              "sess_0": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": 5.0
+              },
+              "sess_1": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_2": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_3": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_4": {
+                "checks": [
+                  false,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_5": {
+                "checks": [
+                  true,
+                  true,
+                  false
+                ],
+                "score": 4.0
+              },
+              "sess_6": {
+                "checks": [
+                  true,
+                  true,
+                  false
+                ],
+                "score": null
+              }
+            },
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ],
     "sessionDates": [
