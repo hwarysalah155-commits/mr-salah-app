@@ -2868,6 +2868,108 @@
             "homeworks": []
           }
         ]
+      },
+      {
+        "id": "st_1775308338858",
+        "name": "معاذ عبدالله فتحي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "maaz6721",
+        "grade": null,
+        "imagePath": null,
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {
+              "sess_0": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 10.0
+              },
+              "sess_1": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 10.0
+              },
+              "sess_2": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 8.0
+              },
+              "sess_3": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 6.0
+              },
+              "sess_4": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_5": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_6": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              }
+            },
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ],
     "sessionDates": [
