@@ -2765,10 +2765,10 @@
         "id": "st_1775304329920",
         "name": "وسام حسن فتحي",
         "phone": "",
-        "parentName": "",
+        "parentName": "حسن فتحي",
         "joiningDate": "04/04/2026",
         "pin": "wsam6525",
-        "grade": null,
+        "grade": "الصف الأول الإعدادي",
         "imagePath": null,
         "months": [
           {
@@ -2778,7 +2778,7 @@
             "isClosed": false,
             "paid": false,
             "payment": 0.0,
-            "expectedPayment": 0.0,
+            "expectedPayment": 450.0,
             "sessions": [
               1,
               1,
