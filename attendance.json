@@ -2289,7 +2289,72 @@
               null,
               null
             ],
-            "eval": {},
+            "eval": {
+              "sess_7": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": 10.0
+              },
+              "sess_6": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_5": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_4": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_3": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_2": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_1": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              },
+              "sess_0": {
+                "checks": [
+                  true,
+                  true,
+                  true
+                ],
+                "score": null
+              }
+            },
             "notes": [],
             "examScores": [],
             "homeworks": []
