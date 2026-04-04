@@ -2780,10 +2780,10 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
               0,
               0,
               0,
@@ -2825,10 +2825,10 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
               0,
               0,
               0,
@@ -2853,12 +2853,12 @@
       }
     ],
     "sessionDates": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null,
+      "28/02",
+      "03/03",
+      "07/03",
+      "10/03",
+      "14/03",
+      "17/03",
       null,
       null
     ]
