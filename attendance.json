@@ -2264,8 +2264,8 @@
           {
             "monthNumber": 1,
             "startDate": "04/04/2026",
-            "endDate": null,
-            "isClosed": false,
+            "endDate": "04/04/2026",
+            "isClosed": true,
             "paid": false,
             "payment": 0.0,
             "expectedPayment": 450.0,
@@ -2275,7 +2275,7 @@
               1,
               1,
               1,
-              0,
+              1,
               1,
               1
             ],
@@ -2358,6 +2358,39 @@
             "notes": [],
             "examScores": [],
             "homeworks": []
+          },
+          {
+            "monthNumber": 2,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
           }
         ]
       },
@@ -2374,8 +2407,8 @@
           {
             "monthNumber": 1,
             "startDate": "04/04/2026",
-            "endDate": null,
-            "isClosed": false,
+            "endDate": "04/04/2026",
+            "isClosed": true,
             "paid": false,
             "payment": 0.0,
             "expectedPayment": 450.0,
@@ -2387,7 +2420,7 @@
               1,
               1,
               1,
-              0
+              1
             ],
             "sessionDates": [
               null,
@@ -2468,6 +2501,39 @@
             "notes": [],
             "examScores": [],
             "homeworks": []
+          },
+          {
+            "monthNumber": 2,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              1,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
           }
         ]
       },
@@ -2490,13 +2556,13 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
@@ -2535,13 +2601,13 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
@@ -2580,13 +2646,13 @@
             "payment": 0.0,
             "expectedPayment": 0.0,
             "sessions": [
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "sessionDates": [
