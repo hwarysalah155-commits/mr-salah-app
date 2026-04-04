@@ -1526,6 +1526,18 @@
     "days": "سبت وثلاثاء",
     "time": "17:00",
     "paused": false,
-    "students": []
+    "students": [
+      {
+        "id": "st_1775299231527",
+        "name": "محمود محمد محمود",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "04/04/2026",
+        "pin": "mhmw8337",
+        "grade": null,
+        "imagePath": null,
+        "months": []
+      }
+    ]
   }
 ]
