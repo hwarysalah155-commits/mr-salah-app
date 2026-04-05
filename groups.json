@@ -729,6 +729,28 @@
         "grade": null,
         "imagePath": null,
         "months": []
+      },
+      {
+        "id": "st_1775388423357",
+        "name": "محمد صابر الزناتي",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "05/04/2026",
+        "pin": "mhmd9296",
+        "grade": null,
+        "imagePath": null,
+        "months": []
+      },
+      {
+        "id": "st_1775388450488",
+        "name": "مروان محمود مبارك",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "05/04/2026",
+        "pin": "mrwa8303",
+        "grade": null,
+        "imagePath": null,
+        "months": []
       }
     ]
   },
