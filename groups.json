@@ -1536,7 +1536,41 @@
         "pin": "mhmw8337",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775299437940",
@@ -1547,7 +1581,41 @@
         "pin": "shak2199",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775299459726",
@@ -1558,7 +1626,41 @@
         "pin": "mrwa6222",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775299480676",
@@ -1569,7 +1671,41 @@
         "pin": "yasy2989",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775299500006",
@@ -1580,7 +1716,41 @@
         "pin": "mnhx7432",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       }
     ]
   },
@@ -1600,7 +1770,41 @@
         "pin": "wsam6525",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775304340796",
@@ -1611,7 +1815,41 @@
         "pin": "bwan8285",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775308338858",
@@ -1622,7 +1860,41 @@
         "pin": "maaz6721",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775308488835",
@@ -1633,7 +1905,41 @@
         "pin": "bsmh4847",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775310398254",
@@ -1644,7 +1950,41 @@
         "pin": "jnyx8921",
         "grade": null,
         "imagePath": null,
-        "months": []
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
       },
       {
         "id": "st_1775311065396",
@@ -1653,6 +1993,60 @@
         "parentName": "",
         "joiningDate": "04/04/2026",
         "pin": "admx8642",
+        "grade": null,
+        "imagePath": null,
+        "months": [
+          {
+            "monthNumber": 1,
+            "startDate": "04/04/2026",
+            "endDate": null,
+            "isClosed": false,
+            "paid": false,
+            "payment": 0.0,
+            "expectedPayment": 0.0,
+            "sessions": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "sessionDates": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "eval": {},
+            "notes": [],
+            "examScores": [],
+            "homeworks": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "g_1775387995477",
+    "name": "تنب",
+    "days": "أحد وأربعاء",
+    "time": "00:00",
+    "paused": false,
+    "students": [
+      {
+        "id": "st_1775388010274",
+        "name": "علي عادل امام",
+        "phone": "",
+        "parentName": "",
+        "joiningDate": "05/04/2026",
+        "pin": "alyx1982",
         "grade": null,
         "imagePath": null,
         "months": []
