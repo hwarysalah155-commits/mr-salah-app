@@ -1,6 +1,5 @@
 {
   "groupId": "g_default_5",
-  "groupName": "الصف الخامس الابتدائي",
   "sessionDates": [
     "05/04",
     "01/04",
@@ -18,25 +17,21 @@
       "name": "شريف عزت السوداني",
       "grade": "الصف الخامس الابتدائي",
       "joiningDate": "25/03/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "25/03/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     }
   ]
 }
