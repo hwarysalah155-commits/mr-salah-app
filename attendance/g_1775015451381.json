@@ -1,6 +1,5 @@
 {
   "groupId": "g_1775015451381",
-  "groupName": "مجموعة زياد وشهد ويزيد",
   "sessionDates": [
     "02/04",
     "02/04",
@@ -18,25 +17,21 @@
       "name": "زياد محمد ثابت",
       "grade": "مجموعة زياد وشهد ويزيد",
       "joiningDate": "02/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "02/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775131635051",
@@ -44,25 +39,21 @@
       "name": "شهد محمود ابراهيم",
       "grade": "مجموعة زياد وشهد ويزيد",
       "joiningDate": "02/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "02/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775131668549",
@@ -70,25 +61,21 @@
       "name": "زيد محمد ثابت",
       "grade": "مجموعة زياد وشهد ويزيد",
       "joiningDate": "02/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "02/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     }
   ]
 }
