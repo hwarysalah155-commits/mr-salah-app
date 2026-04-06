@@ -1,0 +1,42 @@
+{
+  "groupId": "g_default_9",
+  "groupName": "الصف الثالث الإعدادي",
+  "sessionDates": [
+    "02/04",
+    "05/04",
+    "08/04",
+    "12/04",
+    "15/04",
+    "19/04",
+    "22/04",
+    "26/04"
+  ],
+  "students": [
+    {
+      "id": "st_1774837028318",
+      "pin": "abda6463",
+      "name": "عبدالوهاب احمد وزيري",
+      "grade": "الصف الثالث الإعدادي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}

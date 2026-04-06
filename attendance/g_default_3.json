@@ -1,0 +1,172 @@
+{
+  "groupId": "g_default_3",
+  "groupName": "الصف الثالث الابتدائي",
+  "sessionDates": [
+    "05/04",
+    "01/04",
+    "01/04",
+    "01/04",
+    "01/04",
+    "01/04",
+    "01/04",
+    "01/04"
+  ],
+  "students": [
+    {
+      "id": "st_1774837028301",
+      "pin": "mhmd2750",
+      "name": "محمد احمد ابراهيم",
+      "grade": "الصف الثالث الابتدائي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "st_1774837028302",
+      "pin": "abda6644",
+      "name": "عبدالرحمن ناصر احمد",
+      "grade": "الصف الثالث الابتدائي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "st_1774837028303",
+      "pin": "slym2432",
+      "name": "سليمان احمد وزيري",
+      "grade": "الصف الثالث الابتدائي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "st_1774837028304",
+      "pin": "jny3026",
+      "name": "جني إسلام",
+      "grade": "الصف الثالث الابتدائي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "st_1774837028305",
+      "pin": "mstf3362",
+      "name": "مصطفى عرفة",
+      "grade": "الصف الثالث الابتدائي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": "st_1774837028306",
+      "pin": "frh1941",
+      "name": "فرح محمود مبارك",
+      "grade": "الصف الثالث الابتدائي",
+      "joiningDate": "25/03/2026",
+      "currentMonth": {
+        "monthNumber": 1,
+        "startDate": "25/03/2026",
+        "endDate": null,
+        "isClosed": false,
+        "paid": false,
+        "payment": 0,
+        "expectedPayment": 0,
+        "sessions": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  ]
+}
