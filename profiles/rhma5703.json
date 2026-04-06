@@ -1,0 +1,35 @@
+{
+  "pin": "rhma5703",
+  "name": "رحمة محمود",
+  "phone": "",
+  "parentName": "",
+  "grade": "الصف السادس الابتدائي",
+  "groupId": "g_default_6",
+  "joiningDate": "25/03/2026",
+  "imagePath": null,
+  "monthHistory": [
+    {
+      "monthNumber": 1,
+      "startDate": "25/03/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0,
+      "expectedPayment": 0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  "eval": {},
+  "notes": [],
+  "examScores": [],
+  "homeworks": []
+}
