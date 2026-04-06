@@ -1,6 +1,5 @@
 {
   "groupId": "g_1775304315200",
-  "groupName": "مجموعة علي ايمن",
   "sessionDates": [
     "28/02",
     "03/03",
@@ -18,25 +17,21 @@
       "name": "وسام حسن فتحي",
       "grade": "مجموعة علي ايمن",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775304340796",
@@ -44,25 +39,21 @@
       "name": "بوان محمد فتحي",
       "grade": "مجموعة علي ايمن",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775308338858",
@@ -70,25 +61,21 @@
       "name": "معاذ عبدالله فتحي",
       "grade": "مجموعة علي ايمن",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775308488835",
@@ -96,25 +83,21 @@
       "name": "بسمة حسن فتحي",
       "grade": "مجموعة علي ايمن",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775310398254",
@@ -122,25 +105,21 @@
       "name": "جني حسن فتحي",
       "grade": "مجموعة علي ايمن",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775311065396",
@@ -148,25 +127,21 @@
       "name": "ادم عبدالله فتحي",
       "grade": "مجموعة علي ايمن",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     }
   ]
 }
