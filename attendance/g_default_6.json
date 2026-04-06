@@ -1,6 +1,5 @@
 {
   "groupId": "g_default_6",
-  "groupName": "الصف السادس الابتدائي",
   "sessionDates": [
     "01/04",
     "01/04",
@@ -18,25 +17,21 @@
       "name": "ملك أيمن جلال",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "25/03/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "25/03/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1774837028315",
@@ -44,25 +39,21 @@
       "name": "ندين مصطفي",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "25/03/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "25/03/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1774837028316",
@@ -70,25 +61,21 @@
       "name": "رحمة محمود",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "25/03/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "25/03/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1774837028317",
@@ -96,25 +83,21 @@
       "name": "احمد عرفة",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "25/03/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "25/03/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775052493999",
@@ -122,25 +105,21 @@
       "name": "براءموسي حسين",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "01/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "01/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775052579557",
@@ -148,25 +127,21 @@
       "name": "ياسين محمد حمدان",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "01/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "01/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775052939606",
@@ -174,25 +149,21 @@
       "name": "مي محمود عبدالعال",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "01/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "01/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775052998396",
@@ -200,25 +171,21 @@
       "name": "سمية ياسر فتحي",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "01/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "01/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     },
     {
       "id": "st_1775053049234",
@@ -226,25 +193,21 @@
       "name": "هنا محمد مبارك",
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "01/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "01/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     }
   ]
 }
