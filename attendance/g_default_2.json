@@ -1,6 +1,5 @@
 {
   "groupId": "g_default_2",
-  "groupName": "الصف الثاني الابتدائي",
   "sessionDates": [
     "04/04",
     "06/04",
@@ -18,25 +17,21 @@
       "name": "محمد حماده حماد",
       "grade": "الصف الثاني الابتدائي",
       "joiningDate": "01/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "01/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
     }
   ]
 }
