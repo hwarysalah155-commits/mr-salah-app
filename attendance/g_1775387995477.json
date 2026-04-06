@@ -1,0 +1,37 @@
+{
+  "groupId": "g_1775387995477",
+  "sessionDates": [
+    "06/04",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1775467187577",
+      "pin": "tary9525",
+      "name": "تاريخ التسجيل يبقى",
+      "grade": "",
+      "joiningDate": "06/04/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null
+    }
+  ]
+}
