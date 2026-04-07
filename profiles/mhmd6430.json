@@ -240,7 +240,14 @@
           "text": "غلب"
         }
       ],
-      "examScores": [],
+      "examScores": [
+        {
+          "title": "تتت",
+          "score": 25.0,
+          "outOf": 100.0,
+          "date": "7/4/2026"
+        }
+      ],
       "homeworks": [
         {
           "title": "بق",
