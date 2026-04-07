@@ -70,6 +70,14 @@
           "checks": [
             true,
             true,
+            true
+          ],
+          "score": null
+        },
+        "sess_5": {
+          "checks": [
+            true,
+            false,
             false
           ],
           "score": null
