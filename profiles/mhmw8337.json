@@ -119,7 +119,7 @@
         "sess_1": {
           "checks": [
             true,
-            false,
+            true,
             true
           ],
           "score": 10.0
@@ -127,7 +127,13 @@
       },
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "ح.د.٥و٦.وحد١٠",
+          "done": true,
+          "date": "07/04/2026"
+        }
+      ]
     }
   ]
 }
