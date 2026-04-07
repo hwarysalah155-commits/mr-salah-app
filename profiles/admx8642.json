@@ -40,6 +40,14 @@
             false,
             true
           ],
+          "score": 0.0
+        },
+        "sess_6": {
+          "checks": [
+            false,
+            true,
+            true
+          ],
           "score": null
         }
       },
