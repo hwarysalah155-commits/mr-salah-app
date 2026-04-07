@@ -52,8 +52,8 @@
         },
         "sess_5": {
           "checks": [
-            false,
-            false,
+            true,
+            true,
             true
           ],
           "score": 3.0
