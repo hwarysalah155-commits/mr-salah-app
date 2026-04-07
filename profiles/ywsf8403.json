@@ -49,6 +49,14 @@
             true
           ],
           "score": 5.0
+        },
+        "sess_2": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "score": 5.0
         }
       },
       "notes": [],
