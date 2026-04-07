@@ -14,14 +14,14 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ],
       "sessionDates": [
         null,
@@ -33,7 +33,16 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "score": null
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
