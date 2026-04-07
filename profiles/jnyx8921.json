@@ -54,7 +54,7 @@
           "checks": [
             false,
             false,
-            false
+            true
           ],
           "score": 3.0
         }
