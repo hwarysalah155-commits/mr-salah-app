@@ -31,7 +31,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775299437940",
@@ -53,7 +63,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775299459726",
@@ -75,7 +95,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775299480676",
@@ -97,7 +127,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775299500006",
@@ -119,7 +159,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     }
   ]
 }
