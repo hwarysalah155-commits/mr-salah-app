@@ -37,7 +37,7 @@
         "sess_6": {
           "checks": [
             true,
-            false,
+            true,
             true
           ],
           "score": 9.0
