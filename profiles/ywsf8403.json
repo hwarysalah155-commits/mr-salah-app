@@ -69,7 +69,7 @@
         "sess_6": {
           "checks": [
             true,
-            false,
+            true,
             false
           ],
           "score": null
