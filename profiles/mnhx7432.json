@@ -111,10 +111,10 @@
         "sess_1": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
-          "score": null
+          "score": 4.0
         }
       },
       "notes": [],
