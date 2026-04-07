@@ -57,6 +57,14 @@
             false
           ],
           "score": 5.0
+        },
+        "sess_7": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "score": 7.5
         }
       },
       "notes": [],
