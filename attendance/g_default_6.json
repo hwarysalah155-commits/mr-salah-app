@@ -31,7 +31,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1774837028315",
@@ -53,7 +63,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1774837028316",
@@ -75,7 +95,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1774837028317",
@@ -97,7 +127,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775052493999",
@@ -119,7 +159,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775052579557",
@@ -141,7 +191,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775052939606",
@@ -163,7 +223,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775052998396",
@@ -185,7 +255,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775053049234",
@@ -207,7 +287,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     }
   ]
 }
