@@ -4,8 +4,8 @@
     "name": "الصف الثاني الابتدائي",
     "days": "سبت وثلاثاء",
     "time": "00:00",
-    "paused": false,
-    "studentCount": 1
+    "paused": true,
+    "studentCount": 2
   },
   {
     "id": "g_default_3",
