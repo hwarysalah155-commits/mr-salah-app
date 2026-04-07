@@ -36,9 +36,9 @@
       "eval": {
         "sess_0": {
           "checks": [
-            false,
-            false,
-            false
+            true,
+            true,
+            true
           ],
           "score": null
         }
