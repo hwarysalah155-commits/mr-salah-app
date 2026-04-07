@@ -31,7 +31,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     }
   ]
 }
