@@ -33,8 +33,22 @@
         null,
         null
       ],
-      "eval": {},
-      "notes": [],
+      "eval": {
+        "sess_7": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "score": 10.0
+        }
+      },
+      "notes": [
+        {
+          "date": "7/4/2026",
+          "text": "في تحسن ملحوظ اتمني ان تستمروا في هذا التقدم"
+        }
+      ],
       "examScores": [],
       "homeworks": [
         {
