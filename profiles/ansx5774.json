@@ -33,7 +33,16 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_6": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "score": 9.0
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": [
