@@ -44,11 +44,11 @@
         },
         "sess_6": {
           "checks": [
-            false,
-            false,
+            true,
+            true,
             true
           ],
-          "score": null
+          "score": 6.5
         },
         "sess_5": {
           "checks": [
