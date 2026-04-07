@@ -115,6 +115,14 @@
             true
           ],
           "score": 4.0
+        },
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "score": null
         }
       },
       "notes": [],
