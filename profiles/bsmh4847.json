@@ -52,7 +52,7 @@
         },
         "sess_5": {
           "checks": [
-            false,
+            true,
             false,
             true
           ],
@@ -104,12 +104,12 @@
       "homeworks": [
         {
           "title": "حل الواجب ",
-          "done": false,
+          "done": true,
           "date": "07/04/2026"
         },
         {
           "title": "د.٦و٥.و٢",
-          "done": false,
+          "done": true,
           "date": "07/04/2026"
         }
       ]
