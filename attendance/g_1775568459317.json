@@ -1,0 +1,111 @@
+{
+  "groupId": "g_1775568459317",
+  "sessionDates": [
+    "07/04",
+    "07/04",
+    "07/04",
+    "07/04",
+    "07/04",
+    "07/04",
+    "07/04",
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1775568486225",
+      "pin": "admx7493",
+      "name": "ادم احمد شبيب",
+      "grade": "",
+      "joiningDate": "07/04/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1775568493175",
+      "pin": "ansx5774",
+      "name": "انس احمد شبيب",
+      "grade": "",
+      "joiningDate": "07/04/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1775568528909",
+      "pin": "alyx1424",
+      "name": "علي وائل علي",
+      "grade": "",
+      "joiningDate": "07/04/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}
