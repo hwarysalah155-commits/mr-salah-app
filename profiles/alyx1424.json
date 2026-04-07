@@ -40,12 +40,18 @@
             false,
             false
           ],
-          "score": null
+          "score": 9.0
         }
       },
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "حل تمارن الدرس الثاني الوحدة الثالثة ",
+          "done": false,
+          "date": "07/04/2026"
+        }
+      ]
     }
   ]
 }
