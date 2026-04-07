@@ -120,7 +120,7 @@
           "checks": [
             true,
             false,
-            false
+            true
           ],
           "score": 10.0
         }
