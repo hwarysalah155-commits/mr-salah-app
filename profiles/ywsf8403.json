@@ -65,6 +65,14 @@
             true
           ],
           "score": 7.5
+        },
+        "sess_6": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "score": null
         }
       },
       "notes": [],
