@@ -14,13 +14,13 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         0
       ],
       "sessionDates": [
@@ -33,10 +33,25 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_6": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "score": null
+        }
+      },
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "حل تمارن الدرس الثاني الوحدة الثالثة ",
+          "done": false,
+          "date": "07/04/2026"
+        }
+      ]
     }
   ]
 }
