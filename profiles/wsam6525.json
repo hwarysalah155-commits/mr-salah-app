@@ -49,6 +49,14 @@
             false
           ],
           "score": 8.0
+        },
+        "sess_5": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "score": 10.0
         }
       },
       "notes": [
