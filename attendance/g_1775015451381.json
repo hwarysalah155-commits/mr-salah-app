@@ -31,7 +31,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775131635051",
@@ -53,7 +63,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775131668549",
@@ -75,7 +95,17 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     }
   ]
 }
