@@ -36,7 +36,13 @@
       "eval": {},
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "حل الواجب ",
+          "done": true,
+          "date": "07/04/2026"
+        }
+      ]
     }
   ]
 }
