@@ -33,7 +33,7 @@
       "phone": "",
       "imagePath": null,
       "homeworks": [
-        false,
+        true,
         true,
         true,
         true,
