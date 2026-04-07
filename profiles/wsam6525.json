@@ -44,8 +44,8 @@
         },
         "sess_6": {
           "checks": [
-            false,
-            false,
+            true,
+            true,
             false
           ],
           "score": 8.0
@@ -53,8 +53,8 @@
         "sess_5": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "score": 10.0
         }
