@@ -86,5 +86,13 @@
     "time": "13:30",
     "paused": false,
     "studentCount": 7
+  },
+  {
+    "id": "g_1775568459317",
+    "name": "مجموعة ادم وأنس",
+    "days": "سبت وثلاثاء",
+    "time": "16:00",
+    "paused": false,
+    "studentCount": 0
   }
 ]
