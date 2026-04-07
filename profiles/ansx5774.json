@@ -38,7 +38,7 @@
           "checks": [
             true,
             false,
-            false
+            true
           ],
           "score": 9.0
         }
