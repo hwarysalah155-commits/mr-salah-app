@@ -61,6 +61,14 @@
         "sess_4": {
           "checks": [
             true,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_3": {
+          "checks": [
+            true,
             false,
             false
           ],
