@@ -52,7 +52,7 @@
         },
         "sess_5": {
           "checks": [
-            false,
+            true,
             false,
             false
           ],
