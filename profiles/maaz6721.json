@@ -37,8 +37,16 @@
         "sess_7": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
+          ],
+          "score": 7.0
+        },
+        "sess_6": {
+          "checks": [
+            true,
+            true,
+            true
           ],
           "score": null
         }
