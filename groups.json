@@ -1,0 +1,90 @@
+[
+  {
+    "id": "g_default_2",
+    "name": "الصف الثاني الابتدائي",
+    "days": "سبت وثلاثاء",
+    "time": "00:00",
+    "paused": false,
+    "studentCount": 1
+  },
+  {
+    "id": "g_default_3",
+    "name": "الصف الثالث الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "14:00",
+    "paused": false,
+    "studentCount": 6
+  },
+  {
+    "id": "g_default_4",
+    "name": "الصف الرابع الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "18:00",
+    "paused": false,
+    "studentCount": 7
+  },
+  {
+    "id": "g_default_5",
+    "name": "الصف الخامس الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "12:00",
+    "paused": false,
+    "studentCount": 1
+  },
+  {
+    "id": "g_default_6",
+    "name": "الصف السادس الابتدائي",
+    "days": "أحد وأربعاء",
+    "time": "16:00",
+    "paused": false,
+    "studentCount": 9
+  },
+  {
+    "id": "g_default_9",
+    "name": "الصف الثالث الإعدادي",
+    "days": "أحد وأربعاء",
+    "time": "15:00",
+    "paused": false,
+    "studentCount": 1
+  },
+  {
+    "id": "g_1775014029502",
+    "name": "مجموعة بشاير",
+    "days": "إثنين وخميس",
+    "time": "18:00",
+    "paused": false,
+    "studentCount": 1
+  },
+  {
+    "id": "g_1775015414079",
+    "name": "مجموعة يوسف ياسر بدران",
+    "days": "إثنين وخميس",
+    "time": "14:00",
+    "paused": false,
+    "studentCount": 3
+  },
+  {
+    "id": "g_1775015451381",
+    "name": "مجموعة زياد وشهد ويزيد",
+    "days": "إثنين وخميس",
+    "time": "12:00",
+    "paused": false,
+    "studentCount": 3
+  },
+  {
+    "id": "g_1775299207035",
+    "name": "مجموعة محمود وشاكر",
+    "days": "سبت وثلاثاء",
+    "time": "17:00",
+    "paused": false,
+    "studentCount": 5
+  },
+  {
+    "id": "g_1775304315200",
+    "name": "مجموعة علي ايمن",
+    "days": "سبت وثلاثاء",
+    "time": "13:30",
+    "paused": false,
+    "studentCount": 6
+  }
+]
