@@ -53,6 +53,14 @@
         "sess_5": {
           "checks": [
             true,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_4": {
+          "checks": [
+            true,
             false,
             false
           ],
