@@ -62,7 +62,7 @@
           "checks": [
             true,
             false,
-            false
+            true
           ],
           "score": 7.5
         }
