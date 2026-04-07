@@ -14,13 +14,13 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
         0
       ],
       "sessionDates": [
@@ -52,7 +52,14 @@
         }
       },
       "notes": [],
-      "examScores": [],
+      "examScores": [
+        {
+          "title": "فا",
+          "score": 699.0,
+          "outOf": 100.0,
+          "date": "7/4/2026"
+        }
+      ],
       "homeworks": []
     }
   ]
