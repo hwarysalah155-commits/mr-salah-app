@@ -8,6 +8,105 @@
     {
       "monthNumber": 1,
       "startDate": "25/03/2026",
+      "endDate": "07/04/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "05/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04"
+      ],
+      "eval": {
+        "sess_3": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "score": null
+        },
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "score": null
+        }
+      },
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "05/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "01/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "07/04/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
@@ -33,32 +132,7 @@
         null,
         null
       ],
-      "eval": {
-        "sess_3": {
-          "checks": [
-            false,
-            false,
-            false
-          ],
-          "score": null
-        },
-        "sess_0": {
-          "checks": [
-            true,
-            true,
-            true
-          ],
-          "score": null
-        },
-        "sess_1": {
-          "checks": [
-            true,
-            false,
-            false
-          ],
-          "score": null
-        }
-      },
+      "eval": {},
       "notes": [],
       "examScores": [],
       "homeworks": []
