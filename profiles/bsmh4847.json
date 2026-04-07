@@ -41,6 +41,38 @@
             true
           ],
           "score": null
+        },
+        "sess_6": {
+          "checks": [
+            false,
+            false,
+            true
+          ],
+          "score": null
+        },
+        "sess_5": {
+          "checks": [
+            false,
+            false,
+            true
+          ],
+          "score": null
+        },
+        "sess_4": {
+          "checks": [
+            false,
+            false,
+            true
+          ],
+          "score": null
+        },
+        "sess_3": {
+          "checks": [
+            false,
+            false,
+            true
+          ],
+          "score": null
         }
       },
       "notes": [],
