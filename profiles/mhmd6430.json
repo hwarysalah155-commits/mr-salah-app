@@ -19,9 +19,9 @@
         1,
         1,
         1,
+        1,
         2,
-        2,
-        0
+        1
       ],
       "sessionDates": [
         null,
@@ -60,7 +60,13 @@
           "date": "7/4/2026"
         }
       ],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "تنما",
+          "done": false,
+          "date": "7/4/2026"
+        }
+      ]
     }
   ]
 }
