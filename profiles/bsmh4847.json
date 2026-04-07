@@ -81,6 +81,14 @@
             true
           ],
           "score": null
+        },
+        "sess_1": {
+          "checks": [
+            false,
+            false,
+            true
+          ],
+          "score": null
         }
       },
       "notes": [],
