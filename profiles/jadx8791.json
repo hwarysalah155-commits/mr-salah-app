@@ -41,6 +41,30 @@
             true
           ],
           "score": 10.0
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_3": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "score": null
         }
       },
       "notes": [],
