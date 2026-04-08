@@ -36,11 +36,11 @@
       "eval": {
         "sess_7": {
           "checks": [
-            false,
             true,
-            false
+            true,
+            true
           ],
-          "score": null
+          "score": 9.0
         }
       },
       "notes": [],
