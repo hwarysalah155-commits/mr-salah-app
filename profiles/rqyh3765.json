@@ -1,21 +1,18 @@
 {
   "pin": "rqyh3765",
-  "name": "رقيه معتز منصور",
+  "imagePath": null,
   "phone": "",
   "parentName": "",
-  "grade": "الصف الرابع الابتدائي",
-  "groupId": "g_default_4",
   "joiningDate": "25/03/2026",
-  "imagePath": null,
-  "monthHistory": [
+  "months": [
     {
       "monthNumber": 1,
       "startDate": "25/03/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
-      "payment": 0,
-      "expectedPayment": 0,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
       "sessions": [
         0,
         0,
@@ -25,11 +22,28 @@
         0,
         0,
         0
-      ]
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [
+        {
+          "title": "امتحان الوحدة الثالثة",
+          "score": 19.0,
+          "outOf": 28.0,
+          "date": "08/04/2026"
+        }
+      ],
+      "homeworks": []
     }
-  ],
-  "eval": {},
-  "notes": [],
-  "examScores": [],
-  "homeworks": []
+  ]
 }
