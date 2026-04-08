@@ -61,10 +61,26 @@
         "sess_3": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "score": null
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_5": {
+          "checks": [
+            false,
+            true,
+            true
+          ],
+          "score": 4.0
         }
       },
       "notes": [],
