@@ -36,8 +36,8 @@
       "eval": {
         "sess_7": {
           "checks": [
-            true,
-            true,
+            false,
+            false,
             true
           ],
           "score": 9.6
