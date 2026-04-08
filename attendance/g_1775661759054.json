@@ -1,0 +1,47 @@
+{
+  "groupId": "g_1775661759054",
+  "sessionDates": [
+    "08/04",
+    "08/04",
+    "08/04",
+    "08/04",
+    "01/04",
+    "05/04",
+    "08/04",
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1775661779834",
+      "pin": "jadx8791",
+      "name": "جاد احمد جاد",
+      "grade": "",
+      "joiningDate": "08/04/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}
