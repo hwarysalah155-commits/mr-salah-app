@@ -43,7 +43,13 @@
           "date": "08/04/2026"
         }
       ],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "ح.د١ .و٤ ",
+          "done": false,
+          "date": "08/04/2026"
+        }
+      ]
     }
   ]
 }
