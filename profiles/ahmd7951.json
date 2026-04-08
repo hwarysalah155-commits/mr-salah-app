@@ -1,21 +1,92 @@
 {
   "pin": "ahmd7951",
-  "name": "احمد عرفة",
+  "imagePath": null,
   "phone": "",
   "parentName": "",
-  "grade": "الصف السادس الابتدائي",
-  "groupId": "g_default_6",
   "joiningDate": "25/03/2026",
-  "imagePath": null,
-  "monthHistory": [
+  "months": [
     {
       "monthNumber": 1,
       "startDate": "25/03/2026",
+      "endDate": "08/04/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "01/04",
+        "08/04"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "08/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "08/04/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
-      "payment": 0,
-      "expectedPayment": 0,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
       "sessions": [
         0,
         0,
@@ -25,11 +96,21 @@
         0,
         0,
         0
-      ]
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
-  ],
-  "eval": {},
-  "notes": [],
-  "examScores": [],
-  "homeworks": []
+  ]
 }
