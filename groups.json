@@ -94,5 +94,13 @@
     "time": "16:00",
     "paused": false,
     "studentCount": 3
+  },
+  {
+    "id": "g_1775661759054",
+    "name": "مجموعة جاد",
+    "days": "أحد وأربعاء",
+    "time": "17:00",
+    "paused": false,
+    "studentCount": 1
   }
 ]
