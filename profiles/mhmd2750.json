@@ -112,7 +112,15 @@
           "checks": [
             false,
             true,
-            false
+            true
+          ],
+          "score": 10.0
+        },
+        "sess_1": {
+          "checks": [
+            false,
+            true,
+            true
           ],
           "score": null
         }
