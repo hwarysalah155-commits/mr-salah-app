@@ -84,7 +84,7 @@
         },
         "sess_6": {
           "checks": [
-            false,
+            true,
             true,
             true
           ],
