@@ -14,8 +14,8 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
+        1,
+        1,
         0,
         0,
         0,
@@ -35,8 +35,21 @@
       ],
       "eval": {},
       "notes": [],
-      "examScores": [],
-      "homeworks": []
+      "examScores": [
+        {
+          "title": "امتحان الوحدة الثالثة",
+          "score": 3.0,
+          "outOf": 17.0,
+          "date": "08/04/2026"
+        }
+      ],
+      "homeworks": [
+        {
+          "title": "ح.د١ .و٤ ",
+          "done": false,
+          "date": "08/04/2026"
+        }
+      ]
     }
   ]
 }
