@@ -173,7 +173,7 @@
         "sess_0": {
           "checks": [
             true,
-            false,
+            true,
             false
           ],
           "score": 2.5
