@@ -122,9 +122,9 @@
           "checks": [
             true,
             true,
-            false
+            true
           ],
-          "score": null
+          "score": 8.5
         }
       },
       "notes": [],
