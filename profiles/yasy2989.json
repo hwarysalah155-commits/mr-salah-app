@@ -122,12 +122,12 @@
             true,
             true
           ],
-          "score": null
+          "score": 10.0
         },
         "sess_2": {
           "checks": [
             true,
-            false,
+            true,
             false
           ],
           "score": null
