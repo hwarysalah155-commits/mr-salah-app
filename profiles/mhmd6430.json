@@ -212,7 +212,7 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 220.0,
+      "expectedPayment": 450.0,
       "sessions": [
         0,
         0,
