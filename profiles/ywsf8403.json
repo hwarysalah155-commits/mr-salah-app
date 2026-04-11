@@ -169,7 +169,16 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "score": null
+        }
+      },
       "notes": [
         {
           "date": "11/4/2026",
