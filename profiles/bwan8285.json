@@ -8,11 +8,95 @@
     {
       "monthNumber": 1,
       "startDate": "04/04/2026",
+      "endDate": "11/04/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 450.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "28/02",
+        "03/03",
+        "07/03",
+        "10/03",
+        "14/03",
+        "28/03",
+        "04/04",
+        "06/04"
+      ],
+      "eval": {},
+      "notes": [
+        {
+          "date": "7/4/2026",
+          "text": "في تحسن ملحوظ اتمني ان تستمروا في هذا التقدم"
+        }
+      ],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "حل الواجب ",
+          "done": true,
+          "date": "07/04/2026"
+        },
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "28/02"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "03/03"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "07/03"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "10/03"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "14/03"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "28/03"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "04/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "06/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "11/04/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 450.0,
+      "expectedPayment": 0.0,
       "sessions": [
         0,
         0,
@@ -34,20 +118,9 @@
         null
       ],
       "eval": {},
-      "notes": [
-        {
-          "date": "7/4/2026",
-          "text": "في تحسن ملحوظ اتمني ان تستمروا في هذا التقدم"
-        }
-      ],
+      "notes": [],
       "examScores": [],
-      "homeworks": [
-        {
-          "title": "حل الواجب ",
-          "done": true,
-          "date": "07/04/2026"
-        }
-      ]
+      "homeworks": []
     }
   ]
 }
