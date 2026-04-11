@@ -111,7 +111,15 @@
         "sess_0": {
           "checks": [
             true,
-            false,
+            true,
+            true
+          ],
+          "score": null
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
             false
           ],
           "score": null
