@@ -116,12 +116,12 @@
         },
         {
           "title": "واجب الحصة 4",
-          "done": false,
+          "done": true,
           "date": "10/03"
         },
         {
           "title": "واجب الحصة 5",
-          "done": true,
+          "done": false,
           "date": "14/03"
         },
         {
