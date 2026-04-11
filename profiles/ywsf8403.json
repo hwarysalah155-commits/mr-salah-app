@@ -121,22 +121,22 @@
         },
         {
           "title": "واجب الحصة 5",
-          "done": false,
+          "done": true,
           "date": "14/03"
         },
         {
           "title": "واجب الحصة 6",
-          "done": false,
+          "done": true,
           "date": "28/03"
         },
         {
           "title": "واجب الحصة 7",
-          "done": false,
+          "done": true,
           "date": "04/04"
         },
         {
           "title": "واجب الحصة 8",
-          "done": true,
+          "done": false,
           "date": "06/04"
         }
       ]
