@@ -125,10 +125,10 @@
         "sess_0": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
-          "score": null
+          "score": 17.0
         }
       },
       "notes": [],
