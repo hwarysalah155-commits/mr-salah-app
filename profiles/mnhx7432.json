@@ -86,7 +86,7 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 300.0,
       "sessions": [
         1,
         1,
