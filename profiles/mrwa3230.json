@@ -169,7 +169,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -188,7 +188,20 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
