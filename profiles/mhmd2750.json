@@ -110,11 +110,15 @@
       "eval": {
         "sess_0": {
           "checks": [
-            false,
+            true,
             true,
             true
           ],
-          "score": 10.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_1": {
           "checks": [
@@ -122,7 +126,11 @@
             true,
             true
           ],
-          "score": 10.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
