@@ -122,9 +122,21 @@
         },
         "sess_1": {
           "checks": [
-            false,
+            true,
             true,
             true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            false,
+            false
           ],
           "scores": [
             null,
