@@ -102,5 +102,29 @@
     "time": "17:00",
     "paused": false,
     "studentCount": 1
+  },
+  {
+    "id": "g_default_1",
+    "name": "الصف الأول الابتدائي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "studentCount": 0
+  },
+  {
+    "id": "g_default_7",
+    "name": "الصف الأول الإعدادي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "studentCount": 0
+  },
+  {
+    "id": "g_default_8",
+    "name": "الصف الثاني الإعدادي",
+    "days": "غير محدد",
+    "time": "",
+    "paused": false,
+    "studentCount": 0
   }
 ]
