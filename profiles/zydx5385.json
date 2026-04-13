@@ -107,7 +107,20 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_1": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
