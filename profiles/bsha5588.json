@@ -112,10 +112,10 @@
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
-            null,
+            10.0,
             null,
             null
           ]
