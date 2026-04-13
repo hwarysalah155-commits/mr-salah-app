@@ -119,6 +119,18 @@
             5.0,
             10.0
           ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
