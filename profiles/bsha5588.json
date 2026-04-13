@@ -119,6 +119,18 @@
             null,
             null
           ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
