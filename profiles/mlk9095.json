@@ -250,6 +250,80 @@
     {
       "monthNumber": 4,
       "startDate": "12/04/2026",
+      "endDate": "13/04/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "09/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 5,
+      "startDate": "13/04/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
