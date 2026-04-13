@@ -1,21 +1,18 @@
 {
   "pin": "abda6463",
-  "name": "عبدالوهاب احمد وزيري",
+  "imagePath": null,
   "phone": "",
   "parentName": "",
-  "grade": "الصف الثالث الإعدادي",
-  "groupId": "g_default_9",
   "joiningDate": "25/03/2026",
-  "imagePath": null,
-  "monthHistory": [
+  "months": [
     {
       "monthNumber": 1,
       "startDate": "25/03/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
-      "payment": 0,
-      "expectedPayment": 0,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
       "sessions": [
         0,
         0,
@@ -25,11 +22,34 @@
         0,
         0,
         0
-      ]
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
-  ],
-  "eval": {},
-  "notes": [],
-  "examScores": [],
-  "homeworks": []
+  ]
 }
