@@ -111,7 +111,7 @@
         "sess_1": {
           "checks": [
             true,
-            false,
+            true,
             true
           ],
           "scores": [
