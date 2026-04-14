@@ -1,0 +1,58 @@
+[
+  {
+    "id": "first_quiz",
+    "title": "أول اختبار",
+    "description": "أتممت أول اختبار لك",
+    "icon": "target",
+    "earned": true,
+    "earnedDate": "2026-04-10T22:21:22.198416"
+  },
+  {
+    "id": "perfect_score",
+    "title": "نتيجة مثالية",
+    "description": "حصلت على 3 نجوم في أي اختبار",
+    "icon": "star",
+    "earned": true,
+    "earnedDate": "2026-04-10T22:21:22.198459"
+  },
+  {
+    "id": "streak_3",
+    "title": "3 أيام متتالية",
+    "description": "سجّلت دخولك 3 أيام متتالية",
+    "icon": "fire",
+    "earned": false,
+    "earnedDate": null
+  },
+  {
+    "id": "streak_7",
+    "title": "أسبوع كامل",
+    "description": "سجّلت دخولك 7 أيام متتالية",
+    "icon": "trophy",
+    "earned": false,
+    "earnedDate": null
+  },
+  {
+    "id": "unit_complete",
+    "title": "أتممت الوحدة",
+    "description": "أكملت جميع دروس الوحدة",
+    "icon": "school",
+    "earned": false,
+    "earnedDate": null
+  },
+  {
+    "id": "no_mistakes",
+    "title": "بلا أخطاء",
+    "description": "أتممت اختباراً دون خسارة أي حياة",
+    "icon": "diamond",
+    "earned": true,
+    "earnedDate": "2026-04-10T22:21:22.198463"
+  },
+  {
+    "id": "speed_demon",
+    "title": "سريع البرق",
+    "description": "أتممت اختباراً في أقل من دقيقتين",
+    "icon": "bolt",
+    "earned": false,
+    "earnedDate": null
+  }
+]
