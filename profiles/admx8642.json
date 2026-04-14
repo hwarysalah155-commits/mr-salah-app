@@ -97,6 +97,18 @@
         "sess_1": {
           "checks": [
             true,
+            true,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_0": {
+          "checks": [
+            true,
             false,
             false
           ],
