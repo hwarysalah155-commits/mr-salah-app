@@ -140,7 +140,7 @@
         },
         "sess_1": {
           "checks": [
-            false,
+            true,
             true,
             true
           ],
