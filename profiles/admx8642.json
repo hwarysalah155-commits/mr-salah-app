@@ -98,7 +98,7 @@
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             7.0,
