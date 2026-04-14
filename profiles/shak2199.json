@@ -143,6 +143,18 @@
             null,
             null
           ]
+        },
+        "sess_3": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
