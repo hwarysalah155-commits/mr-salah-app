@@ -155,6 +155,18 @@
             null,
             null
           ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
