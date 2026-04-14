@@ -114,7 +114,11 @@
             false,
             true
           ],
-          "score": 10.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_1": {
           "checks": [
@@ -122,7 +126,23 @@
             true,
             true
           ],
-          "score": 10.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
