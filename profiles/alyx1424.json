@@ -40,7 +40,11 @@
             true,
             false
           ],
-          "score": 9.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
@@ -128,7 +132,11 @@
             true,
             true
           ],
-          "score": 7.5
+          "scores": [
+            9.0,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
