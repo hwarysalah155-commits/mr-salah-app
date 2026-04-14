@@ -182,12 +182,12 @@
         "sess_1": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "scores": [
             null,
-            null,
+            4.0,
             null
           ]
         }
