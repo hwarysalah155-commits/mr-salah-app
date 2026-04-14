@@ -169,7 +169,7 @@
       "eval": {
         "sess_0": {
           "checks": [
-            false,
+            true,
             true,
             true
           ],
