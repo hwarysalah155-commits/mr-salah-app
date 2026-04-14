@@ -115,7 +115,7 @@
             true
           ],
           "scores": [
-            null,
+            10.0,
             null,
             null
           ]
@@ -159,8 +159,8 @@
         "sess_4": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "scores": [
             null,
