@@ -169,7 +169,12 @@
           ]
         }
       },
-      "notes": [],
+      "notes": [
+        {
+          "date": "14/4/2026",
+          "text": "بيحل من النت"
+        }
+      ],
       "examScores": [],
       "homeworks": [
         {
