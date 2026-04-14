@@ -101,7 +101,7 @@
             false
           ],
           "scores": [
-            null,
+            7.0,
             null,
             null
           ]
@@ -109,8 +109,8 @@
         "sess_0": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "scores": [
             null,
