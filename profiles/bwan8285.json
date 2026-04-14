@@ -124,7 +124,11 @@
             true,
             true
           ],
-          "score": 8.5
+          "scores": [
+            9.0,
+            null,
+            null
+          ]
         }
       },
       "notes": [
