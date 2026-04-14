@@ -124,7 +124,19 @@
           "checks": [
             true,
             true,
-            false
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
           ],
           "scores": [
             null,
