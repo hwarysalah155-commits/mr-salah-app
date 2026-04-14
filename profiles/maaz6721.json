@@ -40,7 +40,11 @@
             true,
             true
           ],
-          "score": 7.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_6": {
           "checks": [
@@ -48,7 +52,11 @@
             true,
             true
           ],
-          "score": 7.6
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
@@ -136,7 +144,23 @@
             true,
             true
           ],
-          "score": 8.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
