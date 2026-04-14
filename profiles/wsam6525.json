@@ -40,7 +40,11 @@
             true,
             true
           ],
-          "score": 10.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_6": {
           "checks": [
@@ -48,7 +52,11 @@
             true,
             true
           ],
-          "score": 8.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_5": {
           "checks": [
@@ -56,7 +64,11 @@
             true,
             true
           ],
-          "score": 10.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_4": {
           "checks": [
@@ -64,7 +76,11 @@
             true,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [
@@ -157,7 +173,23 @@
             true,
             true
           ],
-          "score": 8.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [
