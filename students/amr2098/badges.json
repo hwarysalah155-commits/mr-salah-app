@@ -52,7 +52,7 @@
     "title": "سريع البرق",
     "description": "أتممت اختباراً في أقل من دقيقتين",
     "icon": "bolt",
-    "earned": false,
-    "earnedDate": null
+    "earned": true,
+    "earnedDate": "2026-04-14T12:29:49.565668"
   }
 ]
