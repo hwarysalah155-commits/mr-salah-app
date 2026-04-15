@@ -1,0 +1,158 @@
+{
+  "grade": 4,
+  "term": 2,
+  "unit": 3,
+  "unit_title": "What's in the Package?",
+  "unit_title_ar": "ماذا بداخل العبوة؟",
+  "lesson": 1,
+  "lesson_title": "Sharing with Families",
+  "default_questions": {
+    "mcq": [
+      {
+        "q": "Every weekend, we visit the ......... to help people in need.",
+        "options": [
+          "cinema",
+          "neighborhood",
+          "museum",
+          "temple"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "We climb the ......... to reach the top floor.",
+        "options": [
+          "stars",
+          "stairs",
+          "trees",
+          "storms"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "I ......... to help my mother with cooking.",
+        "options": [
+          "read",
+          "walked",
+          "promised",
+          "corrected"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "The busy market was full ......... people from different neighborhoods.",
+        "options": [
+          "for",
+          "of",
+          "on",
+          "at"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "We bought a ......... of milk for tea.",
+        "options": [
+          "piece",
+          "carton",
+          "slice",
+          "pencil"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "My favorite fruits are apples and .........",
+        "options": [
+          "peaches",
+          "cucumbers",
+          "bread",
+          "potatoes"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "When the delivery man arrived, he ......... on the door.",
+        "options": [
+          "out",
+          "knocked",
+          "of",
+          "in"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "We need a ......... of chocolate for dessert.",
+        "options": [
+          "slice",
+          "carton",
+          "bottle",
+          "bar"
+        ],
+        "correct": 3
+      }
+    ],
+    "listening_tf": [
+      {
+        "q": "Kareem and Fatma prepared food packages for the tourists.",
+        "answer": false
+      },
+      {
+        "q": "They went to the market in the morning.",
+        "answer": true
+      },
+      {
+        "q": "The market was very busy.",
+        "answer": true
+      },
+      {
+        "q": "They packed the food carefully into bags.",
+        "answer": true
+      }
+    ],
+    "fill_in_blank": {
+      "text": "One morning, a small delivery truck came to our [1]. The driver brought boxes of vegetables and [2] for the families. Mother got [3] tomatoes, cucumbers, and apples. Everyone was happy to eat [4] food.",
+      "word_bank": [
+        "neighborhood",
+        "bad",
+        "fruits",
+        "fresh",
+        "healthy"
+      ],
+      "answers": [
+        "neighborhood",
+        "fruits",
+        "fresh",
+        "healthy"
+      ]
+    },
+    "sentence_order": [
+      {
+        "words": [
+          "food",
+          "help",
+          "to",
+          "brought",
+          "Students"
+        ],
+        "correct": "Students brought food to help"
+      },
+      {
+        "words": [
+          "a",
+          "milk",
+          "of",
+          "Take",
+          "carton"
+        ],
+        "correct": "Take a carton of milk"
+      },
+      {
+        "words": [
+          "help",
+          "Who",
+          "she",
+          "did"
+        ],
+        "correct": "Who did she help"
+      }
+    ]
+  }
+}
