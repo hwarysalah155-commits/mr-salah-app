@@ -352,6 +352,30 @@
       "eval": {
         "sess_7": {
           "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_6": {
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_5": {
+          "checks": [
             false,
             true,
             true
