@@ -1,0 +1,160 @@
+{
+  "grade": 4,
+  "term": 2,
+  "unit": 4,
+  "unit_title": "Let's Celebrate",
+  "unit_title_ar": "هيا نحتفل",
+  "lesson": 2,
+  "lesson_title": "End-of-Year Party",
+  "default_questions": {
+    "mcq": [
+      {
+        "q": "During the celebration, students wore special .........",
+        "options": [
+          "meals",
+          "clothes",
+          "hobbies",
+          "classes"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "The fireworks ......... up the sky with beautiful colors.",
+        "options": [
+          "the",
+          "lit",
+          "clapped",
+          "wore"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "I ......... photos of my friend's birthday party.",
+        "options": [
+          "played",
+          "took",
+          "deleted",
+          "forgot"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "We can't forget the celebration. It is .........",
+        "options": [
+          "forgettable",
+          "boring",
+          "bad",
+          "unforgettable"
+        ],
+        "correct": 3
+      },
+      {
+        "q": "There is a/an ......... table in the hall. It is very big.",
+        "options": [
+          "small",
+          "tiny",
+          "funny",
+          "enormous"
+        ],
+        "correct": 3
+      },
+      {
+        "q": "There is a wooden ......... around our garden.",
+        "options": [
+          "fan",
+          "balloon",
+          "fence",
+          "firework"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "The ......... teacher helped all the students with their lessons.",
+        "options": [
+          "kind",
+          "shiny",
+          "lazy",
+          "greedy"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "The school trip was ......... . We enjoyed it very much.",
+        "options": [
+          "fun",
+          "old",
+          "sad",
+          "young"
+        ],
+        "correct": 0
+      }
+    ],
+    "listening_tf": [
+      {
+        "q": "The school playground looked beautiful during the celebration.",
+        "answer": true
+      },
+      {
+        "q": "There were colorless balloons hanging from the fences.",
+        "answer": false
+      },
+      {
+        "q": "A band played a loud song.",
+        "answer": true
+      },
+      {
+        "q": "The teacher was happy because the playground looked clean.",
+        "answer": true
+      }
+    ],
+    "fill_in_blank": {
+      "text": "We had an amazing celebration at school. All students [1] special clothes for the school show. We started to [2] when students sang. We liked to [3] photos to remember the special moments. At night, there were [4] in the sky.",
+      "word_bank": [
+        "fireworks",
+        "clap",
+        "take",
+        "wore",
+        "shiny"
+      ],
+      "answers": [
+        "wore",
+        "clap",
+        "take",
+        "fireworks"
+      ]
+    },
+    "sentence_order": [
+      {
+        "words": [
+          "playground",
+          "The",
+          "school",
+          "beautiful",
+          "looked"
+        ],
+        "correct": "The school playground looked beautiful"
+      },
+      {
+        "words": [
+          "special",
+          "students",
+          "clothes",
+          "The",
+          "wore"
+        ],
+        "correct": "The students wore special clothes"
+      },
+      {
+        "words": [
+          "sky",
+          "fireworks",
+          "The",
+          "the",
+          "lit",
+          "up"
+        ],
+        "correct": "The fireworks lit up the sky"
+      }
+    ]
+  }
+}
