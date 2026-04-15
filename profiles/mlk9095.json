@@ -349,7 +349,20 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_7": {
+          "checks": [
+            false,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
