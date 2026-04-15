@@ -37,11 +37,11 @@
         "sess_0": {
           "checks": [
             true,
-            false,
+            true,
             true
           ],
           "scores": [
-            null,
+            10.0,
             null,
             null
           ]
