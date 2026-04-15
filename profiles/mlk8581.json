@@ -40,7 +40,11 @@
             false,
             false
           ],
-          "score": 9.6
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
@@ -116,7 +120,20 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
