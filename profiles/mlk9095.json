@@ -324,30 +324,30 @@
     {
       "monthNumber": 5,
       "startDate": "13/04/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "15/04/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04",
+        "09/04"
       ],
       "eval": {
         "sess_7": {
@@ -376,7 +376,67 @@
         },
         "sess_5": {
           "checks": [
-            false,
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_3": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_0": {
+          "checks": [
+            true,
             true,
             true
           ],
@@ -387,6 +447,80 @@
           ]
         }
       },
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "09/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 6,
+      "startDate": "15/04/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
       "notes": [],
       "examScores": [],
       "homeworks": []
