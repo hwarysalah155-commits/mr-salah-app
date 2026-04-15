@@ -141,7 +141,7 @@
         "sess_1": {
           "checks": [
             true,
-            false,
+            true,
             false
           ],
           "scores": [
