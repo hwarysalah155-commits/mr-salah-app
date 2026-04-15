@@ -136,13 +136,13 @@
         "sess_1": {
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "scores": [
             10.0,
             10.0,
-            null
+            10.0
           ]
         }
       },
