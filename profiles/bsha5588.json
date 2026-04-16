@@ -10,7 +10,7 @@
       "startDate": "01/04/2026",
       "endDate": "13/04/2026",
       "isClosed": true,
-      "paid": false,
+      "paid": true,
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
@@ -39,7 +39,7 @@
       "homeworks": [
         {
           "title": "واجب الحصة 1",
-          "done": false,
+          "done": true,
           "date": "16/02"
         },
         {
