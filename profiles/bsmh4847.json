@@ -40,7 +40,11 @@
             true,
             true
           ],
-          "score": 6.0
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_6": {
           "checks": [
@@ -48,7 +52,11 @@
             true,
             true
           ],
-          "score": 6.5
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_5": {
           "checks": [
@@ -56,7 +64,11 @@
             false,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_4": {
           "checks": [
@@ -64,7 +76,11 @@
             false,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_3": {
           "checks": [
@@ -72,7 +88,11 @@
             false,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_2": {
           "checks": [
@@ -80,7 +100,11 @@
             false,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_1": {
           "checks": [
@@ -88,7 +112,11 @@
             false,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         },
         "sess_0": {
           "checks": [
@@ -96,7 +124,11 @@
             false,
             true
           ],
-          "score": null
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
@@ -182,7 +214,20 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_2": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "scores": [
+            3.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
