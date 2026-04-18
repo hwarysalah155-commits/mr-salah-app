@@ -225,11 +225,11 @@
         "sess_2": {
           "checks": [
             true,
-            false,
+            true,
             true
           ],
           "scores": [
-            null,
+            5.0,
             6.0,
             null
           ]
