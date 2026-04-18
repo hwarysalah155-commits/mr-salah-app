@@ -190,6 +190,18 @@
             4.0,
             null
           ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [
