@@ -226,7 +226,7 @@
           "checks": [
             true,
             false,
-            false
+            true
           ],
           "scores": [
             null,
