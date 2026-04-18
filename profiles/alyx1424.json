@@ -149,6 +149,18 @@
             10.0,
             8.0
           ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            5.0,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
