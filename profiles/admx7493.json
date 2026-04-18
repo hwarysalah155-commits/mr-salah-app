@@ -153,6 +153,18 @@
         "sess_2": {
           "checks": [
             true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_3": {
+          "checks": [
+            true,
             false,
             false
           ],
