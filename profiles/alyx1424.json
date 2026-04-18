@@ -142,7 +142,7 @@
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             3.0,
