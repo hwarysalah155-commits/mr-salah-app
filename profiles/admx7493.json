@@ -149,6 +149,18 @@
             0.0,
             0.0
           ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
