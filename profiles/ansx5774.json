@@ -152,7 +152,7 @@
         },
         "sess_3": {
           "checks": [
-            true,
+            false,
             false,
             false
           ],
@@ -169,7 +169,7 @@
             true
           ],
           "scores": [
-            null,
+            6.0,
             null,
             null
           ]
