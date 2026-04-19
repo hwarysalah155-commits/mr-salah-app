@@ -8,11 +8,11 @@
     {
       "monthNumber": 1,
       "startDate": "08/04/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "19/04/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 500.0,
+      "expectedPayment": 0.0,
       "sessions": [
         1,
         1,
@@ -21,17 +21,17 @@
         1,
         1,
         1,
-        0
+        1
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "12/04",
+        "15/04",
+        "19/04",
+        "19/04",
+        "19/04",
+        "19/04",
+        "19/04",
+        "19/04"
       ],
       "eval": {
         "sess_0": {
@@ -119,6 +119,80 @@
           ]
         }
       },
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "12/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "15/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "19/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "19/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "19/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "19/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "19/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "19/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "19/04/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
       "notes": [],
       "examScores": [],
       "homeworks": []
