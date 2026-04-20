@@ -38,12 +38,24 @@
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             5.0,
             10.0,
             10.0
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            0.0,
+            0.0,
+            9.0
           ]
         }
       },
