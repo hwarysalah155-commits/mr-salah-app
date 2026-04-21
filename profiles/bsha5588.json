@@ -155,6 +155,18 @@
             9.0,
             8.0
           ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
