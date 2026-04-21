@@ -207,7 +207,19 @@
           "checks": [
             true,
             true,
-            false
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            true,
+            true
           ],
           "scores": [
             null,
