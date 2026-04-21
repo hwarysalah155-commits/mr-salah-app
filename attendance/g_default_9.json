@@ -1,47 +1,15 @@
 {
   "groupId": "g_default_9",
   "sessionDates": [
-    "02/04",
-    "05/04",
-    "08/04",
-    "12/04",
-    "15/04",
-    "19/04",
-    "22/04",
-    "26/04"
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
-  "students": [
-    {
-      "id": "st_1774837028318",
-      "pin": "abda6463",
-      "name": "عبدالوهاب احمد وزيري",
-      "grade": "الصف الثالث الإعدادي",
-      "joiningDate": "25/03/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ]
-    }
-  ]
+  "students": [],
+  "_lastModified": "2026-04-22T01:57:56.108493"
 }
