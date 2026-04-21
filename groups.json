@@ -1,130 +1,77 @@
-[
-  {
-    "id": "g_default_2",
-    "name": "الصف الثاني الابتدائي",
-    "days": "أحد وأربعاء",
-    "time": "00:00",
-    "paused": false,
-    "studentCount": 2
-  },
-  {
-    "id": "g_default_3",
-    "name": "الصف الثالث الابتدائي",
-    "days": "أحد وأربعاء",
-    "time": "14:00",
-    "paused": false,
-    "studentCount": 6
-  },
-  {
-    "id": "g_default_4",
-    "name": "الصف الرابع الابتدائي",
-    "days": "أحد وأربعاء",
-    "time": "18:00",
-    "paused": false,
-    "studentCount": 7
-  },
-  {
-    "id": "g_default_5",
-    "name": "الصف الخامس الابتدائي",
-    "days": "أحد وأربعاء",
-    "time": "12:00",
-    "paused": false,
-    "studentCount": 5
-  },
-  {
-    "id": "g_default_6",
-    "name": "الصف السادس الابتدائي",
-    "days": "أحد وأربعاء",
-    "time": "16:00",
-    "paused": false,
-    "studentCount": 9
-  },
-  {
-    "id": "g_default_9",
-    "name": "الصف الثالث الإعدادي",
-    "days": "أحد وأربعاء",
-    "time": "15:00",
-    "paused": false,
-    "studentCount": 1
-  },
-  {
-    "id": "g_1775014029502",
-    "name": "مجموعة بشاير",
-    "days": "إثنين وخميس",
-    "time": "18:00",
-    "paused": false,
-    "studentCount": 1
-  },
-  {
-    "id": "g_1775015414079",
-    "name": "مجموعة يوسف ياسر بدران",
-    "days": "إثنين وخميس",
-    "time": "14:00",
-    "paused": false,
-    "studentCount": 3
-  },
-  {
-    "id": "g_1775015451381",
-    "name": "مجموعة زياد وشهد ويزيد",
-    "days": "إثنين وخميس",
-    "time": "12:00",
-    "paused": false,
-    "studentCount": 3
-  },
-  {
-    "id": "g_1775299207035",
-    "name": "مجموعة محمود وشاكر",
-    "days": "سبت وثلاثاء",
-    "time": "17:00",
-    "paused": false,
-    "studentCount": 5
-  },
-  {
-    "id": "g_1775304315200",
-    "name": "مجموعة علي ايمن",
-    "days": "سبت وثلاثاء",
-    "time": "13:30",
-    "paused": false,
-    "studentCount": 7
-  },
-  {
-    "id": "g_1775568459317",
-    "name": "مجموعة ادم وأنس",
-    "days": "سبت وثلاثاء",
-    "time": "16:00",
-    "paused": false,
-    "studentCount": 3
-  },
-  {
-    "id": "g_1775661759054",
-    "name": "مجموعة جاد",
-    "days": "أحد وأربعاء",
-    "time": "17:00",
-    "paused": false,
-    "studentCount": 1
-  },
-  {
-    "id": "g_default_1",
-    "name": "الصف الأول الابتدائي",
-    "days": "غير محدد",
-    "time": "",
-    "paused": false,
-    "studentCount": 0
-  },
-  {
-    "id": "g_default_7",
-    "name": "الصف الأول الإعدادي",
-    "days": "غير محدد",
-    "time": "",
-    "paused": false,
-    "studentCount": 0
-  },
-  {
-    "id": "g_default_8",
-    "name": "الصف الثاني الإعدادي",
-    "days": "غير محدد",
-    "time": "",
-    "paused": false,
-    "studentCount": 0
-  }
-]
+{
+  "groups": [
+    {
+      "id": "g_default_1",
+      "name": "الصف الأول الابتدائي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_2",
+      "name": "الصف الثاني الابتدائي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_3",
+      "name": "الصف الثالث الابتدائي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_4",
+      "name": "الصف الرابع الابتدائي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_5",
+      "name": "الصف الخامس الابتدائي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_6",
+      "name": "الصف السادس الابتدائي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_7",
+      "name": "الصف الأول الإعدادي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_8",
+      "name": "الصف الثاني الإعدادي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    },
+    {
+      "id": "g_default_9",
+      "name": "الصف الثالث الإعدادي",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0
+    }
+  ],
+  "_lastModified": "2026-04-22T01:51:04.262892"
+}
