@@ -1,0 +1,47 @@
+{
+  "groupId": "g_1776815841147",
+  "sessionDates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1776815859376",
+      "pin": "talb4021",
+      "name": "طالب الاختبار رقم واحد",
+      "grade": "",
+      "joiningDate": "22/04/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}
