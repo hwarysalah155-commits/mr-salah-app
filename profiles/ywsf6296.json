@@ -57,6 +57,18 @@
             0.0,
             9.0
           ]
+        },
+        "sess_0": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
