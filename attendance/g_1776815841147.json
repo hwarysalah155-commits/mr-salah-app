@@ -42,7 +42,38 @@
         false,
         false
       ]
+    },
+    {
+      "id": "st_1776816683884",
+      "pin": "alyx8204",
+      "name": "علي سليم علي",
+      "grade": "",
+      "joiningDate": "22/04/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     }
-  ],
-  "_lastModified": "2026-04-22T01:57:56.388087"
+  ]
 }
