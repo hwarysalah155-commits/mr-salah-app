@@ -50,10 +50,10 @@
       "grade": "",
       "joiningDate": "15/04/2026",
       "sessions": [
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -63,7 +63,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
-      "imagePath": null,
+      "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1776243291279.jpg?t=1776980357011",
       "homeworks": [
         false,
         false,
@@ -76,5 +76,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-04-23T20:49:47.312110"
+  "_lastModified": "2026-04-23T23:39:17.571840"
 }
