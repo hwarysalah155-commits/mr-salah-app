@@ -1,6 +1,6 @@
 {
   "pin": "slah5427",
-  "imagePath": null,
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1776243291279.jpg?t=1776980357011",
   "phone": "",
   "parentName": "",
   "joiningDate": "15/04/2026",
@@ -33,11 +33,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-23T02:01:54.959267"
+  "_lastModified": "2026-04-23T23:39:34.110787"
 }
