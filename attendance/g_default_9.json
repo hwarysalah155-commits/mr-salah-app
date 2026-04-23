@@ -10,6 +10,38 @@
     null,
     null
   ],
-  "students": [],
-  "_lastModified": "2026-04-23T02:22:26.198651"
+  "students": [
+    {
+      "id": "st_1776907183499",
+      "pin": "abdx3478",
+      "name": "عبد الوهاب احمد سليمان",
+      "grade": "",
+      "joiningDate": "23/04/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
 }
