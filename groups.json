@@ -1,14 +1,6 @@
 {
   "groups": [
     {
-      "id": "g_default_1",
-      "name": "الصف الأول الابتدائي",
-      "days": "غير محدد",
-      "time": "",
-      "paused": false,
-      "studentCount": 0
-    },
-    {
       "id": "g_default_2",
       "name": "الصف الثاني الابتدائي",
       "days": "غير محدد",
@@ -97,5 +89,5 @@
       "studentCount": 1
     }
   ],
-  "_lastModified": "2026-04-23T03:19:43.533084"
+  "_lastModified": "2026-04-23T03:47:05.676875"
 }
