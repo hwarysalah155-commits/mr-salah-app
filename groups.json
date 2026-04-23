@@ -3,8 +3,8 @@
     {
       "id": "g_default_2",
       "name": "الصف الثاني الابتدائي",
-      "days": "غير محدد",
-      "time": "",
+      "days": "سبت وثلاثاء",
+      "time": "00:00",
       "paused": false,
       "studentCount": 2
     },
@@ -105,5 +105,5 @@
       "studentCount": 6
     }
   ],
-  "_lastModified": "2026-04-23T15:11:01.887185"
+  "_lastModified": "2026-04-23T23:42:54.211780"
 }
