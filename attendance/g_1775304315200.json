@@ -1,6 +1,5 @@
 {
   "groupId": "g_1775304315200",
-  "groupName": "مجموعة علي ايمن",
   "sessionDates": [
     "28/02",
     "03/03",
@@ -16,158 +15,194 @@
       "id": "st_1775304329920",
       "pin": "wsam6525",
       "name": "وسام حسن فتحي",
-      "grade": "مجموعة علي ايمن",
+      "grade": "",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1775304329920.jpg?t=1776912088659",
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775304340796",
       "pin": "bwan8285",
       "name": "بوان محمد فتحي",
-      "grade": "مجموعة علي ايمن",
+      "grade": "",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775308338858",
       "pin": "maaz6721",
       "name": "معاذ عبدالله فتحي",
-      "grade": "مجموعة علي ايمن",
+      "grade": "",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775308488835",
       "pin": "bsmh4847",
       "name": "بسمة حسن فتحي",
-      "grade": "مجموعة علي ايمن",
+      "grade": "",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775310398254",
       "pin": "jnyx8921",
       "name": "جني حسن فتحي",
-      "grade": "مجموعة علي ايمن",
+      "grade": "",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     },
     {
       "id": "st_1775311065396",
       "pin": "admx8642",
       "name": "ادم عبدالله فتحي",
-      "grade": "مجموعة علي ايمن",
+      "grade": "",
       "joiningDate": "04/04/2026",
-      "currentMonth": {
-        "monthNumber": 1,
-        "startDate": "04/04/2026",
-        "endDate": null,
-        "isClosed": false,
-        "paid": false,
-        "payment": 0,
-        "expectedPayment": 0,
-        "sessions": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
-      }
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
     }
   ],
-  "_lastModified": "2026-04-23T04:53:00.000000"
+  "_lastModified": "2026-04-23T04:41:29.314874"
 }
