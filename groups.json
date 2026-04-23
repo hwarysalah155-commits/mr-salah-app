@@ -87,7 +87,15 @@
       "time": "17:00",
       "paused": false,
       "studentCount": 1
+    },
+    {
+      "id": "g_1775299207035",
+      "name": "مجموعه محمود شاكر",
+      "days": "سبت وثلاثاء",
+      "time": "17:00",
+      "paused": false,
+      "studentCount": 5
     }
   ],
-  "_lastModified": "2026-04-23T03:47:05.676875"
+  "_lastModified": "2026-04-23T03:52:11.832135"
 }
