@@ -520,11 +520,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-23T02:27:21.255071"
+  "_lastModified": "2026-04-27T01:22:45.799941"
 }
