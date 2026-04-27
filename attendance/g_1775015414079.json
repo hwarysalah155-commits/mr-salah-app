@@ -6,7 +6,7 @@
     "16/04",
     "20/04",
     "23/04",
-    null,
+    "27/04",
     null,
     null
   ],
@@ -23,12 +23,12 @@
         1,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 350.0,
       "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
@@ -55,12 +55,12 @@
         1,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 350.0,
       "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
@@ -87,12 +87,12 @@
         1,
         1,
         1,
-        0,
+        1,
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 350.0,
       "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
@@ -108,5 +108,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-04-27T14:42:53.074003"
+  "_lastModified": "2026-04-27T16:21:43.361041"
 }
