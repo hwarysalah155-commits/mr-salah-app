@@ -107,11 +107,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            9.0,
+            0.0,
+            7.0
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-23T02:27:09.616842"
+  "_lastModified": "2026-04-29T16:25:40.224550"
 }
