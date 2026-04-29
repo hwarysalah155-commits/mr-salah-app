@@ -495,6 +495,93 @@
     {
       "monthNumber": 6,
       "startDate": "15/04/2026",
+      "endDate": "29/04/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "01/04",
+        "05/04",
+        "08/04",
+        "12/04",
+        "15/04",
+        "19/04",
+        "22/04",
+        "26/04"
+      ],
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            null,
+            null
+          ]
+        }
+      },
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "01/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "05/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "08/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "12/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "15/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "19/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "22/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "26/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 7,
+      "startDate": "29/04/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
@@ -520,24 +607,11 @@
         null,
         null
       ],
-      "eval": {
-        "sess_0": {
-          "checks": [
-            true,
-            true,
-            true
-          ],
-          "scores": [
-            10.0,
-            null,
-            null
-          ]
-        }
-      },
+      "eval": {},
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-27T01:22:45.799941"
+  "_lastModified": "2026-04-29T18:11:28.734609"
 }
