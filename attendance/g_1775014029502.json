@@ -15,7 +15,7 @@
       "id": "st_1775014040387",
       "pin": "bsha5588",
       "name": "بشاير احمد سليمان",
-      "grade": "",
+      "grade": "الصف الخامس الابتدائي",
       "joiningDate": "01/04/2026",
       "sessions": [
         1,
@@ -29,7 +29,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 700.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -44,5 +44,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-04-30T17:20:18.609890"
+  "_lastModified": "2026-04-30T17:24:30.442131"
 }
