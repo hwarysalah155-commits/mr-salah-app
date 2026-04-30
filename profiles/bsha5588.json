@@ -191,6 +191,18 @@
             9.0,
             9.0
           ]
+        },
+        "sess_7": {
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            10.0,
+            8.0,
+            null
+          ]
         }
       },
       "notes": [],
@@ -198,5 +210,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-27T18:59:08.743920"
+  "_lastModified": "2026-04-30T17:22:15.810964"
 }
