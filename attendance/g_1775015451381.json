@@ -15,7 +15,7 @@
       "id": "st_1775131608216",
       "pin": "zyad6383",
       "name": "زياد محمد ثابت",
-      "grade": "",
+      "grade": "الصف الأول الإعدادي",
       "joiningDate": "02/04/2026",
       "sessions": [
         1,
@@ -47,7 +47,7 @@
       "id": "st_1775131635051",
       "pin": "shhd1978",
       "name": "شهد محمود ابراهيم",
-      "grade": "",
+      "grade": "الصف الأول الإعدادي",
       "joiningDate": "02/04/2026",
       "sessions": [
         1,
@@ -59,7 +59,7 @@
         0,
         0
       ],
-      "paid": false,
+      "paid": true,
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
@@ -108,5 +108,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-04-30T17:20:18.769690"
+  "_lastModified": "2026-04-30T17:53:53.925066"
 }
