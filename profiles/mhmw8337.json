@@ -1,1 +1,298 @@
-{"pin":"mhmw8337","imagePath":null,"phone":"","parentName":"","joiningDate":"04/04/2026","months":[{"monthNumber":1,"startDate":"04/04/2026","endDate":"07/04/2026","isClosed":true,"paid":false,"payment":0.0,"expectedPayment":0.0,"sessions":[1,1,1,1,1,1,1,1],"sessionDates":["24/02","28/02","03/03","07/03","10/03","14/03","28/03","31/03"],"eval":{},"notes":[],"examScores":[],"homeworks":[{"title":"واجب الحصة 1","done":false,"date":"24/02"},{"title":"واجب الحصة 2","done":false,"date":"28/02"},{"title":"واجب الحصة 3","done":false,"date":"03/03"},{"title":"واجب الحصة 4","done":false,"date":"07/03"},{"title":"واجب الحصة 5","done":false,"date":"10/03"},{"title":"واجب الحصة 6","done":false,"date":"14/03"},{"title":"واجب الحصة 7","done":false,"date":"28/03"},{"title":"واجب الحصة 8","done":false,"date":"31/03"}]},{"monthNumber":2,"startDate":"07/04/2026","endDate":null,"isClosed":false,"paid":true,"payment":0.0,"expectedPayment":0.0,"sessions":[1,1,0,0,0,0,0,0],"sessionDates":[null,null,null,null,null,null,null,null],"eval":{"sess_0":{"checks":[true,true,true],"scores":[10.0,10.0,10.0]},"sess_1":{"checks":[true,true,true],"scores":[10.0,10.0,10.0]},"sess_2":{"checks":[true,true,true],"scores":[10.0,10.0,10.0]},"sess_3":{"checks":[true,true,true],"scores":[10.0,10.0,10.0]},"sess_4":{"checks":[true,true,true],"scores":[10.0,10.0,10.0]},"sess_5":{"checks":[true,true,true],"scores":[10.0,9.0,8.0]},"sess_6":{"checks":[true,true,true],"scores":[10.0,9.0,8.0]},"sess_7":{"checks":[true,true,true],"scores":[10.0,9.0,8.0]}},"notes":[{"date":"14/4/2026","text":"بيحل من النت"}],"examScores":[],"homeworks":[{"title":"ح.د.٥و٦.وحد١٠","done":true,"date":"07/04/2026"}]}],"_lastModified":"2026-04-25T17:29:08.709643"}
+{
+  "pin": "mhmw8337",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "04/04/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "04/04/2026",
+      "endDate": "07/04/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "24/02",
+        "28/02",
+        "03/03",
+        "07/03",
+        "10/03",
+        "14/03",
+        "28/03",
+        "31/03"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "24/02"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "28/02"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "03/03"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "07/03"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "10/03"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "14/03"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "28/03"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "31/03"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "07/04/2026",
+      "endDate": "02/05/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 450.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "04/04",
+        "07/04",
+        "11/04",
+        "14/04",
+        "18/04",
+        "21/04",
+        "25/04",
+        "28/04"
+      ],
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            10.0
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            10.0
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            10.0
+          ]
+        },
+        "sess_3": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            10.0
+          ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            10.0
+          ]
+        },
+        "sess_5": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            9.0,
+            8.0
+          ]
+        },
+        "sess_6": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            9.0,
+            8.0
+          ]
+        },
+        "sess_7": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            9.0,
+            8.0
+          ]
+        }
+      },
+      "notes": [
+        {
+          "date": "14/4/2026",
+          "text": "بيحل من النت"
+        }
+      ],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "ح.د.٥و٦.وحد١٠",
+          "done": true,
+          "date": "07/04/2026"
+        },
+        {
+          "title": "واجب الحصة 1",
+          "done": true,
+          "date": "04/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": true,
+          "date": "07/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": true,
+          "date": "11/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": true,
+          "date": "14/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": true,
+          "date": "18/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": true,
+          "date": "21/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": true,
+          "date": "25/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": true,
+          "date": "28/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 3,
+      "startDate": "02/05/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-05-02T14:56:59.669959"
+}
