@@ -185,19 +185,31 @@
             null,
             9.0
           ]
+        },
+        "sess_7": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            10.0
+          ]
         }
       },
       "notes": [],
       "examScores": [
         {
           "title": "امتحان الوحده الاولى مراجعه",
-          "score": 0.0,
-          "outOf": 100.0,
+          "score": 9.0,
+          "outOf": 10.0,
           "date": "28/04/2026"
         }
       ],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-28T17:34:00.172369"
+  "_lastModified": "2026-05-02T17:04:33.896955"
 }
