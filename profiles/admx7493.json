@@ -100,30 +100,30 @@
     {
       "monthNumber": 2,
       "startDate": "11/04/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "02/05/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 350.0,
+      "expectedPayment": 0.0,
       "sessions": [
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1,
+        2,
+        1,
+        1
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "07/04",
+        "11/04",
+        "14/04",
+        "18/04",
+        "21/04",
+        "26/04",
+        "28/04",
+        "02/05"
       ],
       "eval": {
         "sess_0": {
@@ -220,8 +220,82 @@
           "date": "28/04/2026"
         }
       ],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "07/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "11/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "14/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "18/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "21/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "26/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "28/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "02/05"
+        }
+      ]
+    },
+    {
+      "monthNumber": 3,
+      "startDate": "02/05/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-02T17:05:19.304521"
+  "_lastModified": "2026-05-02T17:08:16.396630"
 }
