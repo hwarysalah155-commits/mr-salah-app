@@ -1,0 +1,15 @@
+{
+  "lessonId": "g4-u1-l1",
+  "title": "",
+  "telegramFileId": "BAACAgQAAxkBAAMGafVbxKcSVSt3ciMmTb2514B_QxgAAmYdAAI0wbBTLdX9n-9iiFk7BA",
+  "questions": [
+    {
+      "type": "tf",
+      "atSecond": 720,
+      "statement": "can I help you?",
+      "correct": true,
+      "id": "q1"
+    }
+  ],
+  "_lastModified": "2026-05-02T05:05:52.303775"
+}
