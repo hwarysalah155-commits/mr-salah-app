@@ -423,11 +423,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_2": {
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "scores": [
+            10.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-04-29T18:11:28.745544"
+  "_lastModified": "2026-05-03T18:39:30.665491"
 }
