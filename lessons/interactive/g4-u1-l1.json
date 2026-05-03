@@ -1,15 +1,15 @@
 {
   "lessonId": "g4-u1-l1",
   "title": "",
-  "telegramFileId": "BAACAgQAAxkBAAMGafVbxKcSVSt3ciMmTb2514B_QxgAAmYdAAI0wbBTLdX9n-9iiFk7BA",
+  "videoUrl": "https://drive.google.com/uc?export=download&confirm=t&id=1xck76sFz7qsva9Bc6az3az2x_v1214Ti",
   "questions": [
     {
       "type": "tf",
-      "atSecond": 720,
-      "statement": "can I help you?",
+      "atSecond": 60,
+      "statement": "سؤال لك يا صديقي هل الجمله في الانجليزي بتتكون من فاعل ثم فاعل ثم باقي الجمله",
       "correct": true,
       "id": "q1"
     }
   ],
-  "_lastModified": "2026-05-02T05:05:52.303775"
+  "_lastModified": "2026-05-03T03:36:03.811858"
 }
