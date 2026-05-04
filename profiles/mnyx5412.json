@@ -1,21 +1,92 @@
 {
   "pin": "mnyx5412",
-  "name": "مني ياسر بدران",
+  "imagePath": null,
   "phone": "",
   "parentName": "",
-  "grade": "مجموعة يوسف ياسر بدران",
-  "groupId": "g_1775015414079",
   "joiningDate": "01/04/2026",
-  "imagePath": null,
-  "monthHistory": [
+  "months": [
     {
       "monthNumber": 1,
       "startDate": "01/04/2026",
+      "endDate": "04/05/2026",
+      "isClosed": true,
+      "paid": true,
+      "payment": 350.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        2,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "sessionDates": [
+        "09/04",
+        "13/04",
+        "16/04",
+        "20/04",
+        "23/04",
+        "27/04",
+        "30/04",
+        "04/05"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "09/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "13/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "16/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "20/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "23/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "27/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "30/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "04/05"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "04/05/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
-      "payment": 0,
-      "expectedPayment": 0,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
       "sessions": [
         0,
         0,
@@ -25,12 +96,22 @@
         0,
         0,
         0
-      ]
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
   ],
-  "eval": {},
-  "notes": [],
-  "examScores": [],
-  "homeworks": [],
-  "_lastModified": "2026-04-23T02:01:25.133080"
+  "_lastModified": "2026-05-04T15:23:18.256487"
 }
