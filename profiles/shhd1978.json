@@ -266,12 +266,30 @@
             8.0,
             7.0
           ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            0.0,
+            0.0,
+            7.0
+          ]
         }
       },
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "مراجعة كلمات الوحدة الثالثة",
+          "done": false,
+          "date": "04/05/2026"
+        }
+      ]
     }
   ],
-  "_lastModified": "2026-05-01T15:34:25.457344"
+  "_lastModified": "2026-05-04T13:39:12.696947"
 }
