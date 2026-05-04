@@ -1,1 +1,117 @@
-{"pin":"ahmd3175","imagePath":null,"phone":"01224263531","parentName":"محمد احمد","joiningDate":"٢٥‏/٤‏/٢٠٢٦ ١١:٥٢:٤٣ م","months":[{"monthNumber":1,"startDate":"٢٥‏/٤‏/٢٠٢٦ ١١:٥٢:٤٣ م","endDate":null,"isClosed":false,"paid":false,"payment":0.0,"expectedPayment":0.0,"sessions":[0,0,0,0,0,0,0,0],"sessionDates":[null,null,null,null,null,null,null,null],"eval":{},"notes":[],"examScores":[],"homeworks":[]}],"_lastModified":"2026-04-26T04:11:23.010408"}
+{
+  "pin": "ahmd3175",
+  "imagePath": null,
+  "phone": "01224263531",
+  "parentName": "محمد احمد",
+  "joiningDate": "٢٥‏/٤‏/٢٠٢٦ ١١:٥٢:٤٣ م",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "٢٥‏/٤‏/٢٠٢٦ ١١:٥٢:٤٣ م",
+      "endDate": "04/05/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0
+      ],
+      "sessionDates": [
+        "12/04",
+        "12/04",
+        "12/04",
+        "13/04",
+        "13/04",
+        "23/04",
+        "23/04",
+        "23/04"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "12/04"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "12/04"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "12/04"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "13/04"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "13/04"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "23/04"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "23/04"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "23/04"
+        }
+      ]
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "04/05/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-05-04T21:40:54.690195"
+}
