@@ -306,8 +306,14 @@
       },
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "مراجعة كلمات الوحدة الثالثة",
+          "done": true,
+          "date": "04/05/2026"
+        }
+      ]
     }
   ],
-  "_lastModified": "2026-05-04T13:36:52.328912"
+  "_lastModified": "2026-05-04T13:38:33.374212"
 }
