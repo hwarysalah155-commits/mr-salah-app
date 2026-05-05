@@ -1,0 +1,43 @@
+{
+  "pin": "ywsf9588",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "05/05/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "05/05/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-05-05T15:01:21.798551"
+}
