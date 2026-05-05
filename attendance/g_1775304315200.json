@@ -79,7 +79,7 @@
       "id": "st_1775308338858",
       "pin": "maaz6721",
       "name": "معاذ عبدالله فتحي",
-      "grade": "",
+      "grade": "الصف الخامس الابتدائي",
       "joiningDate": "04/04/2026",
       "sessions": [
         1,
@@ -91,9 +91,9 @@
         1,
         1
       ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
+      "paid": true,
+      "payment": 450.0,
+      "expectedPayment": 450.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -175,7 +175,7 @@
       "id": "st_1775311065396",
       "pin": "admx8642",
       "name": "ادم عبدالله فتحي",
-      "grade": "",
+      "grade": "الصف الثالث الابتدائي",
       "joiningDate": "04/04/2026",
       "sessions": [
         1,
@@ -187,9 +187,9 @@
         1,
         1
       ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
+      "paid": true,
+      "payment": 450.0,
+      "expectedPayment": 450.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -207,7 +207,7 @@
       "id": "st_1777982481539",
       "pin": "ywsf9588",
       "name": "يوسف محمد فتحي",
-      "grade": "",
+      "grade": "الصف السادس الابتدائي",
       "joiningDate": "05/05/2026",
       "sessions": [
         1,
@@ -219,9 +219,9 @@
         1,
         1
       ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
+      "paid": true,
+      "payment": 700.0,
+      "expectedPayment": 700.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -236,5 +236,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-05-05T17:27:35.583386"
+  "_lastModified": "2026-05-05T19:12:40.852820"
 }
