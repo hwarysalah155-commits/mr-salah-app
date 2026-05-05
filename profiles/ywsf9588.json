@@ -33,11 +33,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_7": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            8.0,
+            7.0,
+            7.0
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-05T19:06:59.510814"
+  "_lastModified": "2026-05-05T19:13:59.016244"
 }
