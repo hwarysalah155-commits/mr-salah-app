@@ -2,7 +2,7 @@
   "pin": "admx8642",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "عبدالله فتحي",
   "joiningDate": "04/04/2026",
   "months": [
     {
@@ -10,8 +10,8 @@
       "startDate": "04/04/2026",
       "endDate": null,
       "isClosed": false,
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 450.0,
       "expectedPayment": 450.0,
       "sessions": [
         0,
@@ -136,11 +136,11 @@
       "homeworks": [
         {
           "title": "حل الواجب ",
-          "done": false,
+          "done": true,
           "date": "07/04/2026"
         }
       ]
     }
   ],
-  "_lastModified": "2026-04-23T02:22:53.863526"
+  "_lastModified": "2026-05-05T19:08:21.391550"
 }
