@@ -2,7 +2,7 @@
   "pin": "ansx5774",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "احمد شبيب",
   "joiningDate": "07/04/2026",
   "months": [
     {
@@ -256,9 +256,9 @@
       "startDate": "02/05/2026",
       "endDate": null,
       "isClosed": false,
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
+      "paid": true,
+      "payment": 350.0,
+      "expectedPayment": 350.0,
       "sessions": [
         0,
         0,
@@ -285,5 +285,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-05T12:47:25.116552"
+  "_lastModified": "2026-05-05T19:12:15.320636"
 }
