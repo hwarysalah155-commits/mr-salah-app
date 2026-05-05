@@ -223,42 +223,42 @@
       "homeworks": [
         {
           "title": "واجب الحصة 1",
-          "done": false,
+          "done": true,
           "date": "07/04"
         },
         {
           "title": "واجب الحصة 2",
-          "done": false,
+          "done": true,
           "date": "11/04"
         },
         {
           "title": "واجب الحصة 3",
-          "done": false,
+          "done": true,
           "date": "14/04"
         },
         {
           "title": "واجب الحصة 4",
-          "done": false,
+          "done": true,
           "date": "18/04"
         },
         {
           "title": "واجب الحصة 5",
-          "done": false,
+          "done": true,
           "date": "21/04"
         },
         {
           "title": "واجب الحصة 6",
-          "done": false,
+          "done": true,
           "date": "26/04"
         },
         {
           "title": "واجب الحصة 7",
-          "done": false,
+          "done": true,
           "date": "28/04"
         },
         {
           "title": "واجب الحصة 8",
-          "done": false,
+          "done": true,
           "date": "02/05"
         }
       ]
@@ -297,5 +297,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-02T17:08:16.396630"
+  "_lastModified": "2026-05-05T12:44:40.944606"
 }
