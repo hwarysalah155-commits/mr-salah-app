@@ -15,7 +15,7 @@
       "id": "st_1775568486225",
       "pin": "admx7493",
       "name": "ادم احمد شبيب",
-      "grade": "",
+      "grade": "الصف السادس الابتدائي",
       "joiningDate": "07/04/2026",
       "sessions": [
         2,
@@ -27,9 +27,9 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
+      "paid": true,
+      "payment": 350.0,
+      "expectedPayment": 350.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -47,7 +47,7 @@
       "id": "st_1775568493175",
       "pin": "ansx5774",
       "name": "انس احمد شبيب",
-      "grade": "",
+      "grade": "الصف السادس الابتدائي",
       "joiningDate": "07/04/2026",
       "sessions": [
         2,
@@ -59,9 +59,9 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
+      "paid": true,
+      "payment": 350.0,
+      "expectedPayment": 350.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -79,7 +79,7 @@
       "id": "st_1775568528909",
       "pin": "alyx1424",
       "name": "علي وائل علي",
-      "grade": "",
+      "grade": "الصف السادس الابتدائي",
       "joiningDate": "07/04/2026",
       "sessions": [
         1,
@@ -91,8 +91,8 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 350.0,
       "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
@@ -108,5 +108,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-05-05T17:27:35.585083"
+  "_lastModified": "2026-05-05T19:12:40.854338"
 }
