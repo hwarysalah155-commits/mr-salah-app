@@ -254,6 +254,30 @@
             10.0,
             10.0
           ]
+        },
+        "sess_3": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            10.0,
+            null,
+            null
+          ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
@@ -261,5 +285,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-03T14:46:03.950759"
+  "_lastModified": "2026-05-10T14:23:13.768589"
 }
