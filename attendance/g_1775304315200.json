@@ -1,14 +1,14 @@
 {
   "groupId": "g_1775304315200",
   "sessionDates": [
-    "04/04",
-    "07/04",
-    "11/04",
-    "14/04",
-    "18/04",
-    "21/04",
-    "02/05",
-    "05/05"
+    "09/05",
+    "12/05",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "students": [
     {
@@ -18,14 +18,14 @@
       "grade": "",
       "joiningDate": "04/04/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "paid": false,
       "payment": 0.0,
@@ -50,17 +50,17 @@
       "grade": "الصف الأول الإعدادي",
       "joiningDate": "04/04/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "paid": true,
-      "payment": 450.0,
+      "paid": false,
+      "payment": 0.0,
       "expectedPayment": 450.0,
       "phone": "",
       "imagePath": null,
@@ -82,17 +82,17 @@
       "grade": "الصف الخامس الابتدائي",
       "joiningDate": "04/04/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "paid": true,
-      "payment": 450.0,
+      "paid": false,
+      "payment": 0.0,
       "expectedPayment": 450.0,
       "phone": "",
       "imagePath": null,
@@ -114,14 +114,14 @@
       "grade": "",
       "joiningDate": "04/04/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "paid": false,
       "payment": 0.0,
@@ -146,14 +146,14 @@
       "grade": "",
       "joiningDate": "04/04/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
       "paid": false,
       "payment": 0.0,
@@ -178,17 +178,17 @@
       "grade": "الصف الثالث الابتدائي",
       "joiningDate": "04/04/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "paid": true,
-      "payment": 450.0,
+      "paid": false,
+      "payment": 0.0,
       "expectedPayment": 450.0,
       "phone": "",
       "imagePath": null,
@@ -210,17 +210,17 @@
       "grade": "الصف السادس الابتدائي",
       "joiningDate": "05/05/2026",
       "sessions": [
+        2,
         1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
       ],
-      "paid": true,
-      "payment": 700.0,
+      "paid": false,
+      "payment": 0.0,
       "expectedPayment": 700.0,
       "phone": "",
       "imagePath": null,
@@ -236,5 +236,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-05-12T12:30:15.204757"
+  "_lastModified": "2026-05-12T13:55:16.987177"
 }
