@@ -122,9 +122,9 @@
         },
         "sess_3": {
           "checks": [
-            false,
-            false,
-            false
+            true,
+            true,
+            true
           ],
           "scores": [
             10.0,
@@ -138,5 +138,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-03T17:04:24.918609"
+  "_lastModified": "2026-05-13T20:39:02.660407"
 }
