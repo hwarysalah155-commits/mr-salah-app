@@ -1,0 +1,43 @@
+{
+  "pin": "asla3322",
+  "imagePath": null,
+  "phone": "٠١١١٤٥٠١٥٣٥",
+  "parentName": "علي محمد علي",
+  "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٨:٤٨ م",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٨:٤٨ م",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-05-24T16:17:04.320838"
+}
