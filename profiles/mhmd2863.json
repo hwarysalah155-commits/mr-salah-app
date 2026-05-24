@@ -1,0 +1,43 @@
+{
+  "pin": "mhmd2863",
+  "imagePath": null,
+  "phone": "01224263531",
+  "parentName": "صلاح هواري",
+  "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ٣:٠٩:١٣ م",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "٢٤‏/٥‏/٢٠٢٦، ٣:٠٩:١٣ م",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-05-24T15:11:27.443020"
+}
