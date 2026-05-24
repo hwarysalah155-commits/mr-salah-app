@@ -120,7 +120,18 @@
       "group": "مجموعة جديدة",
       "isNewGroup": true,
       "status": "pending"
+    },
+    {
+      "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٣:٤٤ م",
+      "studentName": "ريم احمد عبد العظيم",
+      "parentName": "اسماء",
+      "phone": "01271287513",
+      "grade": "الصف الأول الإعدادي",
+      "type": "group",
+      "group": "محمد صلاح هواري - مجموعة",
+      "isNewGroup": false,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-05-24T16:16:20.494701"
+  "_lastModified": "2026-05-24T14:23:45.546Z"
 }
