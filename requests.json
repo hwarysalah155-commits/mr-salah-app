@@ -109,7 +109,18 @@
       "group": "مجموعة جديدة",
       "isNewGroup": true,
       "status": "new"
+    },
+    {
+      "time": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٨:٤٨ م",
+      "studentName": "أسلام على محمد",
+      "parentName": "علي محمد علي",
+      "phone": "٠١١١٤٥٠١٥٣٥",
+      "grade": "الصف السادس الابتدائي",
+      "type": "group",
+      "group": "مجموعة جديدة",
+      "isNewGroup": true,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-05-24T13:05:46.045Z"
+  "_lastModified": "2026-05-24T13:08:49.062Z"
 }
