@@ -131,7 +131,18 @@
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
       "status": "new"
+    },
+    {
+      "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٤:٥٥ م",
+      "studentName": "ياسين احمد عبد العظيم",
+      "parentName": "اسماء",
+      "phone": "01271287513",
+      "grade": "الصف الرابع الابتدائي",
+      "type": "group",
+      "group": "محمد صلاح هواري - مجموعة",
+      "isNewGroup": false,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-05-24T14:23:45.546Z"
+  "_lastModified": "2026-05-24T14:24:56.196Z"
 }
