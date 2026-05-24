@@ -125,7 +125,16 @@
       "paused": false,
       "studentCount": 0,
       "maxCapacity": 20
+    },
+    {
+      "id": "g_1779624686706",
+      "name": "محمد صلاح هواري - مجموعة",
+      "days": "أحد وأربعاء",
+      "time": "00:00",
+      "paused": false,
+      "studentCount": 1,
+      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-05-24T01:27:20.320500"
+  "_lastModified": "2026-05-24T15:12:52.523763"
 }
