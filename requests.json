@@ -98,7 +98,18 @@
       "group": "",
       "isNewGroup": false,
       "status": "new"
+    },
+    {
+      "time": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٥:٤٥ م",
+      "studentName": "معتز مجدى محمد",
+      "parentName": "محمد مجدي علي",
+      "phone": "٠١١١٤٥٠١٥٣٥",
+      "grade": "الصف الأول الإعدادي",
+      "type": "group",
+      "group": "مجموعة جديدة",
+      "isNewGroup": true,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-05-24T12:28:50.202Z"
+  "_lastModified": "2026-05-24T13:05:46.045Z"
 }
