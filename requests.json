@@ -153,7 +153,18 @@
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
       "status": "new"
+    },
+    {
+      "time": "٢٤‏/٥‏/٢٠٢٦، ١١:٣٠:٠٧ م",
+      "studentName": "ادم احمد شبيب",
+      "parentName": "احمد شبيب عبدالراضى",
+      "phone": "01090089760",
+      "grade": "الصف السادس الابتدائي",
+      "type": "private",
+      "group": "",
+      "isNewGroup": false,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-05-24T14:25:53.778Z"
+  "_lastModified": "2026-05-24T20:30:08.656Z"
 }
