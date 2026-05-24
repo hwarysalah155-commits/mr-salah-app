@@ -97,7 +97,7 @@
       "type": "private",
       "group": "",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٥:٤٥ م",
@@ -108,7 +108,7 @@
       "type": "group",
       "group": "مجموعة جديدة",
       "isNewGroup": true,
-      "status": "new"
+      "status": "accepted"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٨:٤٨ م",
@@ -119,8 +119,8 @@
       "type": "group",
       "group": "مجموعة جديدة",
       "isNewGroup": true,
-      "status": "new"
+      "status": "pending"
     }
   ],
-  "_lastModified": "2026-05-24T13:08:49.062Z"
+  "_lastModified": "2026-05-24T16:16:20.494701"
 }
