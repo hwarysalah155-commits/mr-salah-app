@@ -76,7 +76,18 @@
       "group": "مجموعة جديدة",
       "isNewGroup": true,
       "status": "new"
+    },
+    {
+      "time": "٢٤‏/٥‏/٢٠٢٦، ٣:٠٩:١٣ م",
+      "studentName": "محمد صلاح هواري",
+      "parentName": "صلاح هواري",
+      "phone": "01224263531",
+      "grade": "الصف السادس الابتدائي",
+      "type": "group",
+      "group": "مجموعة جديدة",
+      "isNewGroup": true,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-05-24T12:02:34.426Z"
+  "_lastModified": "2026-05-24T12:09:13.938Z"
 }
