@@ -75,7 +75,7 @@
       "type": "group",
       "group": "مجموعة جديدة",
       "isNewGroup": true,
-      "status": "new"
+      "status": "rejected"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦، ٣:٠٩:١٣ م",
@@ -86,30 +86,8 @@
       "type": "group",
       "group": "مجموعة جديدة",
       "isNewGroup": true,
-      "status": "new"
-    },
-    {
-      "time": "٢٤‏/٥‏/٢٠٢٦ ٣:٢١:٤٩ م",
-      "studentName": "معتز مجدى محمد",
-      "parentName": "مجدى محمد على",
-      "phone": "01114501535",
-      "grade": "الصف الأول الإعدادي",
-      "type": "private",
-      "group": "",
-      "isNewGroup": false,
-      "status": "new"
-    },
-    {
-      "time": "٢٤‏/٥‏/٢٠٢٦ ٣:٢٣:٠٥ م",
-      "studentName": "اسلام على محمد",
-      "parentName": "على محمد على",
-      "phone": "01114501535",
-      "grade": "الصف السادس الابتدائي",
-      "type": "private",
-      "group": "",
-      "isNewGroup": false,
-      "status": "new"
+      "status": "accepted"
     }
   ],
-  "_lastModified": "2026-05-24T12:23:06.295Z"
+  "_lastModified": "2026-05-24T15:25:51.762723"
 }
