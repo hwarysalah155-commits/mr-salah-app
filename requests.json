@@ -97,7 +97,7 @@
       "type": "private",
       "group": "",
       "isNewGroup": false,
-      "status": "pending"
+      "status": "rejected"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٥:٤٥ م",
@@ -130,7 +130,7 @@
       "type": "group",
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٤:٥٥ م",
@@ -141,7 +141,7 @@
       "type": "group",
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٥:٥٢ م",
@@ -152,7 +152,7 @@
       "type": "group",
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦، ١١:٣٠:٠٧ م",
@@ -163,7 +163,7 @@
       "type": "private",
       "group": "",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦، ١١:٣١:٣٤ م",
@@ -174,8 +174,8 @@
       "type": "private",
       "group": "",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     }
   ],
-  "_lastModified": "2026-05-24T20:31:34.737Z"
+  "_lastModified": "2026-06-01T16:06:24.407652"
 }
