@@ -186,7 +186,18 @@
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
       "status": "new"
+    },
+    {
+      "time": "٢‏/٦‏/٢٠٢٦ ٨:٤١:٢٥ م",
+      "studentName": "سيف أحمد عبدالله",
+      "parentName": "أحمد عبدالله",
+      "phone": "01274080309",
+      "grade": "الصف الثاني الإعدادي",
+      "type": "group",
+      "group": "مجموعة التأسيس",
+      "isNewGroup": false,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-06-02T17:40:33.016Z"
+  "_lastModified": "2026-06-02T17:41:26.382Z"
 }
