@@ -175,7 +175,18 @@
       "group": "",
       "isNewGroup": false,
       "status": "pending"
+    },
+    {
+      "time": "٢‏/٦‏/٢٠٢٦ ٨:٤٠:٣٢ م",
+      "studentName": "عبدالله حمادة عبدالله",
+      "parentName": "حمادة عبدالله",
+      "phone": "01274080309",
+      "grade": "الصف الثاني الإعدادي",
+      "type": "group",
+      "group": "مجموعة التأسيس",
+      "isNewGroup": false,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-06-01T16:06:24.407652"
+  "_lastModified": "2026-06-02T17:40:33.016Z"
 }
