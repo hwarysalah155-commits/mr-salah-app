@@ -197,7 +197,18 @@
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
       "status": "new"
+    },
+    {
+      "time": "٢‏/٦‏/٢٠٢٦ ٨:٤٢:٤٢ م",
+      "studentName": "أحمد حمادة عبدالله",
+      "parentName": "حمادة عبدالله",
+      "phone": "01274080309",
+      "grade": "الصف السادس الابتدائي",
+      "type": "group",
+      "group": "مجموعة التأسيس",
+      "isNewGroup": false,
+      "status": "new"
     }
   ],
-  "_lastModified": "2026-06-02T17:41:26.382Z"
+  "_lastModified": "2026-06-02T17:42:43.653Z"
 }
