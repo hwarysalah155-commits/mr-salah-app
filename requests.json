@@ -119,7 +119,7 @@
       "type": "group",
       "group": "مجموعة جديدة",
       "isNewGroup": true,
-      "status": "pending"
+      "status": "accepted"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٣:٤٤ م",
@@ -185,7 +185,7 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢‏/٦‏/٢٠٢٦ ٨:٤١:٢٥ م",
@@ -196,7 +196,7 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢‏/٦‏/٢٠٢٦ ٨:٤٢:٤٢ م",
@@ -207,7 +207,7 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     },
     {
       "time": "٢‏/٦‏/٢٠٢٦ ٨:٤٣:٤٨ م",
@@ -218,8 +218,8 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "new"
+      "status": "pending"
     }
   ],
-  "_lastModified": "2026-06-02T17:43:49.993Z"
+  "_lastModified": "2026-06-14T14:56:26.837449"
 }
