@@ -1,0 +1,43 @@
+{
+  "pin": "jwdy5014",
+  "imagePath": null,
+  "phone": "01090089760",
+  "parentName": "احمد شبيب عبدالراضى",
+  "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ١١:٣١:٣٤ م",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "٢٤‏/٥‏/٢٠٢٦، ١١:٣١:٣٤ م",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-14T14:59:47.954819"
+}
