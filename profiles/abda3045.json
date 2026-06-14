@@ -1,0 +1,43 @@
+{
+  "pin": "abda3045",
+  "imagePath": null,
+  "phone": "01274080309",
+  "parentName": "حمادة عبدالله",
+  "joiningDate": "٢‏/٦‏/٢٠٢٦ ٨:٤٠:٣٢ م",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "٢‏/٦‏/٢٠٢٦ ٨:٤٠:٣٢ م",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-14T15:00:55.318376"
+}
