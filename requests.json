@@ -130,7 +130,7 @@
       "type": "group",
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
-      "status": "pending"
+      "status": "accepted"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٤:٥٥ م",
@@ -141,7 +141,7 @@
       "type": "group",
       "group": "محمد صلاح هواري - مجموعة",
       "isNewGroup": false,
-      "status": "pending"
+      "status": "accepted"
     },
     {
       "time": "٢٤‏/٥‏/٢٠٢٦ ٥:٢٥:٥٢ م",
@@ -221,5 +221,5 @@
       "status": "pending"
     }
   ],
-  "_lastModified": "2026-06-14T14:56:26.837449"
+  "_lastModified": "2026-06-14T14:58:04.125039"
 }
