@@ -185,7 +185,7 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "pending"
+      "status": "accepted"
     },
     {
       "time": "٢‏/٦‏/٢٠٢٦ ٨:٤١:٢٥ م",
@@ -196,7 +196,7 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "pending"
+      "status": "accepted"
     },
     {
       "time": "٢‏/٦‏/٢٠٢٦ ٨:٤٢:٤٢ م",
@@ -207,7 +207,7 @@
       "type": "group",
       "group": "مجموعة التأسيس",
       "isNewGroup": false,
-      "status": "pending"
+      "status": "accepted"
     },
     {
       "time": "٢‏/٦‏/٢٠٢٦ ٨:٤٣:٤٨ م",
@@ -221,5 +221,5 @@
       "status": "pending"
     }
   ],
-  "_lastModified": "2026-06-14T14:59:47.957297"
+  "_lastModified": "2026-06-14T15:01:49.233796"
 }
