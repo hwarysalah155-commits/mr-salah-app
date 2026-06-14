@@ -1,0 +1,43 @@
+{
+  "pin": "syfx2079",
+  "imagePath": null,
+  "phone": "01274080309",
+  "parentName": "أحمد عبدالله",
+  "joiningDate": "٢‏/٦‏/٢٠٢٦ ٨:٤١:٢٥ م",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "٢‏/٦‏/٢٠٢٦ ٨:٤١:٢٥ م",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-14T15:01:19.364669"
+}
