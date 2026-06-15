@@ -123,7 +123,7 @@
       "days": "غير محدد",
       "time": "00:00",
       "paused": false,
-      "studentCount": 2,
+      "studentCount": 13,
       "maxCapacity": 20
     },
     {
@@ -141,9 +141,9 @@
       "days": "غير محدد",
       "time": "",
       "paused": false,
-      "studentCount": 1,
+      "studentCount": 0,
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-06-01T16:09:51.567780"
+  "_lastModified": "2026-06-15T17:25:24.343943"
 }
