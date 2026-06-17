@@ -1,6 +1,6 @@
 {
   "pin": "jadx8791",
-  "imagePath": null,
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1775661779834.jpg?t=1781536232576",
   "phone": "",
   "parentName": "احمد جاد",
   "joiningDate": "08/04/2026",
@@ -363,11 +363,31 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            0.0,
+            0.0,
+            null
+          ]
+        }
+      },
       "notes": [],
-      "examScores": [],
+      "examScores": [
+        {
+          "title": "اختبار مستوي",
+          "score": 10.0,
+          "outOf": 60.0,
+          "date": "15/06/2026"
+        }
+      ],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-06T17:24:21.987282"
+  "_lastModified": "2026-06-15T18:17:08.309568"
 }
