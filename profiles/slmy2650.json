@@ -1,0 +1,43 @@
+{
+  "pin": "slmy2650",
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1781787431474.jpg?t=1781787622949",
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "18/06/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "18/06/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-18T16:00:22.955114"
+}
