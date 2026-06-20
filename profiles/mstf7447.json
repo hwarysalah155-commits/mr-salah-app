@@ -1,0 +1,43 @@
+{
+  "pin": "mstf7447",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "حمدي عبدالله",
+  "joiningDate": "20/06/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "20/06/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": true,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-20T16:40:06.608866"
+}
