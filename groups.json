@@ -6,7 +6,7 @@
       "days": "سبت وثلاثاء",
       "time": "00:00",
       "paused": false,
-      "studentCount": 4,
+      "studentCount": 0,
       "maxCapacity": 20
     },
     {
@@ -123,16 +123,34 @@
       "days": "غير محدد",
       "time": "00:00",
       "paused": false,
-      "studentCount": 15,
+      "studentCount": 14,
       "maxCapacity": 20
     },
     {
-      "id": "g_1777043572715",
-      "name": "مجموعة (g_1777043572715)",
-      "days": "غير محدد",
-      "time": "",
+      "id": "g_1781979062615",
+      "name": "مجموعه الاطفال",
+      "days": "أحد وأربعاء",
+      "time": "00:00",
       "paused": false,
       "studentCount": 0,
+      "maxCapacity": 20
+    },
+    {
+      "id": "g_1781979100339",
+      "name": "مجموعه عبد الله ابو غرابه",
+      "days": "سبت وثلاثاء",
+      "time": "18:00",
+      "paused": false,
+      "studentCount": 1,
+      "maxCapacity": 20
+    },
+    {
+      "id": "g_1781962870623",
+      "name": "مجموعة الاطفال",
+      "days": "غير محدد",
+      "time": "00:00",
+      "paused": false,
+      "studentCount": 2,
       "maxCapacity": 20
     },
     {
@@ -143,7 +161,16 @@
       "paused": false,
       "studentCount": 0,
       "maxCapacity": 20
+    },
+    {
+      "id": "g_1777043572715",
+      "name": "مجموعة (g_1777043572715)",
+      "days": "غير محدد",
+      "time": "",
+      "paused": false,
+      "studentCount": 0,
+      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-06-20T16:39:24.065087"
+  "_lastModified": "2026-06-21T23:53:30.900199"
 }
