@@ -1,8 +1,8 @@
 {
   "pin": "zyad4119",
-  "imagePath": null,
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1782058359079.jpg?t=1782058476618",
   "phone": "",
-  "parentName": "",
+  "parentName": "ابو لحسن",
   "joiningDate": "21/06/2026",
   "months": [
     {
@@ -10,7 +10,7 @@
       "startDate": "21/06/2026",
       "endDate": null,
       "isClosed": false,
-      "paid": false,
+      "paid": true,
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
@@ -39,5 +39,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-21T19:12:39.329287"
+  "_lastModified": "2026-06-21T19:14:36.631732"
 }
