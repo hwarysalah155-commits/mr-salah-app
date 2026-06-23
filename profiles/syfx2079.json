@@ -1,6 +1,6 @@
 {
   "pin": "syfx2079",
-  "imagePath": null,
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1781438479264.jpg?t=1782218730987",
   "phone": "01274080309",
   "parentName": "أحمد عبدالله",
   "joiningDate": "٢‏/٦‏/٢٠٢٦ ٨:٤١:٢٥ م",
@@ -33,11 +33,36 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            4.0,
+            5.0,
+            7.0
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-14T15:01:19.364669"
+  "_lastModified": "2026-06-23T15:45:47.907475"
 }
