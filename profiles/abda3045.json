@@ -1,6 +1,6 @@
 {
   "pin": "abda3045",
-  "imagePath": null,
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1781438455223.jpg?t=1782218757912",
   "phone": "01274080309",
   "parentName": "حمادة عبدالله",
   "joiningDate": "٢‏/٦‏/٢٠٢٦ ٨:٤٠:٣٢ م",
@@ -33,11 +33,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            6.0,
+            4.0,
+            6.0
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-14T15:00:55.318376"
+  "_lastModified": "2026-06-23T15:45:57.916978"
 }
