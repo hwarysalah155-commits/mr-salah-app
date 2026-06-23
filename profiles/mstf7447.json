@@ -1,6 +1,6 @@
 {
   "pin": "mstf7447",
-  "imagePath": null,
+  "imagePath": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/profile_photos/st_1781962764060.jpg?t=1782218908441",
   "phone": "",
   "parentName": "حمدي عبدالله",
   "joiningDate": "20/06/2026",
@@ -33,11 +33,24 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            4.0,
+            3.0,
+            3.0
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-20T16:40:06.608866"
+  "_lastModified": "2026-06-23T15:50:37.973174"
 }
