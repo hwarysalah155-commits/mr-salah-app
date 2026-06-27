@@ -1,0 +1,43 @@
+{
+  "pin": "rqyh2286",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "23/06/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "23/06/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-23T18:27:08.597949"
+}
