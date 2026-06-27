@@ -1,0 +1,43 @@
+{
+  "pin": "shms2250",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "27/06/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "27/06/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-06-27T15:55:24.005804"
+}
