@@ -141,7 +141,7 @@
       "days": "سبت وثلاثاء",
       "time": "18:00",
       "paused": false,
-      "studentCount": 1,
+      "studentCount": 2,
       "maxCapacity": 20
     },
     {
@@ -150,7 +150,7 @@
       "days": "غير محدد",
       "time": "00:00",
       "paused": false,
-      "studentCount": 2,
+      "studentCount": 1,
       "maxCapacity": 20
     },
     {
@@ -172,5 +172,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-06-23T15:07:40.433340"
+  "_lastModified": "2026-06-27T15:57:10.074727"
 }
