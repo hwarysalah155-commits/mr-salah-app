@@ -45,6 +45,18 @@
             7.0,
             null
           ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            9.0,
+            9.0,
+            8.0
+          ]
         }
       },
       "notes": [],
@@ -52,5 +64,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-23T15:29:12.822686"
+  "_lastModified": "2026-06-27T15:59:09.946511"
 }
