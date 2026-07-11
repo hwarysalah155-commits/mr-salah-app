@@ -1,0 +1,43 @@
+{
+  "pin": "bsml7162",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "05/07/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "05/07/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-07-05T17:18:08.341050"
+}
