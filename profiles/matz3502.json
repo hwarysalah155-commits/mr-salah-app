@@ -33,11 +33,84 @@
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            7.0,
+            10.0,
+            null
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_2": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_4": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_5": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_6": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-15T17:38:09.870913"
+  "_lastModified": "2026-07-14T16:55:57.182573"
 }
