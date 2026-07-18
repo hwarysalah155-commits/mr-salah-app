@@ -123,7 +123,7 @@
       "days": "سبت وثلاثاء",
       "time": "15:00",
       "paused": false,
-      "studentCount": 9,
+      "studentCount": 6,
       "maxCapacity": 20
     },
     {
@@ -161,25 +161,7 @@
       "paused": false,
       "studentCount": 4,
       "maxCapacity": 20
-    },
-    {
-      "id": "g_1777043572715",
-      "name": "مجموعة (g_1777043572715)",
-      "days": "غير محدد",
-      "time": "",
-      "paused": false,
-      "studentCount": 0,
-      "maxCapacity": 20
-    },
-    {
-      "id": "g_1779624686706",
-      "name": "مجموعة (g_1779624686706)",
-      "days": "غير محدد",
-      "time": "",
-      "paused": false,
-      "studentCount": 0,
-      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-07-15T16:26:58.093902"
+  "_lastModified": "2026-07-18T11:00:59.206742"
 }
