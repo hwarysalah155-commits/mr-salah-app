@@ -1,0 +1,80 @@
+{
+  "groupId": "g_1781979100339",
+  "sessionDates": [
+    "11/07",
+    "14/07",
+    "18/07",
+    "09/10",
+    null,
+    null,
+    null,
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1781979122665",
+      "pin": "abdx5190",
+      "name": "عبد الله علي",
+      "grade": "",
+      "joiningDate": "20/06/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1782564923749",
+      "pin": "shms2250",
+      "name": "شمس",
+      "grade": "",
+      "joiningDate": "27/06/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "_lastModified": "2026-10-09T11:39:37.040832"
+}
