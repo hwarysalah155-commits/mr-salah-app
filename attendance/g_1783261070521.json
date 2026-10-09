@@ -1,0 +1,144 @@
+{
+  "groupId": "g_1783261070521",
+  "sessionDates": [
+    "22/07",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1783261082409",
+      "pin": "rqyh7753",
+      "name": "رقية معتز",
+      "grade": "",
+      "joiningDate": "05/07/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1783261088179",
+      "pin": "bsml7162",
+      "name": "بسملة",
+      "grade": "",
+      "joiningDate": "05/07/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1783261115628",
+      "pin": "mrwa2569",
+      "name": "مروان محمود مبارك",
+      "grade": "",
+      "joiningDate": "05/07/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1783261150382",
+      "pin": "frhx3344",
+      "name": "فرح محمود مبارك",
+      "grade": "",
+      "joiningDate": "05/07/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "_lastModified": "2026-10-09T11:39:37.048694"
+}
