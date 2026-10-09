@@ -1,0 +1,48 @@
+{
+  "groupId": "g_1781962870623",
+  "sessionDates": [
+    "01/07",
+    "01/07",
+    "12/07",
+    "08/07",
+    "19/07",
+    "15/07",
+    "19/07",
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1781962914961",
+      "pin": "rqyh6017",
+      "name": "رقية حسين عادل",
+      "grade": "",
+      "joiningDate": "20/06/2026",
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "_lastModified": "2026-10-09T11:56:08.108716"
+}
