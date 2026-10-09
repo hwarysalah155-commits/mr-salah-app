@@ -125,30 +125,96 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
         0,
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
+        "11/05",
+        "09/10",
+        "09/10",
+        "09/10",
+        "09/10",
         null,
         null,
         null
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "11/05"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "09/10"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "09/10"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "09/10"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "09/10"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "09/10/2026"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "09/10/2026"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "09/10/2026"
+        }
+      ]
     }
   ],
-  "_lastModified": "2026-05-04T15:23:17.926254"
+  "_lastModified": "2026-10-09T13:36:02.615664"
 }
