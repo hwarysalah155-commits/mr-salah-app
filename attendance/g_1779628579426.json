@@ -1,0 +1,208 @@
+{
+  "groupId": "g_1779628579426",
+  "sessionDates": [
+    "21/07",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "students": [
+    {
+      "id": "st_1779628579435",
+      "pin": "matz3502",
+      "name": "معتز مجدى محمد",
+      "grade": "الصف الأول الإعدادي",
+      "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٥:٤٥ م",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1779628624121",
+      "pin": "asla3322",
+      "name": "أسلام على محمد",
+      "grade": "الصف السادس الابتدائي",
+      "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ٤:٠٨:٤٨ م",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1781438362899",
+      "pin": "admx6696",
+      "name": "ادم احمد شبيب",
+      "grade": "الصف السادس الابتدائي",
+      "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ١١:٣٠:٠٧ م",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1781438387813",
+      "pin": "jwdy5014",
+      "name": "جودى احمد شبيب",
+      "grade": "الصف الأول الابتدائي",
+      "joiningDate": "٢٤‏/٥‏/٢٠٢٦، ١١:٣١:٣٤ م",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1781962825664",
+      "pin": "mhmd1978",
+      "name": "محمد عادل حمدان",
+      "grade": "",
+      "joiningDate": "20/06/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "st_1781962843741",
+      "pin": "mstf7319",
+      "name": "مصطفي عادل حمدان",
+      "grade": "",
+      "joiningDate": "20/06/2026",
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "_lastModified": "2026-10-09T11:39:37.032338"
+}
