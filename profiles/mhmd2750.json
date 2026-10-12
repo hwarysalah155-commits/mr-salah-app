@@ -39,7 +39,7 @@
       "homeworks": [
         {
           "title": "واجب الحصة 1",
-          "done": false,
+          "done": true,
           "date": "05/04"
         },
         {
@@ -285,5 +285,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-10T14:23:13.768589"
+  "_lastModified": "2026-10-13T01:29:20.056096"
 }
