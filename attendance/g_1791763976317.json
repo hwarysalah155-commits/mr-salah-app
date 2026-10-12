@@ -1,7 +1,7 @@
 {
   "groupId": "g_1791763976317",
   "sessionDates": [
-    null,
+    "12/10",
     null,
     null,
     null,
@@ -51,7 +51,7 @@
       "grade": "",
       "joiningDate": "12/10/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -77,5 +77,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-12T03:13:44.241470"
+  "_lastModified": "2026-10-12T03:14:09.962631"
 }
