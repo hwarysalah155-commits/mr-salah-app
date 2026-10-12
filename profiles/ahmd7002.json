@@ -1,0 +1,43 @@
+{
+  "pin": "ahmd7002",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "12/10/2026",
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "12/10/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-10-12T03:13:12.815863"
+}
