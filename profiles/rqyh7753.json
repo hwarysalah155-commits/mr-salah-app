@@ -88,8 +88,8 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessions": [
-        0,
-        0,
+        1,
+        2,
         0,
         0,
         0,
@@ -98,8 +98,8 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
+        "22/07",
+        "12/10",
         null,
         null,
         null,
@@ -110,8 +110,49 @@
       "eval": {},
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "22/07"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "12/10"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "12/10/2026"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "12/10/2026"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "12/10/2026"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "12/10/2026"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "12/10/2026"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "12/10/2026"
+        }
+      ]
     }
   ],
-  "_lastModified": "2026-07-22T16:16:09.955385"
+  "_lastModified": "2026-10-12T03:11:29.884724"
 }
