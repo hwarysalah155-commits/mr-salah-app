@@ -2,7 +2,7 @@
   "groupId": "g_1783261070521",
   "sessionDates": [
     "22/07",
-    null,
+    "12/10",
     null,
     null,
     null,
@@ -10,6 +10,7 @@
     null,
     null
   ],
+  "scheduleAnchorDate": null,
   "students": [
     {
       "id": "st_1783261082409",
@@ -83,7 +84,7 @@
       "joiningDate": "05/07/2026",
       "sessions": [
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -140,5 +141,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-11T02:18:28.650202"
+  "_lastModified": "2026-10-12T03:11:07.895475"
 }
