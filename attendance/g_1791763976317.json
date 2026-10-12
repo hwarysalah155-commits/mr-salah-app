@@ -1,0 +1,49 @@
+{
+  "groupId": "g_1791763976317",
+  "sessionDates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "scheduleAnchorDate": null,
+  "students": [
+    {
+      "id": "st_1791763992609",
+      "pin": "ahmd7002",
+      "name": "احمد محمد علي",
+      "grade": "",
+      "joiningDate": "12/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "_lastModified": "2026-10-12T03:13:12.783103"
+}
