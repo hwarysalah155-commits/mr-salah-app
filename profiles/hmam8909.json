@@ -39,17 +39,17 @@
       "homeworks": [
         {
           "title": "واجب الحصة 1",
-          "done": true,
+          "done": false,
           "date": "12/10"
         },
         {
           "title": "واجب الحصة 2",
-          "done": true,
+          "done": false,
           "date": "15/10"
         },
         {
           "title": "واجب الحصة 3",
-          "done": true,
+          "done": false,
           "date": "19/10"
         },
         {
@@ -80,5 +80,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-13T13:02:45.421985"
+  "_lastModified": "2026-10-13T13:02:47.526691"
 }
