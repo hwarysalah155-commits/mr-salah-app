@@ -77,38 +77,6 @@
       ]
     },
     {
-      "id": "st_1774837028303",
-      "pin": "slym2432",
-      "name": "سليمان احمد وزيري",
-      "grade": "الصف الثالث الابتدائي",
-      "joiningDate": "25/03/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        0,
-        0
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ]
-    },
-    {
       "id": "st_1774837028304",
       "pin": "jny3026",
       "name": "جني إسلام",
@@ -120,38 +88,6 @@
         2,
         2,
         2,
-        1,
-        0,
-        0
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ]
-    },
-    {
-      "id": "st_1774837028305",
-      "pin": "mstf3362",
-      "name": "مصطفى عرفة",
-      "grade": "الصف الثالث الابتدائي",
-      "joiningDate": "25/03/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        2,
-        1,
         1,
         0,
         0
@@ -205,5 +141,5 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-13T13:59:16.687855"
+  "_lastModified": "2026-10-13T14:00:13.342782"
 }
