@@ -92,7 +92,7 @@
     },
     {
       "id": "g_1775568459317",
-      "name": "مجموعه ادم وانس وعلي",
+      "name": "مجموعه ادم وانس وجودي",
       "days": "سبت وثلاثاء",
       "time": "16:00",
       "durationMinutes": 60,
@@ -116,7 +116,7 @@
       "days": "سبت وثلاثاء",
       "time": "17:00",
       "durationMinutes": 60,
-      "paused": true,
+      "paused": false,
       "studentCount": 5,
       "maxCapacity": 20
     },
@@ -131,26 +131,6 @@
       "maxCapacity": 20
     },
     {
-      "id": "g_1779628579426",
-      "name": "مجموعة التأسيس",
-      "days": "سبت وثلاثاء",
-      "time": "15:00",
-      "durationMinutes": 60,
-      "paused": false,
-      "studentCount": 6,
-      "maxCapacity": 20
-    },
-    {
-      "id": "g_1781979062615",
-      "name": "مجموعه الاطفال",
-      "days": "أحد وأربعاء",
-      "time": "00:00",
-      "durationMinutes": 60,
-      "paused": false,
-      "studentCount": 0,
-      "maxCapacity": 20
-    },
-    {
       "id": "g_1781979100339",
       "name": "مجموعه عبد الله ابو غرابه",
       "days": "سبت وثلاثاء",
@@ -158,26 +138,6 @@
       "durationMinutes": 60,
       "paused": false,
       "studentCount": 2,
-      "maxCapacity": 20
-    },
-    {
-      "id": "g_1781962870623",
-      "name": "مجموعة الاطفال",
-      "days": "غير محدد",
-      "time": "00:00",
-      "durationMinutes": 60,
-      "paused": false,
-      "studentCount": 1,
-      "maxCapacity": 20
-    },
-    {
-      "id": "g_1783261070521",
-      "name": "مجموعة رقية معتز",
-      "days": "أحد وأربعاء",
-      "time": "16:00",
-      "durationMinutes": 60,
-      "paused": false,
-      "studentCount": 4,
       "maxCapacity": 20
     },
     {
@@ -191,5 +151,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-10-13T12:52:44.796609"
+  "_lastModified": "2026-10-13T13:58:23.014200"
 }
