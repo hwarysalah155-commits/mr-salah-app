@@ -6,7 +6,7 @@
       "days": "سبت وثلاثاء",
       "time": "00:00",
       "durationMinutes": 60,
-      "paused": true,
+      "paused": false,
       "studentCount": 0,
       "maxCapacity": 20
     },
@@ -16,7 +16,7 @@
       "days": "أحد وأربعاء",
       "time": "14:00",
       "durationMinutes": 60,
-      "paused": true,
+      "paused": false,
       "studentCount": 6,
       "maxCapacity": 20
     },
@@ -26,8 +26,8 @@
       "days": "أحد وأربعاء",
       "time": "18:00",
       "durationMinutes": 60,
-      "paused": true,
-      "studentCount": 7,
+      "paused": false,
+      "studentCount": 3,
       "maxCapacity": 20
     },
     {
@@ -36,7 +36,7 @@
       "days": "أحد وأربعاء",
       "time": "13:00",
       "durationMinutes": 60,
-      "paused": true,
+      "paused": false,
       "studentCount": 5,
       "maxCapacity": 20
     },
@@ -151,5 +151,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-10-13T13:58:23.014200"
+  "_lastModified": "2026-10-13T13:59:56.539790"
 }
