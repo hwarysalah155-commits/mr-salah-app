@@ -246,7 +246,32 @@
         "02/11",
         "05/11"
       ],
-      "eval": {},
+      "eval": {
+        "sess_1": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        },
+        "sess_0": {
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            null,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": [
@@ -293,7 +318,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-15T15:20:58.256109",
+  "_lastModified": "2026-10-15T15:21:36.027592",
   "grade": "الصف الأول الإعدادي",
   "studentTags": []
 }
