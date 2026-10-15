@@ -326,12 +326,13 @@
     },
     {
       "monthNumber": 4,
+      "groupId": "g_1775299207035",
       "startDate": "15/10/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 450.0,
       "sessions": [
         0,
         0,
@@ -343,22 +344,63 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "21/09",
+        "19/10",
+        "22/10",
+        "26/10",
+        "29/10",
+        "02/11",
+        "05/11",
+        "09/11"
       ],
       "eval": {},
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "21/09"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "19/10"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "22/10"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "26/10"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "29/10"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "02/11"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "05/11"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "09/11"
+        }
+      ]
     }
   ],
-  "_lastModified": "2026-10-15T17:16:33.609413",
+  "_lastModified": "2026-10-15T17:16:52.429189",
   "grade": "الصف الأول الإعدادي",
   "studentTags": []
 }
