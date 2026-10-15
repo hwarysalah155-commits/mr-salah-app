@@ -6,9 +6,9 @@
     "09/05",
     "12/05",
     "16/05",
-    null,
-    null,
-    null
+    "15/10",
+    "15/10",
+    "15/10"
   ],
   "scheduleAnchorDate": null,
   "students": [
@@ -24,9 +24,9 @@
         1,
         1,
         1,
-        0,
-        0,
-        0
+        1,
+        1,
+        1
       ],
       "paid": false,
       "payment": 0.0,
@@ -42,7 +42,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775299437940",
@@ -56,9 +57,9 @@
         1,
         1,
         1,
-        0,
-        0,
-        0
+        1,
+        1,
+        1
       ],
       "paid": false,
       "payment": 0.0,
@@ -74,7 +75,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775299459726",
@@ -88,9 +90,9 @@
         1,
         1,
         1,
-        0,
-        0,
-        0
+        1,
+        1,
+        1
       ],
       "paid": false,
       "payment": 0.0,
@@ -106,7 +108,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775299480676",
@@ -120,9 +123,9 @@
         1,
         1,
         1,
-        0,
-        0,
-        0
+        1,
+        1,
+        1
       ],
       "paid": false,
       "payment": 0.0,
@@ -138,7 +141,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775299500006",
@@ -152,9 +156,9 @@
         1,
         1,
         1,
-        0,
-        0,
-        0
+        1,
+        1,
+        1
       ],
       "paid": false,
       "payment": 0.0,
@@ -170,8 +174,9 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-13T13:04:18.674616"
+  "_lastModified": "2026-10-15T17:14:52.378853"
 }
