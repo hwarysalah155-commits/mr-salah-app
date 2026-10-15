@@ -28,7 +28,7 @@
         0,
         0
       ],
-      "paid": false,
+      "paid": true,
       "payment": 0.0,
       "expectedPayment": 0.0,
       "phone": "",
@@ -42,6 +42,9 @@
         false,
         false,
         false
+      ],
+      "studentTags": [
+        "foundation"
       ]
     },
     {
@@ -74,7 +77,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1781438362899",
@@ -106,7 +110,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1781438387813",
@@ -138,7 +143,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1781962825664",
@@ -170,7 +176,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1781962843741",
@@ -202,8 +209,9 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-12T03:08:05.962128"
+  "_lastModified": "2026-10-15T13:03:25.731713"
 }
