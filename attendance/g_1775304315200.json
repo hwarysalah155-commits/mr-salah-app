@@ -8,7 +8,7 @@
     "26/10",
     "29/10",
     "02/11",
-    null
+    "05/11"
   ],
   "scheduleAnchorDate": null,
   "students": [
@@ -244,5 +244,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-15T15:20:42.063057"
+  "_lastModified": "2026-10-15T15:20:58.115743"
 }
