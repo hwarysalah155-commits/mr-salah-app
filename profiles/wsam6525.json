@@ -325,12 +325,12 @@
       "homeworks": [
         {
           "title": "واجب الحصة 1",
-          "done": false,
+          "done": true,
           "date": "15/10"
         },
         {
           "title": "واجب الحصة 2",
-          "done": false,
+          "done": true,
           "date": "15/10"
         },
         {
@@ -366,7 +366,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-15T15:20:58.136884",
+  "_lastModified": "2026-10-15T15:21:24.988239",
   "grade": "",
   "studentTags": []
 }
