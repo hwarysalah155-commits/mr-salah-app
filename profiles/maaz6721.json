@@ -222,15 +222,16 @@
     },
     {
       "monthNumber": 3,
+      "groupId": "g_1775304315200",
       "startDate": "12/05/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 450.0,
       "sessions": [
-        0,
-        0,
+        1,
+        1,
         0,
         0,
         0,
@@ -239,8 +240,8 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
+        "12/10",
+        "15/10",
         null,
         null,
         null,
@@ -251,8 +252,51 @@
       "eval": {},
       "notes": [],
       "examScores": [],
-      "homeworks": []
+      "homeworks": [
+        {
+          "title": "واجب الحصة 1",
+          "done": false,
+          "date": "12/10"
+        },
+        {
+          "title": "واجب الحصة 2",
+          "done": false,
+          "date": "15/10"
+        },
+        {
+          "title": "واجب الحصة 3",
+          "done": false,
+          "date": "15/10/2026"
+        },
+        {
+          "title": "واجب الحصة 4",
+          "done": false,
+          "date": "15/10/2026"
+        },
+        {
+          "title": "واجب الحصة 5",
+          "done": false,
+          "date": "15/10/2026"
+        },
+        {
+          "title": "واجب الحصة 6",
+          "done": false,
+          "date": "15/10/2026"
+        },
+        {
+          "title": "واجب الحصة 7",
+          "done": false,
+          "date": "15/10/2026"
+        },
+        {
+          "title": "واجب الحصة 8",
+          "done": false,
+          "date": "15/10/2026"
+        }
+      ]
     }
   ],
-  "_lastModified": "2026-05-12T13:54:47.532926"
+  "_lastModified": "2026-10-15T15:18:33.066940",
+  "grade": "الصف الخامس الابتدائي",
+  "studentTags": []
 }
