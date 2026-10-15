@@ -1,7 +1,7 @@
 {
   "groupId": "g_1775304315200",
   "sessionDates": [
-    "29/06",
+    "12/10",
     "12/05",
     null,
     null,
@@ -10,6 +10,7 @@
     null,
     null
   ],
+  "scheduleAnchorDate": null,
   "students": [
     {
       "id": "st_1775304329920",
@@ -41,7 +42,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775304340796",
@@ -73,7 +75,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775308338858",
@@ -105,7 +108,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775308488835",
@@ -137,7 +141,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775310398254",
@@ -169,7 +174,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775311065396",
@@ -201,7 +207,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1777982481539",
@@ -233,8 +240,9 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-11T02:18:28.503802"
+  "_lastModified": "2026-10-15T15:18:19.725096"
 }
