@@ -10,6 +10,7 @@
     null,
     null
   ],
+  "scheduleAnchorDate": null,
   "students": [
     {
       "id": "st_1775015474536",
@@ -41,7 +42,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775015503690",
@@ -73,7 +75,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1775015511928",
@@ -105,8 +108,9 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-11T02:18:28.481769"
+  "_lastModified": "2026-10-16T17:22:53.117359"
 }
