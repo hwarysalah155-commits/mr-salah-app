@@ -25,12 +25,12 @@
         1,
         1,
         1,
-        1,
+        0,
         0
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -42,7 +42,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1774837028302",
@@ -74,7 +75,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1774837028304",
@@ -106,7 +108,8 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     },
     {
       "id": "st_1774837028306",
@@ -138,8 +141,9 @@
         false,
         false,
         false
-      ]
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-13T14:00:13.342782"
+  "_lastModified": "2026-10-16T17:22:33.616661"
 }
