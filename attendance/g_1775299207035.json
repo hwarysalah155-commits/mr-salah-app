@@ -30,7 +30,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 450.0,
+      "expectedPayment": 600.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -49,7 +49,7 @@
       "id": "st_1775299437940",
       "pin": "shak2199",
       "name": "شاكر محمد رفعت",
-      "grade": "الصف الأول الإعدادي",
+      "grade": "الصف الثاني الإعدادي",
       "joiningDate": "04/04/2026",
       "sessions": [
         0,
@@ -63,7 +63,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 450.0,
+      "expectedPayment": 600.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -176,7 +176,139 @@
         false
       ],
       "studentTags": []
+    },
+    {
+      "id": "st_1792179327845",
+      "pin": "mhmd8814",
+      "name": "محمد وائل",
+      "grade": "",
+      "joiningDate": "16/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    },
+    {
+      "id": "st_1792179365226",
+      "pin": "adhm8326",
+      "name": "ادهم وائل",
+      "grade": "",
+      "joiningDate": "16/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    },
+    {
+      "id": "st_1792179421614",
+      "pin": "mazn1336",
+      "name": "مازن احمد محمود",
+      "grade": "",
+      "joiningDate": "16/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    },
+    {
+      "id": "st_1792179451148",
+      "pin": "mrad5633",
+      "name": "مراد عمرو محمود",
+      "grade": "",
+      "joiningDate": "16/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 350.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-16T17:23:22.456821"
+  "_lastModified": "2026-10-16T22:41:48.194723"
 }
