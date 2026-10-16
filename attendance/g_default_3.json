@@ -29,7 +29,7 @@
         0
       ],
       "paid": false,
-      "payment": 0.0,
+      "payment": 20.0,
       "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
@@ -145,5 +145,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-16T17:22:33.616661"
+  "_lastModified": "2026-10-16T17:23:22.487388"
 }
