@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -35,6 +36,11 @@
       ],
       "eval": {
         "sess_3": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             false,
             false,
@@ -47,6 +53,11 @@
           ]
         },
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -59,6 +70,11 @@
           ]
         },
         "sess_1": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -124,6 +140,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -146,6 +163,11 @@
       ],
       "eval": {
         "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -158,6 +180,11 @@
           ]
         },
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             false,
@@ -217,12 +244,90 @@
     },
     {
       "monthNumber": 3,
+      "groupId": "g_default_3",
       "startDate": "29/04/2026",
+      "endDate": "16/10/2026",
+      "isClosed": true,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
+      "sessions": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "sessionDates": [
+        "26/04",
+        "29/04",
+        "03/05",
+        "06/05",
+        "10/05",
+        "13/05",
+        "22/09",
+        null
+      ],
+      "eval": {
+        "sess_1": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
+          "checks": [
+            false,
+            false,
+            false
+          ],
+          "scores": [
+            9.0,
+            8.0,
+            8.0
+          ]
+        },
+        "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            8.0,
+            0.0,
+            7.0
+          ]
+        }
+      },
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    },
+    {
+      "monthNumber": 4,
+      "groupId": "g_default_4",
+      "startDate": "16/10/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
       "sessions": [
         0,
         0,
@@ -243,36 +348,16 @@
         null,
         null
       ],
-      "eval": {
-        "sess_1": {
-          "checks": [
-            false,
-            false,
-            false
-          ],
-          "scores": [
-            9.0,
-            8.0,
-            8.0
-          ]
-        },
-        "sess_2": {
-          "checks": [
-            true,
-            true,
-            true
-          ],
-          "scores": [
-            8.0,
-            0.0,
-            7.0
-          ]
-        }
-      },
+      "eval": {},
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-03T14:47:36.740053"
+  "_lastModified": "2026-10-16T22:32:02.304653",
+  "grade": "الصف الثالث الابتدائي",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": []
 }
