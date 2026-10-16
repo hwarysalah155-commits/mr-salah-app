@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -87,6 +88,10 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
       "sessions": [
         0,
         0,
@@ -109,6 +114,11 @@
       ],
       "eval": {
         "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -119,6 +129,23 @@
             null,
             null
           ]
+        },
+        "sess_0": {
+          "ratings": [
+            "good",
+            "acceptable",
+            "poor"
+          ],
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            6.0,
+            4.0,
+            2.0
+          ]
         }
       },
       "notes": [],
@@ -126,5 +153,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-06T13:08:51.493250"
+  "_lastModified": "2026-10-16T22:26:05.918757",
+  "grade": "",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": []
 }
