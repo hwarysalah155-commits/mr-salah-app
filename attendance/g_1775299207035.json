@@ -21,16 +21,16 @@
       "sessions": [
         1,
         1,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
         0,
         0
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 600.0,
+      "expectedPayment": 450.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -310,5 +310,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-17T13:09:35.058963"
+  "_lastModified": "2026-10-17T13:09:43.773722"
 }
