@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -35,6 +36,11 @@
       ],
       "eval": {
         "sess_6": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -105,6 +111,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -127,6 +134,11 @@
       ],
       "eval": {
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -139,6 +151,11 @@
           ]
         },
         "sess_1": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -151,6 +168,11 @@
           ]
         },
         "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -163,6 +185,11 @@
           ]
         },
         "sess_6": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             false,
@@ -175,6 +202,11 @@
           ]
         },
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -247,6 +279,7 @@
       "paid": true,
       "payment": 350.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         0,
         0,
@@ -269,6 +302,11 @@
       ],
       "eval": {
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -286,5 +324,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-05-05T19:12:40.463429"
+  "_lastModified": "2026-10-17T13:07:33.925464",
+  "grade": "الصف السادس الابتدائي",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": []
 }
