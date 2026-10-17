@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -87,6 +88,10 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -154,5 +159,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-09T11:39:37.065641"
+  "_lastModified": "2026-10-17T08:05:37.248805",
+  "grade": "",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": []
 }
