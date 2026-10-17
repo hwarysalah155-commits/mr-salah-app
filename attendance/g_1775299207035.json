@@ -283,18 +283,18 @@
       "grade": "",
       "joiningDate": "16/10/2026",
       "sessions": [
+        1,
         0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        2,
         0,
         0,
         0
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 350.0,
+      "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -310,5 +310,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-10-17T08:05:37.535776"
+  "_lastModified": "2026-10-17T13:09:13.823355"
 }
