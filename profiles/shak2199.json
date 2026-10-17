@@ -382,7 +382,7 @@
         1,
         1,
         1,
-        0,
+        1,
         0
       ],
       "sessionDates": [
@@ -442,7 +442,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-17T13:09:49.048627",
+  "_lastModified": "2026-10-17T13:09:50.954473",
   "grade": "الصف الثاني الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
