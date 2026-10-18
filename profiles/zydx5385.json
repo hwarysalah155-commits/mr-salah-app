@@ -387,13 +387,31 @@
         "18/10",
         "21/10"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "excellent",
+            "excellent",
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            10.0,
+            10.0,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:13:56.153088",
+  "_lastModified": "2026-10-18T16:16:23.646293",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
