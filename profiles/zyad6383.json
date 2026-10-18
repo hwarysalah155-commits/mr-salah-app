@@ -423,12 +423,17 @@
           ]
         }
       },
-      "notes": [],
+      "notes": [
+        {
+          "date": "18/10/2026",
+          "text": "لم يراجع من اجل الامتحان"
+        }
+      ],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:14:19.884452",
+  "_lastModified": "2026-10-18T16:14:50.857500",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
