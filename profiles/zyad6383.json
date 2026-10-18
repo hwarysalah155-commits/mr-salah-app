@@ -404,13 +404,31 @@
         "18/10",
         "21/10"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "veryGood",
+            "good",
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            8.0,
+            6.0,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:13:59.051803",
+  "_lastModified": "2026-10-18T16:14:12.836936",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
