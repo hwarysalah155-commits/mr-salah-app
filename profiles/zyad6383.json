@@ -408,7 +408,7 @@
         "sess_0": {
           "ratings": [
             "veryGood",
-            "good",
+            "veryGood",
             "acceptable"
           ],
           "checks": [
@@ -418,7 +418,7 @@
           ],
           "scores": [
             8.0,
-            6.0,
+            8.0,
             4.0
           ]
         }
@@ -433,7 +433,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:14:50.857500",
+  "_lastModified": "2026-10-18T16:16:07.245291",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
