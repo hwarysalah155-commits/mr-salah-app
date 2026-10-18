@@ -392,17 +392,17 @@
           "ratings": [
             "excellent",
             "excellent",
-            null
+            "good"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             10.0,
             10.0,
-            null
+            6.0
           ]
         }
       },
@@ -411,7 +411,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:16:23.646293",
+  "_lastModified": "2026-10-18T16:16:25.973546",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
