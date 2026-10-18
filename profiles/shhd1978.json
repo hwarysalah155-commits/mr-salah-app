@@ -374,17 +374,17 @@
         "sess_0": {
           "ratings": [
             "poor",
-            null,
+            "excellent",
             null
           ],
           "checks": [
             true,
-            false,
+            true,
             false
           ],
           "scores": [
             2.0,
-            null,
+            10.0,
             null
           ]
         }
@@ -394,7 +394,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:15:10.961341",
+  "_lastModified": "2026-10-18T16:15:54.344662",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
