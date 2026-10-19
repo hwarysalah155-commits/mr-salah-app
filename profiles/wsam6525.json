@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 450.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -35,6 +36,11 @@
       ],
       "eval": {
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -47,6 +53,11 @@
           ]
         },
         "sess_6": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -59,6 +70,11 @@
           ]
         },
         "sess_5": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -71,6 +87,11 @@
           ]
         },
         "sess_4": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -146,6 +167,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -168,6 +190,11 @@
       ],
       "eval": {
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -180,6 +207,11 @@
           ]
         },
         "sess_1": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -192,6 +224,11 @@
           ]
         },
         "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -204,6 +241,11 @@
           ]
         },
         "sess_3": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -216,6 +258,11 @@
           ]
         },
         "sess_4": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -228,6 +275,11 @@
           ]
         },
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -298,11 +350,15 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -319,7 +375,25 @@
         "02/11",
         "05/11"
       ],
-      "eval": {},
+      "eval": {
+        "sess_2": {
+          "ratings": [
+            "excellent",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            10.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": [
@@ -366,7 +440,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-15T15:21:24.988239",
+  "_lastModified": "2026-10-19T15:41:56.525176",
   "grade": "",
-  "studentTags": []
+  "studentTags": [],
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0
 }
