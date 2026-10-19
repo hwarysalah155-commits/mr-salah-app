@@ -306,6 +306,23 @@
             null,
             null
           ]
+        },
+        "sess_2": {
+          "ratings": [
+            "excellent",
+            "good",
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            10.0,
+            6.0,
+            null
+          ]
         }
       },
       "notes": [],
@@ -354,7 +371,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-19T15:41:43.640994",
+  "_lastModified": "2026-10-19T15:42:12.638043",
   "grade": "الصف الأول الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
