@@ -13,6 +13,7 @@
       "paid": true,
       "payment": 700.0,
       "expectedPayment": 700.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -35,6 +36,11 @@
       ],
       "eval": {
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -101,10 +107,14 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 700.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 700.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -168,7 +178,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-15T15:20:58.713658",
+  "_lastModified": "2026-10-19T15:41:44.597552",
   "grade": "الصف السادس الابتدائي",
-  "studentTags": []
+  "studentTags": [],
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 700.0
 }
