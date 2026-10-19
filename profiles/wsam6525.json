@@ -379,17 +379,17 @@
         "sess_2": {
           "ratings": [
             "excellent",
-            null,
+            "good",
             null
           ],
           "checks": [
             true,
-            false,
+            true,
             false
           ],
           "scores": [
             10.0,
-            null,
+            6.0,
             null
           ]
         }
@@ -440,7 +440,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-19T15:41:56.525176",
+  "_lastModified": "2026-10-19T15:41:59.563481",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
