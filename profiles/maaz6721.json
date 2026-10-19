@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 450.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -35,6 +36,11 @@
       ],
       "eval": {
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -47,6 +53,11 @@
           ]
         },
         "sess_6": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -117,6 +128,7 @@
       "paid": true,
       "payment": 450.0,
       "expectedPayment": 450.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -139,6 +151,11 @@
       ],
       "eval": {
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -151,6 +168,11 @@
           ]
         },
         "sess_1": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -163,6 +185,11 @@
           ]
         },
         "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -229,10 +256,14 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 450.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 450.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -296,7 +327,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-15T15:20:58.375646",
+  "_lastModified": "2026-10-19T15:41:43.944360",
   "grade": "الصف الخامس الابتدائي",
-  "studentTags": []
+  "studentTags": [],
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 450.0
 }
