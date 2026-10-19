@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 450.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -35,6 +36,11 @@
       ],
       "eval": {
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             false,
             false,
@@ -47,6 +53,11 @@
           ]
         },
         "sess_6": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             false,
             false,
@@ -59,6 +70,11 @@
           ]
         },
         "sess_5": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -129,6 +145,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -151,6 +168,11 @@
       ],
       "eval": {
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             false,
             true,
@@ -216,11 +238,15 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
-        0,
+        1,
         0,
         0,
         0,
@@ -284,7 +310,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-15T15:20:58.492253",
+  "_lastModified": "2026-10-19T15:41:44.185218",
   "grade": "",
-  "studentTags": []
+  "studentTags": [],
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0
 }
