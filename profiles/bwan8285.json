@@ -311,17 +311,17 @@
           "ratings": [
             "excellent",
             "good",
-            null
+            "acceptable"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             10.0,
             6.0,
-            null
+            4.0
           ]
         }
       },
@@ -371,7 +371,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-19T15:42:12.638043",
+  "_lastModified": "2026-10-19T15:42:14.884571",
   "grade": "الصف الأول الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
