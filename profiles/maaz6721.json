@@ -285,17 +285,17 @@
           "ratings": [
             "excellent",
             "poor",
-            null
+            "acceptable"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             10.0,
             2.0,
-            null
+            4.0
           ]
         }
       },
@@ -345,7 +345,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-19T15:42:24.298705",
+  "_lastModified": "2026-10-19T15:42:29.695187",
   "grade": "الصف الخامس الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
