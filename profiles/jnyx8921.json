@@ -263,7 +263,25 @@
         "02/11",
         "05/11"
       ],
-      "eval": {},
+      "eval": {
+        "sess_2": {
+          "ratings": [
+            "good",
+            "acceptable",
+            "poor"
+          ],
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            6.0,
+            4.0,
+            2.0
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": [
@@ -310,7 +328,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-19T15:41:44.185218",
+  "_lastModified": "2026-10-19T15:42:41.339698",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
