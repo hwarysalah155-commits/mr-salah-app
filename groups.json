@@ -113,9 +113,9 @@
     {
       "id": "g_1775304315200",
       "name": "مجموعه علي ايمن",
-      "days": "أحد وأربعاء",
+      "days": "إثنين وخميس",
       "time": "13:00",
-      "durationMinutes": 60,
+      "durationMinutes": 120,
       "paused": false,
       "studentCount": 7,
       "maxCapacity": 20
@@ -131,5 +131,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-10-19T22:45:19.141940"
+  "_lastModified": "2026-11-15T18:23:50.650863"
 }
