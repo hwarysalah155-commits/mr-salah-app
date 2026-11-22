@@ -13,6 +13,7 @@
       "paid": true,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -87,6 +88,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 700.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -109,6 +111,11 @@
       ],
       "eval": {
         "sess_2": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -121,6 +128,11 @@
           ]
         },
         "sess_1": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -133,6 +145,11 @@
           ]
         },
         "sess_0": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -145,6 +162,11 @@
           ]
         },
         "sess_3": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -157,6 +179,11 @@
           ]
         },
         "sess_4": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -169,6 +196,11 @@
           ]
         },
         "sess_5": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -181,6 +213,11 @@
           ]
         },
         "sess_6": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -193,6 +230,11 @@
           ]
         },
         "sess_7": {
+          "ratings": [
+            null,
+            null,
+            null
+          ],
           "checks": [
             true,
             true,
@@ -258,6 +300,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 700.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -325,5 +368,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-10-09T14:25:31.164550"
+  "_lastModified": "2026-11-22T03:10:54.675676",
+  "grade": "الصف الخامس الابتدائي",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 700.0,
+  "studentTags": []
 }
