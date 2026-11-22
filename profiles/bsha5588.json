@@ -300,6 +300,9 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 700.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 700.0,
       "sessionPayments": [],
       "sessions": [
         1,
@@ -368,7 +371,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-22T03:10:54.675676",
+  "_lastModified": "2026-11-22T03:11:16.080213",
   "grade": "الصف الخامس الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
