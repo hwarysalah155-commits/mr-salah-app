@@ -138,7 +138,7 @@
         3,
         3,
         3,
-        0,
+        2,
         0
       ],
       "sessionDates": [
@@ -157,7 +157,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T22:54:44.609845",
+  "_lastModified": "2026-11-23T23:06:59.024950",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
