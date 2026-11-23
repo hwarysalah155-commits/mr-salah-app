@@ -2,7 +2,7 @@
   "pin": "jnyx8921",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "حسن فتحي",
   "joiningDate": "04/04/2026",
   "months": [
     {
@@ -335,10 +335,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 550.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 550.0,
       "sessionPayments": [],
       "sessions": [
         1,
@@ -384,10 +384,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:48:56.921845",
+  "_lastModified": "2026-11-23T15:52:46.356729",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0
+  "monthlyFee": 550.0
 }
