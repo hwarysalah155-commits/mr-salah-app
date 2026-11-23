@@ -44,7 +44,40 @@
         false
       ],
       "studentTags": []
+    },
+    {
+      "id": "st_1792179421614",
+      "pin": "mazn1336",
+      "name": "مازن احمد محمود",
+      "grade": "",
+      "joiningDate": "16/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:01:00.646653"
+  "_lastModified": "2026-11-23T16:01:08.750583"
 }
