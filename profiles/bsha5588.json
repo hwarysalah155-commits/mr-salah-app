@@ -296,8 +296,8 @@
       "monthNumber": 3,
       "groupId": "g_1775014029502",
       "startDate": "11/05/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "23/11/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 700.0,
@@ -370,9 +370,47 @@
           "date": "09/10/2026"
         }
       ]
+    },
+    {
+      "monthNumber": 4,
+      "groupId": "g_default_6",
+      "startDate": "23/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 700.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 700.0,
+      "sessionPayments": [],
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T16:26:22.627720",
+  "_lastModified": "2026-11-23T16:36:43.787925",
   "grade": "الصف الخامس الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
