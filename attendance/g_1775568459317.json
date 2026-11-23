@@ -61,9 +61,9 @@
         0,
         0
       ],
-      "paid": true,
+      "paid": false,
       "payment": 350.0,
-      "expectedPayment": 350.0,
+      "expectedPayment": 500.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -96,7 +96,7 @@
       ],
       "paid": true,
       "payment": 350.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:59:15.293568"
+  "_lastModified": "2026-11-23T16:59:52.052174"
 }
