@@ -408,17 +408,17 @@
           "ratings": [
             "poor",
             "good",
-            null
+            "acceptable"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             2.0,
             6.0,
-            null
+            4.0
           ]
         }
       },
@@ -427,7 +427,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:48:10.573930",
+  "_lastModified": "2026-11-23T15:48:12.243660",
   "grade": "الصف الأول الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
