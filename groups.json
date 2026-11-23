@@ -107,7 +107,7 @@
       "time": "16:00",
       "durationMinutes": 60,
       "paused": false,
-      "studentCount": 6,
+      "studentCount": 2,
       "maxCapacity": 20
     },
     {
@@ -122,8 +122,8 @@
     },
     {
       "id": "g_1781979100339",
-      "name": "مجموعه عبد الله ابو غرابه",
-      "days": "سبت وثلاثاء",
+      "name": "مجموعة شمس علي",
+      "days": "أحد وأربعاء",
       "time": "18:00",
       "durationMinutes": 60,
       "paused": false,
@@ -147,9 +147,9 @@
       "time": "14:00",
       "durationMinutes": 60,
       "paused": false,
-      "studentCount": 0,
+      "studentCount": 4,
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-23T16:02:04.651282"
+  "_lastModified": "2026-11-23T16:07:51.480235"
 }
