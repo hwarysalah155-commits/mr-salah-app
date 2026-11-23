@@ -16,7 +16,7 @@
       "id": "st_1775131608216",
       "pin": "zyad6383",
       "name": "زياد محمد ثابت",
-      "grade": "الصف الأول الإعدادي",
+      "grade": "الصف الثاني الإعدادي",
       "joiningDate": "02/04/2026",
       "sessions": [
         1,
@@ -30,7 +30,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 600.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T17:05:53.172032"
+  "_lastModified": "2026-11-23T17:06:27.667519"
 }
