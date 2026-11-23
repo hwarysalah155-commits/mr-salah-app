@@ -319,9 +319,9 @@
       "monthlyFeeSnapshot": 500.0,
       "sessionPayments": [],
       "sessions": [
-        2,
-        2,
-        2,
+        0,
+        0,
+        0,
         1,
         0,
         0,
@@ -344,7 +344,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:48:42.798054",
+  "_lastModified": "2026-11-23T18:48:53.462512",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
