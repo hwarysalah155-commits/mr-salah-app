@@ -64,6 +64,23 @@
         "sess_2": {
           "ratings": [
             "veryGood",
+            "acceptable",
+            "good"
+          ],
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            8.0,
+            4.0,
+            6.0
+          ]
+        },
+        "sess_1": {
+          "ratings": [
+            "veryGood",
             null,
             null
           ],
@@ -84,5 +101,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:49:22.877521"
+  "_lastModified": "2026-11-23T18:49:31.329861"
 }
