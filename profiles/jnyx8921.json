@@ -365,17 +365,17 @@
           "ratings": [
             "poor",
             "acceptable",
-            null
+            "acceptable"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             2.0,
             4.0,
-            null
+            4.0
           ]
         }
       },
@@ -384,7 +384,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:48:54.213878",
+  "_lastModified": "2026-11-23T15:48:56.921845",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
