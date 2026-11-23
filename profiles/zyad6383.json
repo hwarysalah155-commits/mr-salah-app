@@ -379,10 +379,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 600.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 600.0,
       "sessionPayments": [],
       "sessions": [
         1,
@@ -433,10 +433,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-18T16:16:07.245291",
+  "_lastModified": "2026-11-23T17:06:20.421791",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0,
+  "monthlyFee": 600.0,
   "studentTags": []
 }
