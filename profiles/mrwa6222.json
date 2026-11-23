@@ -299,7 +299,25 @@
         "05/11",
         "09/11"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "acceptable",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            4.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": [
@@ -346,7 +364,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-23T15:59:14.155524",
+  "_lastModified": "2026-11-23T15:59:21.205978",
   "grade": "الصف الثاني الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
