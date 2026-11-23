@@ -316,8 +316,8 @@
         "16/11",
         "19/11",
         "23/11",
-        null,
-        null,
+        "26/11",
+        "30/11",
         null,
         null
       ],
@@ -327,7 +327,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:48:06.474001",
+  "_lastModified": "2026-11-23T18:48:20.344186",
   "grade": "الصف الأول الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
