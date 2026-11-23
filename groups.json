@@ -129,7 +129,17 @@
       "paused": false,
       "studentCount": 2,
       "maxCapacity": 20
+    },
+    {
+      "id": "g_1795442430526",
+      "name": "مجموعة مراد",
+      "days": "إثنين وخميس",
+      "time": "17:00",
+      "durationMinutes": 60,
+      "paused": false,
+      "studentCount": 0,
+      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-23T15:32:43.515875"
+  "_lastModified": "2026-11-23T16:00:30.691682"
 }
