@@ -447,10 +447,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 600.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 600.0,
       "sessionPayments": [],
       "sessions": [
         1,
@@ -472,16 +472,34 @@
         "14/12",
         "17/12"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "poor",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:32:54.059657",
+  "_lastModified": "2026-11-23T15:47:45.207162",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0
+  "monthlyFee": 600.0
 }
