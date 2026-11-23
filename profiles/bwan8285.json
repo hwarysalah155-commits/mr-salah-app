@@ -2,7 +2,7 @@
   "pin": "bwan8285",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "محمد فتحي",
   "joiningDate": "04/04/2026",
   "months": [
     {
@@ -378,10 +378,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 450.0,
+      "expectedPayment": 600.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 450.0,
+      "monthlyFeeSnapshot": 600.0,
       "sessionPayments": [],
       "sessions": [
         1,
@@ -427,10 +427,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:48:12.243660",
+  "_lastModified": "2026-11-23T15:50:06.619027",
   "grade": "الصف الأول الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 450.0
+  "monthlyFee": 600.0
 }
