@@ -360,13 +360,31 @@
         "14/12",
         "17/12"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "poor",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:32:54.624280",
+  "_lastModified": "2026-11-23T15:48:51.570958",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
