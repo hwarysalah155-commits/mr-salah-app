@@ -43,11 +43,29 @@
         "03/12",
         "07/12"
       ],
-      "eval": {},
+      "eval": {
+        "sess_3": {
+          "ratings": [
+            "veryGood",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            8.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:49:04.262075"
+  "_lastModified": "2026-11-23T18:49:12.447724"
 }
