@@ -334,13 +334,31 @@
         "14/12",
         "17/12"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "veryGood",
+            "good",
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            8.0,
+            6.0,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:32:54.631862",
+  "_lastModified": "2026-11-23T15:49:31.084200",
   "grade": "الصف الثالث الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
