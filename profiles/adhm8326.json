@@ -100,7 +100,7 @@
       "monthlyFeeSnapshot": 350.0,
       "sessionPayments": [],
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -125,5 +125,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T16:53:53.196907"
+  "_lastModified": "2026-11-23T16:54:01.425477"
 }
