@@ -370,10 +370,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 450.0,
+      "expectedPayment": 600.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 450.0,
+      "monthlyFeeSnapshot": 600.0,
       "sessionPayments": [],
       "sessions": [
         1,
@@ -442,10 +442,10 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-23T15:59:06.791346",
+  "_lastModified": "2026-11-23T16:03:23.475360",
   "grade": "الصف الثاني الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 450.0
+  "monthlyFee": 600.0
 }
