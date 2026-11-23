@@ -2,7 +2,7 @@
   "pin": "abdx3478",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "احمد سليمان",
   "joiningDate": "23/04/2026",
   "months": [
     {
@@ -126,10 +126,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 1200.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 1200.0,
       "sessionPayments": [],
       "sessions": [
         3,
@@ -157,10 +157,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T16:38:17.299801",
+  "_lastModified": "2026-11-23T17:05:17.539139",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0,
+  "monthlyFee": 1200.0,
   "studentTags": []
 }
