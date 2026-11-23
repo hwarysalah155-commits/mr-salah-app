@@ -13,39 +13,6 @@
   "scheduleAnchorDate": null,
   "students": [
     {
-      "id": "st_1781979122665",
-      "pin": "abdx5190",
-      "name": "عبد الله علي",
-      "grade": "",
-      "joiningDate": "20/06/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        1,
-        0,
-        0,
-        0,
-        0
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 0.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "studentTags": []
-    },
-    {
       "id": "st_1782564923749",
       "pin": "shms2250",
       "name": "شمس",
@@ -79,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T17:07:01.602844"
+  "_lastModified": "2026-11-23T18:51:00.323776"
 }
