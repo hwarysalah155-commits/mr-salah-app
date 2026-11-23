@@ -11,6 +11,40 @@
     "23/11"
   ],
   "scheduleAnchorDate": null,
-  "students": [],
-  "_lastModified": "2026-11-23T16:36:43.804062"
+  "students": [
+    {
+      "id": "st_1795444649903",
+      "pin": "alyx3582",
+      "name": "علي",
+      "grade": "",
+      "joiningDate": "23/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    }
+  ],
+  "_lastModified": "2026-11-23T16:37:29.994951"
 }
