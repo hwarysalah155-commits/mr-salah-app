@@ -368,8 +368,8 @@
       "startDate": "15/10/2026",
       "endDate": null,
       "isClosed": false,
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 600.0,
       "expectedPayment": 600.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
@@ -392,7 +392,7 @@
         "01/10",
         "29/10",
         "02/11",
-        "05/11",
+        "19/11",
         "23/11"
       ],
       "eval": {},
@@ -442,7 +442,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-23T16:22:35.916922",
+  "_lastModified": "2026-11-23T16:22:53.221142",
   "grade": "الصف الثاني الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
