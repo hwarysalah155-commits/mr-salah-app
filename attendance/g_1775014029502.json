@@ -8,7 +8,7 @@
     "16/11",
     "19/11",
     "23/11",
-    "23/11"
+    "26/11"
   ],
   "scheduleAnchorDate": null,
   "students": [
@@ -19,7 +19,7 @@
       "grade": "",
       "joiningDate": "23/11/2026",
       "sessions": [
-        0,
+        2,
         0,
         0,
         0,
@@ -46,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:37:29.994951"
+  "_lastModified": "2026-11-23T16:37:50.427783"
 }
