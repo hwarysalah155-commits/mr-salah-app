@@ -11,40 +11,6 @@
     "23/11"
   ],
   "scheduleAnchorDate": null,
-  "students": [
-    {
-      "id": "st_1775014040387",
-      "pin": "bsha5588",
-      "name": "بشاير احمد سليمان",
-      "grade": "الصف الخامس الابتدائي",
-      "joiningDate": "01/04/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 700.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "studentTags": []
-    }
-  ],
-  "_lastModified": "2026-11-23T16:26:22.617290"
+  "students": [],
+  "_lastModified": "2026-11-23T16:36:43.804062"
 }
