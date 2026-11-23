@@ -4,10 +4,10 @@
   "phone": "",
   "parentName": "احمد سليمان",
   "joiningDate": "23/11/2026",
-  "grade": "",
+  "grade": "الصف الثاني الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0,
+  "monthlyFee": 200.0,
   "studentTags": [],
   "months": [
     {
@@ -17,10 +17,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 200.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 200.0,
       "sessionPayments": [],
       "sessions": [
         0,
@@ -48,5 +48,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T17:04:18.608916"
+  "_lastModified": "2026-11-23T17:05:29.334655"
 }
