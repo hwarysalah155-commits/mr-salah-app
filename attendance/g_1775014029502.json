@@ -77,7 +77,40 @@
         false
       ],
       "studentTags": []
+    },
+    {
+      "id": "st_1795446302287",
+      "pin": "slym4805",
+      "name": "سليمان احمد سليمان",
+      "grade": "",
+      "joiningDate": "23/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T17:04:18.582409"
+  "_lastModified": "2026-11-23T17:05:02.366400"
 }
