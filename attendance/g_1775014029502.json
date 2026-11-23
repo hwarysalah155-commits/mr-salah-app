@@ -49,7 +49,7 @@
       "id": "st_1795446258499",
       "pin": "hnyn1145",
       "name": "حنين احمد سليمان",
-      "grade": "",
+      "grade": "الصف الثاني الإعدادي",
       "joiningDate": "23/11/2026",
       "sessions": [
         0,
@@ -63,7 +63,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 200.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T17:05:17.892765"
+  "_lastModified": "2026-11-23T17:05:29.698890"
 }
