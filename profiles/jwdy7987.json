@@ -60,6 +60,23 @@
             8.0,
             6.0
           ]
+        },
+        "sess_2": {
+          "ratings": [
+            "veryGood",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            8.0,
+            null,
+            null
+          ]
         }
       },
       "notes": [],
@@ -67,5 +84,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:49:17.261203"
+  "_lastModified": "2026-11-23T18:49:22.877521"
 }
