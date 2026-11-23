@@ -7,8 +7,8 @@
     "24/05",
     "01/06",
     "04/06",
-    null,
-    null
+    "23/11",
+    "23/11"
   ],
   "scheduleAnchorDate": null,
   "students": [
@@ -25,12 +25,12 @@
         1,
         1,
         1,
-        0,
-        0
+        1,
+        1
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -46,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:05:32.497199"
+  "_lastModified": "2026-11-23T16:24:04.147999"
 }
