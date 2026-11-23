@@ -23,14 +23,15 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 200.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
         1,
         1,
-        2,
-        2,
-        2,
+        0,
+        0,
+        0,
         0
       ],
       "sessionDates": [
@@ -49,5 +50,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T23:06:59.066459"
+  "_lastModified": "2026-11-24T00:32:59.303832"
 }
