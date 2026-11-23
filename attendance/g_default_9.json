@@ -1,50 +1,16 @@
 {
   "groupId": "g_default_9",
   "sessionDates": [
-    "14/05",
-    "18/05",
-    "21/05",
-    "24/05",
-    "01/06",
-    "04/06",
-    "23/11",
-    "23/11"
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "scheduleAnchorDate": null,
-  "students": [
-    {
-      "id": "st_1776907183499",
-      "pin": "abdx3478",
-      "name": "عبد الوهاب احمد سليمان",
-      "grade": "",
-      "joiningDate": "23/04/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 160.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "studentTags": []
-    }
-  ],
-  "_lastModified": "2026-11-23T16:24:04.147999"
+  "students": [],
+  "_lastModified": "2026-11-23T16:38:21.678751"
 }
