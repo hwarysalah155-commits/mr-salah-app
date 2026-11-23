@@ -178,39 +178,6 @@
       "studentTags": []
     },
     {
-      "id": "st_1792179327845",
-      "pin": "mhmd8814",
-      "name": "محمد وائل",
-      "grade": "",
-      "joiningDate": "16/10/2026",
-      "sessions": [
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 160.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "studentTags": []
-    },
-    {
       "id": "st_1792179365226",
       "pin": "adhm8326",
       "name": "ادهم وائل",
@@ -244,5 +211,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:01:08.766384"
+  "_lastModified": "2026-11-23T16:01:18.636968"
 }
