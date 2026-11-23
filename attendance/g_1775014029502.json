@@ -52,12 +52,12 @@
       "grade": "الصف الثاني الإعدادي",
       "joiningDate": "23/11/2026",
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
         0,
         0
       ],
@@ -85,18 +85,18 @@
       "grade": "",
       "joiningDate": "23/11/2026",
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
         0,
         0
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 200.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T17:05:29.698890"
+  "_lastModified": "2026-11-23T17:06:27.220080"
 }
