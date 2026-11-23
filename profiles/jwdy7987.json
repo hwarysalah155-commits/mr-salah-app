@@ -94,6 +94,23 @@
             6.0,
             4.0
           ]
+        },
+        "sess_0": {
+          "ratings": [
+            "poor",
+            "good",
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            2.0,
+            6.0,
+            null
+          ]
         }
       },
       "notes": [],
@@ -101,5 +118,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:49:34.651684"
+  "_lastModified": "2026-11-23T18:49:41.635366"
 }
