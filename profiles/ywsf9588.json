@@ -102,8 +102,8 @@
       "monthNumber": 2,
       "groupId": "g_1775304315200",
       "startDate": "12/05/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "23/11/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 700.0,
@@ -129,7 +129,7 @@
         "26/10",
         "29/10",
         "02/11",
-        "05/11"
+        "23/11"
       ],
       "eval": {},
       "notes": [],
@@ -176,9 +176,47 @@
           "date": "05/11"
         }
       ]
+    },
+    {
+      "monthNumber": 3,
+      "groupId": "g_1775304315200",
+      "startDate": "23/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 700.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 700.0,
+      "sessionPayments": [],
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        "23/11",
+        "26/11",
+        "30/11",
+        "03/12",
+        "07/12",
+        "10/12",
+        "14/12",
+        "17/12"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:31:40.401167",
+  "_lastModified": "2026-11-23T15:32:54.764893",
   "grade": "الصف السادس الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
