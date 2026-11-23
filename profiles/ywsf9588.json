@@ -210,13 +210,31 @@
         "14/12",
         "17/12"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "poor",
+            null,
+            null
+          ],
+          "checks": [
+            true,
+            false,
+            false
+          ],
+          "scores": [
+            2.0,
+            null,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:32:54.764893",
+  "_lastModified": "2026-11-23T15:58:32.079687",
   "grade": "الصف السادس الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
