@@ -437,17 +437,17 @@
           "ratings": [
             "poor",
             "good",
-            null
+            "good"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             2.0,
             6.0,
-            null
+            6.0
           ]
         }
       },
@@ -456,7 +456,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:48:39.511414",
+  "_lastModified": "2026-11-23T15:48:43.999936",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
