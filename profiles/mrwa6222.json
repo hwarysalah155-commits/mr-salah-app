@@ -270,8 +270,8 @@
       "monthNumber": 4,
       "groupId": "g_1775299207035",
       "startDate": "15/10/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "23/11/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 300.0,
@@ -362,9 +362,47 @@
           "date": "09/11"
         }
       ]
+    },
+    {
+      "monthNumber": 5,
+      "groupId": "g_1795442524520",
+      "startDate": "23/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 300.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 300.0,
+      "sessionPayments": [],
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:59:33.731689",
+  "_lastModified": "2026-11-23T16:03:12.799350",
   "grade": "الصف الثاني الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
