@@ -13,39 +13,6 @@
   "scheduleAnchorDate": null,
   "students": [
     {
-      "id": "st_1795444649903",
-      "pin": "alyx3582",
-      "name": "علي",
-      "grade": "",
-      "joiningDate": "23/11/2026",
-      "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 160.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "studentTags": []
-    },
-    {
       "id": "st_1776907183499",
       "pin": "abdx3478",
       "name": "عبد الوهاب احمد سليمان",
@@ -79,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:38:17.316190"
+  "_lastModified": "2026-11-23T16:38:29.012032"
 }
