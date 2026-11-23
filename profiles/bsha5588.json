@@ -294,6 +294,7 @@
     },
     {
       "monthNumber": 3,
+      "groupId": "g_1775014029502",
       "startDate": "11/05/2026",
       "endDate": null,
       "isClosed": false,
@@ -311,8 +312,8 @@
         1,
         1,
         2,
-        0,
-        0
+        1,
+        1
       ],
       "sessionDates": [
         "04/05",
@@ -322,7 +323,7 @@
         "18/05",
         "09/10",
         "09/10",
-        null
+        "23/11"
       ],
       "eval": {},
       "notes": [],
@@ -371,7 +372,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-22T03:11:16.080213",
+  "_lastModified": "2026-11-23T16:24:38.314568",
   "grade": "الصف الخامس الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
