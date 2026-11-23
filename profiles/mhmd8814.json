@@ -2,12 +2,12 @@
   "pin": "mhmd8814",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "وائل",
   "joiningDate": "16/10/2026",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0,
+  "monthlyFee": 350.0,
   "studentTags": [],
   "months": [
     {
@@ -56,10 +56,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 350.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 350.0,
       "sessionPayments": [],
       "sessions": [
         0,
@@ -87,5 +87,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T16:01:18.608174"
+  "_lastModified": "2026-11-23T16:04:38.347210"
 }
