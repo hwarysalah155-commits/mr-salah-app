@@ -81,18 +81,18 @@
         "sess_1": {
           "ratings": [
             "veryGood",
-            null,
-            null
+            "good",
+            "acceptable"
           ],
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "scores": [
             8.0,
-            null,
-            null
+            6.0,
+            4.0
           ]
         }
       },
@@ -101,5 +101,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T18:49:31.329861"
+  "_lastModified": "2026-11-23T18:49:34.651684"
 }
