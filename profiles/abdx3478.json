@@ -13,6 +13,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 0.0,
+      "sessionPayments": [],
       "sessions": [
         1,
         1,
@@ -81,31 +82,36 @@
     },
     {
       "monthNumber": 2,
+      "groupId": "g_default_9",
       "startDate": "01/06/2026",
       "endDate": null,
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 160.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "14/05",
+        "18/05",
+        "21/05",
+        "24/05",
+        "01/06",
+        "04/06",
+        "23/11",
+        "23/11"
       ],
       "eval": {},
       "notes": [],
@@ -113,5 +119,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-06-01T16:08:54.220846"
+  "_lastModified": "2026-11-23T16:24:04.261486",
+  "grade": "",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": []
 }
