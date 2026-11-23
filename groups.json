@@ -90,16 +90,6 @@
     "maxCapacity": 20
   },
   {
-    "id": "g_1775661759054",
-    "name": "مجموعه جاد",
-    "days": "سبت وثلاثاء",
-    "time": "17:00",
-    "durationMinutes": 60,
-    "paused": false,
-    "studentCount": 1,
-    "maxCapacity": 20
-  },
-  {
     "id": "g_1775299207035",
     "name": "مجموعه محمود شاكر",
     "days": "إثنين وخميس",
