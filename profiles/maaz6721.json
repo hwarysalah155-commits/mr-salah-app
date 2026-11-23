@@ -382,17 +382,17 @@
           "ratings": [
             "veryGood",
             "veryGood",
-            null
+            "good"
           ],
           "checks": [
             true,
             true,
-            false
+            true
           ],
           "scores": [
             8.0,
             8.0,
-            null
+            6.0
           ]
         }
       },
@@ -401,7 +401,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:48:21.635292",
+  "_lastModified": "2026-11-23T15:48:24.504866",
   "grade": "الصف الخامس الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
