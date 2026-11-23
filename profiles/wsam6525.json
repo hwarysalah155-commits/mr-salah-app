@@ -476,18 +476,18 @@
         "sess_0": {
           "ratings": [
             "poor",
-            null,
-            null
+            "good",
+            "acceptable"
           ],
           "checks": [
             true,
-            false,
-            false
+            true,
+            true
           ],
           "scores": [
             2.0,
-            null,
-            null
+            6.0,
+            4.0
           ]
         }
       },
@@ -496,7 +496,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:47:45.207162",
+  "_lastModified": "2026-11-23T15:47:54.170207",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
