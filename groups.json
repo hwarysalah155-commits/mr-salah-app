@@ -107,7 +107,7 @@
       "time": "16:00",
       "durationMinutes": 60,
       "paused": false,
-      "studentCount": 9,
+      "studentCount": 6,
       "maxCapacity": 20
     },
     {
@@ -137,9 +137,19 @@
       "time": "17:00",
       "durationMinutes": 60,
       "paused": false,
+      "studentCount": 3,
+      "maxCapacity": 20
+    },
+    {
+      "id": "g_1795442524520",
+      "name": "مجموعة ياسين و مروان",
+      "days": "أحد وأربعاء",
+      "time": "14:00",
+      "durationMinutes": 60,
+      "paused": false,
       "studentCount": 0,
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-23T16:00:30.691682"
+  "_lastModified": "2026-11-23T16:02:04.651282"
 }
