@@ -110,7 +110,40 @@
         false
       ],
       "studentTags": []
+    },
+    {
+      "id": "st_1792179365226",
+      "pin": "adhm8326",
+      "name": "ادهم وائل",
+      "grade": "",
+      "joiningDate": "16/10/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 350.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-23T16:53:11.687247"
+  "_lastModified": "2026-11-23T16:53:53.211116"
 }
