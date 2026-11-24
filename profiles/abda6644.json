@@ -2,7 +2,7 @@
   "pin": "abda6644",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "ناصر احمد",
   "joiningDate": "25/03/2026",
   "months": [
     {
@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -89,6 +90,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -186,6 +188,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -254,15 +257,23 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
-      "paymentModeSnapshot": "monthly",
+      "expectedPayment": 0.0,
+      "paymentModeSnapshot": "perSession",
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
-      "sessionPayments": [],
+      "sessionPayments": [
+        {
+          "sessionIndex": 0,
+          "dueAmount": 20.0,
+          "paidAmount": 20.0,
+          "paidAt": "24/11/2026"
+        }
+      ],
+      "payments": [],
       "sessions": [
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -270,14 +281,14 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "24/11",
+        "28/11",
+        "01/12",
+        "05/12",
+        "08/12",
+        "12/12",
+        "15/12",
+        "19/12"
       ],
       "eval": {},
       "notes": [],
@@ -285,9 +296,9 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-16T22:31:46.694316",
+  "_lastModified": "2026-11-24T17:02:52.078146",
   "grade": "الصف الثالث الابتدائي",
-  "paymentMode": "monthly",
+  "paymentMode": "perSession",
   "lessonFee": 20.0,
   "monthlyFee": 160.0,
   "studentTags": []
