@@ -11,6 +11,40 @@
     null
   ],
   "scheduleAnchorDate": null,
-  "students": [],
-  "_lastModified": "2026-11-24T00:31:53.612635"
+  "students": [
+    {
+      "id": "st_1795532463330",
+      "pin": "twfy1664",
+      "name": "توفيق مصطفى سعدون",
+      "grade": "",
+      "joiningDate": "24/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    }
+  ],
+  "_lastModified": "2026-11-24T17:01:21.346871"
 }
