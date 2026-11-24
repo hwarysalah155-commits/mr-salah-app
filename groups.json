@@ -24,7 +24,7 @@
       "id": "g_default_4",
       "name": "الصف الرابع الابتدائي",
       "days": "سبت وثلاثاء",
-      "time": "18:00",
+      "time": "16:00",
       "durationMinutes": 60,
       "paused": false,
       "studentCount": 4,
@@ -141,5 +141,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-23T22:54:11.092012"
+  "_lastModified": "2026-11-24T16:59:09.923762"
 }
