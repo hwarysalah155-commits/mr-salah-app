@@ -1,9 +1,9 @@
 {
   "groupId": "g_default_2",
   "sessionDates": [
-    "04/05",
-    "04/05",
-    "25/05",
+    null,
+    null,
+    null,
     null,
     null,
     null,
@@ -12,5 +12,5 @@
   ],
   "scheduleAnchorDate": null,
   "students": [],
-  "_lastModified": "2026-11-24T00:31:53.595594"
+  "_lastModified": "2026-11-24T13:33:37.417164"
 }
