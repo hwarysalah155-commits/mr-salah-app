@@ -4,7 +4,7 @@
       "id": "task_1795557444277",
       "title": "عمل امتحان",
       "text": "عمل امتحان",
-      "done": false,
+      "done": true,
       "date": "2026-11-26",
       "notes": null,
       "category": "عمل امتحان",
@@ -13,14 +13,14 @@
       "studentPin": null,
       "createdAt": "2026-11-24T23:57:24.277129",
       "deadlineAt": "2026-11-26T12:00:00.000",
-      "completedAt": null,
+      "completedAt": "2026-11-25T01:30:15.904282",
       "priority": "high",
       "reminderRule": "daily",
       "nextReminderAt": null,
       "snoozeUntil": null,
       "lastNotifiedAt": null,
-      "status": "pending"
+      "status": "completed"
     }
   ],
-  "_lastModified": "2026-11-24T23:57:35.343418"
+  "_lastModified": "2026-11-25T01:30:15.975665"
 }
