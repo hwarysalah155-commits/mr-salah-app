@@ -1,16 +1,16 @@
 {
   "groupId": "g_default_4",
   "sessionDates": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "24/11",
+    "28/11",
+    "01/12",
+    "05/12",
+    "08/12",
+    "12/12",
+    "15/12",
+    "19/12"
   ],
-  "scheduleAnchorDate": null,
+  "scheduleAnchorDate": "2026-11-24",
   "students": [
     {
       "id": "st_1774837028301",
@@ -19,7 +19,7 @@
       "grade": "الصف الثالث الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
-        0,
+        2,
         0,
         0,
         0,
@@ -52,7 +52,7 @@
       "grade": "الصف الثالث الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -63,7 +63,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -85,7 +85,7 @@
       "grade": "الصف الثالث الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -118,7 +118,7 @@
       "grade": "الصف الثالث الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -145,5 +145,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-24T00:31:53.631171"
+  "_lastModified": "2026-11-24T17:02:34.587426"
 }
