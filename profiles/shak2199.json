@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -89,6 +90,7 @@
       "payment": 0.0,
       "expectedPayment": 450.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -261,6 +263,7 @@
       "payment": 0.0,
       "expectedPayment": 450.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -368,13 +371,24 @@
       "startDate": "15/10/2026",
       "endDate": null,
       "isClosed": false,
-      "paid": true,
-      "payment": 600.0,
+      "paid": false,
+      "payment": 0.0,
       "expectedPayment": 600.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 600.0,
       "sessionPayments": [],
+      "payments": [
+        {
+          "id": "legacy_4",
+          "amount": 600.0,
+          "createdAt": "15/10/2026",
+          "type": "monthly",
+          "monthNumber": 4,
+          "status": "cancelled",
+          "updatedAt": "2026-11-25T00:05:31.716143"
+        }
+      ],
       "sessions": [
         1,
         1,
@@ -442,7 +456,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-23T16:22:53.221142",
+  "_lastModified": "2026-11-25T00:05:31.874438",
   "grade": "الصف الثاني الإعدادي",
   "studentTags": [],
   "paymentMode": "monthly",
