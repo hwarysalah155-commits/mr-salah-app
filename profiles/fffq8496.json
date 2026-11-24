@@ -14,14 +14,15 @@
       "monthNumber": 1,
       "groupId": "g_default_2",
       "startDate": "25/11/2026",
-      "endDate": null,
-      "isClosed": false,
+      "endDate": "25/11/2026",
+      "isClosed": true,
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 160.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
+      "actualSessionCount": 8,
       "sessionPayments": [],
       "payments": [],
       "sessions": [
@@ -48,7 +49,45 @@
       "notes": [],
       "examScores": [],
       "homeworks": []
+    },
+    {
+      "monthNumber": 2,
+      "startDate": "25/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
+      "payments": [],
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-25T00:38:44.415107"
+  "_lastModified": "2026-11-25T00:40:17.610896"
 }
