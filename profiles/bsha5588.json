@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -89,6 +90,7 @@
       "payment": 0.0,
       "expectedPayment": 700.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -305,6 +307,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 700.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -384,8 +387,9 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 700.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -395,14 +399,14 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "24/11",
+        "28/11",
+        "01/12",
+        "05/12",
+        "08/12",
+        "12/12",
+        "15/12",
+        "19/12"
       ],
       "eval": {},
       "notes": [],
@@ -410,7 +414,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T16:36:43.787925",
+  "_lastModified": "2026-11-24T16:58:34.161778",
   "grade": "الصف الخامس الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
