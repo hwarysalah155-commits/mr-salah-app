@@ -14,6 +14,16 @@
       "payment": 160.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [
+        {
+          "id": "legacy_1",
+          "amount": 160.0,
+          "createdAt": "25/03/2026",
+          "type": "monthly",
+          "monthNumber": 1,
+          "status": "active"
+        }
+      ],
       "sessions": [
         1,
         1,
@@ -96,6 +106,16 @@
       "payment": 160.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [
+        {
+          "id": "legacy_2",
+          "amount": 160.0,
+          "createdAt": "09/04/2026",
+          "type": "monthly",
+          "monthNumber": 2,
+          "status": "active"
+        }
+      ],
       "sessions": [
         1,
         1,
@@ -171,6 +191,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -246,6 +267,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -321,6 +343,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -400,6 +423,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -456,8 +480,9 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -467,14 +492,14 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "24/11",
+        "28/11",
+        "01/12",
+        "05/12",
+        "08/12",
+        "12/12",
+        "15/12",
+        "19/12"
       ],
       "eval": {},
       "notes": [],
@@ -482,7 +507,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-22T03:36:24.226418",
+  "_lastModified": "2026-11-24T16:58:11.354168",
   "grade": "الصف الرابع الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
