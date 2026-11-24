@@ -2,7 +2,7 @@
   "pin": "rqyh3765",
   "imagePath": null,
   "phone": "",
-  "parentName": "",
+  "parentName": "معتز منصور",
   "joiningDate": "25/03/2026",
   "months": [
     {
@@ -475,10 +475,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 0.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 0.0,
       "sessionPayments": [],
       "payments": [],
       "sessions": [
@@ -507,10 +507,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-24T16:58:11.608522",
+  "_lastModified": "2026-11-25T00:06:27.400279",
   "grade": "الصف الرابع الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0,
+  "monthlyFee": 0.0,
   "studentTags": []
 }
