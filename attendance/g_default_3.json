@@ -1,16 +1,16 @@
 {
   "groupId": "g_default_3",
   "sessionDates": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "24/11",
+    "28/11",
+    "01/12",
+    "05/12",
+    "08/12",
+    "12/12",
+    "15/12",
+    "19/12"
   ],
-  "scheduleAnchorDate": null,
+  "scheduleAnchorDate": "2026-11-24",
   "students": [
     {
       "id": "st_1795532463330",
@@ -19,7 +19,7 @@
       "grade": "",
       "joiningDate": "24/11/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -28,9 +28,9 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 160.0,
+      "paid": true,
+      "payment": 20.0,
+      "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -46,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-24T17:01:21.346871"
+  "_lastModified": "2026-11-24T17:02:36.560361"
 }
