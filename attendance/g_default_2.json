@@ -11,40 +11,6 @@
     null
   ],
   "scheduleAnchorDate": null,
-  "students": [
-    {
-      "id": "st_1795559912949",
-      "pin": "fffq8496",
-      "name": "فففقق",
-      "grade": "",
-      "joiningDate": "25/11/2026",
-      "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "paid": false,
-      "payment": 0.0,
-      "expectedPayment": 160.0,
-      "phone": "",
-      "imagePath": null,
-      "homeworks": [
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false,
-        false
-      ],
-      "studentTags": []
-    }
-  ],
-  "_lastModified": "2026-11-25T00:40:38.873041"
+  "students": [],
+  "_lastModified": "2026-11-25T00:41:17.744513"
 }
