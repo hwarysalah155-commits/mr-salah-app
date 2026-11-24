@@ -1,16 +1,16 @@
 {
   "groupId": "g_default_6",
   "sessionDates": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "24/11",
+    "28/11",
+    "01/12",
+    "05/12",
+    "08/12",
+    "12/12",
+    "15/12",
+    "19/12"
   ],
-  "scheduleAnchorDate": null,
+  "scheduleAnchorDate": "2026-11-24",
   "students": [
     {
       "id": "st_1774837028313",
@@ -19,7 +19,7 @@
       "grade": "الصف الخامس الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
-        0,
+        2,
         0,
         0,
         0,
@@ -52,7 +52,7 @@
       "grade": "",
       "joiningDate": "15/04/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -85,7 +85,7 @@
       "grade": "الصف الخامس الابتدائي",
       "joiningDate": "01/04/2026",
       "sessions": [
-        0,
+        1,
         0,
         0,
         0,
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-24T00:31:53.663322"
+  "_lastModified": "2026-11-24T16:58:34.136522"
 }
