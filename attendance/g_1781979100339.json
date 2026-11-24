@@ -82,7 +82,7 @@
       "id": "st_1795452744361",
       "pin": "rqyh8859",
       "name": "رقية حسين عادل",
-      "grade": "",
+      "grade": "الصف الثاني الابتدائي",
       "joiningDate": "23/11/2026",
       "sessions": [
         0,
@@ -96,7 +96,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 200.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T00:01:35.675033"
+  "_lastModified": "2026-11-25T00:02:07.792256"
 }
