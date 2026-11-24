@@ -24,7 +24,7 @@
       "id": "g_default_4",
       "name": "الصف الرابع الابتدائي",
       "days": "سبت وثلاثاء",
-      "time": "16:00",
+      "time": "13:00",
       "durationMinutes": 60,
       "paused": false,
       "studentCount": 4,
@@ -34,7 +34,7 @@
       "id": "g_default_5",
       "name": "الصف الخامس الابتدائي",
       "days": "سبت وثلاثاء",
-      "time": "13:00",
+      "time": "16:00",
       "durationMinutes": 60,
       "paused": false,
       "studentCount": 3,
@@ -141,5 +141,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-24T16:59:36.400592"
+  "_lastModified": "2026-11-24T17:00:36.745838"
 }
