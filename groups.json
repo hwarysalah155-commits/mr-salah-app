@@ -17,7 +17,7 @@
       "time": "14:00",
       "durationMinutes": 60,
       "paused": false,
-      "studentCount": 0,
+      "studentCount": 1,
       "maxCapacity": 20
     },
     {
@@ -141,5 +141,5 @@
       "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-24T17:00:36.745838"
+  "_lastModified": "2026-11-24T17:01:03.400019"
 }
