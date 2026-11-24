@@ -1,0 +1,54 @@
+{
+  "pin": "fffq8496",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "",
+  "joiningDate": "25/11/2026",
+  "grade": "",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": [],
+  "months": [
+    {
+      "monthNumber": 1,
+      "groupId": "g_default_2",
+      "startDate": "25/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
+      "payments": [],
+      "sessions": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        "25/11",
+        "28/11",
+        "01/12",
+        "05/12",
+        "08/12",
+        "12/12",
+        "15/12",
+        "19/12"
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-11-25T00:38:39.126327"
+}
