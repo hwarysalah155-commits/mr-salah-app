@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -89,6 +90,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -186,6 +188,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -242,10 +245,11 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -253,14 +257,14 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "24/11",
+        "28/11",
+        "01/12",
+        "05/12",
+        "08/12",
+        "12/12",
+        "15/12",
+        "19/12"
       ],
       "eval": {},
       "notes": [],
@@ -268,7 +272,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-10-16T22:31:55.935622",
+  "_lastModified": "2026-11-24T17:02:52.197979",
   "grade": "الصف الثالث الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
