@@ -1,16 +1,16 @@
 {
   "groupId": "g_1795614465189",
   "sessionDates": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "18/11",
+    "22/11",
+    "25/11",
+    "29/11",
+    "02/12",
+    "06/12",
+    "09/12",
+    "13/12"
   ],
-  "scheduleAnchorDate": null,
+  "scheduleAnchorDate": "2026-11-18",
   "students": [
     {
       "id": "st_1795614478238",
@@ -19,9 +19,9 @@
       "grade": "",
       "joiningDate": "25/11/2026",
       "sessions": [
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -46,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T15:48:10.861035"
+  "_lastModified": "2026-11-25T16:06:53.984036"
 }
