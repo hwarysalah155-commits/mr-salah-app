@@ -7,7 +7,7 @@
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 160.0,
+  "monthlyFee": 300.0,
   "studentTags": [],
   "months": [
     {
@@ -18,10 +18,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 300.0,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 160.0,
+      "monthlyFeeSnapshot": 300.0,
       "sessionPayments": [],
       "payments": [],
       "sessions": [
@@ -50,5 +50,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-25T15:45:38.082745"
+  "_lastModified": "2026-11-25T15:46:54.621665"
 }
