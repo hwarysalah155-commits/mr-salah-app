@@ -1,0 +1,53 @@
+{
+  "pin": "abra5599",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "هشام",
+  "joiningDate": "25/11/2026",
+  "grade": "الصف الخامس الابتدائي",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 800.0,
+  "studentTags": [],
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "25/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 800.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 800.0,
+      "sessionPayments": [],
+      "payments": [],
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-11-25T14:58:45.380208"
+}
