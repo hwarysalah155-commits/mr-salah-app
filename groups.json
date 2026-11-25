@@ -132,14 +132,24 @@
     },
     {
       "id": "g_1795442524520",
-      "name": "مجموعة ياسين و مروان",
+      "name": "مجموعة ياسين و مروان ومنة",
       "days": "أحد وأربعاء",
       "time": "14:00",
       "durationMinutes": 60,
       "paused": false,
       "studentCount": 3,
       "maxCapacity": 20
+    },
+    {
+      "id": "g_1795611384932",
+      "name": "مجموعة ابراهيم وعلي",
+      "days": "أحد وأربعاء",
+      "time": "19:00",
+      "durationMinutes": 60,
+      "paused": false,
+      "studentCount": 2,
+      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-25T00:41:17.706005"
+  "_lastModified": "2026-11-25T14:57:59.421617"
 }
