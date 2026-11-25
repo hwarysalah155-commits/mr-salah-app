@@ -29,7 +29,7 @@
         0
       ],
       "paid": true,
-      "payment": 160.0,
+      "payment": 40.0,
       "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
@@ -49,7 +49,7 @@
       "id": "st_1774837028302",
       "pin": "abda6644",
       "name": "عبدالرحمن ناصر احمد",
-      "grade": "الصف الثالث الابتدائي",
+      "grade": "الصف الرابع الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
         1,
@@ -61,8 +61,8 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 60.0,
       "expectedPayment": 0.0,
       "phone": "",
       "imagePath": null,
@@ -82,7 +82,7 @@
       "id": "st_1774837028304",
       "pin": "jny3026",
       "name": "جني إسلام",
-      "grade": "الصف الثالث الابتدائي",
+      "grade": "الصف الرابع الابتدائي",
       "joiningDate": "25/03/2026",
       "sessions": [
         1,
@@ -94,8 +94,8 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 60.0,
       "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
@@ -127,8 +127,8 @@
         0,
         0
       ],
-      "paid": false,
-      "payment": 0.0,
+      "paid": true,
+      "payment": 60.0,
       "expectedPayment": 160.0,
       "phone": "",
       "imagePath": null,
@@ -145,5 +145,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T00:10:05.173319"
+  "_lastModified": "2026-11-25T15:38:40.871548"
 }
