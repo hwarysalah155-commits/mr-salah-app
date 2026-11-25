@@ -30,7 +30,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 300.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -63,7 +63,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 300.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -96,7 +96,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 300.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -129,7 +129,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 160.0,
+      "expectedPayment": 300.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -145,5 +145,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T15:45:38.047120"
+  "_lastModified": "2026-11-25T15:47:17.202439"
 }
