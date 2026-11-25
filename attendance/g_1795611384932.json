@@ -1,0 +1,83 @@
+{
+  "groupId": "g_1795611384932",
+  "sessionDates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "scheduleAnchorDate": null,
+  "students": [
+    {
+      "id": "st_1795611412924",
+      "pin": "abra5599",
+      "name": "إبراهيم هشام",
+      "grade": "الصف الخامس الابتدائي",
+      "joiningDate": "25/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 800.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    },
+    {
+      "id": "st_1795611479354",
+      "pin": "alyx6326",
+      "name": "علي",
+      "grade": "الصف الرابع الابتدائي",
+      "joiningDate": "25/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 800.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    }
+  ],
+  "_lastModified": "2026-11-25T14:58:52.983162"
+}
