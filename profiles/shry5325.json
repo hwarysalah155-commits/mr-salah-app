@@ -371,8 +371,8 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 160.0,
-      "paymentModeSnapshot": "monthly",
-      "lessonFeeSnapshot": 20.0,
+      "paymentModeSnapshot": "perSession",
+      "lessonFeeSnapshot": 15.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
       "payments": [],
@@ -402,10 +402,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-24T16:58:31.661053",
+  "_lastModified": "2026-11-25T15:39:25.021245",
   "grade": "الصف الخامس الابتدائي",
-  "paymentMode": "monthly",
-  "lessonFee": 20.0,
+  "paymentMode": "perSession",
+  "lessonFee": 15.0,
   "monthlyFee": 160.0,
   "studentTags": []
 }
