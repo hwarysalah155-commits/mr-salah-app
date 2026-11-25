@@ -159,7 +159,17 @@
       "paused": false,
       "studentCount": 4,
       "maxCapacity": 20
+    },
+    {
+      "id": "g_1795614465189",
+      "name": "مجموعة جاسم",
+      "days": "أحد وأربعاء",
+      "time": "16:30",
+      "durationMinutes": 60,
+      "paused": false,
+      "studentCount": 1,
+      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-25T15:45:11.171961"
+  "_lastModified": "2026-11-25T15:47:58.288996"
 }
