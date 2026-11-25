@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -89,6 +90,7 @@
       "payment": 0.0,
       "expectedPayment": 300.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -200,6 +202,7 @@
       "payment": 0.0,
       "expectedPayment": 300.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -279,6 +282,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 300.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -376,25 +380,26 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 300.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         0,
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "08/11",
+        "11/11",
+        "15/11",
+        "18/11",
+        "22/11",
+        "25/11",
+        "29/11",
+        "02/12"
       ],
       "eval": {},
       "notes": [],
@@ -402,7 +407,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T16:03:12.799350",
+  "_lastModified": "2026-11-25T14:06:47.086951",
   "grade": "الصف الثاني الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
