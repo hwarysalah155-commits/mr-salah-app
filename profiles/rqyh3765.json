@@ -475,10 +475,10 @@
       "isClosed": false,
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 0.1,
       "paymentModeSnapshot": "monthly",
       "lessonFeeSnapshot": 20.0,
-      "monthlyFeeSnapshot": 0.0,
+      "monthlyFeeSnapshot": 0.1,
       "sessionPayments": [],
       "payments": [],
       "sessions": [
@@ -507,10 +507,10 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-25T00:06:27.400279",
+  "_lastModified": "2026-11-25T15:38:40.549243",
   "grade": "الصف الرابع الابتدائي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
-  "monthlyFee": 0.0,
+  "monthlyFee": 0.1,
   "studentTags": []
 }
