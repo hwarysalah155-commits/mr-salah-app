@@ -1,7 +1,7 @@
 {
   "pin": "zyad6383",
   "imagePath": null,
-  "phone": "",
+  "phone": "01509925261",
   "parentName": "محمد ثابت",
   "joiningDate": "02/04/2026",
   "months": [
@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -89,6 +90,16 @@
       "payment": 600.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [
+        {
+          "id": "legacy_2",
+          "amount": 600.0,
+          "createdAt": "13/04/2026",
+          "type": "monthly",
+          "monthNumber": 2,
+          "status": "active"
+        }
+      ],
       "sessions": [
         1,
         1,
@@ -305,6 +316,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -384,6 +396,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 600.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -391,18 +404,18 @@
         1,
         1,
         1,
-        1,
+        0,
         0
       ],
       "sessionDates": [
-        "20/09",
-        "23/09",
-        "27/09",
-        "04/10",
-        "07/10",
-        "11/10",
-        "18/10",
-        "21/10"
+        "08/11",
+        "11/11",
+        "15/11",
+        "18/11",
+        "22/11",
+        "25/11",
+        "29/11",
+        "02/12"
       ],
       "eval": {
         "sess_0": {
@@ -423,18 +436,13 @@
           ]
         }
       },
-      "notes": [
-        {
-          "date": "18/10/2026",
-          "text": "لم يراجع من اجل الامتحان"
-        }
-      ],
+      "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T17:06:20.421791",
-  "grade": "الصف الأول الإعدادي",
+  "_lastModified": "2026-11-25T14:44:40.088852",
+  "grade": "الصف الثاني الإعدادي",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
   "monthlyFee": 600.0,
