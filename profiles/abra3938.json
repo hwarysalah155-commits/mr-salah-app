@@ -1,0 +1,53 @@
+{
+  "pin": "abra3938",
+  "imagePath": null,
+  "phone": "",
+  "parentName": "أشرف إبراهيم",
+  "joiningDate": "25/11/2026",
+  "grade": "",
+  "paymentMode": "monthly",
+  "lessonFee": 20.0,
+  "monthlyFee": 160.0,
+  "studentTags": [],
+  "months": [
+    {
+      "monthNumber": 1,
+      "startDate": "25/11/2026",
+      "endDate": null,
+      "isClosed": false,
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 0.0,
+      "paymentModeSnapshot": "monthly",
+      "lessonFeeSnapshot": 20.0,
+      "monthlyFeeSnapshot": 160.0,
+      "sessionPayments": [],
+      "payments": [],
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "sessionDates": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "eval": {},
+      "notes": [],
+      "examScores": [],
+      "homeworks": []
+    }
+  ],
+  "_lastModified": "2026-11-25T15:42:23.941922"
+}
