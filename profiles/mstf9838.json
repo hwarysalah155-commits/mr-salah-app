@@ -12,6 +12,7 @@
   "months": [
     {
       "monthNumber": 1,
+      "groupId": "g_1781979100339",
       "startDate": "23/11/2026",
       "endDate": null,
       "isClosed": false,
@@ -24,9 +25,9 @@
       "sessionPayments": [],
       "payments": [],
       "sessions": [
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -34,10 +35,10 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
+        "11/07",
+        "14/07",
+        "18/07",
+        "09/10",
         null,
         null,
         null,
@@ -49,5 +50,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-25T00:01:35.063344"
+  "_lastModified": "2026-11-25T18:49:16.601859"
 }
