@@ -1,0 +1,83 @@
+{
+  "groupId": "g_1795614088049",
+  "sessionDates": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "scheduleAnchorDate": null,
+  "students": [
+    {
+      "id": "st_1795614118874",
+      "pin": "mhmw7767",
+      "name": "محمود محمد حمدالله",
+      "grade": "",
+      "joiningDate": "25/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    },
+    {
+      "id": "st_1795614143851",
+      "pin": "abra3938",
+      "name": "إبراهيم أشرف إبراهيم",
+      "grade": "",
+      "joiningDate": "25/11/2026",
+      "sessions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "paid": false,
+      "payment": 0.0,
+      "expectedPayment": 160.0,
+      "phone": "",
+      "imagePath": null,
+      "homeworks": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "studentTags": []
+    }
+  ],
+  "_lastModified": "2026-11-25T15:42:23.915791"
+}
