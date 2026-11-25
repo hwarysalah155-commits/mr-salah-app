@@ -149,7 +149,17 @@
       "paused": false,
       "studentCount": 2,
       "maxCapacity": 20
+    },
+    {
+      "id": "g_1795614088049",
+      "name": "مجموعة ابراهيم ومحمود وآدم",
+      "days": "أحد وأربعاء",
+      "time": "13:00",
+      "durationMinutes": 60,
+      "paused": false,
+      "studentCount": 0,
+      "maxCapacity": 20
     }
   ],
-  "_lastModified": "2026-11-25T14:57:59.421617"
+  "_lastModified": "2026-11-25T15:41:28.150926"
 }
