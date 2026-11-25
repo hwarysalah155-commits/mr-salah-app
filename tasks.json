@@ -1,26 +1,4 @@
 {
-  "items": [
-    {
-      "id": "task_1795557444277",
-      "title": "عمل امتحان",
-      "text": "عمل امتحان",
-      "done": false,
-      "date": "2026-11-26",
-      "notes": null,
-      "category": "عمل امتحان",
-      "grade": null,
-      "groupId": null,
-      "studentPin": null,
-      "createdAt": "2026-11-24T23:57:24.277129",
-      "deadlineAt": "2026-11-26T12:00:00.000",
-      "completedAt": null,
-      "priority": "high",
-      "reminderRule": "daily",
-      "nextReminderAt": null,
-      "snoozeUntil": null,
-      "lastNotifiedAt": null,
-      "status": "pending"
-    }
-  ],
-  "_lastModified": "2026-11-25T01:30:21.305122"
+  "items": [],
+  "_lastModified": "2026-11-25T12:57:05.747146"
 }
