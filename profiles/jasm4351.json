@@ -12,6 +12,7 @@
   "months": [
     {
       "monthNumber": 1,
+      "groupId": "g_1795614465189",
       "startDate": "25/11/2026",
       "endDate": null,
       "isClosed": false,
@@ -24,9 +25,9 @@
       "sessionPayments": [],
       "payments": [],
       "sessions": [
-        0,
-        0,
-        0,
+        1,
+        1,
+        1,
         0,
         0,
         0,
@@ -34,20 +35,72 @@
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "18/11",
+        "22/11",
+        "25/11",
+        "29/11",
+        "02/12",
+        "06/12",
+        "09/12",
+        "13/12"
       ],
-      "eval": {},
+      "eval": {
+        "sess_0": {
+          "ratings": [
+            "acceptable",
+            "acceptable",
+            "acceptable"
+          ],
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            4.0,
+            4.0,
+            4.0
+          ]
+        },
+        "sess_1": {
+          "ratings": [
+            "acceptable",
+            "acceptable",
+            "acceptable"
+          ],
+          "checks": [
+            true,
+            true,
+            true
+          ],
+          "scores": [
+            4.0,
+            4.0,
+            4.0
+          ]
+        },
+        "sess_2": {
+          "ratings": [
+            "good",
+            "good",
+            null
+          ],
+          "checks": [
+            true,
+            true,
+            false
+          ],
+          "scores": [
+            6.0,
+            6.0,
+            null
+          ]
+        }
+      },
       "notes": [],
       "examScores": [],
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-25T15:48:10.564811"
+  "_lastModified": "2026-11-25T16:11:26.994074"
 }
