@@ -147,7 +147,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 160.0,
-      "paymentModeSnapshot": "monthly",
+      "paymentModeSnapshot": "perSession",
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
@@ -178,9 +178,9 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-24T16:58:33.002298",
+  "_lastModified": "2026-11-25T15:39:39.353458",
   "grade": "",
-  "paymentMode": "monthly",
+  "paymentMode": "perSession",
   "lessonFee": 20.0,
   "monthlyFee": 160.0,
   "studentTags": []
