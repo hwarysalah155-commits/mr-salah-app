@@ -63,7 +63,7 @@
       ],
       "paid": false,
       "payment": 0.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 0.1,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T00:06:27.918636"
+  "_lastModified": "2026-11-25T15:38:40.883683"
 }
