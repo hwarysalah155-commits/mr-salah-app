@@ -99,21 +99,21 @@
         1,
         1,
         1,
-        0,
+        2,
         0,
         0,
         0,
         0
       ],
       "sessionDates": [
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        "15/11",
+        "18/11",
+        "22/11",
+        "25/11",
+        "29/11",
+        "02/12",
+        "06/12",
+        "09/12"
       ],
       "eval": {},
       "notes": [],
@@ -162,7 +162,7 @@
       ]
     }
   ],
-  "_lastModified": "2026-11-25T18:49:34.766569",
+  "_lastModified": "2026-11-25T19:02:38.249528",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
