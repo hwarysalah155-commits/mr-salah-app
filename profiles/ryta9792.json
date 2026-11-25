@@ -476,7 +476,7 @@
       "paid": false,
       "payment": 0.0,
       "expectedPayment": 160.0,
-      "paymentModeSnapshot": "monthly",
+      "paymentModeSnapshot": "perSession",
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
@@ -507,9 +507,9 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-24T16:58:11.968514",
+  "_lastModified": "2026-11-25T15:39:07.243121",
   "grade": "الصف الرابع الابتدائي",
-  "paymentMode": "monthly",
+  "paymentMode": "perSession",
   "lessonFee": 20.0,
   "monthlyFee": 160.0,
   "studentTags": []
