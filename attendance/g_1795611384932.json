@@ -1,16 +1,16 @@
 {
   "groupId": "g_1795611384932",
   "sessionDates": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    "15/11",
+    "18/11",
+    "22/11",
+    "25/11",
+    "29/11",
+    "02/12",
+    "06/12",
+    "09/12"
   ],
-  "scheduleAnchorDate": null,
+  "scheduleAnchorDate": "2026-11-15",
   "students": [
     {
       "id": "st_1795611412924",
@@ -79,5 +79,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-26T00:03:33.777475"
+  "_lastModified": "2026-11-26T00:04:05.839858"
 }
