@@ -62,7 +62,7 @@
         0
       ],
       "paid": false,
-      "payment": 350.0,
+      "payment": 0.0,
       "expectedPayment": 500.0,
       "phone": "",
       "imagePath": null,
@@ -112,5 +112,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T00:06:27.647195"
+  "_lastModified": "2026-11-25T15:39:47.706751"
 }
