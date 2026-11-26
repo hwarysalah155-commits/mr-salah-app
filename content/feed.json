@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T17:02:24.014666Z",
+  "updatedAt": "2026-11-26T17:22:16.406951Z",
   "items": [
     {
       "id": "post_0e85acd8-2fc2-48d8-bc8c-2fcd523008b6",
@@ -114,9 +114,10 @@
         "scope": "all"
       },
       "createdAt": "2026-11-26T09:43:03.863345Z",
-      "updatedAt": "2026-11-26T09:43:03.863345Z",
+      "updatedAt": "2026-11-26T17:22:16.406951Z",
       "publishAt": "2026-11-26T09:43:03.863345Z",
       "isPinned": false,
+      "isEdited": true,
       "authorName": "مستر صلاح هواري"
     },
     {
@@ -149,5 +150,5 @@
       "authorName": "مستر صلاح هواري"
     }
   ],
-  "_lastModified": "2026-11-26T19:03:42.560768"
+  "_lastModified": "2026-11-26T19:22:16.548869"
 }
