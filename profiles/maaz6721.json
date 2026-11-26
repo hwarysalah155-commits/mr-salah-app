@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 450.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -129,6 +130,16 @@
       "payment": 450.0,
       "expectedPayment": 450.0,
       "sessionPayments": [],
+      "payments": [
+        {
+          "id": "legacy_2",
+          "amount": 450.0,
+          "createdAt": "11/04/2026",
+          "type": "monthly",
+          "monthNumber": 2,
+          "status": "active"
+        }
+      ],
       "sessions": [
         1,
         1,
@@ -260,6 +271,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 450.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -357,9 +369,10 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 550.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
-        0,
+        2,
         0,
         0,
         0,
@@ -401,7 +414,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:50:53.016170",
+  "_lastModified": "2026-11-26T16:31:50.321593",
   "grade": "الصف الخامس الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
