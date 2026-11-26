@@ -14,6 +14,7 @@
       "payment": 0.0,
       "expectedPayment": 450.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -146,6 +147,7 @@
       "payment": 0.0,
       "expectedPayment": 0.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -243,6 +245,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 160.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -340,9 +343,10 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 550.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
-        0,
+        2,
         0,
         0,
         0,
@@ -384,7 +388,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:52:46.356729",
+  "_lastModified": "2026-11-26T16:31:58.357707",
   "grade": "",
   "studentTags": [],
   "paymentMode": "monthly",
