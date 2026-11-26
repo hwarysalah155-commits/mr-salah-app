@@ -1,7 +1,35 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T09:47:36.075964Z",
+  "updatedAt": "2026-11-26T09:49:22.758879Z",
   "items": [
+    {
+      "id": "status_64cbc8b1-2348-49b8-9d61-aa23caa2fcea",
+      "schemaVersion": 1,
+      "type": "status",
+      "status": "published",
+      "media": [
+        {
+          "id": "9247952a-305a-406d-943a-a43da5e2eae4",
+          "kind": "image",
+          "relativePath": "content/media/images/9247952a-305a-406d-943a-a43da5e2eae4.jpg",
+          "mimeType": "image/jpeg",
+          "name": "1000469184",
+          "sizeBytes": 170534,
+          "width": 900,
+          "height": 1600
+        }
+      ],
+      "links": [],
+      "audience": {
+        "scope": "all"
+      },
+      "createdAt": "2026-11-26T09:49:22.758879Z",
+      "updatedAt": "2026-11-26T09:49:22.758879Z",
+      "publishAt": "2026-11-26T09:49:21.311479Z",
+      "expiresAt": "2026-11-27T09:49:21.311479Z",
+      "isPinned": false,
+      "authorName": "مستر صلاح هواري"
+    },
     {
       "id": "post_aaa2afe7-d16f-4b2b-b7d5-a3ef199582cc",
       "schemaVersion": 1,
@@ -57,5 +85,5 @@
       "authorName": "مستر صلاح هواري"
     }
   ],
-  "_lastModified": "2026-11-26T11:47:44.219402"
+  "_lastModified": "2026-11-26T11:49:25.419505"
 }
