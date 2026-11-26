@@ -14,6 +14,16 @@
       "payment": 700.0,
       "expectedPayment": 700.0,
       "sessionPayments": [],
+      "payments": [
+        {
+          "id": "legacy_1",
+          "amount": 700.0,
+          "createdAt": "05/05/2026",
+          "type": "monthly",
+          "monthNumber": 1,
+          "status": "active"
+        }
+      ],
       "sessions": [
         1,
         1,
@@ -111,6 +121,7 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 700.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
         1,
@@ -190,9 +201,10 @@
       "lessonFeeSnapshot": 20.0,
       "monthlyFeeSnapshot": 700.0,
       "sessionPayments": [],
+      "payments": [],
       "sessions": [
         1,
-        0,
+        2,
         0,
         0,
         0,
@@ -234,7 +246,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-23T15:58:41.344222",
+  "_lastModified": "2026-11-26T16:31:59.045953",
   "grade": "الصف السادس الابتدائي",
   "studentTags": [],
   "paymentMode": "monthly",
