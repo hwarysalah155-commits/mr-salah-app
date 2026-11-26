@@ -139,7 +139,7 @@
         1,
         1,
         1,
-        0,
+        2,
         0,
         0,
         0
@@ -160,7 +160,7 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-24T00:34:09.093870",
+  "_lastModified": "2026-11-26T20:01:40.239630",
   "grade": "",
   "paymentMode": "monthly",
   "lessonFee": 20.0,
