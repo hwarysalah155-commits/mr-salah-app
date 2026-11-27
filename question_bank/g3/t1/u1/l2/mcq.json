@@ -1,0 +1,1026 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 2,
+  "questionType": "mcq",
+  "updatedAt": "2026-11-27T16:52:36.000192Z",
+  "items": [
+    {
+      "id": "65cfcfcc-cf2a-489b-825f-edaf02fda537",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "When the teacher talks, you should ___ carefully.",
+        "text": "When the teacher talks, you should ___ carefully.",
+        "options": [
+          "eat",
+          "shout",
+          "listen"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.080630Z",
+      "updatedAt": "2026-11-27T16:52:30.093625Z"
+    },
+    {
+      "id": "771197b9-aed3-4f2f-b9b3-65a5525eccad",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in class.",
+        "text": "Don't ___ in class.",
+        "options": [
+          "shout",
+          "listen",
+          "write"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.081832Z",
+      "updatedAt": "2026-11-27T16:52:30.093786Z"
+    },
+    {
+      "id": "a77fb994-b2a6-427f-b1a6-8aeadd179331",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ down, when class starts.",
+        "text": "___ down, when class starts.",
+        "options": [
+          "Run",
+          "Sit",
+          "Stand"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.082118Z",
+      "updatedAt": "2026-11-27T16:52:30.093815Z"
+    },
+    {
+      "id": "58eb6fff-7e3a-4d50-a3aa-571151f6418a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "If you want to answer, ___ your hand.",
+        "text": "If you want to answer, ___ your hand.",
+        "options": [
+          "run",
+          "raise",
+          "close"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.082352Z",
+      "updatedAt": "2026-11-27T16:52:30.093849Z"
+    },
+    {
+      "id": "2953187a-3645-4622-b55f-73da165654cd",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Be ___ to your classmates.",
+        "text": "Be ___ to your classmates.",
+        "options": [
+          "bad",
+          "kind",
+          "angry"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.082903Z",
+      "updatedAt": "2026-11-27T16:52:30.093874Z"
+    },
+    {
+      "id": "2cbdfb82-af4b-44b6-a5aa-a9b2bad42d3a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your book on page 6.",
+        "text": "___ your book on page 6.",
+        "options": [
+          "Sit",
+          "Stand",
+          "Open"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.083146Z",
+      "updatedAt": "2026-11-27T16:52:30.093899Z"
+    },
+    {
+      "id": "a222c126-42d9-48a9-a899-0f0987431375",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ at the board.",
+        "text": "___ at the board.",
+        "options": [
+          "Look",
+          "Looks",
+          "Looking"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.083336Z",
+      "updatedAt": "2026-11-27T16:52:30.093927Z"
+    },
+    {
+      "id": "50d6cdc5-0751-419a-b242-d01ce82ad254",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your homework.",
+        "text": "___ your homework.",
+        "options": [
+          "Write",
+          "Writes",
+          "Writing"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.083493Z",
+      "updatedAt": "2026-11-27T16:52:30.093950Z"
+    },
+    {
+      "id": "cd1cc037-e789-4943-b671-2c209e6653f7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ sleep in class.",
+        "text": "___ sleep in class.",
+        "options": [
+          "Aren't",
+          "Isn't",
+          "Don't"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.083643Z",
+      "updatedAt": "2026-11-27T16:52:30.093978Z"
+    },
+    {
+      "id": "e4cdba95-19da-488d-bc6d-c3832f06b83a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ down, please.",
+        "text": "___ down, please.",
+        "options": [
+          "Sit",
+          "Sitting",
+          "To sit"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.083779Z",
+      "updatedAt": "2026-11-27T16:52:30.094007Z"
+    },
+    {
+      "id": "a35560d4-2dbd-45d6-8467-15d59df5eca2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in the classroom.",
+        "text": "Don't ___ in the classroom.",
+        "options": [
+          "eating",
+          "eats",
+          "eat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.083907Z",
+      "updatedAt": "2026-11-27T16:52:30.094031Z"
+    },
+    {
+      "id": "46f57ee7-e752-476c-81d0-bf01ad4d5694",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ to your teachers carefully.",
+        "text": "___ to your teachers carefully.",
+        "options": [
+          "Listening",
+          "Listen",
+          "Listened"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084033Z",
+      "updatedAt": "2026-11-27T16:52:30.094053Z"
+    },
+    {
+      "id": "28b21712-f607-4ab2-9368-57fbd71abc9c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your classroom clean.",
+        "text": "___ your classroom clean.",
+        "options": [
+          "Keeping",
+          "Keeps",
+          "Keep"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084152Z",
+      "updatedAt": "2026-11-27T16:52:30.094081Z"
+    },
+    {
+      "id": "bd4e9111-0351-43d9-8034-a78f83c26a62",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your hand when the teacher asks.",
+        "text": "___ your hand when the teacher asks.",
+        "options": [
+          "Raise",
+          "To raise",
+          "Raised"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084275Z",
+      "updatedAt": "2026-11-27T16:52:30.094105Z"
+    },
+    {
+      "id": "912f4d30-1106-45c4-8bfc-8014297dac11",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my classroom clean.",
+        "text": "I ___ my classroom clean.",
+        "options": [
+          "read",
+          "keep",
+          "ask"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084390Z",
+      "updatedAt": "2026-11-27T16:52:30.094128Z"
+    },
+    {
+      "id": "734776d8-d038-4963-819c-cb7a75b24725",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ run in class.",
+        "text": "___ run in class.",
+        "options": [
+          "Am not",
+          "Isn't",
+          "Don't"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084491Z",
+      "updatedAt": "2026-11-27T16:52:30.094157Z"
+    },
+    {
+      "id": "85be298e-0c92-4db0-b9aa-36c2ff29fd11",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Please, ___ and listen carefully.",
+        "text": "Please, ___ and listen carefully.",
+        "options": [
+          "sit down",
+          "shout",
+          "cry"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084645Z",
+      "updatedAt": "2026-11-27T16:52:30.094181Z"
+    },
+    {
+      "id": "25dc7b5b-0d5c-4e29-a6e0-25c95aef974a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I don't ___ in classroom.",
+        "text": "I don't ___ in classroom.",
+        "options": [
+          "shouting",
+          "shouts",
+          "shout"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084795Z",
+      "updatedAt": "2026-11-27T16:52:30.094203Z"
+    },
+    {
+      "id": "d1920d23-122e-493f-886b-39d8fca78997",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "We should be ___ and help others.",
+        "text": "We should be ___ and help others.",
+        "options": [
+          "angry",
+          "kind",
+          "lazy"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.084923Z",
+      "updatedAt": "2026-11-27T16:52:30.094230Z"
+    },
+    {
+      "id": "72fbf557-371e-4b8e-bee1-c5940cc47000",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your hands before eating.",
+        "text": "___ your hands before eating.",
+        "options": [
+          "Wash",
+          "Washes",
+          "Washed"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085074Z",
+      "updatedAt": "2026-11-27T16:52:30.094254Z"
+    },
+    {
+      "id": "3ae55219-5548-4093-a5cd-a2ce9e9e6d89",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Asser is a student in Primary three. He loves his school. He listens to his teachers carefully. He raises his hand when he wants to speak. In the class, he doesn't run or shout. He keeps his desk clean. If he needs to use the bathroom, he asks his teacher. He is very kind to his classmates.\n\nAsser listens carefully to his ___.",
+        "text": "Asser is a student in Primary three. He loves his school. He listens to his teachers carefully. He raises his hand when he wants to speak. In the class, he doesn't run or shout. He keeps his desk clean. If he needs to use the bathroom, he asks his teacher. He is very kind to his classmates.\n\nAsser listens carefully to his ___.",
+        "options": [
+          "friends",
+          "teachers",
+          "books"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085200Z",
+      "updatedAt": "2026-11-27T16:52:30.094278Z"
+    },
+    {
+      "id": "1945fb81-3388-4cc6-8270-9e37511f9d08",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Asser is a student in Primary three. He loves his school. He listens to his teachers carefully. He raises his hand when he wants to speak. In the class, he doesn't run or shout. He keeps his desk clean. If he needs to use the bathroom, he asks his teacher. He is very kind to his classmates.\n\nThe opposite of the underlined word \"clean\" is ___.",
+        "text": "Asser is a student in Primary three. He loves his school. He listens to his teachers carefully. He raises his hand when he wants to speak. In the class, he doesn't run or shout. He keeps his desk clean. If he needs to use the bathroom, he asks his teacher. He is very kind to his classmates.\n\nThe opposite of the underlined word \"clean\" is ___.",
+        "options": [
+          "delicious",
+          "beautiful",
+          "dirty"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085388Z",
+      "updatedAt": "2026-11-27T16:52:30.094300Z"
+    },
+    {
+      "id": "c843d398-1237-43bf-8f58-a0c0d00211e7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "When the class starts, we ___.",
+        "text": "When the class starts, we ___.",
+        "options": [
+          "run",
+          "sit down",
+          "shout"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085495Z",
+      "updatedAt": "2026-11-27T16:52:30.094328Z"
+    },
+    {
+      "id": "445532a2-97e5-4139-bf82-77b4e8517e4f",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in the library.",
+        "text": "Don't ___ in the library.",
+        "options": [
+          "shout",
+          "shouted",
+          "shouting"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085582Z",
+      "updatedAt": "2026-11-27T16:52:30.094352Z"
+    },
+    {
+      "id": "a10d5e3a-8879-4a06-921b-ea9aa9128145",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ carefully to my teachers.",
+        "text": "I ___ carefully to my teachers.",
+        "options": [
+          "close",
+          "play",
+          "listen"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085676Z",
+      "updatedAt": "2026-11-27T16:52:30.094376Z"
+    },
+    {
+      "id": "35a195eb-f287-4f49-9a37-4ae0cf3ab2c4",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Raise your hand.",
+        "text": "Choose the Arabic meaning of: Raise your hand.",
+        "options": [
+          "ارفع يدك.",
+          "كن عطوفًا.",
+          "قف."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085761Z",
+      "updatedAt": "2026-11-27T16:52:30.094404Z"
+    },
+    {
+      "id": "3764ea91-65fa-440c-a5ac-e2ba477e64e2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Be kind.",
+        "text": "Choose the Arabic meaning of: Be kind.",
+        "options": [
+          "قف.",
+          "كن عطوفًا.",
+          "اجلس."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085850Z",
+      "updatedAt": "2026-11-27T16:52:30.094427Z"
+    },
+    {
+      "id": "da51cc6d-0606-4696-b6d7-dfef9670f6e2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Stand up.",
+        "text": "Choose the Arabic meaning of: Stand up.",
+        "options": [
+          "اجلس.",
+          "استمع بحرص.",
+          "قف."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.085940Z",
+      "updatedAt": "2026-11-27T16:52:30.094450Z"
+    },
+    {
+      "id": "4512d671-56d0-44d0-89dd-195ca43efa21",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Sit down.",
+        "text": "Choose the Arabic meaning of: Sit down.",
+        "options": [
+          "اجلس.",
+          "استمع بحرص.",
+          "افتح كتابك."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086064Z",
+      "updatedAt": "2026-11-27T16:52:30.094477Z"
+    },
+    {
+      "id": "fbe343c4-46ee-4986-b19c-f17050235a38",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Listen carefully.",
+        "text": "Choose the Arabic meaning of: Listen carefully.",
+        "options": [
+          "افتح كتابك.",
+          "استمع بحرص.",
+          "فصل دراسي"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086165Z",
+      "updatedAt": "2026-11-27T16:52:30.094504Z"
+    },
+    {
+      "id": "f9c73e0e-652d-498a-be75-19421232d461",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Open your book.",
+        "text": "Choose the Arabic meaning of: Open your book.",
+        "options": [
+          "فصل دراسي",
+          "لا تصرخ.",
+          "افتح كتابك."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086262Z",
+      "updatedAt": "2026-11-27T16:52:30.094528Z"
+    },
+    {
+      "id": "151b141b-dd06-47f2-8d81-58757c0f0975",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: classroom",
+        "text": "Choose the Arabic meaning of: classroom",
+        "options": [
+          "فصل دراسي",
+          "لا تصرخ.",
+          "ارفع يدك."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086356Z",
+      "updatedAt": "2026-11-27T16:52:30.094561Z"
+    },
+    {
+      "id": "5f07ab6d-fe31-44b9-b725-0622f9b2bbdf",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Don't shout.",
+        "text": "Choose the Arabic meaning of: Don't shout.",
+        "options": [
+          "ارفع يدك.",
+          "لا تصرخ.",
+          "كن عطوفًا."
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086477Z",
+      "updatedAt": "2026-11-27T16:52:30.094585Z"
+    },
+    {
+      "id": "d8397b71-10b6-4296-9e2b-53966a010c83",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: talk",
+        "text": "Choose the past form of: talk",
+        "options": [
+          "talked",
+          "answered",
+          "started"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086571Z",
+      "updatedAt": "2026-11-27T16:52:30.094608Z"
+    },
+    {
+      "id": "395a86a1-8734-40cb-a4e5-1e6228fbe677",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: answer",
+        "text": "Choose the past form of: answer",
+        "options": [
+          "started",
+          "answered",
+          "kept"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086678Z",
+      "updatedAt": "2026-11-27T16:52:30.094635Z"
+    },
+    {
+      "id": "1825a73d-e986-478f-ab74-eefbdd814750",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: start",
+        "text": "Choose the past form of: start",
+        "options": [
+          "kept",
+          "ran",
+          "started"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086776Z",
+      "updatedAt": "2026-11-27T16:52:30.094658Z"
+    },
+    {
+      "id": "04d4c4cf-fcc1-4027-8ac7-191e23218f63",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: keep",
+        "text": "Choose the past form of: keep",
+        "options": [
+          "kept",
+          "ran",
+          "left"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086869Z",
+      "updatedAt": "2026-11-27T16:52:30.094680Z"
+    },
+    {
+      "id": "b686fb64-cb5f-4a15-818f-d28f8e6046c9",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: run",
+        "text": "Choose the past form of: run",
+        "options": [
+          "left",
+          "ran",
+          "talked"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.086955Z",
+      "updatedAt": "2026-11-27T16:52:30.094710Z"
+    },
+    {
+      "id": "67ba6090-2b54-47b5-a3e0-13eabb9d3692",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: leave",
+        "text": "Choose the past form of: leave",
+        "options": [
+          "talked",
+          "answered",
+          "left"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:52:30.087053Z",
+      "updatedAt": "2026-11-27T16:52:30.094733Z"
+    }
+  ],
+  "_lastModified": "2026-11-27T18:52:36.087569"
+}
