@@ -5,7 +5,7 @@
   "unit": 1,
   "lesson": 1,
   "questionType": "mcq",
-  "updatedAt": "2026-11-27T17:08:33.586827Z",
+  "updatedAt": "2026-11-27T17:16:22.909897Z",
   "items": [
     {
       "id": "76dba8e0-0a57-411a-ba2d-58fbf6150e01",
@@ -1614,7 +1614,231 @@
       "active": true,
       "createdAt": "2026-11-27T17:08:14.215102Z",
       "updatedAt": "2026-11-27T17:08:14.219882Z"
+    },
+    {
+      "id": "g3_t1_u1_q231",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "He ___ my brother.",
+        "options": [
+          "are",
+          "is",
+          "am"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "is"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.230654Z",
+      "updatedAt": "2026-11-27T17:16:09.233035Z"
+    },
+    {
+      "id": "g3_t1_u1_q232",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "My friends ___ to school by bus.",
+        "options": [
+          "going",
+          "goes",
+          "go"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "go"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.230855Z",
+      "updatedAt": "2026-11-27T17:16:09.233193Z"
+    },
+    {
+      "id": "g3_t1_u1_q233",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "If you want to answer, ___ your hand.",
+        "options": [
+          "raise",
+          "run",
+          "stand"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "raise"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.230926Z",
+      "updatedAt": "2026-11-27T17:16:09.233280Z"
+    },
+    {
+      "id": "g3_t1_u1_q234",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "When the class starts, we ___.",
+        "options": [
+          "run",
+          "sit down",
+          "shout"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "sit down"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.230973Z",
+      "updatedAt": "2026-11-27T17:16:09.233323Z"
+    },
+    {
+      "id": "g3_t1_u1_q235",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I ___ my homework after school.",
+        "options": [
+          "do",
+          "make",
+          "eat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "do"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.231020Z",
+      "updatedAt": "2026-11-27T17:16:09.233368Z"
+    },
+    {
+      "id": "g3_t1_u1_q236",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "Huda ___ her bed every day.",
+        "options": [
+          "make",
+          "making",
+          "makes"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "makes"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.231068Z",
+      "updatedAt": "2026-11-27T17:16:09.233396Z"
+    },
+    {
+      "id": "g3_t1_u1_q241",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.\n\nSamira has ___ black hair and brown eyes.",
+        "options": [
+          "long",
+          "short",
+          "loud"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "long"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.231115Z",
+      "updatedAt": "2026-11-27T17:16:09.233438Z"
+    },
+    {
+      "id": "g3_t1_u1_q242",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.\n\nPeople like Samira because she is ___.",
+        "options": [
+          "tall",
+          "long",
+          "kind"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "kind"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.231159Z",
+      "updatedAt": "2026-11-27T17:16:09.233485Z"
     }
   ],
-  "_lastModified": "2026-11-27T19:08:33.694006"
+  "_lastModified": "2026-11-27T19:16:22.971643"
 }
