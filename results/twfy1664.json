@@ -92,5 +92,69 @@
     "date": "27/11/2026",
     "time": "18:50",
     "summaryArabic": "الطالب اختار الدروس 1 — اختيار من متعدد فقط — النتيجة 3/3"
+  },
+  {
+    "schemaVersion": 2,
+    "resultId": "res_hok2jlac54_98qxly_dg45gp",
+    "examId": "exam_hok2g9dug5_v76xq9_v3gryz",
+    "examTitle": "اختيار من متعدد (1 دروس)",
+    "quizName": "اختيار من متعدد (1 دروس)",
+    "studentPin": "twfy1664",
+    "pin": "twfy1664",
+    "studentName": "توفيق مصطفى سعدون",
+    "name": "توفيق مصطفى سعدون",
+    "grade": 3,
+    "term": 1,
+    "sourceType": "customized",
+    "selectedLessonIds": [
+      "t1_u1_l3"
+    ],
+    "selectedQuestionTypes": [
+      "mcq"
+    ],
+    "presentationMode": "normal",
+    "score": 20,
+    "total": 20,
+    "totalQuestions": 20,
+    "percentage": 100.0,
+    "percent": "100",
+    "scoreText": "20 / 20",
+    "durationSeconds": 199,
+    "sourceQuestionIds": [
+      "11076491-57a1-44bb-b917-93e0b229357d",
+      "797e9b3b-10ab-46a3-864e-263060be1048",
+      "fa0a1937-f7d3-41ef-98fd-b422a32a4c64",
+      "2a8420c4-4849-48b8-91ee-a586e1e6b90e",
+      "19f94090-3f60-4602-862f-cf8bd572932d",
+      "c5ca3602-c491-4dc7-9cde-709c46160aae",
+      "79219d66-2bfc-4e25-b4d1-bb0f6b6801d5",
+      "af7c4f39-0148-4599-bf5d-123023a75af3",
+      "175dc60a-ed6f-48c6-b580-dd6aef5ea0e9",
+      "d3e30467-3d45-4583-a09b-0144833b6e4f",
+      "6e30f7c1-17ba-47de-8449-f7201b77ba06",
+      "400012a2-fe27-4e14-93d3-9b00d7242247",
+      "a595afbc-fecc-40ab-932b-acdc3d820342",
+      "2cdeee91-bfca-49ae-af96-1fc69e1bd221",
+      "16d23ec6-f58e-488a-a807-24e3a523abcb",
+      "9a63c2cb-76b0-477a-88b3-b381c5b29dc9",
+      "1fc3d5a5-ba38-4e8f-aa80-cbfd82993346",
+      "e5c24497-cbb8-4984-b6b1-85d5e89ef6e2",
+      "7d4eb3e4-ac44-4ed0-8375-36f0cd9f9f92",
+      "ecd6c329-1356-468f-be42-f272573bbbb1"
+    ],
+    "completedAt": "2026-11-27T16:58:42.597187Z",
+    "xpEarned": 250,
+    "stars": 3,
+    "heartsRemaining": 5,
+    "testName": "customized_exam_hok2g9dug5_v76xq9_v3gryz",
+    "badges": [
+      "أول اختبار",
+      "نتيجة مثالية",
+      "بلا أخطاء",
+      "سريع البرق"
+    ],
+    "date": "27/11/2026",
+    "time": "18:58",
+    "summaryArabic": "الطالب اختار الدروس 3 — اختيار من متعدد فقط — النتيجة 20/20"
   }
 ]
