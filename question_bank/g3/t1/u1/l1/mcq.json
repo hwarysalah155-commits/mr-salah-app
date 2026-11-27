@@ -5,7 +5,7 @@
   "unit": 1,
   "lesson": 1,
   "questionType": "mcq",
-  "updatedAt": "2026-11-27T16:46:56.738497Z",
+  "updatedAt": "2026-11-27T16:51:57.420939Z",
   "items": [
     {
       "id": "76dba8e0-0a57-411a-ba2d-58fbf6150e01",
@@ -84,7 +84,865 @@
       "active": true,
       "createdAt": "2026-11-27T16:46:43.511269Z",
       "updatedAt": "2026-11-27T16:46:43.514397Z"
+    },
+    {
+      "id": "1547d14a-f0c0-45c5-8268-dfc36bfd07b6",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I can ___ many animals in the zoo.",
+        "text": "I can ___ many animals in the zoo.",
+        "options": [
+          "thank",
+          "run",
+          "see"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.185676Z",
+      "updatedAt": "2026-11-27T16:51:52.208437Z"
+    },
+    {
+      "id": "6271eb67-a1dd-406f-b1b9-1bb926e17973",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nice to ___ you.",
+        "text": "Nice to ___ you.",
+        "options": [
+          "meet",
+          "ask",
+          "count"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.186605Z",
+      "updatedAt": "2026-11-27T16:51:52.208674Z"
+    },
+    {
+      "id": "08033db2-eee9-47c4-bd31-65d25b4b6a2d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Hello! My ___ is Amal.",
+        "text": "Hello! My ___ is Amal.",
+        "options": [
+          "later",
+          "name",
+          "old"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.186822Z",
+      "updatedAt": "2026-11-27T16:51:52.208754Z"
+    },
+    {
+      "id": "f96e4d3e-4141-4c19-9c9d-be0c31ff9cbf",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "How ___ are you? - I am 8 years old.",
+        "text": "How ___ are you? - I am 8 years old.",
+        "options": [
+          "old",
+          "name",
+          "friend"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.186974Z",
+      "updatedAt": "2026-11-27T16:51:52.208807Z"
+    },
+    {
+      "id": "4e3c9626-39e1-4afe-80cd-d672df48bc82",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "In the morning, we say ___ to our friends.",
+        "text": "In the morning, we say ___ to our friends.",
+        "options": [
+          "goodbye",
+          "good morning",
+          "good night"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187093Z",
+      "updatedAt": "2026-11-27T16:51:52.208893Z"
+    },
+    {
+      "id": "7b68044c-1848-4795-b556-35da4d408f69",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name is ___.",
+        "text": "My name is ___.",
+        "options": [
+          "goodbye",
+          "Youssef",
+          "years"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187262Z",
+      "updatedAt": "2026-11-27T16:51:52.208923Z"
+    },
+    {
+      "id": "bff52d05-8e21-40cd-9c52-95112667e460",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I'm ___ years old.",
+        "text": "I'm ___ years old.",
+        "options": [
+          "nine",
+          "Lina",
+          "meet"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187410Z",
+      "updatedAt": "2026-11-27T16:51:52.208978Z"
+    },
+    {
+      "id": "ab6fe8f5-c77f-49d5-93c2-607dbd68fdd5",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I'm from ___.",
+        "text": "I'm from ___.",
+        "options": [
+          "Noha",
+          "Heba",
+          "Egypt"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187557Z",
+      "updatedAt": "2026-11-27T16:51:52.209026Z"
+    },
+    {
+      "id": "7bb94e3d-9c70-4b92-9704-c62cbb271479",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nice to ___ you, Noura.",
+        "text": "Nice to ___ you, Noura.",
+        "options": [
+          "say",
+          "meet",
+          "eat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187685Z",
+      "updatedAt": "2026-11-27T16:51:52.209090Z"
+    },
+    {
+      "id": "474b4474-bdff-44cd-bfa7-7153d10ffbaa",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ are you? - I'm fine, thank you.",
+        "text": "___ are you? - I'm fine, thank you.",
+        "options": [
+          "What",
+          "When",
+          "How"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187841Z",
+      "updatedAt": "2026-11-27T16:51:52.209140Z"
+    },
+    {
+      "id": "f573a3ef-5128-4abf-a1ff-d7208632a5bb",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ eight years old.",
+        "text": "I ___ eight years old.",
+        "options": [
+          "is",
+          "am",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.187940Z",
+      "updatedAt": "2026-11-27T16:51:52.209185Z"
+    },
+    {
+      "id": "0bf78f70-f6d6-4eff-a9fc-f1760ddbd711",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "What is your ___? - I'm Dina.",
+        "text": "What is your ___? - I'm Dina.",
+        "options": [
+          "old",
+          "number",
+          "name"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188064Z",
+      "updatedAt": "2026-11-27T16:51:52.209236Z"
+    },
+    {
+      "id": "f65f6dad-1fa1-45cc-847e-64ba9f552d35",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name ___ Laila.",
+        "text": "My name ___ Laila.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188201Z",
+      "updatedAt": "2026-11-27T16:51:52.209260Z"
+    },
+    {
+      "id": "7d3c2d79-3975-4405-a780-071bf7927ad3",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my friends at school.",
+        "text": "I ___ my friends at school.",
+        "options": [
+          "eat",
+          "buy",
+          "see"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188365Z",
+      "updatedAt": "2026-11-27T16:51:52.209284Z"
+    },
+    {
+      "id": "bc7ab179-c88d-4c08-9fad-9a9f2e1131cd",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!\n\nAdam's teachers are ___.",
+        "text": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!\n\nAdam's teachers are ___.",
+        "options": [
+          "bad",
+          "sad",
+          "kind"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188500Z",
+      "updatedAt": "2026-11-27T16:51:52.209318Z"
+    },
+    {
+      "id": "d16abf81-7809-4032-bfc2-5577c8c49471",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!\n\nAdam meets Eyad in the ___.",
+        "text": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!\n\nAdam meets Eyad in the ___.",
+        "options": [
+          "morning",
+          "evening",
+          "afternoon"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188685Z",
+      "updatedAt": "2026-11-27T16:51:52.209342Z"
+    },
+    {
+      "id": "ee9f76c2-ae09-4b17-a384-a9cc19d6a3a7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Good morning!",
+        "text": "Choose the Arabic meaning of: Good morning!",
+        "options": [
+          "صباح الخير!",
+          "تصبح على خير!",
+          "إلى اللقاء!"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188788Z",
+      "updatedAt": "2026-11-27T16:51:52.209457Z"
+    },
+    {
+      "id": "b3c4a3d2-b216-4b30-9d82-1b9d19cb107b",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Good night!",
+        "text": "Choose the Arabic meaning of: Good night!",
+        "options": [
+          "إلى اللقاء!",
+          "تصبح على خير!",
+          "مرحبًا!"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.188920Z",
+      "updatedAt": "2026-11-27T16:51:52.209513Z"
+    },
+    {
+      "id": "ffd31456-bbe5-4b88-96c2-698c54a3ac87",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Goodbye!",
+        "text": "Choose the Arabic meaning of: Goodbye!",
+        "options": [
+          "مرحبًا!",
+          "المرحلة الابتدائية",
+          "إلى اللقاء!"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189019Z",
+      "updatedAt": "2026-11-27T16:51:52.209567Z"
+    },
+    {
+      "id": "20666cb6-1bee-4855-adfd-040f9aa94b71",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Hello!",
+        "text": "Choose the Arabic meaning of: Hello!",
+        "options": [
+          "مرحبًا!",
+          "المرحلة الابتدائية",
+          "صديق"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189130Z",
+      "updatedAt": "2026-11-27T16:51:52.209647Z"
+    },
+    {
+      "id": "8872e335-7c47-4c55-9386-ba596c93be6c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: primary",
+        "text": "Choose the Arabic meaning of: primary",
+        "options": [
+          "صديق",
+          "المرحلة الابتدائية",
+          "مصر"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189244Z",
+      "updatedAt": "2026-11-27T16:51:52.209696Z"
+    },
+    {
+      "id": "b5dfe374-232b-49d4-8d31-858212426c1e",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: friend",
+        "text": "Choose the Arabic meaning of: friend",
+        "options": [
+          "مصر",
+          "اسم",
+          "صديق"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189383Z",
+      "updatedAt": "2026-11-27T16:51:52.209806Z"
+    },
+    {
+      "id": "5b965c60-11cb-412c-b6e4-d9389345cddf",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Egypt",
+        "text": "Choose the Arabic meaning of: Egypt",
+        "options": [
+          "مصر",
+          "اسم",
+          "بخير"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189504Z",
+      "updatedAt": "2026-11-27T16:51:52.209883Z"
+    },
+    {
+      "id": "26bbf20f-6672-42dc-bbdf-78b7e3d6d628",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: name",
+        "text": "Choose the Arabic meaning of: name",
+        "options": [
+          "بخير",
+          "اسم",
+          "لطيف"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189621Z",
+      "updatedAt": "2026-11-27T16:51:52.209952Z"
+    },
+    {
+      "id": "c69d833d-8cc9-439e-a27a-0380a26e41f2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: fine",
+        "text": "Choose the Arabic meaning of: fine",
+        "options": [
+          "لطيف",
+          "جديد",
+          "بخير"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189731Z",
+      "updatedAt": "2026-11-27T16:51:52.210Z"
+    },
+    {
+      "id": "d4179c5d-a808-41a7-baf3-9b167cc9e165",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: nice",
+        "text": "Choose the Arabic meaning of: nice",
+        "options": [
+          "لطيف",
+          "جديد",
+          "مقابلة"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189829Z",
+      "updatedAt": "2026-11-27T16:51:52.210046Z"
+    },
+    {
+      "id": "81f2c93a-f62d-417c-83be-5c0bf4d73907",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: new",
+        "text": "Choose the Arabic meaning of: new",
+        "options": [
+          "مقابلة",
+          "جديد",
+          "شخص ما"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.189925Z",
+      "updatedAt": "2026-11-27T16:51:52.210095Z"
+    },
+    {
+      "id": "ad578265-7288-4e55-b270-fc926afc124c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: meeting",
+        "text": "Choose the Arabic meaning of: meeting",
+        "options": [
+          "شخص ما",
+          "صباح الخير!",
+          "مقابلة"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.190042Z",
+      "updatedAt": "2026-11-27T16:51:52.210146Z"
+    },
+    {
+      "id": "afddca82-d654-42ea-b41f-486beb188611",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: someone",
+        "text": "Choose the Arabic meaning of: someone",
+        "options": [
+          "شخص ما",
+          "صباح الخير!",
+          "تصبح على خير!"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.190160Z",
+      "updatedAt": "2026-11-27T16:51:52.210193Z"
+    },
+    {
+      "id": "891dfb89-0598-404e-9169-5a953809a070",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: check",
+        "text": "Choose the past form of: check",
+        "options": [
+          "checked",
+          "met",
+          "saw"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.190278Z",
+      "updatedAt": "2026-11-27T16:51:52.210238Z"
+    },
+    {
+      "id": "8e6e4d18-616a-49ca-b0ee-8c96233d0176",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: meet",
+        "text": "Choose the past form of: meet",
+        "options": [
+          "saw",
+          "met",
+          "said"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.190399Z",
+      "updatedAt": "2026-11-27T16:51:52.210267Z"
+    },
+    {
+      "id": "f5f20e02-a2c5-4feb-b9c3-2abffafd2987",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: see",
+        "text": "Choose the past form of: see",
+        "options": [
+          "said",
+          "checked",
+          "saw"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.190502Z",
+      "updatedAt": "2026-11-27T16:51:52.210288Z"
+    },
+    {
+      "id": "2bbc0057-ce5e-4bac-966f-e384f18df2ac",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: say",
+        "text": "Choose the past form of: say",
+        "options": [
+          "said",
+          "checked",
+          "met"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:51:52.190703Z",
+      "updatedAt": "2026-11-27T16:51:52.210310Z"
     }
   ],
-  "_lastModified": "2026-11-27T18:46:56.775296"
+  "_lastModified": "2026-11-27T18:51:57.600595"
 }
