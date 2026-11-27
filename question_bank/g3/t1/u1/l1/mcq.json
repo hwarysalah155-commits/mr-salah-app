@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "mcq",
+  "updatedAt": "2026-11-27T16:46:56.738497Z",
+  "items": [
+    {
+      "id": "76dba8e0-0a57-411a-ba2d-58fbf6150e01",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I can ___ many animals in the zoo.",
+        "text": "I can ___ many animals in the zoo.",
+        "options": [
+          "thank",
+          "run",
+          "see"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:46:43.511042Z",
+      "updatedAt": "2026-11-27T16:46:43.514306Z"
+    },
+    {
+      "id": "02ace920-f205-4060-a38a-823889b76eba",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nice to ___ you.",
+        "text": "Nice to ___ you.",
+        "options": [
+          "meet",
+          "ask",
+          "count"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:46:43.511181Z",
+      "updatedAt": "2026-11-27T16:46:43.514373Z"
+    },
+    {
+      "id": "6e346841-cf2c-46e1-8b7e-efb4e5e33a30",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Hello! My ___ is Amal.",
+        "text": "Hello! My ___ is Amal.",
+        "options": [
+          "later",
+          "name",
+          "old"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:46:43.511269Z",
+      "updatedAt": "2026-11-27T16:46:43.514397Z"
+    }
+  ],
+  "_lastModified": "2026-11-27T18:46:56.775296"
+}
