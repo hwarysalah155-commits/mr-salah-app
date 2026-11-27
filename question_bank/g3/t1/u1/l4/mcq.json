@@ -1,0 +1,1234 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "mcq",
+  "updatedAt": "2026-11-27T17:04:44.573595Z",
+  "items": [
+    {
+      "id": "275242a8-de2b-4994-8f7c-8c1ca0809c52",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ books in my free time.",
+        "text": "I ___ books in my free time.",
+        "options": [
+          "wake",
+          "read",
+          "run"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.655689Z",
+      "updatedAt": "2026-11-27T17:04:40.666563Z"
+    },
+    {
+      "id": "3eff4a84-f718-4e8a-8322-dbdaf0f9e424",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I like to ___ cartoons on TV.",
+        "text": "I like to ___ cartoons on TV.",
+        "options": [
+          "watch",
+          "wash",
+          "draw"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.656761Z",
+      "updatedAt": "2026-11-27T17:04:40.666706Z"
+    },
+    {
+      "id": "7b8383f7-1ccc-4975-8c57-ecde91211edf",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Please, ___ your name on the paper.",
+        "text": "Please, ___ your name on the paper.",
+        "options": [
+          "do",
+          "play",
+          "write"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.657016Z",
+      "updatedAt": "2026-11-27T17:04:40.666732Z"
+    },
+    {
+      "id": "892c02bb-bb49-4293-acec-59294e354369",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my breakfast.",
+        "text": "I ___ my breakfast.",
+        "options": [
+          "draw",
+          "write",
+          "eat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.657301Z",
+      "updatedAt": "2026-11-27T17:04:40.666754Z"
+    },
+    {
+      "id": "2a896459-0a00-4012-a2d9-50c6148bb7e7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your teeth before going to bed.",
+        "text": "___ your teeth before going to bed.",
+        "options": [
+          "Run",
+          "Go",
+          "Brush"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.657505Z",
+      "updatedAt": "2026-11-27T17:04:40.666779Z"
+    },
+    {
+      "id": "d7174775-4592-4bd8-92c7-ceedc38c105a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ up in the morning.",
+        "text": "I ___ up in the morning.",
+        "options": [
+          "wake",
+          "brush",
+          "bed"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.657667Z",
+      "updatedAt": "2026-11-27T17:04:40.666805Z"
+    },
+    {
+      "id": "45a5cfc6-aa6e-432e-baba-17472e12f917",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He ___ to school at 7:00.",
+        "text": "He ___ to school at 7:00.",
+        "options": [
+          "plays",
+          "goes",
+          "brushes"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.657792Z",
+      "updatedAt": "2026-11-27T17:04:40.666826Z"
+    },
+    {
+      "id": "1af70a6e-420b-470e-88a0-0910fd4683d2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my bed when I wake up.",
+        "text": "I ___ my bed when I wake up.",
+        "options": [
+          "brush",
+          "read",
+          "make"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.657914Z",
+      "updatedAt": "2026-11-27T17:04:40.666850Z"
+    },
+    {
+      "id": "a153a6cc-e04a-4418-9e2b-3743cb7040b5",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ TV with my family.",
+        "text": "I ___ TV with my family.",
+        "options": [
+          "watching",
+          "watches",
+          "watch"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658011Z",
+      "updatedAt": "2026-11-27T17:04:40.666892Z"
+    },
+    {
+      "id": "cea4f61d-0a3e-4b02-b8e7-6c9592bdbffd",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nader ___ football after school.",
+        "text": "Nader ___ football after school.",
+        "options": [
+          "plays",
+          "playing",
+          "play"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658105Z",
+      "updatedAt": "2026-11-27T17:04:40.666914Z"
+    },
+    {
+      "id": "1db3245f-59d9-4e4a-9598-df175b17289f",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Noha and Amira ___ their beds after waking up.",
+        "text": "Noha and Amira ___ their beds after waking up.",
+        "options": [
+          "makes",
+          "make",
+          "making"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658189Z",
+      "updatedAt": "2026-11-27T17:04:40.666938Z"
+    },
+    {
+      "id": "3327d347-f1b6-472a-b204-a24da26d7449",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ with my friends every day.",
+        "text": "I ___ with my friends every day.",
+        "options": [
+          "playing",
+          "plays",
+          "play"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658297Z",
+      "updatedAt": "2026-11-27T17:04:40.666959Z"
+    },
+    {
+      "id": "3fcd267d-30c3-4a5c-8ced-a6fc0c01b843",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ at 7 a.m.",
+        "text": "I ___ at 7 a.m.",
+        "options": [
+          "wake up",
+          "waking up",
+          "wakes up"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658446Z",
+      "updatedAt": "2026-11-27T17:04:40.667021Z"
+    },
+    {
+      "id": "6ba88793-93d8-4874-bb19-3e5dbc7a1da1",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He ___ to school in the morning.",
+        "text": "He ___ to school in the morning.",
+        "options": [
+          "go",
+          "goes",
+          "went"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658573Z",
+      "updatedAt": "2026-11-27T17:04:40.667048Z"
+    },
+    {
+      "id": "34c2e6b4-513e-4f24-b30a-ac7fc27fee82",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "We ___ hard at school.",
+        "text": "We ___ hard at school.",
+        "options": [
+          "study",
+          "studies",
+          "studying"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658662Z",
+      "updatedAt": "2026-11-27T17:04:40.667068Z"
+    },
+    {
+      "id": "54dd9229-aeb9-4ce7-add8-b9d27a340475",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.\n\nSara's brother is ___ years old.",
+        "text": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.\n\nSara's brother is ___ years old.",
+        "options": [
+          "5",
+          "10",
+          "11"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658787Z",
+      "updatedAt": "2026-11-27T17:04:40.667088Z"
+    },
+    {
+      "id": "64520b54-eb5d-4308-8661-ba6a45d8dda7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.\n\nThe underlined word \"tall\" is the opposite of ___.",
+        "text": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.\n\nThe underlined word \"tall\" is the opposite of ___.",
+        "options": [
+          "short",
+          "happy",
+          "sad"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658906Z",
+      "updatedAt": "2026-11-27T17:04:40.667259Z"
+    },
+    {
+      "id": "d3c88199-aa99-410e-8f02-b02b2d7dac1a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "After school, I go home and do my ___.",
+        "text": "After school, I go home and do my ___.",
+        "options": [
+          "school",
+          "homework",
+          "class"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.658996Z",
+      "updatedAt": "2026-11-27T17:04:40.667302Z"
+    },
+    {
+      "id": "9531c9d7-6550-43a8-9187-d39131f0ae2d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I make my ___ to keep it tidy.",
+        "text": "I make my ___ to keep it tidy.",
+        "options": [
+          "school",
+          "homework",
+          "bed"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659077Z",
+      "updatedAt": "2026-11-27T17:04:40.667323Z"
+    },
+    {
+      "id": "d68f3b88-fe1a-47aa-acaa-9f8b30810786",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my teeth.",
+        "text": "I ___ my teeth.",
+        "options": [
+          "play",
+          "make",
+          "brush"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659187Z",
+      "updatedAt": "2026-11-27T17:04:40.667343Z"
+    },
+    {
+      "id": "2f6a1f21-14b6-466c-b904-6c24e58e3f50",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Judy ___ breakfast at 8 o'clock.",
+        "text": "Judy ___ breakfast at 8 o'clock.",
+        "options": [
+          "eating",
+          "eat",
+          "eats"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659277Z",
+      "updatedAt": "2026-11-27T17:04:40.667382Z"
+    },
+    {
+      "id": "a32d7688-7f6d-48d6-b7c3-4d948070bd84",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "We ___ the game together.",
+        "text": "We ___ the game together.",
+        "options": [
+          "playing",
+          "play",
+          "plays"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659390Z",
+      "updatedAt": "2026-11-27T17:04:40.667402Z"
+    },
+    {
+      "id": "5a08f713-4ab4-429b-9dc3-f7902fb70652",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She ___ her homework every day.",
+        "text": "She ___ her homework every day.",
+        "options": [
+          "did",
+          "does",
+          "do"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659500Z",
+      "updatedAt": "2026-11-27T17:04:40.667422Z"
+    },
+    {
+      "id": "98235bbe-60a5-409b-8a16-d46e89283f4b",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My friends ___ to school by bus.",
+        "text": "My friends ___ to school by bus.",
+        "options": [
+          "going",
+          "goes",
+          "go"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659589Z",
+      "updatedAt": "2026-11-27T17:04:40.667458Z"
+    },
+    {
+      "id": "7bc90e1c-0cc3-4907-bda1-5b421d4bda38",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my homework after school.",
+        "text": "I ___ my homework after school.",
+        "options": [
+          "do",
+          "make",
+          "eat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659679Z",
+      "updatedAt": "2026-11-27T17:04:40.667479Z"
+    },
+    {
+      "id": "0f73074d-b35d-4dd5-8a97-4ae04d56f99f",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Huda ___ her bed every day.",
+        "text": "Huda ___ her bed every day.",
+        "options": [
+          "make",
+          "making",
+          "makes"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659766Z",
+      "updatedAt": "2026-11-27T17:04:40.667499Z"
+    },
+    {
+      "id": "305eea45-1483-4dc0-9473-98c33c1acf3e",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I brush my ___ before I sleep.",
+        "text": "I brush my ___ before I sleep.",
+        "options": [
+          "eyes",
+          "teeth",
+          "hands"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.659918Z",
+      "updatedAt": "2026-11-27T17:04:40.667536Z"
+    },
+    {
+      "id": "765f3041-47ce-452f-a033-9cd7be14013c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Hany and I ___ to school by bus.",
+        "text": "Hany and I ___ to school by bus.",
+        "options": [
+          "eat",
+          "brush",
+          "go"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660010Z",
+      "updatedAt": "2026-11-27T17:04:40.667558Z"
+    },
+    {
+      "id": "1dbcf696-56e6-4cee-8c8e-38f3a76595aa",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Amina ___ lunch at home.",
+        "text": "Amina ___ lunch at home.",
+        "options": [
+          "eating",
+          "eats",
+          "eat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660350Z",
+      "updatedAt": "2026-11-27T17:04:40.667579Z"
+    },
+    {
+      "id": "c1952af3-0477-4c69-a97d-abc1a205cf60",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.\n\nZyad brushes his ___ and gets dressed.",
+        "text": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.\n\nZyad brushes his ___ and gets dressed.",
+        "options": [
+          "car",
+          "teeth",
+          "clothes"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660476Z",
+      "updatedAt": "2026-11-27T17:04:40.667620Z"
+    },
+    {
+      "id": "cfa84514-ee15-43a9-b6fd-f895647fac26",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.\n\nAt school, Zyad learns and plays with his ___.",
+        "text": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.\n\nAt school, Zyad learns and plays with his ___.",
+        "options": [
+          "friends",
+          "brothers",
+          "fathers"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660598Z",
+      "updatedAt": "2026-11-27T17:04:40.667642Z"
+    },
+    {
+      "id": "d9728a96-f12a-4346-bbdd-b7c78ce090c7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my bed to keep it tidy.",
+        "text": "I ___ my bed to keep it tidy.",
+        "options": [
+          "making",
+          "makes",
+          "make"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660678Z",
+      "updatedAt": "2026-11-27T17:04:40.667684Z"
+    },
+    {
+      "id": "349349d9-eb84-4015-878c-862b6b17cdd0",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Amir ___ his bed every morning.",
+        "text": "Amir ___ his bed every morning.",
+        "options": [
+          "making",
+          "make",
+          "makes"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660770Z",
+      "updatedAt": "2026-11-27T17:04:40.667722Z"
+    },
+    {
+      "id": "fd4cebb6-f9df-43a0-a13a-4497d042f860",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: wake up",
+        "text": "Choose the Arabic meaning of: wake up",
+        "options": [
+          "يستيقظ",
+          "يتناول الإفطار",
+          "يقوم بالواجب المدرسي"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660851Z",
+      "updatedAt": "2026-11-27T17:04:40.667744Z"
+    },
+    {
+      "id": "7e6f2289-43be-4502-a102-09cf662ff2db",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: eat breakfast",
+        "text": "Choose the Arabic meaning of: eat breakfast",
+        "options": [
+          "يقوم بالواجب المدرسي",
+          "يتناول الإفطار",
+          "يشاهد التلفزيون"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.660977Z",
+      "updatedAt": "2026-11-27T17:04:40.667763Z"
+    },
+    {
+      "id": "99bf33cc-1f03-431a-a17f-877f193884a0",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: do homework",
+        "text": "Choose the Arabic meaning of: do homework",
+        "options": [
+          "يشاهد التلفزيون",
+          "ينام",
+          "يقوم بالواجب المدرسي"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661056Z",
+      "updatedAt": "2026-11-27T17:04:40.667833Z"
+    },
+    {
+      "id": "5ab9a16e-fda6-47dc-9dcc-4c540d412f84",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: watch TV",
+        "text": "Choose the Arabic meaning of: watch TV",
+        "options": [
+          "يشاهد التلفزيون",
+          "ينام",
+          "يذهب إلى المدرسة"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661135Z",
+      "updatedAt": "2026-11-27T17:04:40.667855Z"
+    },
+    {
+      "id": "f2414f25-9322-4a2e-b3ad-5c931853cb47",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: sleep",
+        "text": "Choose the Arabic meaning of: sleep",
+        "options": [
+          "يذهب إلى المدرسة",
+          "ينام",
+          "يقرأ"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661216Z",
+      "updatedAt": "2026-11-27T17:04:40.667875Z"
+    },
+    {
+      "id": "76ab64f1-9b74-44b9-afa0-dcb29c47f183",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: go to school",
+        "text": "Choose the Arabic meaning of: go to school",
+        "options": [
+          "يقرأ",
+          "يلعب",
+          "يذهب إلى المدرسة"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661294Z",
+      "updatedAt": "2026-11-27T17:04:40.667919Z"
+    },
+    {
+      "id": "8f2d5eba-0c80-4f05-8e23-62d6b3b8c955",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: read",
+        "text": "Choose the Arabic meaning of: read",
+        "options": [
+          "يقرأ",
+          "يلعب",
+          "أغسل أسناني"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661395Z",
+      "updatedAt": "2026-11-27T17:04:40.667942Z"
+    },
+    {
+      "id": "27975011-b685-4780-8998-61fe350c12ef",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: play",
+        "text": "Choose the Arabic meaning of: play",
+        "options": [
+          "أغسل أسناني",
+          "يلعب",
+          "يرتدي الملابس"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661477Z",
+      "updatedAt": "2026-11-27T17:04:40.667962Z"
+    },
+    {
+      "id": "d1df5527-8ad2-4d7f-80c7-8bca8ab452e5",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: brush my teeth",
+        "text": "Choose the Arabic meaning of: brush my teeth",
+        "options": [
+          "يرتدي الملابس",
+          "أرتب سريري",
+          "أغسل أسناني"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661555Z",
+      "updatedAt": "2026-11-27T17:04:40.667999Z"
+    },
+    {
+      "id": "ef438aab-4e56-4885-8077-d6be19faf258",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: get dressed",
+        "text": "Choose the Arabic meaning of: get dressed",
+        "options": [
+          "يرتدي الملابس",
+          "أرتب سريري",
+          "أمشط شعري"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661652Z",
+      "updatedAt": "2026-11-27T17:04:40.668046Z"
+    },
+    {
+      "id": "70264752-3e0f-4bb7-913e-8f5eeeb6c08a",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: make my bed",
+        "text": "Choose the Arabic meaning of: make my bed",
+        "options": [
+          "أمشط شعري",
+          "أرتب سريري",
+          "يكتب"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661727Z",
+      "updatedAt": "2026-11-27T17:04:40.668069Z"
+    },
+    {
+      "id": "02ca225f-34b3-4637-a048-ae5574dddf62",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: brush my hair",
+        "text": "Choose the Arabic meaning of: brush my hair",
+        "options": [
+          "يكتب",
+          "يذهب إلى المنزل",
+          "أمشط شعري"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661811Z",
+      "updatedAt": "2026-11-27T17:04:40.668089Z"
+    },
+    {
+      "id": "7f1b037b-59bf-40e0-aafa-7bd795e5afc1",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: write",
+        "text": "Choose the Arabic meaning of: write",
+        "options": [
+          "يكتب",
+          "يذهب إلى المنزل",
+          "يستيقظ"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.661960Z",
+      "updatedAt": "2026-11-27T17:04:40.668126Z"
+    },
+    {
+      "id": "f8bbc042-871b-49d4-b090-ddd650394acf",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: go home",
+        "text": "Choose the Arabic meaning of: go home",
+        "options": [
+          "يستيقظ",
+          "يذهب إلى المنزل",
+          "يتناول الإفطار"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:04:40.662052Z",
+      "updatedAt": "2026-11-27T17:04:40.668148Z"
+    }
+  ],
+  "_lastModified": "2026-11-27T19:04:44.634385"
+}
