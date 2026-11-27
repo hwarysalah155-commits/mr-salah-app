@@ -1,0 +1,231 @@
+{
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "unit_title": "Let's Learn Together!",
+  "lesson_title": "Unit 1 Comprehensive Exam",
+  "default_questions": {
+    "mcq": [
+      {
+        "q": "Nice to ___ you.",
+        "options": [
+          "ask",
+          "meet",
+          "count"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "How ___ are you? - I am 8 years old.",
+        "options": [
+          "old",
+          "name",
+          "friend"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "In the morning, we say ___ to our friends.",
+        "options": [
+          "goodbye",
+          "good night",
+          "good morning"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "I'm from ___.",
+        "options": [
+          "Egypt",
+          "Heba",
+          "Noha"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "___ are you? - I'm fine, thank you.",
+        "options": [
+          "What",
+          "When",
+          "How"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "I ___ eight years old.",
+        "options": [
+          "is",
+          "am",
+          "are"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "When the teacher talks, you should ___ carefully.",
+        "options": [
+          "eat",
+          "listen",
+          "shout"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "___ down, when class starts.",
+        "options": [
+          "Sit",
+          "Run",
+          "Stand"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "If you want to answer, ___ your hand.",
+        "options": [
+          "run",
+          "close",
+          "raise"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "___ your book on page 6.",
+        "options": [
+          "Open",
+          "Stand",
+          "Sit"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "___ sleep in class.",
+        "options": [
+          "Aren't",
+          "Isn't",
+          "Don't"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "___ to your teachers carefully.",
+        "options": [
+          "Listening",
+          "Listen",
+          "Listened"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Nadeen has ___ eyes.",
+        "options": [
+          "short",
+          "brown",
+          "curly"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "Nader is tall. He isn't ___.",
+        "options": [
+          "short",
+          "straight",
+          "curly"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "I'm ___. I make my friends laugh.",
+        "options": [
+          "shy",
+          "angry",
+          "funny"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "She is ___. She helps her friends do their homework.",
+        "options": [
+          "helpful",
+          "loud",
+          "short"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "I ___ brown eyes.",
+        "options": [
+          "am",
+          "has",
+          "have"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "She ___ green eyes.",
+        "options": [
+          "have",
+          "has",
+          "is"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "I ___ books in my free time.",
+        "options": [
+          "wake",
+          "read",
+          "run"
+        ],
+        "correct": 1
+      },
+      {
+        "q": "___ your teeth before going to bed.",
+        "options": [
+          "Brush",
+          "Go",
+          "Run"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "He ___ to school at 7:00.",
+        "options": [
+          "plays",
+          "brushes",
+          "goes"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "I ___ TV with my family.",
+        "options": [
+          "watch",
+          "watches",
+          "watching"
+        ],
+        "correct": 0
+      },
+      {
+        "q": "Nader ___ football after school.",
+        "options": [
+          "play",
+          "playing",
+          "plays"
+        ],
+        "correct": 2
+      },
+      {
+        "q": "Noha and Amira ___ their beds after waking up.",
+        "options": [
+          "makes",
+          "make",
+          "making"
+        ],
+        "correct": 1
+      }
+    ],
+    "listening_tf": [],
+    "sentence_order": []
+  },
+  "_lastModified": "2026-11-27T19:08:23.556779"
+}
