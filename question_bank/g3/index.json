@@ -1,20 +1,24 @@
 {
   "schemaVersion": 2,
   "grade": 3,
-  "updatedAt": "2026-11-27T17:04:44.639913Z",
+  "updatedAt": "2026-11-27T17:08:33.731103Z",
   "activeCounts": {
-    "t1_u1_l1|mcq": 36,
+    "t1_u1_l1|mcq": 60,
     "t1_u1_l2|mcq": 39,
     "t1_u1_l3|mcq": 57,
     "t1_u1_l4|mcq": 47
   },
   "totalCounts": {
-    "t1_u1_l1|mcq": 36,
+    "t1_u1_l1|mcq": 60,
     "t1_u1_l2|mcq": 39,
     "t1_u1_l3|mcq": 57,
     "t1_u1_l4|mcq": 47
   },
-  "unitTitles": {},
-  "lessonTitles": {},
-  "_lastModified": "2026-11-27T19:04:44.644405"
+  "unitTitles": {
+    "t1_u1": "Let's Learn Together!"
+  },
+  "lessonTitles": {
+    "t1_u1_l1": "Unit 1 Comprehensive Exam"
+  },
+  "_lastModified": "2026-11-27T19:08:33.749473"
 }
