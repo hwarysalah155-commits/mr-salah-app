@@ -1,0 +1,1494 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "mcq",
+  "updatedAt": "2026-11-27T16:53:08.162920Z",
+  "items": [
+    {
+      "id": "296c7390-08ca-4975-848f-6da71aa9f63d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nadeen has ___ eyes.",
+        "text": "Nadeen has ___ eyes.",
+        "options": [
+          "short",
+          "curly",
+          "brown"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.978683Z",
+      "updatedAt": "2026-11-27T16:53:03.985163Z"
+    },
+    {
+      "id": "5b8255f3-2a04-4d00-a842-2f2bf2fe785b",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nader is tall. He isn't ___.",
+        "text": "Nader is tall. He isn't ___.",
+        "options": [
+          "short",
+          "straight",
+          "curly"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.978847Z",
+      "updatedAt": "2026-11-27T16:53:03.985238Z"
+    },
+    {
+      "id": "d56dd05e-297a-4d50-8e9e-8f2d4c69f381",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Laila has curly ___.",
+        "text": "Laila has curly ___.",
+        "options": [
+          "hair",
+          "nose",
+          "face"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.978949Z",
+      "updatedAt": "2026-11-27T16:53:03.985272Z"
+    },
+    {
+      "id": "2a8420c4-4849-48b8-91ee-a586e1e6b90e",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I'm ___. I make my friends laugh.",
+        "text": "I'm ___. I make my friends laugh.",
+        "options": [
+          "shy",
+          "angry",
+          "funny"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979044Z",
+      "updatedAt": "2026-11-27T16:53:03.985299Z"
+    },
+    {
+      "id": "f76db727-7417-438f-90b0-098307c54835",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She is ___. She helps her friends do their homework.",
+        "text": "She is ___. She helps her friends do their homework.",
+        "options": [
+          "loud",
+          "helpful",
+          "short"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979131Z",
+      "updatedAt": "2026-11-27T16:53:03.985343Z"
+    },
+    {
+      "id": "8a42712d-afdc-4714-a2f0-76b7a4593a22",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He is ___. He says hello to everyone.",
+        "text": "He is ___. He says hello to everyone.",
+        "options": [
+          "friendly",
+          "straight",
+          "brown"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979223Z",
+      "updatedAt": "2026-11-27T16:53:03.985373Z"
+    },
+    {
+      "id": "e5c24497-cbb8-4984-b6b1-85d5e89ef6e2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.\n\nLaila always ___ and helps others.",
+        "text": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.\n\nLaila always ___ and helps others.",
+        "options": [
+          "throws",
+          "smiles",
+          "hurts"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979311Z",
+      "updatedAt": "2026-11-27T16:53:03.985399Z"
+    },
+    {
+      "id": "c5ca3602-c491-4dc7-9cde-709c46160aae",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.\n\nLaila is very ___.",
+        "text": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.\n\nLaila is very ___.",
+        "options": [
+          "tall",
+          "short",
+          "fat"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979400Z",
+      "updatedAt": "2026-11-27T16:53:03.985473Z"
+    },
+    {
+      "id": "ecd6c329-1356-468f-be42-f272573bbbb1",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My mother ___ very kind.",
+        "text": "My mother ___ very kind.",
+        "options": [
+          "am",
+          "are",
+          "is"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979491Z",
+      "updatedAt": "2026-11-27T16:53:03.985514Z"
+    },
+    {
+      "id": "fa0a1937-f7d3-41ef-98fd-b422a32a4c64",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ Egyptian.",
+        "text": "I ___ Egyptian.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979584Z",
+      "updatedAt": "2026-11-27T16:53:03.985548Z"
+    },
+    {
+      "id": "4185b2cb-faa3-4bf1-bf05-895998af39e9",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ brown eyes.",
+        "text": "I ___ brown eyes.",
+        "options": [
+          "am",
+          "has",
+          "have"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979676Z",
+      "updatedAt": "2026-11-27T16:53:03.985577Z"
+    },
+    {
+      "id": "797e9b3b-10ab-46a3-864e-263060be1048",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He ___ my brother.",
+        "text": "He ___ my brother.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979765Z",
+      "updatedAt": "2026-11-27T16:53:03.985606Z"
+    },
+    {
+      "id": "c3030752-c218-47a3-bc21-8bc503bcbef3",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She ___ green eyes.",
+        "text": "She ___ green eyes.",
+        "options": [
+          "has",
+          "have",
+          "is"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979857Z",
+      "updatedAt": "2026-11-27T16:53:03.985630Z"
+    },
+    {
+      "id": "a595afbc-fecc-40ab-932b-acdc3d820342",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "We ___ in the classroom.",
+        "text": "We ___ in the classroom.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.979952Z",
+      "updatedAt": "2026-11-27T16:53:03.985658Z"
+    },
+    {
+      "id": "b901710c-6e66-4e87-8996-3d120632d9b2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He ___ my dad.",
+        "text": "He ___ my dad.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980045Z",
+      "updatedAt": "2026-11-27T16:53:03.985689Z"
+    },
+    {
+      "id": "37658edc-8c9d-4ef2-8a24-b20d2a02705f",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "You ___ very kind.",
+        "text": "You ___ very kind.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980143Z",
+      "updatedAt": "2026-11-27T16:53:03.985718Z"
+    },
+    {
+      "id": "400012a2-fe27-4e14-93d3-9b00d7242247",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She ___ my mom.",
+        "text": "She ___ my mom.",
+        "options": [
+          "is",
+          "am",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980238Z",
+      "updatedAt": "2026-11-27T16:53:03.985743Z"
+    },
+    {
+      "id": "2ab37106-4a82-4e05-84af-8ac5c626bcd1",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "They ___ my friends.",
+        "text": "They ___ my friends.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980331Z",
+      "updatedAt": "2026-11-27T16:53:03.985772Z"
+    },
+    {
+      "id": "705e54e3-2dbc-4959-ac9f-5ffe56388a7b",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ eight years old.",
+        "text": "I ___ eight years old.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980438Z",
+      "updatedAt": "2026-11-27T16:53:03.985797Z"
+    },
+    {
+      "id": "11076491-57a1-44bb-b917-93e0b229357d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He ___ friendly.",
+        "text": "He ___ friendly.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980539Z",
+      "updatedAt": "2026-11-27T16:53:03.985822Z"
+    },
+    {
+      "id": "6e657046-8c92-4f32-bdfc-3f3f9021645b",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Seif is ___. He always has a smile on his face.",
+        "text": "Seif is ___. He always has a smile on his face.",
+        "options": [
+          "late",
+          "angry",
+          "funny"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980695Z",
+      "updatedAt": "2026-11-27T16:53:03.985853Z"
+    },
+    {
+      "id": "af7c4f39-0148-4599-bf5d-123023a75af3",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He is ___ and fit, so he is good at playing basketball.",
+        "text": "He is ___ and fit, so he is good at playing basketball.",
+        "options": [
+          "tall",
+          "short",
+          "lazy"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980803Z",
+      "updatedAt": "2026-11-27T16:53:03.985876Z"
+    },
+    {
+      "id": "6a61526d-3ae0-4bed-bc9b-9e5e5f9c3a02",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She ___ very helpful.",
+        "text": "She ___ very helpful.",
+        "options": [
+          "am",
+          "are",
+          "is"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980901Z",
+      "updatedAt": "2026-11-27T16:53:03.985900Z"
+    },
+    {
+      "id": "0ed08ea5-bc29-4080-ab69-d4f3845f0b8c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She is ___ when someone needs help.",
+        "text": "She is ___ when someone needs help.",
+        "options": [
+          "tall",
+          "short",
+          "helpful"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.980997Z",
+      "updatedAt": "2026-11-27T16:53:03.985928Z"
+    },
+    {
+      "id": "518b9d6d-0f96-4b08-8e92-717aeaa820b3",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Lana ___ my best friend.",
+        "text": "Lana ___ my best friend.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981097Z",
+      "updatedAt": "2026-11-27T16:53:03.985956Z"
+    },
+    {
+      "id": "5d2d7ceb-e3f1-442f-aba8-b549729fc5f8",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ a student.",
+        "text": "I ___ a student.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981194Z",
+      "updatedAt": "2026-11-27T16:53:03.985980Z"
+    },
+    {
+      "id": "175dc60a-ed6f-48c6-b580-dd6aef5ea0e9",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.\n\nThe opposite of the underlined word \"long\" is ___.",
+        "text": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.\n\nThe opposite of the underlined word \"long\" is ___.",
+        "options": [
+          "big",
+          "short",
+          "small"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981289Z",
+      "updatedAt": "2026-11-27T16:53:03.986008Z"
+    },
+    {
+      "id": "47c4fbbf-50ba-4114-8839-5e78b123b35d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.\n\nTala has ___ eyes.",
+        "text": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.\n\nTala has ___ eyes.",
+        "options": [
+          "brown",
+          "green",
+          "blue"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981380Z",
+      "updatedAt": "2026-11-27T16:53:03.986030Z"
+    },
+    {
+      "id": "79219d66-2bfc-4e25-b4d1-bb0f6b6801d5",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.\n\nSamira has ___ black hair and brown eyes.",
+        "text": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.\n\nSamira has ___ black hair and brown eyes.",
+        "options": [
+          "long",
+          "short",
+          "loud"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981468Z",
+      "updatedAt": "2026-11-27T16:53:03.986054Z"
+    },
+    {
+      "id": "b5f0bdf7-3c3e-465a-ad29-4d96a1e76e6d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.\n\nPeople like Samira because she is ___.",
+        "text": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.\n\nPeople like Samira because she is ___.",
+        "options": [
+          "tall",
+          "long",
+          "kind"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981566Z",
+      "updatedAt": "2026-11-27T16:53:03.986085Z"
+    },
+    {
+      "id": "7d4eb3e4-ac44-4ed0-8375-36f0cd9f9f92",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He ___ brown hair.",
+        "text": "He ___ brown hair.",
+        "options": [
+          "have",
+          "has",
+          "is"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981658Z",
+      "updatedAt": "2026-11-27T16:53:03.986108Z"
+    },
+    {
+      "id": "d3e30467-3d45-4583-a09b-0144833b6e4f",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He looks ___ after watching a sad movie.",
+        "text": "He looks ___ after watching a sad movie.",
+        "options": [
+          "excited",
+          "shy",
+          "sad"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981749Z",
+      "updatedAt": "2026-11-27T16:53:03.986131Z"
+    },
+    {
+      "id": "7614718d-3fd8-4704-8da3-4421e88fdbd6",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "She ___ my sister.",
+        "text": "She ___ my sister.",
+        "options": [
+          "is",
+          "are",
+          "am"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981849Z",
+      "updatedAt": "2026-11-27T16:53:03.986161Z"
+    },
+    {
+      "id": "6a26f7a4-7c74-40d5-b431-5ada4ab038a8",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "He is ___. He doesn't talk much.",
+        "text": "He is ___. He doesn't talk much.",
+        "options": [
+          "shy",
+          "friendly",
+          "funny"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.981949Z",
+      "updatedAt": "2026-11-27T16:53:03.986190Z"
+    },
+    {
+      "id": "da38500e-03ce-4185-b474-21535a141188",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My brother is ___. He is not short.",
+        "text": "My brother is ___. He is not short.",
+        "options": [
+          "tall",
+          "curly",
+          "straight"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982044Z",
+      "updatedAt": "2026-11-27T16:53:03.986215Z"
+    },
+    {
+      "id": "19f94090-3f60-4602-862f-cf8bd572932d",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "We ___ happy.",
+        "text": "We ___ happy.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982146Z",
+      "updatedAt": "2026-11-27T16:53:03.986237Z"
+    },
+    {
+      "id": "b90491af-b890-4a42-82ff-0980738436ea",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: long hair",
+        "text": "Choose the Arabic meaning of: long hair",
+        "options": [
+          "شعر طويل",
+          "شعر قصير",
+          "شعر مجعد"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982244Z",
+      "updatedAt": "2026-11-27T16:53:03.986273Z"
+    },
+    {
+      "id": "ecb76de2-3074-4e38-ad05-2eba009045f6",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: short hair",
+        "text": "Choose the Arabic meaning of: short hair",
+        "options": [
+          "شعر مجعد",
+          "شعر قصير",
+          "شعر مستقيم"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982339Z",
+      "updatedAt": "2026-11-27T16:53:03.986301Z"
+    },
+    {
+      "id": "584e21c8-1400-42e0-93f1-b05e4153bd0c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: curly hair",
+        "text": "Choose the Arabic meaning of: curly hair",
+        "options": [
+          "شعر مستقيم",
+          "عيون بنية",
+          "شعر مجعد"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982440Z",
+      "updatedAt": "2026-11-27T16:53:03.986328Z"
+    },
+    {
+      "id": "1925f128-f38f-4d41-801e-17909177989c",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: straight hair",
+        "text": "Choose the Arabic meaning of: straight hair",
+        "options": [
+          "شعر مستقيم",
+          "عيون بنية",
+          "مرح"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982543Z",
+      "updatedAt": "2026-11-27T16:53:03.986522Z"
+    },
+    {
+      "id": "2f1d8a08-a0ac-4dd0-8890-93f1b10979ec",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: brown eyes",
+        "text": "Choose the Arabic meaning of: brown eyes",
+        "options": [
+          "مرح",
+          "عيون بنية",
+          "خجول"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982639Z",
+      "updatedAt": "2026-11-27T16:53:03.986575Z"
+    },
+    {
+      "id": "6fb5ee61-44e9-4a08-91df-085fd4d771a0",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: funny",
+        "text": "Choose the Arabic meaning of: funny",
+        "options": [
+          "خجول",
+          "ودود",
+          "مرح"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982736Z",
+      "updatedAt": "2026-11-27T16:53:03.986604Z"
+    },
+    {
+      "id": "9a63c2cb-76b0-477a-88b3-b381c5b29dc9",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: shy",
+        "text": "Choose the Arabic meaning of: shy",
+        "options": [
+          "خجول",
+          "ودود",
+          "متعاون"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982846Z",
+      "updatedAt": "2026-11-27T16:53:03.986637Z"
+    },
+    {
+      "id": "fa2d6bab-0e55-4b77-894c-ed511f5f4b89",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: friendly",
+        "text": "Choose the Arabic meaning of: friendly",
+        "options": [
+          "متعاون",
+          "ودود",
+          "مهذب"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.982939Z",
+      "updatedAt": "2026-11-27T16:53:03.986660Z"
+    },
+    {
+      "id": "6ebe6fc3-0d8a-4d97-baee-778597db378f",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: helpful",
+        "text": "Choose the Arabic meaning of: helpful",
+        "options": [
+          "مهذب",
+          "عطوف",
+          "متعاون"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983027Z",
+      "updatedAt": "2026-11-27T16:53:03.986684Z"
+    },
+    {
+      "id": "883a39a8-79c1-4df3-932e-9ab1d7aff263",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: polite",
+        "text": "Choose the Arabic meaning of: polite",
+        "options": [
+          "مهذب",
+          "عطوف",
+          "غاضب"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983108Z",
+      "updatedAt": "2026-11-27T16:53:03.986719Z"
+    },
+    {
+      "id": "1fc3d5a5-ba38-4e8f-aa80-cbfd82993346",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: kind",
+        "text": "Choose the Arabic meaning of: kind",
+        "options": [
+          "غاضب",
+          "عطوف",
+          "هادئ"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983203Z",
+      "updatedAt": "2026-11-27T16:53:03.986744Z"
+    },
+    {
+      "id": "c1a3c5f8-290b-4019-9da0-beab59f405b3",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: angry",
+        "text": "Choose the Arabic meaning of: angry",
+        "options": [
+          "هادئ",
+          "مطبخ",
+          "غاضب"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983293Z",
+      "updatedAt": "2026-11-27T16:53:03.986768Z"
+    },
+    {
+      "id": "6a70f4d3-cf2d-47cd-9326-db2e44f57a03",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: quiet",
+        "text": "Choose the Arabic meaning of: quiet",
+        "options": [
+          "هادئ",
+          "مطبخ",
+          "مهرج"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983385Z",
+      "updatedAt": "2026-11-27T16:53:03.986795Z"
+    },
+    {
+      "id": "6e30f7c1-17ba-47de-8449-f7201b77ba06",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: kitchen",
+        "text": "Choose the Arabic meaning of: kitchen",
+        "options": [
+          "مهرج",
+          "مطبخ",
+          "جميل"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983472Z",
+      "updatedAt": "2026-11-27T16:53:03.986822Z"
+    },
+    {
+      "id": "f69eb0e8-056b-4037-9336-b84b57e1e7c2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: clown",
+        "text": "Choose the Arabic meaning of: clown",
+        "options": [
+          "جميل",
+          "مصري",
+          "مهرج"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983563Z",
+      "updatedAt": "2026-11-27T16:53:03.986846Z"
+    },
+    {
+      "id": "a8de0db5-0156-462e-a3b3-84d067dc3373",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: pretty",
+        "text": "Choose the Arabic meaning of: pretty",
+        "options": [
+          "جميل",
+          "مصري",
+          "شعر طويل"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983653Z",
+      "updatedAt": "2026-11-27T16:53:03.986878Z"
+    },
+    {
+      "id": "a9bf84f5-7337-41fe-b214-5cefcce225c4",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Egyptian",
+        "text": "Choose the Arabic meaning of: Egyptian",
+        "options": [
+          "شعر طويل",
+          "مصري",
+          "شعر قصير"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983751Z",
+      "updatedAt": "2026-11-27T16:53:03.986901Z"
+    },
+    {
+      "id": "16d23ec6-f58e-488a-a807-24e3a523abcb",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: laugh",
+        "text": "Choose the past form of: laugh",
+        "options": [
+          "laughed",
+          "reached",
+          "shared"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983837Z",
+      "updatedAt": "2026-11-27T16:53:03.986923Z"
+    },
+    {
+      "id": "84d76692-c1ce-4bd5-84fb-d1e5b85f22c7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: reach",
+        "text": "Choose the past form of: reach",
+        "options": [
+          "shared",
+          "reached",
+          "smiled"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.983943Z",
+      "updatedAt": "2026-11-27T16:53:03.986952Z"
+    },
+    {
+      "id": "2cdeee91-bfca-49ae-af96-1fc69e1bd221",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: share",
+        "text": "Choose the past form of: share",
+        "options": [
+          "smiled",
+          "laughed",
+          "shared"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.984054Z",
+      "updatedAt": "2026-11-27T16:53:03.986981Z"
+    },
+    {
+      "id": "bd2bc475-4b82-4645-ab98-0c464f193873",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: smile",
+        "text": "Choose the past form of: smile",
+        "options": [
+          "smiled",
+          "laughed",
+          "reached"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T16:53:03.984149Z",
+      "updatedAt": "2026-11-27T16:53:03.987006Z"
+    }
+  ],
+  "_lastModified": "2026-11-27T18:53:08.184963"
+}
