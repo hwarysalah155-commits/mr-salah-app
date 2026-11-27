@@ -5,7 +5,7 @@
   "unit": 1,
   "lesson": 1,
   "questionType": "mcq",
-  "updatedAt": "2026-11-27T16:51:57.420939Z",
+  "updatedAt": "2026-11-27T17:08:33.586827Z",
   "items": [
     {
       "id": "76dba8e0-0a57-411a-ba2d-58fbf6150e01",
@@ -942,7 +942,679 @@
       "active": true,
       "createdAt": "2026-11-27T16:51:52.190703Z",
       "updatedAt": "2026-11-27T16:51:52.210310Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_0",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "Nice to ___ you.",
+        "options": [
+          "ask",
+          "meet",
+          "count"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "meet"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214030Z",
+      "updatedAt": "2026-11-27T17:08:14.219199Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_1",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "How ___ are you? - I am 8 years old.",
+        "options": [
+          "old",
+          "name",
+          "friend"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "old"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214478Z",
+      "updatedAt": "2026-11-27T17:08:14.219289Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_2",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "In the morning, we say ___ to our friends.",
+        "options": [
+          "goodbye",
+          "good night",
+          "good morning"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "good morning"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214511Z",
+      "updatedAt": "2026-11-27T17:08:14.219317Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_3",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I'm from ___.",
+        "options": [
+          "Egypt",
+          "Heba",
+          "Noha"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "Egypt"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214536Z",
+      "updatedAt": "2026-11-27T17:08:14.219363Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_4",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "___ are you? - I'm fine, thank you.",
+        "options": [
+          "What",
+          "When",
+          "How"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "How"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214562Z",
+      "updatedAt": "2026-11-27T17:08:14.219383Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_5",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I ___ eight years old.",
+        "options": [
+          "is",
+          "am",
+          "are"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "am"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214585Z",
+      "updatedAt": "2026-11-27T17:08:14.219408Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_6",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "When the teacher talks, you should ___ carefully.",
+        "options": [
+          "eat",
+          "listen",
+          "shout"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "listen"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214608Z",
+      "updatedAt": "2026-11-27T17:08:14.219429Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_7",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "___ down, when class starts.",
+        "options": [
+          "Sit",
+          "Run",
+          "Stand"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "Sit"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214661Z",
+      "updatedAt": "2026-11-27T17:08:14.219470Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_8",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "If you want to answer, ___ your hand.",
+        "options": [
+          "run",
+          "close",
+          "raise"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "raise"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214685Z",
+      "updatedAt": "2026-11-27T17:08:14.219497Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_9",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "___ your book on page 6.",
+        "options": [
+          "Open",
+          "Stand",
+          "Sit"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "Open"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214707Z",
+      "updatedAt": "2026-11-27T17:08:14.219517Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_10",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "___ sleep in class.",
+        "options": [
+          "Aren't",
+          "Isn't",
+          "Don't"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "Don't"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214747Z",
+      "updatedAt": "2026-11-27T17:08:14.219538Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_11",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "___ to your teachers carefully.",
+        "options": [
+          "Listening",
+          "Listen",
+          "Listened"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "Listen"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214770Z",
+      "updatedAt": "2026-11-27T17:08:14.219561Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_12",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "Nadeen has ___ eyes.",
+        "options": [
+          "short",
+          "brown",
+          "curly"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "brown"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214816Z",
+      "updatedAt": "2026-11-27T17:08:14.219624Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_13",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "Nader is tall. He isn't ___.",
+        "options": [
+          "short",
+          "straight",
+          "curly"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "short"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214840Z",
+      "updatedAt": "2026-11-27T17:08:14.219645Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_14",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I'm ___. I make my friends laugh.",
+        "options": [
+          "shy",
+          "angry",
+          "funny"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "funny"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214862Z",
+      "updatedAt": "2026-11-27T17:08:14.219686Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_15",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "She is ___. She helps her friends do their homework.",
+        "options": [
+          "helpful",
+          "loud",
+          "short"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "helpful"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214888Z",
+      "updatedAt": "2026-11-27T17:08:14.219711Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_16",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I ___ brown eyes.",
+        "options": [
+          "am",
+          "has",
+          "have"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "have"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214932Z",
+      "updatedAt": "2026-11-27T17:08:14.219731Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_17",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "She ___ green eyes.",
+        "options": [
+          "have",
+          "has",
+          "is"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "has"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214955Z",
+      "updatedAt": "2026-11-27T17:08:14.219751Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_18",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I ___ books in my free time.",
+        "options": [
+          "wake",
+          "read",
+          "run"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "read"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.214983Z",
+      "updatedAt": "2026-11-27T17:08:14.219776Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_19",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "___ your teeth before going to bed.",
+        "options": [
+          "Brush",
+          "Go",
+          "Run"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "Brush"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.215006Z",
+      "updatedAt": "2026-11-27T17:08:14.219796Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_20",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "He ___ to school at 7:00.",
+        "options": [
+          "plays",
+          "brushes",
+          "goes"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "goes"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.215032Z",
+      "updatedAt": "2026-11-27T17:08:14.219816Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_21",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "I ___ TV with my family.",
+        "options": [
+          "watch",
+          "watches",
+          "watching"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 0,
+        "correctText": "watch"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.215054Z",
+      "updatedAt": "2026-11-27T17:08:14.219844Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_22",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "Nader ___ football after school.",
+        "options": [
+          "play",
+          "playing",
+          "plays"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 2,
+        "correctText": "plays"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.215077Z",
+      "updatedAt": "2026-11-27T17:08:14.219863Z"
+    },
+    {
+      "id": "v1_g3_t1_u1_l1_mcq_23",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 Comprehensive Exam",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "prompt": "Noha and Amira ___ their beds after waking up.",
+        "options": [
+          "makes",
+          "make",
+          "making"
+        ]
+      },
+      "answerData": {
+        "correctIndex": 1,
+        "correctText": "make"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:08:14.215102Z",
+      "updatedAt": "2026-11-27T17:08:14.219882Z"
     }
   ],
-  "_lastModified": "2026-11-27T18:51:57.600595"
+  "_lastModified": "2026-11-27T19:08:33.694006"
 }
