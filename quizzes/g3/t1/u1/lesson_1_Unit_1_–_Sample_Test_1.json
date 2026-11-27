@@ -358,7 +358,11 @@
           "black",
           "hair"
         ],
-        "endPunctuation": "."
+        "endPunctuation": ".",
+        "correct": "I have black hair.",
+        "acceptedAnswers": [
+          "I have black hair."
+        ]
       },
       {
         "id": "g3_t1_u1_q246",
@@ -403,7 +407,11 @@
           "the",
           "bathroom"
         ],
-        "endPunctuation": "?"
+        "endPunctuation": "?",
+        "correct": "May I go to the bathroom?",
+        "acceptedAnswers": [
+          "May I go to the bathroom?"
+        ]
       }
     ],
     "complete_passage": [
@@ -663,5 +671,5 @@
       }
     ]
   },
-  "_lastModified": "2026-11-27T19:14:07.076237"
+  "_lastModified": "2026-11-27T19:16:18.362840"
 }
