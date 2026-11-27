@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "sentenceOrder",
+  "updatedAt": "2026-11-27T17:16:23.007222Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q245",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "words": [
+          "black",
+          "have",
+          "hair",
+          "I"
+        ]
+      },
+      "answerData": {
+        "correctSentence": "I have black hair."
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.231429Z",
+      "updatedAt": "2026-11-27T17:16:09.233561Z"
+    },
+    {
+      "id": "g3_t1_u1_q246",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "lessonTitle": "Unit 1 – Sample Test 1",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "words": [
+          "I",
+          "go",
+          "the",
+          "May",
+          "to",
+          "bathroom"
+        ]
+      },
+      "answerData": {
+        "correctSentence": "May I go to the bathroom?"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-27T17:16:09.231481Z",
+      "updatedAt": "2026-11-27T17:16:09.233695Z"
+    }
+  ],
+  "_lastModified": "2026-11-27T19:16:23.022413"
+}
