@@ -1,16 +1,18 @@
 {
   "schemaVersion": 2,
   "grade": 3,
-  "updatedAt": "2026-11-27T16:52:36.111253Z",
+  "updatedAt": "2026-11-27T16:53:08.203213Z",
   "activeCounts": {
     "t1_u1_l1|mcq": 36,
-    "t1_u1_l2|mcq": 39
+    "t1_u1_l2|mcq": 39,
+    "t1_u1_l3|mcq": 57
   },
   "totalCounts": {
     "t1_u1_l1|mcq": 36,
-    "t1_u1_l2|mcq": 39
+    "t1_u1_l2|mcq": 39,
+    "t1_u1_l3|mcq": 57
   },
   "unitTitles": {},
   "lessonTitles": {},
-  "_lastModified": "2026-11-27T18:52:36.154865"
+  "_lastModified": "2026-11-27T18:53:08.239455"
 }
