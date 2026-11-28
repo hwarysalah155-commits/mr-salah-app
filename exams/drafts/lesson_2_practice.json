@@ -1,0 +1,725 @@
+{
+  "examId": "lesson_2_practice",
+  "schemaVersion": 2,
+  "sourceType": "fixed",
+  "title": "Classroom Rules - Practice Quiz",
+  "grade": 3,
+  "term": 1,
+  "selectedUnitIds": [
+    1
+  ],
+  "selectedLessonIds": [
+    "t1_u1_l2"
+  ],
+  "selectedQuestionTypes": [],
+  "sections": [
+    {
+      "id": "lesson_2_practice_sec_1",
+      "title": "اختيار من متعدد",
+      "questionType": "mcq",
+      "displayOrder": 1,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q029",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "When the teacher talks, you should ___ carefully.",
+            "options": [
+              "eat",
+              "shout",
+              "listen"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 28
+          },
+          "answerData": {
+            "correct": "listen",
+            "correctText": "listen",
+            "correctSentence": "listen",
+            "correctWord": "listen",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "listen"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.402369Z",
+          "updatedAt": "2026-11-28T10:10:53.288686Z"
+        },
+        {
+          "id": "g3_t1_u1_q030",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Don't ___ in class.",
+            "options": [
+              "shout",
+              "listen",
+              "write"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 29
+          },
+          "answerData": {
+            "correct": "shout",
+            "correctText": "shout",
+            "correctSentence": "shout",
+            "correctWord": "shout",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "shout"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.403710Z",
+          "updatedAt": "2026-11-28T10:10:53.288748Z"
+        },
+        {
+          "id": "g3_t1_u1_q031",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "___ down, when class starts.",
+            "options": [
+              "Run",
+              "Sit",
+              "Stand"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 30
+          },
+          "answerData": {
+            "correct": "Sit",
+            "correctText": "Sit",
+            "correctSentence": "Sit",
+            "correctWord": "Sit",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "Sit"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.405305Z",
+          "updatedAt": "2026-11-28T10:10:53.288794Z"
+        },
+        {
+          "id": "g3_t1_u1_q032",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "If you want to answer, ___ your hand.",
+            "options": [
+              "run",
+              "raise",
+              "close"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 31
+          },
+          "answerData": {
+            "correct": "raise",
+            "correctText": "raise",
+            "correctSentence": "raise",
+            "correctWord": "raise",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "raise"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.406722Z",
+          "updatedAt": "2026-11-28T10:10:53.288832Z"
+        },
+        {
+          "id": "g3_t1_u1_q033",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Be ___ to your classmates.",
+            "options": [
+              "bad",
+              "kind",
+              "angry"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 32
+          },
+          "answerData": {
+            "correct": "kind",
+            "correctText": "kind",
+            "correctSentence": "kind",
+            "correctWord": "kind",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "kind"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.407657Z",
+          "updatedAt": "2026-11-28T10:10:53.288875Z"
+        },
+        {
+          "id": "g3_t1_u1_q034",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "___ your book on page 6.",
+            "options": [
+              "Sit",
+              "Stand",
+              "Open"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 33
+          },
+          "answerData": {
+            "correct": "Open",
+            "correctText": "Open",
+            "correctSentence": "Open",
+            "correctWord": "Open",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "Open"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.408277Z",
+          "updatedAt": "2026-11-28T10:10:53.288915Z"
+        },
+        {
+          "id": "g3_t1_u1_q035",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "___ at the board.",
+            "options": [
+              "Look",
+              "Looks",
+              "Looking"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 34
+          },
+          "answerData": {
+            "correct": "Look",
+            "correctText": "Look",
+            "correctSentence": "Look",
+            "correctWord": "Look",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "Look"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.408749Z",
+          "updatedAt": "2026-11-28T10:10:53.288954Z"
+        },
+        {
+          "id": "g3_t1_u1_q036",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "___ your homework.",
+            "options": [
+              "Write",
+              "Writes",
+              "Writing"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 35
+          },
+          "answerData": {
+            "correct": "Write",
+            "correctText": "Write",
+            "correctSentence": "Write",
+            "correctWord": "Write",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "Write"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.409294Z",
+          "updatedAt": "2026-11-28T10:10:53.289035Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_practice_sec_2",
+      "title": "أكمل الفقرة من الصندوق",
+      "questionType": "completePassage",
+      "displayOrder": 2,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q057",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "completePassage",
+          "typeCode": "complete_passage",
+          "payload": {
+            "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+            "question": "There are many rules in our classroom. We should follow these rules. We shouldn't run in [1]. We should [2] down when class starts.",
+            "passage": "There are many rules in our classroom. We should follow these rules. We shouldn't run in [1]. We should [2] down when class starts.",
+            "wordBank": [
+              "sit",
+              "shout",
+              "class"
+            ],
+            "blankCount": 2,
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 56
+          },
+          "answerData": {
+            "correct": [
+              "class",
+              "sit"
+            ],
+            "correctText": "[class, sit]",
+            "correctSentence": "[class, sit]",
+            "correctWord": "[class, sit]",
+            "answers": [
+              "class",
+              "sit"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.425563Z",
+          "updatedAt": "2026-11-28T10:10:53.289922Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_practice_sec_3",
+      "title": "ترتيب الحروف",
+      "questionType": "letterUnscramble",
+      "displayOrder": 3,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q061",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: n w h e",
+            "question": "n w h e",
+            "words": [
+              "n",
+              "w",
+              "h",
+              "e"
+            ],
+            "letters": [
+              "n",
+              "w",
+              "h",
+              "e"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+            "displayOrder": 60
+          },
+          "answerData": {
+            "correct": "when",
+            "correctText": "when",
+            "correctSentence": "when",
+            "correctWord": "when",
+            "acceptedAnswers": [
+              "when"
+            ]
+          },
+          "media": [
+            {
+              "id": "589c335f-2ea5-4bf8-ac56-369ace77e972",
+              "kind": "image",
+              "relativePath": "exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q061.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.427770Z",
+          "updatedAt": "2026-11-28T10:10:54.831587Z"
+        },
+        {
+          "id": "g3_t1_u1_q062",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: h a l e w",
+            "question": "h a l e w",
+            "words": [
+              "h",
+              "a",
+              "l",
+              "e",
+              "w"
+            ],
+            "letters": [
+              "h",
+              "a",
+              "l",
+              "e",
+              "w"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+            "displayOrder": 61
+          },
+          "answerData": {
+            "correct": "whale",
+            "correctText": "whale",
+            "correctSentence": "whale",
+            "correctWord": "whale",
+            "acceptedAnswers": [
+              "whale"
+            ]
+          },
+          "media": [
+            {
+              "id": "96c9dd13-709a-4f1c-b6eb-7289caeb29c4",
+              "kind": "image",
+              "relativePath": "exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q062.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.428816Z",
+          "updatedAt": "2026-11-28T10:10:56.428104Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_practice_sec_4",
+      "title": "ترتيب الجملة",
+      "questionType": "sentenceOrder",
+      "displayOrder": 4,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q068",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "your - Open - page 6 - on - book.",
+            "question": "your - Open - page 6 - on - book.",
+            "words": [
+              "your",
+              "Open",
+              "page 6",
+              "on",
+              "book"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 67
+          },
+          "answerData": {
+            "correct": "Open your book on page 6.",
+            "correctText": "Open your book on page 6.",
+            "correctSentence": "Open your book on page 6.",
+            "correctWord": "Open your book on page 6.",
+            "acceptedAnswers": [
+              "Open your book on page 6."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.437153Z",
+          "updatedAt": "2026-11-28T10:10:58.096327Z"
+        },
+        {
+          "id": "g3_t1_u1_q069",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "go - to - bathroom - May - I - the?",
+            "question": "go - to - bathroom - May - I - the?",
+            "words": [
+              "go",
+              "to",
+              "bathroom",
+              "May",
+              "I",
+              "the"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 68
+          },
+          "answerData": {
+            "correct": "May I go to the bathroom?",
+            "correctText": "May I go to the bathroom?",
+            "correctSentence": "May I go to the bathroom?",
+            "correctWord": "May I go to the bathroom?",
+            "acceptedAnswers": [
+              "May I go to the bathroom?"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.437797Z",
+          "updatedAt": "2026-11-28T10:10:58.096454Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_practice_sec_5",
+      "title": "الحروف الناقصة",
+      "questionType": "missingLetters",
+      "displayOrder": 5,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q043",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "missingLetters",
+          "typeCode": "missing_letters",
+          "payload": {
+            "prompt": "__at",
+            "question": "__at",
+            "displayPattern": "__at",
+            "grading": "automatic",
+            "answerInput": "missing_letters_left_to_right",
+            "points": 1.0,
+            "displayOrder": 42
+          },
+          "answerData": {
+            "correct": "wh",
+            "correctText": "wh",
+            "correctSentence": "wh",
+            "correctWord": "what",
+            "completedWord": "what",
+            "missingLetters": "wh",
+            "acceptedAnswers": [
+              "wh"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.415520Z",
+          "updatedAt": "2026-11-28T10:10:53.289348Z"
+        },
+        {
+          "id": "g3_t1_u1_q044",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "missingLetters",
+          "typeCode": "missing_letters",
+          "payload": {
+            "prompt": "__en",
+            "question": "__en",
+            "displayPattern": "__en",
+            "grading": "automatic",
+            "answerInput": "missing_letters_left_to_right",
+            "points": 1.0,
+            "displayOrder": 43
+          },
+          "answerData": {
+            "correct": "wh",
+            "correctText": "wh",
+            "correctSentence": "wh",
+            "correctWord": "when",
+            "completedWord": "when",
+            "missingLetters": "wh",
+            "acceptedAnswers": [
+              "wh"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.417484Z",
+          "updatedAt": "2026-11-28T10:10:53.289397Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_2_practice_sec_6",
+      "title": "الترقيم (جملة كاملة)",
+      "questionType": "punctuation",
+      "displayOrder": 6,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q058",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 2,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "raise your hand to speak",
+            "question": "raise your hand to speak",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 57
+          },
+          "answerData": {
+            "correct": "Raise your hand to speak.",
+            "correctText": "Raise your hand to speak.",
+            "correctSentence": "Raise your hand to speak.",
+            "correctWord": "Raise your hand to speak.",
+            "acceptedAnswers": [
+              "Raise your hand to speak."
+            ],
+            "fullSentence": "Raise your hand to speak.",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "Raise your hand to speak."
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.426169Z",
+          "updatedAt": "2026-11-28T10:10:53.291254Z"
+        }
+      ]
+    }
+  ],
+  "sourceQuestionIds": [
+    "g3_t1_u1_q029",
+    "g3_t1_u1_q030",
+    "g3_t1_u1_q031",
+    "g3_t1_u1_q032",
+    "g3_t1_u1_q033",
+    "g3_t1_u1_q034",
+    "g3_t1_u1_q035",
+    "g3_t1_u1_q036",
+    "g3_t1_u1_q057",
+    "g3_t1_u1_q061",
+    "g3_t1_u1_q062",
+    "g3_t1_u1_q068",
+    "g3_t1_u1_q069",
+    "g3_t1_u1_q043",
+    "g3_t1_u1_q044",
+    "g3_t1_u1_q058"
+  ],
+  "generated": false,
+  "published": false,
+  "supportedModes": [
+    "normal",
+    "adventureGates",
+    "racing",
+    "treasureHunt",
+    "spaceMission"
+  ],
+  "createdAt": "2026-11-28T10:11:32.092177Z",
+  "updatedAt": "2026-11-28T10:11:32.092190Z",
+  "_lastModified": "2026-11-28T12:11:32.107002"
+}
