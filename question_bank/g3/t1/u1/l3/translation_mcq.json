@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "translationMcq",
+  "updatedAt": "2026-11-28T18:07:09.955153Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q181",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "مطبخ",
+        "question": "مطبخ",
+        "sourceText": "مطبخ",
+        "referenceTranslation": "kitchen",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "ar_to_en",
+        "points": null,
+        "displayOrder": 180
+      },
+      "answerData": {
+        "correct": "kitchen",
+        "correctText": "kitchen",
+        "correctSentence": "kitchen",
+        "correctWord": "kitchen",
+        "acceptedAnswers": [
+          "kitchen"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.157287Z",
+      "updatedAt": "2026-11-28T18:07:09.572219Z"
+    },
+    {
+      "id": "g3_t1_u1_q182",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "ودود",
+        "question": "ودود",
+        "sourceText": "ودود",
+        "referenceTranslation": "friendly",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "ar_to_en",
+        "points": null,
+        "displayOrder": 181
+      },
+      "answerData": {
+        "correct": "friendly",
+        "correctText": "friendly",
+        "correctSentence": "friendly",
+        "correctWord": "friendly",
+        "acceptedAnswers": [
+          "friendly"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.158845Z",
+      "updatedAt": "2026-11-28T18:07:09.572277Z"
+    },
+    {
+      "id": "g3_t1_u1_q183",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "متعاون",
+        "question": "متعاون",
+        "sourceText": "متعاون",
+        "referenceTranslation": "helpful",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "ar_to_en",
+        "points": null,
+        "displayOrder": 182
+      },
+      "answerData": {
+        "correct": "helpful",
+        "correctText": "helpful",
+        "correctSentence": "helpful",
+        "correctWord": "helpful",
+        "acceptedAnswers": [
+          "helpful"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.161134Z",
+      "updatedAt": "2026-11-28T18:07:09.572332Z"
+    },
+    {
+      "id": "g3_t1_u1_q184",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "shy",
+        "question": "shy",
+        "sourceText": "shy",
+        "referenceTranslation": "خجول",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "en_to_ar",
+        "points": null,
+        "displayOrder": 183
+      },
+      "answerData": {
+        "correct": "خجول",
+        "correctText": "خجول",
+        "correctSentence": "خجول",
+        "correctWord": "خجول",
+        "acceptedAnswers": [
+          "خجول"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.163339Z",
+      "updatedAt": "2026-11-28T18:07:09.572391Z"
+    },
+    {
+      "id": "g3_t1_u1_q185",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "polite",
+        "question": "polite",
+        "sourceText": "polite",
+        "referenceTranslation": "مهذب",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "en_to_ar",
+        "points": null,
+        "displayOrder": 184
+      },
+      "answerData": {
+        "correct": "مهذب",
+        "correctText": "مهذب",
+        "correctSentence": "مهذب",
+        "correctWord": "مهذب",
+        "acceptedAnswers": [
+          "مهذب"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.165145Z",
+      "updatedAt": "2026-11-28T18:07:09.572446Z"
+    },
+    {
+      "id": "g3_t1_u1_q186",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "kind",
+        "question": "kind",
+        "sourceText": "kind",
+        "referenceTranslation": "عطوف",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "en_to_ar",
+        "points": null,
+        "displayOrder": 185
+      },
+      "answerData": {
+        "correct": "عطوف",
+        "correctText": "عطوف",
+        "correctSentence": "عطوف",
+        "correctWord": "عطوف",
+        "acceptedAnswers": [
+          "عطوف"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.167477Z",
+      "updatedAt": "2026-11-28T18:07:09.572502Z"
+    },
+    {
+      "id": "g3_t1_u1_q187",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "هادئ",
+        "question": "هادئ",
+        "sourceText": "هادئ",
+        "referenceTranslation": "quiet",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "ar_to_en",
+        "points": null,
+        "displayOrder": 186
+      },
+      "answerData": {
+        "correct": "quiet",
+        "correctText": "quiet",
+        "correctSentence": "quiet",
+        "correctWord": "quiet",
+        "acceptedAnswers": [
+          "quiet"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.168999Z",
+      "updatedAt": "2026-11-28T18:07:09.572557Z"
+    },
+    {
+      "id": "g3_t1_u1_q188",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "شعر مستقيم",
+        "question": "شعر مستقيم",
+        "sourceText": "شعر مستقيم",
+        "referenceTranslation": "straight hair",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "ar_to_en",
+        "points": null,
+        "displayOrder": 187
+      },
+      "answerData": {
+        "correct": "straight hair",
+        "correctText": "straight hair",
+        "correctSentence": "straight hair",
+        "correctWord": "straight hair",
+        "acceptedAnswers": [
+          "straight hair"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.170575Z",
+      "updatedAt": "2026-11-28T18:07:09.572612Z"
+    },
+    {
+      "id": "g3_t1_u1_q189",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "مرح",
+        "question": "مرح",
+        "sourceText": "مرح",
+        "referenceTranslation": "funny",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "ar_to_en",
+        "points": null,
+        "displayOrder": 188
+      },
+      "answerData": {
+        "correct": "funny",
+        "correctText": "funny",
+        "correctSentence": "funny",
+        "correctWord": "funny",
+        "acceptedAnswers": [
+          "funny"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.172354Z",
+      "updatedAt": "2026-11-28T18:07:09.572664Z"
+    },
+    {
+      "id": "g3_t1_u1_q190",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "curly hair",
+        "question": "curly hair",
+        "sourceText": "curly hair",
+        "referenceTranslation": "شعر مجعد",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "en_to_ar",
+        "points": null,
+        "displayOrder": 189
+      },
+      "answerData": {
+        "correct": "شعر مجعد",
+        "correctText": "شعر مجعد",
+        "correctSentence": "شعر مجعد",
+        "correctWord": "شعر مجعد",
+        "acceptedAnswers": [
+          "شعر مجعد"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.174155Z",
+      "updatedAt": "2026-11-28T18:07:09.572715Z"
+    },
+    {
+      "id": "g3_t1_u1_q191",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "brown eyes",
+        "question": "brown eyes",
+        "sourceText": "brown eyes",
+        "referenceTranslation": "عيون بنية",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "en_to_ar",
+        "points": null,
+        "displayOrder": 190
+      },
+      "answerData": {
+        "correct": "عيون بنية",
+        "correctText": "عيون بنية",
+        "correctSentence": "عيون بنية",
+        "correctWord": "عيون بنية",
+        "acceptedAnswers": [
+          "عيون بنية"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.176462Z",
+      "updatedAt": "2026-11-28T18:07:09.572760Z"
+    },
+    {
+      "id": "g3_t1_u1_q192",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "translationMcq",
+      "typeCode": "translation_mcq",
+      "payload": {
+        "prompt": "angry",
+        "question": "angry",
+        "sourceText": "angry",
+        "referenceTranslation": "غاضب",
+        "grading": "manual_or_exact_match",
+        "translationMode": "exact",
+        "translationDirection": "en_to_ar",
+        "points": null,
+        "displayOrder": 191
+      },
+      "answerData": {
+        "correct": "غاضب",
+        "correctText": "غاضب",
+        "correctSentence": "غاضب",
+        "correctWord": "غاضب",
+        "acceptedAnswers": [
+          "غاضب"
+        ],
+        "translationMode": "exact"
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.178896Z",
+      "updatedAt": "2026-11-28T18:07:09.572811Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T20:07:09.977738"
+}
