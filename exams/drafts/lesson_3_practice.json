@@ -1,0 +1,655 @@
+{
+  "examId": "lesson_3_practice",
+  "schemaVersion": 2,
+  "sourceType": "fixed",
+  "title": "Describing People - Practice Quiz",
+  "grade": 3,
+  "term": 1,
+  "selectedUnitIds": [
+    1
+  ],
+  "selectedLessonIds": [
+    "t1_u1_l3"
+  ],
+  "selectedQuestionTypes": [],
+  "sections": [
+    {
+      "id": "lesson_3_practice_sec_1",
+      "title": "اختيار من متعدد",
+      "questionType": "mcq",
+      "displayOrder": 1,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q098",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Nadeen has ___ eyes.",
+            "options": [
+              "short",
+              "curly",
+              "brown"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 97
+          },
+          "answerData": {
+            "correct": "brown",
+            "correctText": "brown",
+            "correctSentence": "brown",
+            "correctWord": "brown",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "brown"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.457017Z",
+          "updatedAt": "2026-11-28T10:10:58.096762Z"
+        },
+        {
+          "id": "g3_t1_u1_q099",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Nader is tall. He isn't ___.",
+            "options": [
+              "short",
+              "straight",
+              "curly"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 98
+          },
+          "answerData": {
+            "correct": "short",
+            "correctText": "short",
+            "correctSentence": "short",
+            "correctWord": "short",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "short"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.457829Z",
+          "updatedAt": "2026-11-28T10:10:58.096819Z"
+        },
+        {
+          "id": "g3_t1_u1_q100",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Laila has curly ___.",
+            "options": [
+              "hair",
+              "nose",
+              "face"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 99
+          },
+          "answerData": {
+            "correct": "hair",
+            "correctText": "hair",
+            "correctSentence": "hair",
+            "correctWord": "hair",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "hair"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.458528Z",
+          "updatedAt": "2026-11-28T10:10:58.096868Z"
+        },
+        {
+          "id": "g3_t1_u1_q101",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I'm ___. I make my friends laugh.",
+            "options": [
+              "shy",
+              "angry",
+              "funny"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 100
+          },
+          "answerData": {
+            "correct": "funny",
+            "correctText": "funny",
+            "correctSentence": "funny",
+            "correctWord": "funny",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "funny"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.459177Z",
+          "updatedAt": "2026-11-28T10:10:58.096912Z"
+        },
+        {
+          "id": "g3_t1_u1_q102",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She is ___. She helps her friends do their homework.",
+            "options": [
+              "loud",
+              "helpful",
+              "short"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 101
+          },
+          "answerData": {
+            "correct": "helpful",
+            "correctText": "helpful",
+            "correctSentence": "helpful",
+            "correctWord": "helpful",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "helpful"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.459867Z",
+          "updatedAt": "2026-11-28T10:10:58.097038Z"
+        },
+        {
+          "id": "g3_t1_u1_q103",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He is ___. He says hello to everyone.",
+            "options": [
+              "friendly",
+              "straight",
+              "brown"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 102
+          },
+          "answerData": {
+            "correct": "friendly",
+            "correctText": "friendly",
+            "correctSentence": "friendly",
+            "correctWord": "friendly",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "friendly"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.460591Z",
+          "updatedAt": "2026-11-28T10:10:58.097093Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_practice_sec_2",
+      "title": "قراءة (اختياري)",
+      "questionType": "readingMcq",
+      "displayOrder": 2,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q104",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "Laila always ___ and helps others.",
+            "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.",
+            "options": [
+              "throws",
+              "smiles",
+              "hurts"
+            ],
+            "passageId": "laila",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 103
+          },
+          "answerData": {
+            "correct": "smiles",
+            "correctText": "smiles",
+            "correctSentence": "smiles",
+            "correctWord": "smiles",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "smiles"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.461497Z",
+          "updatedAt": "2026-11-28T10:10:58.097151Z"
+        },
+        {
+          "id": "g3_t1_u1_q105",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "Laila is very ___.",
+            "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.",
+            "options": [
+              "tall",
+              "short",
+              "fat"
+            ],
+            "passageId": "laila",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 104
+          },
+          "answerData": {
+            "correct": "tall",
+            "correctText": "tall",
+            "correctSentence": "tall",
+            "correctWord": "tall",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "tall"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.462524Z",
+          "updatedAt": "2026-11-28T10:10:58.097208Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_practice_sec_3",
+      "title": "أكمل الفقرة من الصندوق",
+      "questionType": "completePassage",
+      "displayOrder": 3,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q125",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "completePassage",
+          "typeCode": "complete_passage",
+          "payload": {
+            "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+            "question": "My name is Laila. I am 9 years old. I am short and [1]. I have [2] hair. I have green eyes.",
+            "passage": "My name is Laila. I am 9 years old. I am short and [1]. I have [2] hair. I have green eyes.",
+            "wordBank": [
+              "eyes",
+              "straight",
+              "friendly"
+            ],
+            "blankCount": 2,
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 124
+          },
+          "answerData": {
+            "correct": [
+              "friendly",
+              "straight"
+            ],
+            "correctText": "[friendly, straight]",
+            "correctSentence": "[friendly, straight]",
+            "correctWord": "[friendly, straight]",
+            "answers": [
+              "friendly",
+              "straight"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.478708Z",
+          "updatedAt": "2026-11-28T10:10:58.098342Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_practice_sec_4",
+      "title": "ترتيب الحروف",
+      "questionType": "letterUnscramble",
+      "displayOrder": 4,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q127",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: y n u f n",
+            "question": "y n u f n",
+            "words": [
+              "y",
+              "n",
+              "u",
+              "f",
+              "n"
+            ],
+            "letters": [
+              "y",
+              "n",
+              "u",
+              "f",
+              "n"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+            "displayOrder": 126
+          },
+          "answerData": {
+            "correct": "funny",
+            "correctText": "funny",
+            "correctSentence": "funny",
+            "correctWord": "funny",
+            "acceptedAnswers": [
+              "funny"
+            ]
+          },
+          "media": [
+            {
+              "id": "ce3ccc27-b197-4647-9200-ed3843250e7a",
+              "kind": "image",
+              "relativePath": "exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q127.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.480176Z",
+          "updatedAt": "2026-11-28T10:10:59.829187Z"
+        },
+        {
+          "id": "g3_t1_u1_q128",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: l a t l",
+            "question": "l a t l",
+            "words": [
+              "l",
+              "a",
+              "t",
+              "l"
+            ],
+            "letters": [
+              "l",
+              "a",
+              "t",
+              "l"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+            "displayOrder": 127
+          },
+          "answerData": {
+            "correct": "tall",
+            "correctText": "tall",
+            "correctSentence": "tall",
+            "correctWord": "tall",
+            "acceptedAnswers": [
+              "tall"
+            ]
+          },
+          "media": [
+            {
+              "id": "70598c4a-ec41-4cbf-9938-6769ae979b73",
+              "kind": "image",
+              "relativePath": "exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q128.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.481005Z",
+          "updatedAt": "2026-11-28T10:11:01.174629Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_practice_sec_5",
+      "title": "ترتيب الجملة",
+      "questionType": "sentenceOrder",
+      "displayOrder": 5,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q120",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "is - brother - He - my.",
+            "question": "is - brother - He - my.",
+            "words": [
+              "is",
+              "brother",
+              "He",
+              "my"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 119
+          },
+          "answerData": {
+            "correct": "He is my brother.",
+            "correctText": "He is my brother.",
+            "correctSentence": "He is my brother.",
+            "correctWord": "He is my brother.",
+            "acceptedAnswers": [
+              "He is my brother."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.474832Z",
+          "updatedAt": "2026-11-28T10:10:58.098034Z"
+        },
+        {
+          "id": "g3_t1_u1_q121",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "in - classroom - We - the - are.",
+            "question": "in - classroom - We - the - are.",
+            "words": [
+              "in",
+              "classroom",
+              "We",
+              "the",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 120
+          },
+          "answerData": {
+            "correct": "We are in the classroom.",
+            "correctText": "We are in the classroom.",
+            "correctSentence": "We are in the classroom.",
+            "correctWord": "We are in the classroom.",
+            "acceptedAnswers": [
+              "We are in the classroom."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.475805Z",
+          "updatedAt": "2026-11-28T10:10:58.098121Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_practice_sec_6",
+      "title": "الترقيم (جملة كاملة)",
+      "questionType": "punctuation",
+      "displayOrder": 6,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q130",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "how are you today",
+            "question": "how are you today",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 129
+          },
+          "answerData": {
+            "correct": "How are you today?",
+            "correctText": "How are you today?",
+            "correctSentence": "How are you today?",
+            "correctWord": "How are you today?",
+            "acceptedAnswers": [
+              "How are you today?"
+            ],
+            "fullSentence": "How are you today?",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "How are you today?"
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.482512Z",
+          "updatedAt": "2026-11-28T10:11:02.710332Z"
+        }
+      ]
+    }
+  ],
+  "sourceQuestionIds": [
+    "g3_t1_u1_q098",
+    "g3_t1_u1_q099",
+    "g3_t1_u1_q100",
+    "g3_t1_u1_q101",
+    "g3_t1_u1_q102",
+    "g3_t1_u1_q103",
+    "g3_t1_u1_q104",
+    "g3_t1_u1_q105",
+    "g3_t1_u1_q125",
+    "g3_t1_u1_q127",
+    "g3_t1_u1_q128",
+    "g3_t1_u1_q120",
+    "g3_t1_u1_q121",
+    "g3_t1_u1_q130"
+  ],
+  "generated": false,
+  "published": false,
+  "supportedModes": [
+    "normal",
+    "adventureGates",
+    "racing",
+    "treasureHunt",
+    "spaceMission"
+  ],
+  "createdAt": "2026-11-28T10:11:32.122053Z",
+  "updatedAt": "2026-11-28T10:11:32.122062Z",
+  "_lastModified": "2026-11-28T12:11:32.149431"
+}
