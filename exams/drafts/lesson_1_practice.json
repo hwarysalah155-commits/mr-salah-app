@@ -1,0 +1,648 @@
+{
+  "examId": "lesson_1_practice",
+  "schemaVersion": 2,
+  "sourceType": "fixed",
+  "title": "Greetings and Introductions - Practice Quiz",
+  "grade": 3,
+  "term": 1,
+  "selectedUnitIds": [
+    1
+  ],
+  "selectedLessonIds": [
+    "t1_u1_l1"
+  ],
+  "selectedQuestionTypes": [],
+  "sections": [
+    {
+      "id": "lesson_1_practice_sec_1",
+      "title": "اختيار من متعدد",
+      "questionType": "mcq",
+      "displayOrder": 1,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q001",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I can ___ many animals in the zoo.",
+            "options": [
+              "thank",
+              "run",
+              "see"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 0
+          },
+          "answerData": {
+            "correct": "see",
+            "correctText": "see",
+            "correctSentence": "see",
+            "correctWord": "see",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "see"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.206502Z",
+          "updatedAt": "2026-11-28T10:10:46.994332Z"
+        },
+        {
+          "id": "g3_t1_u1_q002",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Nice to ___ you.",
+            "options": [
+              "meet",
+              "ask",
+              "count"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 1
+          },
+          "answerData": {
+            "correct": "meet",
+            "correctText": "meet",
+            "correctSentence": "meet",
+            "correctWord": "meet",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "meet"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.217046Z",
+          "updatedAt": "2026-11-28T10:10:46.994597Z"
+        },
+        {
+          "id": "g3_t1_u1_q003",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Hello! My ___ is Amal.",
+            "options": [
+              "later",
+              "name",
+              "old"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 2
+          },
+          "answerData": {
+            "correct": "name",
+            "correctText": "name",
+            "correctSentence": "name",
+            "correctWord": "name",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "name"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.219196Z",
+          "updatedAt": "2026-11-28T10:10:46.994654Z"
+        },
+        {
+          "id": "g3_t1_u1_q004",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "How ___ are you? - I am 8 years old.",
+            "options": [
+              "old",
+              "name",
+              "friend"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 3
+          },
+          "answerData": {
+            "correct": "old",
+            "correctText": "old",
+            "correctSentence": "old",
+            "correctWord": "old",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "old"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.221542Z",
+          "updatedAt": "2026-11-28T10:10:46.994703Z"
+        },
+        {
+          "id": "g3_t1_u1_q005",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "In the morning, we say ___ to our friends.",
+            "options": [
+              "goodbye",
+              "good morning",
+              "good night"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 4
+          },
+          "answerData": {
+            "correct": "good morning",
+            "correctText": "good morning",
+            "correctSentence": "good morning",
+            "correctWord": "good morning",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "good morning"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.224178Z",
+          "updatedAt": "2026-11-28T10:10:46.994756Z"
+        },
+        {
+          "id": "g3_t1_u1_q006",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "My name is ___.",
+            "options": [
+              "goodbye",
+              "Youssef",
+              "years"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 5
+          },
+          "answerData": {
+            "correct": "Youssef",
+            "correctText": "Youssef",
+            "correctSentence": "Youssef",
+            "correctWord": "Youssef",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "Youssef"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.226125Z",
+          "updatedAt": "2026-11-28T10:10:46.994810Z"
+        },
+        {
+          "id": "g3_t1_u1_q007",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I'm ___ years old.",
+            "options": [
+              "nine",
+              "Lina",
+              "meet"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 6
+          },
+          "answerData": {
+            "correct": "nine",
+            "correctText": "nine",
+            "correctSentence": "nine",
+            "correctWord": "nine",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "nine"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.227974Z",
+          "updatedAt": "2026-11-28T10:10:46.994865Z"
+        },
+        {
+          "id": "g3_t1_u1_q008",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I'm from ___.",
+            "options": [
+              "Noha",
+              "Heba",
+              "Egypt"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 7
+          },
+          "answerData": {
+            "correct": "Egypt",
+            "correctText": "Egypt",
+            "correctSentence": "Egypt",
+            "correctWord": "Egypt",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "Egypt"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.230121Z",
+          "updatedAt": "2026-11-28T10:10:46.994945Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_1_practice_sec_2",
+      "title": "أكمل الفقرة من الصندوق",
+      "questionType": "completePassage",
+      "displayOrder": 2,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q015",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "completePassage",
+          "typeCode": "complete_passage",
+          "payload": {
+            "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+            "question": "Ayat: Hello! My name is Ayat.\nManal: Good [1], my name is Manal.\nAyat: How are you, Manal?\nManal: I'm [2], thank you.",
+            "passage": "Ayat: Hello! My name is Ayat.\nManal: Good [1], my name is Manal.\nAyat: How are you, Manal?\nManal: I'm [2], thank you.",
+            "wordBank": [
+              "old",
+              "fine",
+              "morning"
+            ],
+            "blankCount": 2,
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 14
+          },
+          "answerData": {
+            "correct": [
+              "morning",
+              "fine"
+            ],
+            "correctText": "[morning, fine]",
+            "correctSentence": "[morning, fine]",
+            "correctWord": "[morning, fine]",
+            "answers": [
+              "morning",
+              "fine"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.271675Z",
+          "updatedAt": "2026-11-28T10:10:46.995299Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_1_practice_sec_3",
+      "title": "ترتيب الحروف",
+      "questionType": "letterUnscramble",
+      "displayOrder": 3,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q021",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: o l e H l",
+            "question": "o l e H l",
+            "words": [
+              "o",
+              "l",
+              "e",
+              "H",
+              "l"
+            ],
+            "letters": [
+              "o",
+              "l",
+              "e",
+              "H",
+              "l"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/0e307c5d-bfca-4243-b229-325201ad7ae6.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/0e307c5d-bfca-4243-b229-325201ad7ae6.jpg",
+            "displayOrder": 20
+          },
+          "answerData": {
+            "correct": "Hello",
+            "correctText": "Hello",
+            "correctSentence": "Hello",
+            "correctWord": "Hello",
+            "acceptedAnswers": [
+              "Hello"
+            ]
+          },
+          "media": [
+            {
+              "id": "0e307c5d-bfca-4243-b229-325201ad7ae6",
+              "kind": "image",
+              "relativePath": "exam_media/images/0e307c5d-bfca-4243-b229-325201ad7ae6.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/0e307c5d-bfca-4243-b229-325201ad7ae6.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q021.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.316938Z",
+          "updatedAt": "2026-11-28T10:10:49.833505Z"
+        },
+        {
+          "id": "g3_t1_u1_q022",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: e y d o G o b",
+            "question": "e y d o G o b",
+            "words": [
+              "e",
+              "y",
+              "d",
+              "o",
+              "G",
+              "o",
+              "b"
+            ],
+            "letters": [
+              "e",
+              "y",
+              "d",
+              "o",
+              "G",
+              "o",
+              "b"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/2db98672-48a6-4d15-a9d7-0e4c8954bf1f.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/2db98672-48a6-4d15-a9d7-0e4c8954bf1f.jpg",
+            "displayOrder": 21
+          },
+          "answerData": {
+            "correct": "Goodbye",
+            "correctText": "Goodbye",
+            "correctSentence": "Goodbye",
+            "correctWord": "Goodbye",
+            "acceptedAnswers": [
+              "Goodbye"
+            ]
+          },
+          "media": [
+            {
+              "id": "2db98672-48a6-4d15-a9d7-0e4c8954bf1f",
+              "kind": "image",
+              "relativePath": "exam_media/images/2db98672-48a6-4d15-a9d7-0e4c8954bf1f.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/2db98672-48a6-4d15-a9d7-0e4c8954bf1f.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q022.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.319616Z",
+          "updatedAt": "2026-11-28T10:10:51.757852Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_1_practice_sec_4",
+      "title": "ترتيب الجملة",
+      "questionType": "sentenceOrder",
+      "displayOrder": 4,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q024",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "meet - Nice - to - you.",
+            "question": "meet - Nice - to - you.",
+            "words": [
+              "meet",
+              "Nice",
+              "to",
+              "you"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 23
+          },
+          "answerData": {
+            "correct": "Nice to meet you.",
+            "correctText": "Nice to meet you.",
+            "correctSentence": "Nice to meet you.",
+            "correctWord": "Nice to meet you.",
+            "acceptedAnswers": [
+              "Nice to meet you."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.326416Z",
+          "updatedAt": "2026-11-28T10:10:53.286658Z"
+        },
+        {
+          "id": "g3_t1_u1_q025",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "name - Adam - My - is.",
+            "question": "name - Adam - My - is.",
+            "words": [
+              "name",
+              "Adam",
+              "My",
+              "is"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 24
+          },
+          "answerData": {
+            "correct": "My name is Adam.",
+            "correctText": "My name is Adam.",
+            "correctSentence": "My name is Adam.",
+            "correctWord": "My name is Adam.",
+            "acceptedAnswers": [
+              "My name is Adam."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.328031Z",
+          "updatedAt": "2026-11-28T10:10:53.286732Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_1_practice_sec_5",
+      "title": "الترقيم (جملة كاملة)",
+      "questionType": "punctuation",
+      "displayOrder": 5,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q026",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 1,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "how are you",
+            "question": "how are you",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 25
+          },
+          "answerData": {
+            "correct": "How are you?",
+            "correctText": "How are you?",
+            "correctSentence": "How are you?",
+            "correctWord": "How are you?",
+            "acceptedAnswers": [
+              "How are you?"
+            ],
+            "fullSentence": "How are you?",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "How are you?"
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.391476Z",
+          "updatedAt": "2026-11-28T10:10:53.286814Z"
+        }
+      ]
+    }
+  ],
+  "sourceQuestionIds": [
+    "g3_t1_u1_q001",
+    "g3_t1_u1_q002",
+    "g3_t1_u1_q003",
+    "g3_t1_u1_q004",
+    "g3_t1_u1_q005",
+    "g3_t1_u1_q006",
+    "g3_t1_u1_q007",
+    "g3_t1_u1_q008",
+    "g3_t1_u1_q015",
+    "g3_t1_u1_q021",
+    "g3_t1_u1_q022",
+    "g3_t1_u1_q024",
+    "g3_t1_u1_q025",
+    "g3_t1_u1_q026"
+  ],
+  "generated": false,
+  "published": false,
+  "supportedModes": [
+    "normal",
+    "adventureGates",
+    "racing",
+    "treasureHunt",
+    "spaceMission"
+  ],
+  "createdAt": "2026-11-28T10:11:31.963401Z",
+  "updatedAt": "2026-11-28T10:11:31.963446Z",
+  "_lastModified": "2026-11-28T12:11:32.079923"
+}
