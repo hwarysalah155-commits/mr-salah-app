@@ -238,5 +238,51 @@
     "date": "27/11/2026",
     "time": "19:24",
     "summaryArabic": "الطالب اختار الدروس 1 — اختيار من متعدد + رتب — النتيجة 34/37"
+  },
+  {
+    "schemaVersion": 2,
+    "resultId": "res_hol8knmvn0_pjluke_3bj2c3",
+    "examId": "exam_hol8j1p40t_f1imm3_8656ve",
+    "examTitle": "حدد الإجابة من القطعة (1 دروس)",
+    "quizName": "حدد الإجابة من القطعة (1 دروس)",
+    "studentPin": "twfy1664",
+    "pin": "twfy1664",
+    "studentName": "توفيق مصطفى سعدون",
+    "name": "توفيق مصطفى سعدون",
+    "grade": 3,
+    "term": 1,
+    "sourceType": "customized",
+    "selectedLessonIds": [
+      "t1_u1_l4"
+    ],
+    "selectedQuestionTypes": [
+      "readingTextSelection"
+    ],
+    "presentationMode": "normal",
+    "score": 2,
+    "total": 2,
+    "totalQuestions": 2,
+    "percentage": 100.0,
+    "percent": "100",
+    "scoreText": "2 / 2",
+    "durationSeconds": 96,
+    "sourceQuestionIds": [
+      "g3_t1_u1_q267",
+      "g3_t1_u1_q154"
+    ],
+    "completedAt": "2026-11-28T18:23:31.866909Z",
+    "xpEarned": 70,
+    "stars": 3,
+    "heartsRemaining": 5,
+    "testName": "customized_exam_hol8j1p40t_f1imm3_8656ve",
+    "badges": [
+      "أول اختبار",
+      "نتيجة مثالية",
+      "بلا أخطاء",
+      "سريع البرق"
+    ],
+    "date": "28/11/2026",
+    "time": "20:23",
+    "summaryArabic": "الطالب اختار الدروس 4 — حدد الإجابة من القطعة فقط — النتيجة 2/2"
   }
 ]
