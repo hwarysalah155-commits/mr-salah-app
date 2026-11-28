@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "fillBlank",
+  "updatedAt": "2026-11-28T10:11:30.831613Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q094",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "applicableLessons": [
+        1,
+        2
+      ],
+      "unitTitle": "Let's Learn Together!",
+      "type": "fillBlank",
+      "typeCode": "fill_blank",
+      "payload": {
+        "prompt": "I am in ___ 3.",
+        "question": "I am in ___ 3.",
+        "wordBank": [
+          "shout",
+          "sit down",
+          "Primary",
+          "teacher"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 93
+      },
+      "answerData": {
+        "correct": "Primary",
+        "correctText": "Primary",
+        "correctSentence": "Primary",
+        "correctWord": "Primary",
+        "acceptedAnswers": [
+          "Primary"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.454425Z",
+      "updatedAt": "2026-11-28T10:10:58.096535Z"
+    },
+    {
+      "id": "g3_t1_u1_q095",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "applicableLessons": [
+        1,
+        2
+      ],
+      "unitTitle": "Let's Learn Together!",
+      "type": "fillBlank",
+      "typeCode": "fill_blank",
+      "payload": {
+        "prompt": "Listen to your ___ carefully.",
+        "question": "Listen to your ___ carefully.",
+        "wordBank": [
+          "shout",
+          "sit down",
+          "Primary",
+          "teacher"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 94
+      },
+      "answerData": {
+        "correct": "teacher",
+        "correctText": "teacher",
+        "correctSentence": "teacher",
+        "correctWord": "teacher",
+        "acceptedAnswers": [
+          "teacher"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.455144Z",
+      "updatedAt": "2026-11-28T10:10:58.096600Z"
+    },
+    {
+      "id": "g3_t1_u1_q096",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "applicableLessons": [
+        1,
+        2
+      ],
+      "unitTitle": "Let's Learn Together!",
+      "type": "fillBlank",
+      "typeCode": "fill_blank",
+      "payload": {
+        "prompt": "Don't ___ in class.",
+        "question": "Don't ___ in class.",
+        "wordBank": [
+          "shout",
+          "sit down",
+          "Primary",
+          "teacher"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 95
+      },
+      "answerData": {
+        "correct": "shout",
+        "correctText": "shout",
+        "correctSentence": "shout",
+        "correctWord": "shout",
+        "acceptedAnswers": [
+          "shout"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.455700Z",
+      "updatedAt": "2026-11-28T10:10:58.096650Z"
+    },
+    {
+      "id": "g3_t1_u1_q097",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "applicableLessons": [
+        1,
+        2
+      ],
+      "unitTitle": "Let's Learn Together!",
+      "type": "fillBlank",
+      "typeCode": "fill_blank",
+      "payload": {
+        "prompt": "When class starts, we ___.",
+        "question": "When class starts, we ___.",
+        "wordBank": [
+          "shout",
+          "sit down",
+          "Primary",
+          "teacher"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 96
+      },
+      "answerData": {
+        "correct": "sit down",
+        "correctText": "sit down",
+        "correctSentence": "sit down",
+        "correctWord": "sit down",
+        "acceptedAnswers": [
+          "sit down"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.456302Z",
+      "updatedAt": "2026-11-28T10:10:58.096706Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.838861"
+}
