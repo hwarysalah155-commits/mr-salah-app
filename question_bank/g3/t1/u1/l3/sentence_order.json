@@ -1,0 +1,532 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "sentenceOrder",
+  "updatedAt": "2026-11-28T10:11:30.984768Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q120",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "is - brother - He - my.",
+        "question": "is - brother - He - my.",
+        "words": [
+          "is",
+          "brother",
+          "He",
+          "my"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 119
+      },
+      "answerData": {
+        "correct": "He is my brother.",
+        "correctText": "He is my brother.",
+        "correctSentence": "He is my brother.",
+        "correctWord": "He is my brother.",
+        "acceptedAnswers": [
+          "He is my brother."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.474832Z",
+      "updatedAt": "2026-11-28T10:10:58.098034Z"
+    },
+    {
+      "id": "g3_t1_u1_q121",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "in - classroom - We - the - are.",
+        "question": "in - classroom - We - the - are.",
+        "words": [
+          "in",
+          "classroom",
+          "We",
+          "the",
+          "are"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 120
+      },
+      "answerData": {
+        "correct": "We are in the classroom.",
+        "correctText": "We are in the classroom.",
+        "correctSentence": "We are in the classroom.",
+        "correctWord": "We are in the classroom.",
+        "acceptedAnswers": [
+          "We are in the classroom."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.475805Z",
+      "updatedAt": "2026-11-28T10:10:58.098121Z"
+    },
+    {
+      "id": "g3_t1_u1_q122",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "has - She - green - eyes.",
+        "question": "has - She - green - eyes.",
+        "words": [
+          "has",
+          "She",
+          "green",
+          "eyes"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 121
+      },
+      "answerData": {
+        "correct": "She has green eyes.",
+        "correctText": "She has green eyes.",
+        "correctSentence": "She has green eyes.",
+        "correctWord": "She has green eyes.",
+        "acceptedAnswers": [
+          "She has green eyes."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.476637Z",
+      "updatedAt": "2026-11-28T10:10:58.098178Z"
+    },
+    {
+      "id": "g3_t1_u1_q123",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "is - teacher - My - tall.",
+        "question": "is - teacher - My - tall.",
+        "words": [
+          "is",
+          "teacher",
+          "My",
+          "tall"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 122
+      },
+      "answerData": {
+        "correct": "My teacher is tall.",
+        "correctText": "My teacher is tall.",
+        "correctSentence": "My teacher is tall.",
+        "correctWord": "My teacher is tall.",
+        "acceptedAnswers": [
+          "My teacher is tall."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.477376Z",
+      "updatedAt": "2026-11-28T10:10:58.098227Z"
+    },
+    {
+      "id": "g3_t1_u1_q124",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "hair - She - long - has.",
+        "question": "hair - She - long - has.",
+        "words": [
+          "hair",
+          "She",
+          "long",
+          "has"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 123
+      },
+      "answerData": {
+        "correct": "She has long hair.",
+        "correctText": "She has long hair.",
+        "correctSentence": "She has long hair.",
+        "correctWord": "She has long hair.",
+        "acceptedAnswers": [
+          "She has long hair."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.477982Z",
+      "updatedAt": "2026-11-28T10:10:58.098285Z"
+    },
+    {
+      "id": "g3_t1_u1_q143",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "is - sister - She - my.",
+        "question": "is - sister - She - my.",
+        "words": [
+          "is",
+          "sister",
+          "She",
+          "my"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 142
+      },
+      "answerData": {
+        "correct": "She is my sister.",
+        "correctText": "She is my sister.",
+        "correctSentence": "She is my sister.",
+        "correctWord": "She is my sister.",
+        "acceptedAnswers": [
+          "She is my sister."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.498481Z",
+      "updatedAt": "2026-11-28T10:11:02.715785Z"
+    },
+    {
+      "id": "g3_t1_u1_q144",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "make - I - friends - my - laugh.",
+        "question": "make - I - friends - my - laugh.",
+        "words": [
+          "make",
+          "I",
+          "friends",
+          "my",
+          "laugh"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 143
+      },
+      "answerData": {
+        "correct": "I make my friends laugh.",
+        "correctText": "I make my friends laugh.",
+        "correctSentence": "I make my friends laugh.",
+        "correctWord": "I make my friends laugh.",
+        "acceptedAnswers": [
+          "I make my friends laugh."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.499022Z",
+      "updatedAt": "2026-11-28T10:11:02.715915Z"
+    },
+    {
+      "id": "g3_t1_u1_q212",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "very - are - You - kind.",
+        "question": "very - are - You - kind.",
+        "words": [
+          "very",
+          "are",
+          "You",
+          "kind"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 211
+      },
+      "answerData": {
+        "correct": "You are very kind.",
+        "correctText": "You are very kind.",
+        "correctSentence": "You are very kind.",
+        "correctWord": "You are very kind.",
+        "acceptedAnswers": [
+          "You are very kind."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.574181Z",
+      "updatedAt": "2026-11-28T10:11:07.836834Z"
+    },
+    {
+      "id": "g3_t1_u1_q219",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "new - Laila - is - my - friend.",
+        "question": "new - Laila - is - my - friend.",
+        "words": [
+          "new",
+          "Laila",
+          "is",
+          "my",
+          "friend"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 218
+      },
+      "answerData": {
+        "correct": "Laila is my new friend.",
+        "correctText": "Laila is my new friend.",
+        "correctSentence": "Laila is my new friend.",
+        "correctWord": "Laila is my new friend.",
+        "acceptedAnswers": [
+          "Laila is my new friend."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.581351Z",
+      "updatedAt": "2026-11-28T10:11:07.837261Z"
+    },
+    {
+      "id": "g3_t1_u1_q220",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "funny - is - She.",
+        "question": "funny - is - She.",
+        "words": [
+          "funny",
+          "is",
+          "She"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 219
+      },
+      "answerData": {
+        "correct": "She is funny.",
+        "correctText": "She is funny.",
+        "correctSentence": "She is funny.",
+        "correctWord": "She is funny.",
+        "acceptedAnswers": [
+          "She is funny."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.582619Z",
+      "updatedAt": "2026-11-28T10:11:07.837347Z"
+    },
+    {
+      "id": "g3_t1_u1_q221",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "hair - has - She - curly.",
+        "question": "hair - has - She - curly.",
+        "words": [
+          "hair",
+          "has",
+          "She",
+          "curly"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 220
+      },
+      "answerData": {
+        "correct": "She has curly hair.",
+        "correctText": "She has curly hair.",
+        "correctSentence": "She has curly hair.",
+        "correctWord": "She has curly hair.",
+        "acceptedAnswers": [
+          "She has curly hair."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.583737Z",
+      "updatedAt": "2026-11-28T10:11:07.837396Z"
+    },
+    {
+      "id": "g3_t1_u1_q268",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "have - I - brown eyes - curly hair - and.",
+        "question": "have - I - brown eyes - curly hair - and.",
+        "words": [
+          "have",
+          "I",
+          "brown eyes",
+          "curly hair",
+          "and"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 267
+      },
+      "answerData": {
+        "correct": "I have brown eyes and curly hair.",
+        "correctText": "I have brown eyes and curly hair.",
+        "correctSentence": "I have brown eyes and curly hair.",
+        "correctWord": "I have brown eyes and curly hair.",
+        "acceptedAnswers": [
+          "I have brown eyes and curly hair."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.657296Z",
+      "updatedAt": "2026-11-28T10:11:18.373202Z"
+    },
+    {
+      "id": "g3_t1_u1_q305",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "helpful - She - is.",
+        "question": "helpful - She - is.",
+        "words": [
+          "helpful",
+          "She",
+          "is"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 304
+      },
+      "answerData": {
+        "correct": "She is helpful.",
+        "correctText": "She is helpful.",
+        "correctSentence": "She is helpful.",
+        "correctWord": "She is helpful.",
+        "acceptedAnswers": [
+          "She is helpful."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.710390Z",
+      "updatedAt": "2026-11-28T10:11:30.258049Z"
+    },
+    {
+      "id": "g3_t1_u1_q307",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "has - eyes - She - brown.",
+        "question": "has - eyes - She - brown.",
+        "words": [
+          "has",
+          "eyes",
+          "She",
+          "brown"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 306
+      },
+      "answerData": {
+        "correct": "She has brown eyes.",
+        "correctText": "She has brown eyes.",
+        "correctSentence": "She has brown eyes.",
+        "correctWord": "She has brown eyes.",
+        "acceptedAnswers": [
+          "She has brown eyes."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.713064Z",
+      "updatedAt": "2026-11-28T10:11:30.258182Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.991136"
+}
