@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "readingMcq",
+  "updatedAt": "2026-11-28T10:11:31.205184Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q165",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "Sara's brother is ___ years old.",
+        "passage": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.",
+        "options": [
+          "5",
+          "10",
+          "11"
+        ],
+        "passageId": "sara_brother",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 164
+      },
+      "answerData": {
+        "correct": "10",
+        "correctText": "10",
+        "correctSentence": "10",
+        "correctWord": "10",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "10"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.522641Z",
+      "updatedAt": "2026-11-28T10:11:07.830886Z"
+    },
+    {
+      "id": "g3_t1_u1_q166",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "The underlined word \"tall\" is the opposite of ___.",
+        "passage": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.",
+        "options": [
+          "short",
+          "happy",
+          "sad"
+        ],
+        "passageId": "sara_brother",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 165
+      },
+      "answerData": {
+        "correct": "short",
+        "correctText": "short",
+        "correctSentence": "short",
+        "correctWord": "short",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "short"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.523398Z",
+      "updatedAt": "2026-11-28T10:11:07.830970Z"
+    },
+    {
+      "id": "g3_t1_u1_q264",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "Zyad brushes his ___ and gets dressed.",
+        "passage": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.",
+        "options": [
+          "car",
+          "teeth",
+          "clothes"
+        ],
+        "passageId": "zyad",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 263
+      },
+      "answerData": {
+        "correct": "teeth",
+        "correctText": "teeth",
+        "correctSentence": "teeth",
+        "correctWord": "teeth",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "teeth"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.650158Z",
+      "updatedAt": "2026-11-28T10:11:18.373045Z"
+    },
+    {
+      "id": "g3_t1_u1_q265",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "At school, Zyad learns and plays with his ___.",
+        "passage": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.",
+        "options": [
+          "friends",
+          "brothers",
+          "fathers"
+        ],
+        "passageId": "zyad",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 264
+      },
+      "answerData": {
+        "correct": "friends",
+        "correctText": "friends",
+        "correctSentence": "friends",
+        "correctWord": "friends",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "friends"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.651264Z",
+      "updatedAt": "2026-11-28T10:11:18.373136Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.211008"
+}
