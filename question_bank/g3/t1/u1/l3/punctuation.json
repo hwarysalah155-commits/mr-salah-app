@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "punctuation",
+  "updatedAt": "2026-11-28T10:11:31.083499Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q130",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "how are you today",
+        "question": "how are you today",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 129
+      },
+      "answerData": {
+        "correct": "How are you today?",
+        "correctText": "How are you today?",
+        "correctSentence": "How are you today?",
+        "correctWord": "How are you today?",
+        "acceptedAnswers": [
+          "How are you today?"
+        ],
+        "fullSentence": "How are you today?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "How are you today?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.482512Z",
+      "updatedAt": "2026-11-28T10:11:02.710332Z"
+    },
+    {
+      "id": "g3_t1_u1_q131",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "the clown is funny",
+        "question": "the clown is funny",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 130
+      },
+      "answerData": {
+        "correct": "The clown is funny.",
+        "correctText": "The clown is funny.",
+        "correctSentence": "The clown is funny.",
+        "correctWord": "The clown is funny.",
+        "acceptedAnswers": [
+          "The clown is funny."
+        ],
+        "fullSentence": "The clown is funny.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "The clown is funny."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.483585Z",
+      "updatedAt": "2026-11-28T10:11:02.713581Z"
+    },
+    {
+      "id": "g3_t1_u1_q247",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "she is friendly",
+        "question": "she is friendly",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 246
+      },
+      "answerData": {
+        "correct": "She is friendly.",
+        "correctText": "She is friendly.",
+        "correctSentence": "She is friendly.",
+        "correctWord": "She is friendly.",
+        "acceptedAnswers": [
+          "She is friendly."
+        ],
+        "fullSentence": "She is friendly.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "She is friendly."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.615277Z",
+      "updatedAt": "2026-11-28T10:11:13.157797Z"
+    },
+    {
+      "id": "g3_t1_u1_q248",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "what color is Mona's hair",
+        "question": "what color is Mona's hair",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 247
+      },
+      "answerData": {
+        "correct": "What color is Mona's hair?",
+        "correctText": "What color is Mona's hair?",
+        "correctSentence": "What color is Mona's hair?",
+        "correctWord": "What color is Mona's hair?",
+        "acceptedAnswers": [
+          "What color is Mona's hair?"
+        ],
+        "fullSentence": "What color is Mona's hair?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "What color is Mona's hair?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.616013Z",
+      "updatedAt": "2026-11-28T10:11:13.159372Z"
+    },
+    {
+      "id": "g3_t1_u1_q302",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "i have curly hair",
+        "question": "i have curly hair",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 301
+      },
+      "answerData": {
+        "correct": "I have curly hair.",
+        "correctText": "I have curly hair.",
+        "correctSentence": "I have curly hair.",
+        "correctWord": "I have curly hair.",
+        "acceptedAnswers": [
+          "I have curly hair."
+        ],
+        "fullSentence": "I have curly hair.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "I have curly hair."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.706395Z",
+      "updatedAt": "2026-11-28T10:11:30.255266Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.088722"
+}
