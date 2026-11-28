@@ -30,10 +30,19 @@
           "paidAt": "24/11/2026"
         }
       ],
-      "payments": [],
+      "payments": [
+        {
+          "id": "legacy_1",
+          "amount": 20.0,
+          "createdAt": "24/11/2026",
+          "type": "monthly",
+          "monthNumber": 1,
+          "status": "active"
+        }
+      ],
       "sessions": [
         1,
-        0,
+        2,
         0,
         0,
         0,
@@ -75,5 +84,5 @@
       "homeworks": []
     }
   ],
-  "_lastModified": "2026-11-24T17:02:15.891153"
+  "_lastModified": "2026-11-28T16:15:06.007691"
 }
