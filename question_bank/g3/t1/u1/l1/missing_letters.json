@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "missingLetters",
+  "updatedAt": "2026-11-28T10:11:31.395666Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q278",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "E_y_t",
+        "question": "E_y_t",
+        "displayPattern": "E_y_t",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/f973c4ef-3192-4eaf-8044-cd6a6fd483a9.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/f973c4ef-3192-4eaf-8044-cd6a6fd483a9.jpg",
+        "displayOrder": 277
+      },
+      "answerData": {
+        "correct": "gp",
+        "correctText": "gp",
+        "correctSentence": "gp",
+        "correctWord": "Egypt",
+        "completedWord": "Egypt",
+        "missingLetters": "gp",
+        "acceptedAnswers": [
+          "gp"
+        ]
+      },
+      "media": [
+        {
+          "id": "f973c4ef-3192-4eaf-8044-cd6a6fd483a9",
+          "kind": "image",
+          "relativePath": "exam_media/images/f973c4ef-3192-4eaf-8044-cd6a6fd483a9.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/f973c4ef-3192-4eaf-8044-cd6a6fd483a9.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q278.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.673133Z",
+      "updatedAt": "2026-11-28T10:11:22.671208Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.417752"
+}
