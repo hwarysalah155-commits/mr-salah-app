@@ -1,0 +1,84 @@
+{
+  "templateId": "bp_primary_upper_g4",
+  "schemaVersion": 2,
+  "grade": 4,
+  "stage": "primaryUpper",
+  "name": "قالب الصف الرابع الابتدائي",
+  "sections": [
+    {
+      "id": "sec_pu_listen",
+      "type": "listeningTrueFalse",
+      "title": "1. الاستماع (Listening)",
+      "questionCount": 4,
+      "requiresTeacherConfig": false,
+      "displayOrder": 1,
+      "enabled": true,
+      "alternateTypes": [
+        "listeningMcq"
+      ]
+    },
+    {
+      "id": "sec_pu_choose",
+      "type": "mcq",
+      "title": "2. اختر الإجابة الصحيحة (Choose)",
+      "questionCount": 8,
+      "requiresTeacherConfig": false,
+      "displayOrder": 2,
+      "enabled": true
+    },
+    {
+      "id": "sec_pu_reading",
+      "type": "readingMcq",
+      "title": "3. قطعة القراءة (Reading)",
+      "questionCount": 1,
+      "requiresTeacherConfig": false,
+      "displayOrder": 3,
+      "enabled": true,
+      "alternateTypes": [
+        "readingTextSelection"
+      ]
+    },
+    {
+      "id": "sec_pu_complete",
+      "type": "completePassage",
+      "title": "4. أكمل الفقرة من الصندوق (Complete from Box)",
+      "questionCount": 1,
+      "requiresTeacherConfig": false,
+      "displayOrder": 4,
+      "enabled": true
+    },
+    {
+      "id": "sec_pu_reorder",
+      "type": "sentenceOrder",
+      "title": "5. الترتيب (Reorder)",
+      "questionCount": 3,
+      "requiresTeacherConfig": false,
+      "displayOrder": 5,
+      "enabled": true
+    },
+    {
+      "id": "sec_pu_punct",
+      "type": "punctuation",
+      "title": "6. علامات الترقيم (Punctuation)",
+      "questionCount": 2,
+      "requiresTeacherConfig": false,
+      "displayOrder": 6,
+      "enabled": true
+    }
+  ],
+  "allowedQuestionTypes": [
+    "listeningTrueFalse",
+    "listeningMcq",
+    "mcq",
+    "readingMcq",
+    "readingTextSelection",
+    "completePassage",
+    "fillBlank",
+    "sentenceOrder",
+    "punctuation",
+    "correctWord",
+    "trueFalse"
+  ],
+  "updatedAt": "2026-11-28T18:15:47.007163Z",
+  "_lastModified": "2026-11-28T20:15:48.188910"
+}
