@@ -20,7 +20,7 @@
       "joiningDate": "24/11/2026",
       "sessions": [
         1,
-        0,
+        2,
         0,
         0,
         0,
@@ -30,7 +30,7 @@
       ],
       "paid": true,
       "payment": 20.0,
-      "expectedPayment": 0.0,
+      "expectedPayment": 20.0,
       "phone": "",
       "imagePath": null,
       "homeworks": [
@@ -46,5 +46,5 @@
       "studentTags": []
     }
   ],
-  "_lastModified": "2026-11-25T15:48:10.767656"
+  "_lastModified": "2026-11-28T16:15:05.883849"
 }
