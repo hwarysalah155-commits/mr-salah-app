@@ -1,7 +1,31 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-28T10:11:32.234825Z",
+  "updatedAt": "2026-11-28T18:17:26.302660Z",
   "items": [
+    {
+      "examId": "f1e1bec1-b263-42d2-b7ca-dbc7cc1a4005",
+      "title": "اختبار نوفمبر",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "customized",
+      "published": true,
+      "storagePath": "exams/generated/g3/f1e1bec1-b263-42d2-b7ca-dbc7cc1a4005.json",
+      "questionCount": 10,
+      "selectedLessonIds": [
+        "t1_u1_l1",
+        "t1_u1_l2",
+        "t1_u1_l3",
+        "t1_u1_l4"
+      ],
+      "selectedQuestionTypes": [
+        "mcq",
+        "completePassage",
+        "fillBlank",
+        "readingMcq",
+        "readingTextSelection"
+      ],
+      "updatedAt": "2026-11-28T18:17:21.214901Z"
+    },
     {
       "examId": "lesson_4_practice",
       "title": "Daily Routines - Practice Quiz",
@@ -123,5 +147,5 @@
       "updatedAt": "2026-11-28T10:11:31.471408Z"
     }
   ],
-  "_lastModified": "2026-11-28T12:11:32.247160"
+  "_lastModified": "2026-11-28T20:17:26.309920"
 }
