@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "readingTextSelection",
+  "updatedAt": "2026-11-28T18:07:09.691584Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q018",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "What do Adam and Eyad say at the end of the day?",
+        "question": "What do Adam and Eyad say at the end of the day?",
+        "passage": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!",
+        "passageId": "adam",
+        "referenceAnswer": "They say goodbye!",
+        "modelAnswer": "They say goodbye!",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 17
+      },
+      "answerData": {
+        "correct": "They say goodbye!",
+        "correctText": "They say goodbye!",
+        "correctSentence": "They say goodbye!",
+        "correctWord": "They say goodbye!",
+        "acceptedAnswers": [
+          "They say goodbye!"
+        ],
+        "startWordIndex": 41,
+        "endWordIndex": 43,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 41,
+            "endWordIndex": 43,
+            "text": "we say goodbye!"
+          }
+        ],
+        "selectionAnswer": {
+          "text": "we say goodbye!",
+          "startWordIndex": 41,
+          "endWordIndex": 43,
+          "matchKind": "pronounShift",
+          "confidence": 0.87,
+          "pronounShiftApplied": true,
+          "shiftNotes": [
+            "they → we"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.276940Z",
+      "updatedAt": "2026-11-28T18:07:09.569852Z"
+    },
+    {
+      "id": "g3_t1_u1_q019",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "How old is Adam?",
+        "question": "How old is Adam?",
+        "passage": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!",
+        "passageId": "adam",
+        "referenceAnswer": "He is eight years old.",
+        "modelAnswer": "He is eight years old.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 18
+      },
+      "answerData": {
+        "correct": "He is eight years old.",
+        "correctText": "He is eight years old.",
+        "correctSentence": "He is eight years old.",
+        "correctWord": "He is eight years old.",
+        "acceptedAnswers": [
+          "He is eight years old."
+        ],
+        "selectionAnswer": {
+          "text": "I'm eight years old.",
+          "startWordIndex": 4,
+          "endWordIndex": 7,
+          "matchKind": "fuzzyPhrase",
+          "confidence": 0.637
+        },
+        "startWordIndex": 4,
+        "endWordIndex": 7,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 4,
+            "endWordIndex": 7,
+            "text": "I'm eight years old."
+          }
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.364042Z",
+      "updatedAt": "2026-11-28T18:07:09.571210Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T20:07:09.711347"
+}
