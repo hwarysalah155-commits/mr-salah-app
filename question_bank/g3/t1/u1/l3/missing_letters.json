@@ -5,8 +5,176 @@
   "unit": 1,
   "lesson": 3,
   "questionType": "missingLetters",
-  "updatedAt": "2026-11-28T10:11:31.376369Z",
+  "updatedAt": "2026-11-28T18:07:09.800772Z",
   "items": [
+    {
+      "id": "g3_t1_u1_q104",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "Laila always ___ and helps others.",
+        "question": "Laila always ___ and helps others.",
+        "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.",
+        "options": [
+          "throws",
+          "smiles",
+          "hurts"
+        ],
+        "displayPattern": "Laila always ___ and helps others.",
+        "passageId": "laila",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 103
+      },
+      "answerData": {
+        "correct": "smiles",
+        "correctText": "smiles",
+        "correctSentence": "smiles",
+        "correctWord": "smiles",
+        "correctIndex": 1,
+        "completedWord": "smiles",
+        "missingLetters": "smiles",
+        "acceptedAnswers": [
+          "smiles"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.702742Z",
+      "updatedAt": "2026-11-28T18:07:09.571584Z"
+    },
+    {
+      "id": "g3_t1_u1_q105",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "Laila is very ___.",
+        "question": "Laila is very ___.",
+        "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.",
+        "options": [
+          "tall",
+          "short",
+          "fat"
+        ],
+        "displayPattern": "Laila is very ___.",
+        "passageId": "laila",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 104
+      },
+      "answerData": {
+        "correct": "tall",
+        "correctText": "tall",
+        "correctSentence": "tall",
+        "correctWord": "tall",
+        "correctIndex": 0,
+        "completedWord": "tall",
+        "missingLetters": "tall",
+        "acceptedAnswers": [
+          "tall"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.704711Z",
+      "updatedAt": "2026-11-28T18:07:09.571637Z"
+    },
+    {
+      "id": "g3_t1_u1_q139",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "The opposite of the underlined word \"long\" is ___.",
+        "question": "The opposite of the underlined word \"long\" is ___.",
+        "passage": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.",
+        "options": [
+          "big",
+          "short",
+          "small"
+        ],
+        "displayPattern": "The opposite of the underlined word \"long\" is ___.",
+        "passageId": "tala",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 138
+      },
+      "answerData": {
+        "correct": "short",
+        "correctText": "short",
+        "correctSentence": "short",
+        "correctWord": "short",
+        "correctIndex": 1,
+        "completedWord": "short",
+        "missingLetters": "short",
+        "acceptedAnswers": [
+          "short"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.784769Z",
+      "updatedAt": "2026-11-28T18:07:09.571686Z"
+    },
+    {
+      "id": "g3_t1_u1_q140",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "Tala has ___ eyes.",
+        "question": "Tala has ___ eyes.",
+        "passage": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.",
+        "options": [
+          "brown",
+          "green",
+          "blue"
+        ],
+        "displayPattern": "Tala has ___ eyes.",
+        "passageId": "tala",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 139
+      },
+      "answerData": {
+        "correct": "brown",
+        "correctText": "brown",
+        "correctSentence": "brown",
+        "correctWord": "brown",
+        "correctIndex": 0,
+        "completedWord": "brown",
+        "missingLetters": "brown",
+        "acceptedAnswers": [
+          "brown"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.785667Z",
+      "updatedAt": "2026-11-28T18:07:09.571734Z"
+    },
     {
       "id": "g3_t1_u1_q277",
       "schemaVersion": 2,
@@ -55,5 +223,5 @@
       "updatedAt": "2026-11-28T10:11:21.367595Z"
     }
   ],
-  "_lastModified": "2026-11-28T12:11:31.385298"
+  "_lastModified": "2026-11-28T20:07:09.808358"
 }
