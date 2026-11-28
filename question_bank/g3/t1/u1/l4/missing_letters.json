@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "missingLetters",
+  "updatedAt": "2026-11-28T10:11:31.427340Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q279",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "r_a_",
+        "question": "r_a_",
+        "displayPattern": "r_a_",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/6a71ea19-c0bf-44a7-8fe2-0aedcc4af47f.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/6a71ea19-c0bf-44a7-8fe2-0aedcc4af47f.jpg",
+        "displayOrder": 278
+      },
+      "answerData": {
+        "correct": "ed",
+        "correctText": "ed",
+        "correctSentence": "ed",
+        "correctWord": "read",
+        "completedWord": "read",
+        "missingLetters": "ed",
+        "acceptedAnswers": [
+          "ed"
+        ]
+      },
+      "media": [
+        {
+          "id": "6a71ea19-c0bf-44a7-8fe2-0aedcc4af47f",
+          "kind": "image",
+          "relativePath": "exam_media/images/6a71ea19-c0bf-44a7-8fe2-0aedcc4af47f.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/6a71ea19-c0bf-44a7-8fe2-0aedcc4af47f.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q279.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.674520Z",
+      "updatedAt": "2026-11-28T10:11:24.215809Z"
+    },
+    {
+      "id": "g3_t1_u1_q294",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "pl__",
+        "question": "pl__",
+        "displayPattern": "pl__",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/44b0f5bd-f8b2-4294-ab6a-398f3219d292.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/44b0f5bd-f8b2-4294-ab6a-398f3219d292.jpg",
+        "displayOrder": 293
+      },
+      "answerData": {
+        "correct": "ay",
+        "correctText": "ay",
+        "correctSentence": "ay",
+        "correctWord": "play",
+        "completedWord": "play",
+        "missingLetters": "ay",
+        "acceptedAnswers": [
+          "ay"
+        ]
+      },
+      "media": [
+        {
+          "id": "44b0f5bd-f8b2-4294-ab6a-398f3219d292",
+          "kind": "image",
+          "relativePath": "exam_media/images/44b0f5bd-f8b2-4294-ab6a-398f3219d292.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/44b0f5bd-f8b2-4294-ab6a-398f3219d292.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q294.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.694860Z",
+      "updatedAt": "2026-11-28T10:11:25.747301Z"
+    },
+    {
+      "id": "g3_t1_u1_q295",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "sl__p",
+        "question": "sl__p",
+        "displayPattern": "sl__p",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/7fd01bf2-1398-4d28-850f-8fb9b1625fdc.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/7fd01bf2-1398-4d28-850f-8fb9b1625fdc.jpg",
+        "displayOrder": 294
+      },
+      "answerData": {
+        "correct": "ee",
+        "correctText": "ee",
+        "correctSentence": "ee",
+        "correctWord": "sleep",
+        "completedWord": "sleep",
+        "missingLetters": "ee",
+        "acceptedAnswers": [
+          "ee"
+        ]
+      },
+      "media": [
+        {
+          "id": "7fd01bf2-1398-4d28-850f-8fb9b1625fdc",
+          "kind": "image",
+          "relativePath": "exam_media/images/7fd01bf2-1398-4d28-850f-8fb9b1625fdc.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/7fd01bf2-1398-4d28-850f-8fb9b1625fdc.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q295.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.696308Z",
+      "updatedAt": "2026-11-28T10:11:27.193708Z"
+    },
+    {
+      "id": "g3_t1_u1_q296",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "w__te",
+        "question": "w__te",
+        "displayPattern": "w__te",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/828c8557-cad8-4c62-970c-af61bbc067fa.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/828c8557-cad8-4c62-970c-af61bbc067fa.jpg",
+        "displayOrder": 295
+      },
+      "answerData": {
+        "correct": "ri",
+        "correctText": "ri",
+        "correctSentence": "ri",
+        "correctWord": "write",
+        "completedWord": "write",
+        "missingLetters": "ri",
+        "acceptedAnswers": [
+          "ri"
+        ]
+      },
+      "media": [
+        {
+          "id": "828c8557-cad8-4c62-970c-af61bbc067fa",
+          "kind": "image",
+          "relativePath": "exam_media/images/828c8557-cad8-4c62-970c-af61bbc067fa.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/828c8557-cad8-4c62-970c-af61bbc067fa.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q296.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.697592Z",
+      "updatedAt": "2026-11-28T10:11:28.786606Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.454230"
+}
