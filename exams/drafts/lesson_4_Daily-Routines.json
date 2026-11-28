@@ -1,0 +1,2095 @@
+{
+  "examId": "lesson_4_Daily-Routines",
+  "schemaVersion": 2,
+  "sourceType": "fixed",
+  "title": "Daily Routines",
+  "grade": 3,
+  "term": 1,
+  "selectedUnitIds": [
+    1
+  ],
+  "selectedLessonIds": [
+    "t1_u1_l4"
+  ],
+  "selectedQuestionTypes": [],
+  "sections": [
+    {
+      "id": "lesson_4_Daily-Routines_sec_1",
+      "title": "اختيار من متعدد",
+      "questionType": "mcq",
+      "displayOrder": 1,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q145",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ books in my free time.",
+            "options": [
+              "wake",
+              "read",
+              "run"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 144
+          },
+          "answerData": {
+            "correct": "read",
+            "correctText": "read",
+            "correctSentence": "read",
+            "correctWord": "read",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "read"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.499655Z",
+          "updatedAt": "2026-11-28T10:11:02.715966Z"
+        },
+        {
+          "id": "g3_t1_u1_q146",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I like to ___ cartoons on TV.",
+            "options": [
+              "watch",
+              "wash",
+              "draw"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 145
+          },
+          "answerData": {
+            "correct": "watch",
+            "correctText": "watch",
+            "correctSentence": "watch",
+            "correctWord": "watch",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "watch"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.500228Z",
+          "updatedAt": "2026-11-28T10:11:02.716014Z"
+        },
+        {
+          "id": "g3_t1_u1_q147",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Please, ___ your name on the paper.",
+            "options": [
+              "do",
+              "play",
+              "write"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 146
+          },
+          "answerData": {
+            "correct": "write",
+            "correctText": "write",
+            "correctSentence": "write",
+            "correctWord": "write",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "write"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.500925Z",
+          "updatedAt": "2026-11-28T10:11:02.716058Z"
+        },
+        {
+          "id": "g3_t1_u1_q148",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ my breakfast.",
+            "options": [
+              "draw",
+              "write",
+              "eat"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 147
+          },
+          "answerData": {
+            "correct": "eat",
+            "correctText": "eat",
+            "correctSentence": "eat",
+            "correctWord": "eat",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "eat"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.501613Z",
+          "updatedAt": "2026-11-28T10:11:02.716096Z"
+        },
+        {
+          "id": "g3_t1_u1_q149",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "___ your teeth before going to bed.",
+            "options": [
+              "Run",
+              "Go",
+              "Brush"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 148
+          },
+          "answerData": {
+            "correct": "Brush",
+            "correctText": "Brush",
+            "correctSentence": "Brush",
+            "correctWord": "Brush",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "Brush"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.502241Z",
+          "updatedAt": "2026-11-28T10:11:02.716135Z"
+        },
+        {
+          "id": "g3_t1_u1_q150",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ up in the morning.",
+            "options": [
+              "wake",
+              "brush",
+              "bed"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 149
+          },
+          "answerData": {
+            "correct": "wake",
+            "correctText": "wake",
+            "correctSentence": "wake",
+            "correctWord": "wake",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "wake"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.503536Z",
+          "updatedAt": "2026-11-28T10:11:02.716173Z"
+        },
+        {
+          "id": "g3_t1_u1_q151",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He ___ to school at 7:00.",
+            "options": [
+              "plays",
+              "goes",
+              "brushes"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 150
+          },
+          "answerData": {
+            "correct": "goes",
+            "correctText": "goes",
+            "correctSentence": "goes",
+            "correctWord": "goes",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "goes"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.504289Z",
+          "updatedAt": "2026-11-28T10:11:02.716208Z"
+        },
+        {
+          "id": "g3_t1_u1_q152",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ my bed when I wake up.",
+            "options": [
+              "brush",
+              "read",
+              "make"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 151
+          },
+          "answerData": {
+            "correct": "make",
+            "correctText": "make",
+            "correctSentence": "make",
+            "correctWord": "make",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "make"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.504937Z",
+          "updatedAt": "2026-11-28T10:11:02.716247Z"
+        },
+        {
+          "id": "g3_t1_u1_q155",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ TV with my family.",
+            "options": [
+              "watching",
+              "watches",
+              "watch"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 154
+          },
+          "answerData": {
+            "correct": "watch",
+            "correctText": "watch",
+            "correctSentence": "watch",
+            "correctWord": "watch",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "watch"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.509242Z",
+          "updatedAt": "2026-11-28T10:11:02.716285Z"
+        },
+        {
+          "id": "g3_t1_u1_q156",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Nader ___ football after school.",
+            "options": [
+              "plays",
+              "playing",
+              "play"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 155
+          },
+          "answerData": {
+            "correct": "plays",
+            "correctText": "plays",
+            "correctSentence": "plays",
+            "correctWord": "plays",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "plays"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.510888Z",
+          "updatedAt": "2026-11-28T10:11:02.716323Z"
+        },
+        {
+          "id": "g3_t1_u1_q157",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Noha and Amira ___ their beds after waking up.",
+            "options": [
+              "makes",
+              "make",
+              "making"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 156
+          },
+          "answerData": {
+            "correct": "make",
+            "correctText": "make",
+            "correctSentence": "make",
+            "correctWord": "make",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "make"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.512575Z",
+          "updatedAt": "2026-11-28T10:11:02.716361Z"
+        },
+        {
+          "id": "g3_t1_u1_q158",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ with my friends every day.",
+            "options": [
+              "playing",
+              "plays",
+              "play"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 157
+          },
+          "answerData": {
+            "correct": "play",
+            "correctText": "play",
+            "correctSentence": "play",
+            "correctWord": "play",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "play"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.514137Z",
+          "updatedAt": "2026-11-28T10:11:02.716397Z"
+        },
+        {
+          "id": "g3_t1_u1_q159",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ at 7 a.m.",
+            "options": [
+              "wake up",
+              "waking up",
+              "wakes up"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 158
+          },
+          "answerData": {
+            "correct": "wake up",
+            "correctText": "wake up",
+            "correctSentence": "wake up",
+            "correctWord": "wake up",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "wake up"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.516559Z",
+          "updatedAt": "2026-11-28T10:11:02.716435Z"
+        },
+        {
+          "id": "g3_t1_u1_q160",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He ___ to school in the morning.",
+            "options": [
+              "go",
+              "goes",
+              "went"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 159
+          },
+          "answerData": {
+            "correct": "goes",
+            "correctText": "goes",
+            "correctSentence": "goes",
+            "correctWord": "goes",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "goes"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.517801Z",
+          "updatedAt": "2026-11-28T10:11:02.716473Z"
+        },
+        {
+          "id": "g3_t1_u1_q161",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "We ___ hard at school.",
+            "options": [
+              "study",
+              "studies",
+              "studying"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 160
+          },
+          "answerData": {
+            "correct": "study",
+            "correctText": "study",
+            "correctSentence": "study",
+            "correctWord": "study",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "study"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.518833Z",
+          "updatedAt": "2026-11-28T10:11:02.716512Z"
+        },
+        {
+          "id": "g3_t1_u1_q173",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "After school, I go home and do my ___.",
+            "options": [
+              "school",
+              "homework",
+              "class"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 172
+          },
+          "answerData": {
+            "correct": "homework",
+            "correctText": "homework",
+            "correctSentence": "homework",
+            "correctWord": "homework",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "homework"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.537299Z",
+          "updatedAt": "2026-11-28T10:11:07.833771Z"
+        },
+        {
+          "id": "g3_t1_u1_q174",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I make my ___ to keep it tidy.",
+            "options": [
+              "school",
+              "homework",
+              "bed"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 173
+          },
+          "answerData": {
+            "correct": "bed",
+            "correctText": "bed",
+            "correctSentence": "bed",
+            "correctWord": "bed",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "bed"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.538482Z",
+          "updatedAt": "2026-11-28T10:11:07.833844Z"
+        },
+        {
+          "id": "g3_t1_u1_q175",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ my teeth.",
+            "options": [
+              "play",
+              "make",
+              "brush"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 174
+          },
+          "answerData": {
+            "correct": "brush",
+            "correctText": "brush",
+            "correctSentence": "brush",
+            "correctWord": "brush",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "brush"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.539757Z",
+          "updatedAt": "2026-11-28T10:11:07.833954Z"
+        },
+        {
+          "id": "g3_t1_u1_q176",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Judy ___ breakfast at 8 o'clock.",
+            "options": [
+              "eating",
+              "eat",
+              "eats"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 175
+          },
+          "answerData": {
+            "correct": "eats",
+            "correctText": "eats",
+            "correctSentence": "eats",
+            "correctWord": "eats",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "eats"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.541505Z",
+          "updatedAt": "2026-11-28T10:11:07.834016Z"
+        },
+        {
+          "id": "g3_t1_u1_q177",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "We ___ the game together.",
+            "options": [
+              "playing",
+              "play",
+              "plays"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 176
+          },
+          "answerData": {
+            "correct": "play",
+            "correctText": "play",
+            "correctSentence": "play",
+            "correctWord": "play",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "play"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.542637Z",
+          "updatedAt": "2026-11-28T10:11:07.834078Z"
+        },
+        {
+          "id": "g3_t1_u1_q178",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She ___ her homework every day.",
+            "options": [
+              "did",
+              "does",
+              "do"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 177
+          },
+          "answerData": {
+            "correct": "does",
+            "correctText": "does",
+            "correctSentence": "does",
+            "correctWord": "does",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "does"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.543578Z",
+          "updatedAt": "2026-11-28T10:11:07.834138Z"
+        },
+        {
+          "id": "g3_t1_u1_q347",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: wake up",
+            "options": [
+              "يستيقظ",
+              "يتناول الإفطار",
+              "يقوم بالواجب المدرسي"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 346
+          },
+          "answerData": {
+            "correct": "يستيقظ",
+            "correctText": "يستيقظ",
+            "correctSentence": "يستيقظ",
+            "correctWord": "يستيقظ",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "يستيقظ"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.791065Z",
+          "updatedAt": "2026-11-28T10:11:30.263637Z"
+        },
+        {
+          "id": "g3_t1_u1_q348",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: eat breakfast",
+            "options": [
+              "يقوم بالواجب المدرسي",
+              "يتناول الإفطار",
+              "يشاهد التلفزيون"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 347
+          },
+          "answerData": {
+            "correct": "يتناول الإفطار",
+            "correctText": "يتناول الإفطار",
+            "correctSentence": "يتناول الإفطار",
+            "correctWord": "يتناول الإفطار",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "يتناول الإفطار"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.793275Z",
+          "updatedAt": "2026-11-28T10:11:30.263678Z"
+        },
+        {
+          "id": "g3_t1_u1_q349",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: do homework",
+            "options": [
+              "يشاهد التلفزيون",
+              "ينام",
+              "يقوم بالواجب المدرسي"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 348
+          },
+          "answerData": {
+            "correct": "يقوم بالواجب المدرسي",
+            "correctText": "يقوم بالواجب المدرسي",
+            "correctSentence": "يقوم بالواجب المدرسي",
+            "correctWord": "يقوم بالواجب المدرسي",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "يقوم بالواجب المدرسي"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.795318Z",
+          "updatedAt": "2026-11-28T10:11:30.263720Z"
+        },
+        {
+          "id": "g3_t1_u1_q350",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: watch TV",
+            "options": [
+              "يشاهد التلفزيون",
+              "ينام",
+              "يذهب إلى المدرسة"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 349
+          },
+          "answerData": {
+            "correct": "يشاهد التلفزيون",
+            "correctText": "يشاهد التلفزيون",
+            "correctSentence": "يشاهد التلفزيون",
+            "correctWord": "يشاهد التلفزيون",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "يشاهد التلفزيون"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.798347Z",
+          "updatedAt": "2026-11-28T10:11:30.263763Z"
+        },
+        {
+          "id": "g3_t1_u1_q351",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: sleep",
+            "options": [
+              "يذهب إلى المدرسة",
+              "ينام",
+              "يقرأ"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 350
+          },
+          "answerData": {
+            "correct": "ينام",
+            "correctText": "ينام",
+            "correctSentence": "ينام",
+            "correctWord": "ينام",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "ينام"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.800341Z",
+          "updatedAt": "2026-11-28T10:11:30.263799Z"
+        },
+        {
+          "id": "g3_t1_u1_q352",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: go to school",
+            "options": [
+              "يقرأ",
+              "يلعب",
+              "يذهب إلى المدرسة"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 351
+          },
+          "answerData": {
+            "correct": "يذهب إلى المدرسة",
+            "correctText": "يذهب إلى المدرسة",
+            "correctSentence": "يذهب إلى المدرسة",
+            "correctWord": "يذهب إلى المدرسة",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "يذهب إلى المدرسة"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.802062Z",
+          "updatedAt": "2026-11-28T10:11:30.263846Z"
+        },
+        {
+          "id": "g3_t1_u1_q353",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: read",
+            "options": [
+              "يقرأ",
+              "يلعب",
+              "أغسل أسناني"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 352
+          },
+          "answerData": {
+            "correct": "يقرأ",
+            "correctText": "يقرأ",
+            "correctSentence": "يقرأ",
+            "correctWord": "يقرأ",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "يقرأ"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.816858Z",
+          "updatedAt": "2026-11-28T10:11:30.263886Z"
+        },
+        {
+          "id": "g3_t1_u1_q354",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: play",
+            "options": [
+              "أغسل أسناني",
+              "يلعب",
+              "يرتدي الملابس"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 353
+          },
+          "answerData": {
+            "correct": "يلعب",
+            "correctText": "يلعب",
+            "correctSentence": "يلعب",
+            "correctWord": "يلعب",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "يلعب"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.818573Z",
+          "updatedAt": "2026-11-28T10:11:30.263927Z"
+        },
+        {
+          "id": "g3_t1_u1_q355",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: brush my teeth",
+            "options": [
+              "يرتدي الملابس",
+              "أرتب سريري",
+              "أغسل أسناني"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 354
+          },
+          "answerData": {
+            "correct": "أغسل أسناني",
+            "correctText": "أغسل أسناني",
+            "correctSentence": "أغسل أسناني",
+            "correctWord": "أغسل أسناني",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "أغسل أسناني"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.819896Z",
+          "updatedAt": "2026-11-28T10:11:30.263968Z"
+        },
+        {
+          "id": "g3_t1_u1_q356",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: get dressed",
+            "options": [
+              "يرتدي الملابس",
+              "أرتب سريري",
+              "أمشط شعري"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 355
+          },
+          "answerData": {
+            "correct": "يرتدي الملابس",
+            "correctText": "يرتدي الملابس",
+            "correctSentence": "يرتدي الملابس",
+            "correctWord": "يرتدي الملابس",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "يرتدي الملابس"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.821043Z",
+          "updatedAt": "2026-11-28T10:11:30.264005Z"
+        },
+        {
+          "id": "g3_t1_u1_q357",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: make my bed",
+            "options": [
+              "أمشط شعري",
+              "أرتب سريري",
+              "يكتب"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 356
+          },
+          "answerData": {
+            "correct": "أرتب سريري",
+            "correctText": "أرتب سريري",
+            "correctSentence": "أرتب سريري",
+            "correctWord": "أرتب سريري",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "أرتب سريري"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.826452Z",
+          "updatedAt": "2026-11-28T10:11:30.264051Z"
+        },
+        {
+          "id": "g3_t1_u1_q358",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: brush my hair",
+            "options": [
+              "يكتب",
+              "يذهب إلى المنزل",
+              "أمشط شعري"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 357
+          },
+          "answerData": {
+            "correct": "أمشط شعري",
+            "correctText": "أمشط شعري",
+            "correctSentence": "أمشط شعري",
+            "correctWord": "أمشط شعري",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "أمشط شعري"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.828265Z",
+          "updatedAt": "2026-11-28T10:11:30.264096Z"
+        },
+        {
+          "id": "g3_t1_u1_q359",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: write",
+            "options": [
+              "يكتب",
+              "يذهب إلى المنزل",
+              "يستيقظ"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 358
+          },
+          "answerData": {
+            "correct": "يكتب",
+            "correctText": "يكتب",
+            "correctSentence": "يكتب",
+            "correctWord": "يكتب",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "يكتب"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.831172Z",
+          "updatedAt": "2026-11-28T10:11:30.264140Z"
+        },
+        {
+          "id": "g3_t1_u1_q360",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: go home",
+            "options": [
+              "يستيقظ",
+              "يذهب إلى المنزل",
+              "يتناول الإفطار"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 359
+          },
+          "answerData": {
+            "correct": "يذهب إلى المنزل",
+            "correctText": "يذهب إلى المنزل",
+            "correctSentence": "يذهب إلى المنزل",
+            "correctWord": "يذهب إلى المنزل",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "يذهب إلى المنزل"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.832417Z",
+          "updatedAt": "2026-11-28T10:11:30.264182Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_Daily-Routines_sec_2",
+      "title": "ترتيب الحروف",
+      "questionType": "letterUnscramble",
+      "displayOrder": 2,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q162",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: e i r w t",
+            "question": "e i r w t",
+            "words": [
+              "e",
+              "i",
+              "r",
+              "w",
+              "t"
+            ],
+            "letters": [
+              "e",
+              "i",
+              "r",
+              "w",
+              "t"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+            "displayOrder": 161
+          },
+          "answerData": {
+            "correct": "write",
+            "correctText": "write",
+            "correctSentence": "write",
+            "correctWord": "write",
+            "acceptedAnswers": [
+              "write"
+            ]
+          },
+          "media": [
+            {
+              "id": "50b062c6-a2b4-4ae5-a582-754d2e1249c3",
+              "kind": "image",
+              "relativePath": "exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q162.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.520150Z",
+          "updatedAt": "2026-11-28T10:11:04.543775Z"
+        },
+        {
+          "id": "g3_t1_u1_q163",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: p e l s e",
+            "question": "p e l s e",
+            "words": [
+              "p",
+              "e",
+              "l",
+              "s",
+              "e"
+            ],
+            "letters": [
+              "p",
+              "e",
+              "l",
+              "s",
+              "e"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+            "displayOrder": 162
+          },
+          "answerData": {
+            "correct": "sleep",
+            "correctText": "sleep",
+            "correctSentence": "sleep",
+            "correctWord": "sleep",
+            "acceptedAnswers": [
+              "sleep"
+            ]
+          },
+          "media": [
+            {
+              "id": "637a7056-a692-4d8a-8b85-6961b266768a",
+              "kind": "image",
+              "relativePath": "exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q163.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.521153Z",
+          "updatedAt": "2026-11-28T10:11:06.184517Z"
+        },
+        {
+          "id": "g3_t1_u1_q164",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: a e t",
+            "question": "a e t",
+            "words": [
+              "a",
+              "e",
+              "t"
+            ],
+            "letters": [
+              "a",
+              "e",
+              "t"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+            "displayOrder": 163
+          },
+          "answerData": {
+            "correct": "eat",
+            "correctText": "eat",
+            "correctSentence": "eat",
+            "correctWord": "eat",
+            "acceptedAnswers": [
+              "eat"
+            ]
+          },
+          "media": [
+            {
+              "id": "f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0",
+              "kind": "image",
+              "relativePath": "exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q164.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.521883Z",
+          "updatedAt": "2026-11-28T10:11:07.830694Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_Daily-Routines_sec_3",
+      "title": "قراءة (اختياري)",
+      "questionType": "readingMcq",
+      "displayOrder": 3,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q165",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "Sara's brother is ___ years old.",
+            "passage": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.",
+            "options": [
+              "5",
+              "10",
+              "11"
+            ],
+            "passageId": "sara_brother",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 164
+          },
+          "answerData": {
+            "correct": "10",
+            "correctText": "10",
+            "correctSentence": "10",
+            "correctWord": "10",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "10"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.522641Z",
+          "updatedAt": "2026-11-28T10:11:07.830886Z"
+        },
+        {
+          "id": "g3_t1_u1_q166",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "The underlined word \"tall\" is the opposite of ___.",
+            "passage": "My name is Sara. I eat breakfast and then go to school. My brother is 10 years old. He is tall with short black hair. He wakes up at 7:00 a.m., eats breakfast at 7:30 a.m. and then goes to school at 8:00 a.m. He likes to play football after school.",
+            "options": [
+              "short",
+              "happy",
+              "sad"
+            ],
+            "passageId": "sara_brother",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 165
+          },
+          "answerData": {
+            "correct": "short",
+            "correctText": "short",
+            "correctSentence": "short",
+            "correctWord": "short",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "short"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.523398Z",
+          "updatedAt": "2026-11-28T10:11:07.830970Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_Daily-Routines_sec_4",
+      "title": "ترتيب الجملة",
+      "questionType": "sentenceOrder",
+      "displayOrder": 4,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q169",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "do - school - What - do - you - after?",
+            "question": "do - school - What - do - you - after?",
+            "words": [
+              "do",
+              "school",
+              "What",
+              "do",
+              "you",
+              "after"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 168
+          },
+          "answerData": {
+            "correct": "What do you do after school?",
+            "correctText": "What do you do after school?",
+            "correctSentence": "What do you do after school?",
+            "correctWord": "What do you do after school?",
+            "acceptedAnswers": [
+              "What do you do after school?"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.531360Z",
+          "updatedAt": "2026-11-28T10:11:07.831035Z"
+        },
+        {
+          "id": "g3_t1_u1_q170",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "go - to - school - I - a.m. - at - 8.",
+            "question": "go - to - school - I - a.m. - at - 8.",
+            "words": [
+              "go",
+              "to",
+              "school",
+              "I",
+              "a.m.",
+              "at",
+              "8"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 169
+          },
+          "answerData": {
+            "correct": "I go to school at 8 a.m.",
+            "correctText": "I go to school at 8 a.m.",
+            "correctSentence": "I go to school at 8 a.m.",
+            "correctWord": "I go to school at 8 a.m.",
+            "acceptedAnswers": [
+              "I go to school at 8 a.m."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.532716Z",
+          "updatedAt": "2026-11-28T10:11:07.831103Z"
+        },
+        {
+          "id": "g3_t1_u1_q213",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "play - my friends - with - I.",
+            "question": "play - my friends - with - I.",
+            "words": [
+              "play",
+              "my friends",
+              "with",
+              "I"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 212
+          },
+          "answerData": {
+            "correct": "I play with my friends.",
+            "correctText": "I play with my friends.",
+            "correctSentence": "I play with my friends.",
+            "correctWord": "I play with my friends.",
+            "acceptedAnswers": [
+              "I play with my friends."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.575058Z",
+          "updatedAt": "2026-11-28T10:11:07.836884Z"
+        },
+        {
+          "id": "g3_t1_u1_q214",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "homework - does - her - She - every day.",
+            "question": "homework - does - her - She - every day.",
+            "words": [
+              "homework",
+              "does",
+              "her",
+              "She",
+              "every day"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 213
+          },
+          "answerData": {
+            "correct": "She does her homework every day.",
+            "correctText": "She does her homework every day.",
+            "correctSentence": "She does her homework every day.",
+            "correctWord": "She does her homework every day.",
+            "acceptedAnswers": [
+              "She does her homework every day."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.575960Z",
+          "updatedAt": "2026-11-28T10:11:07.836939Z"
+        },
+        {
+          "id": "g3_t1_u1_q217",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "wake up - does - What time - Amir?",
+            "question": "wake up - does - What time - Amir?",
+            "words": [
+              "wake up",
+              "does",
+              "What time",
+              "Amir"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 216
+          },
+          "answerData": {
+            "correct": "What time does Amir wake up?",
+            "correctText": "What time does Amir wake up?",
+            "correctSentence": "What time does Amir wake up?",
+            "correctWord": "What time does Amir wake up?",
+            "acceptedAnswers": [
+              "What time does Amir wake up?"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.579014Z",
+          "updatedAt": "2026-11-28T10:11:07.837148Z"
+        },
+        {
+          "id": "g3_t1_u1_q218",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "for breakfast - What - you - do - eat?",
+            "question": "for breakfast - What - you - do - eat?",
+            "words": [
+              "for breakfast",
+              "What",
+              "you",
+              "do",
+              "eat"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 217
+          },
+          "answerData": {
+            "correct": "What do you eat for breakfast?",
+            "correctText": "What do you eat for breakfast?",
+            "correctSentence": "What do you eat for breakfast?",
+            "correctWord": "What do you eat for breakfast?",
+            "acceptedAnswers": [
+              "What do you eat for breakfast?"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.580115Z",
+          "updatedAt": "2026-11-28T10:11:07.837204Z"
+        },
+        {
+          "id": "g3_t1_u1_q222",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "at 7 - I - wake up.",
+            "question": "at 7 - I - wake up.",
+            "words": [
+              "at 7",
+              "I",
+              "wake up"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 221
+          },
+          "answerData": {
+            "correct": "I wake up at 7.",
+            "correctText": "I wake up at 7.",
+            "correctSentence": "I wake up at 7.",
+            "correctWord": "I wake up at 7.",
+            "acceptedAnswers": [
+              "I wake up at 7."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.584840Z",
+          "updatedAt": "2026-11-28T10:11:07.837453Z"
+        },
+        {
+          "id": "g3_t1_u1_q223",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "brush - my teeth - I.",
+            "question": "brush - my teeth - I.",
+            "words": [
+              "brush",
+              "my teeth",
+              "I"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 222
+          },
+          "answerData": {
+            "correct": "I brush my teeth.",
+            "correctText": "I brush my teeth.",
+            "correctSentence": "I brush my teeth.",
+            "correctWord": "I brush my teeth.",
+            "acceptedAnswers": [
+              "I brush my teeth."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.586201Z",
+          "updatedAt": "2026-11-28T10:11:07.837505Z"
+        },
+        {
+          "id": "g3_t1_u1_q224",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "breakfast - have - I.",
+            "question": "breakfast - have - I.",
+            "words": [
+              "breakfast",
+              "have",
+              "I"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 223
+          },
+          "answerData": {
+            "correct": "I have breakfast.",
+            "correctText": "I have breakfast.",
+            "correctSentence": "I have breakfast.",
+            "correctWord": "I have breakfast.",
+            "acceptedAnswers": [
+              "I have breakfast."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.587373Z",
+          "updatedAt": "2026-11-28T10:11:07.837566Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_Daily-Routines_sec_5",
+      "title": "الترقيم (جملة كاملة)",
+      "questionType": "punctuation",
+      "displayOrder": 5,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q171",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "what do you do in the morning",
+            "question": "what do you do in the morning",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 170
+          },
+          "answerData": {
+            "correct": "What do you do in the morning?",
+            "correctText": "What do you do in the morning?",
+            "correctSentence": "What do you do in the morning?",
+            "correctWord": "What do you do in the morning?",
+            "acceptedAnswers": [
+              "What do you do in the morning?"
+            ],
+            "fullSentence": "What do you do in the morning?",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "What do you do in the morning?"
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.534471Z",
+          "updatedAt": "2026-11-28T10:11:07.831172Z"
+        },
+        {
+          "id": "g3_t1_u1_q172",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "i have long hair",
+            "question": "i have long hair",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 171
+          },
+          "answerData": {
+            "correct": "I have long hair.",
+            "correctText": "I have long hair.",
+            "correctSentence": "I have long hair.",
+            "correctWord": "I have long hair.",
+            "acceptedAnswers": [
+              "I have long hair."
+            ],
+            "fullSentence": "I have long hair.",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "I have long hair."
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.535916Z",
+          "updatedAt": "2026-11-28T10:11:07.833503Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_4_Daily-Routines_sec_6",
+      "title": "أكمل الفقرة من الصندوق",
+      "questionType": "completePassage",
+      "displayOrder": 6,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q179",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 4,
+          "unitTitle": "Let's Learn Together!",
+          "type": "completePassage",
+          "typeCode": "complete_passage",
+          "payload": {
+            "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+            "question": "Ali: What time do you wake up?\nLina: At 6:30 a.m. Then, I eat my [1].\nAli: What do you do after school?\nLina: I do my [2] and go to sleep.",
+            "passage": "Ali: What time do you wake up?\nLina: At 6:30 a.m. Then, I eat my [1].\nAli: What do you do after school?\nLina: I do my [2] and go to sleep.",
+            "wordBank": [
+              "breakfast",
+              "homework",
+              "friends"
+            ],
+            "blankCount": 2,
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 178
+          },
+          "answerData": {
+            "correct": [
+              "breakfast",
+              "homework"
+            ],
+            "correctText": "[breakfast, homework]",
+            "correctSentence": "[breakfast, homework]",
+            "correctWord": "[breakfast, homework]",
+            "answers": [
+              "breakfast",
+              "homework"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.544375Z",
+          "updatedAt": "2026-11-28T10:11:07.834194Z"
+        }
+      ]
+    }
+  ],
+  "sourceQuestionIds": [
+    "g3_t1_u1_q145",
+    "g3_t1_u1_q146",
+    "g3_t1_u1_q147",
+    "g3_t1_u1_q148",
+    "g3_t1_u1_q149",
+    "g3_t1_u1_q150",
+    "g3_t1_u1_q151",
+    "g3_t1_u1_q152",
+    "g3_t1_u1_q155",
+    "g3_t1_u1_q156",
+    "g3_t1_u1_q157",
+    "g3_t1_u1_q158",
+    "g3_t1_u1_q159",
+    "g3_t1_u1_q160",
+    "g3_t1_u1_q161",
+    "g3_t1_u1_q162",
+    "g3_t1_u1_q163",
+    "g3_t1_u1_q164",
+    "g3_t1_u1_q165",
+    "g3_t1_u1_q166",
+    "g3_t1_u1_q169",
+    "g3_t1_u1_q170",
+    "g3_t1_u1_q171",
+    "g3_t1_u1_q172",
+    "g3_t1_u1_q173",
+    "g3_t1_u1_q174",
+    "g3_t1_u1_q175",
+    "g3_t1_u1_q176",
+    "g3_t1_u1_q177",
+    "g3_t1_u1_q178",
+    "g3_t1_u1_q179",
+    "g3_t1_u1_q213",
+    "g3_t1_u1_q214",
+    "g3_t1_u1_q217",
+    "g3_t1_u1_q218",
+    "g3_t1_u1_q222",
+    "g3_t1_u1_q223",
+    "g3_t1_u1_q224",
+    "g3_t1_u1_q347",
+    "g3_t1_u1_q348",
+    "g3_t1_u1_q349",
+    "g3_t1_u1_q350",
+    "g3_t1_u1_q351",
+    "g3_t1_u1_q352",
+    "g3_t1_u1_q353",
+    "g3_t1_u1_q354",
+    "g3_t1_u1_q355",
+    "g3_t1_u1_q356",
+    "g3_t1_u1_q357",
+    "g3_t1_u1_q358",
+    "g3_t1_u1_q359",
+    "g3_t1_u1_q360"
+  ],
+  "generated": false,
+  "published": false,
+  "supportedModes": [
+    "normal",
+    "adventureGates",
+    "racing",
+    "treasureHunt",
+    "spaceMission"
+  ],
+  "createdAt": "2026-11-28T10:11:31.908282Z",
+  "updatedAt": "2026-11-28T10:11:31.908293Z",
+  "_lastModified": "2026-11-28T12:11:31.941461"
+}
