@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 2,
+  "questionType": "completePassage",
+  "updatedAt": "2026-11-28T10:11:30.625206Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q057",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "There are many rules in our classroom. We should follow these rules. We shouldn't run in [1]. We should [2] down when class starts.",
+        "passage": "There are many rules in our classroom. We should follow these rules. We shouldn't run in [1]. We should [2] down when class starts.",
+        "wordBank": [
+          "sit",
+          "shout",
+          "class"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 56
+      },
+      "answerData": {
+        "correct": [
+          "class",
+          "sit"
+        ],
+        "correctText": "[class, sit]",
+        "correctSentence": "[class, sit]",
+        "correctWord": "[class, sit]",
+        "answers": [
+          "class",
+          "sit"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.425563Z",
+      "updatedAt": "2026-11-28T10:10:53.289922Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.643532"
+}
