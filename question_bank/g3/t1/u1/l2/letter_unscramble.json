@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 2,
+  "questionType": "letterUnscramble",
+  "updatedAt": "2026-11-28T10:11:30.687260Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q061",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: n w h e",
+        "question": "n w h e",
+        "words": [
+          "n",
+          "w",
+          "h",
+          "e"
+        ],
+        "letters": [
+          "n",
+          "w",
+          "h",
+          "e"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+        "displayOrder": 60
+      },
+      "answerData": {
+        "correct": "when",
+        "correctText": "when",
+        "correctSentence": "when",
+        "correctWord": "when",
+        "acceptedAnswers": [
+          "when"
+        ]
+      },
+      "media": [
+        {
+          "id": "589c335f-2ea5-4bf8-ac56-369ace77e972",
+          "kind": "image",
+          "relativePath": "exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/589c335f-2ea5-4bf8-ac56-369ace77e972.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q061.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.427770Z",
+      "updatedAt": "2026-11-28T10:10:54.831587Z"
+    },
+    {
+      "id": "g3_t1_u1_q062",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: h a l e w",
+        "question": "h a l e w",
+        "words": [
+          "h",
+          "a",
+          "l",
+          "e",
+          "w"
+        ],
+        "letters": [
+          "h",
+          "a",
+          "l",
+          "e",
+          "w"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+        "displayOrder": 61
+      },
+      "answerData": {
+        "correct": "whale",
+        "correctText": "whale",
+        "correctSentence": "whale",
+        "correctWord": "whale",
+        "acceptedAnswers": [
+          "whale"
+        ]
+      },
+      "media": [
+        {
+          "id": "96c9dd13-709a-4f1c-b6eb-7289caeb29c4",
+          "kind": "image",
+          "relativePath": "exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/96c9dd13-709a-4f1c-b6eb-7289caeb29c4.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q062.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.428816Z",
+      "updatedAt": "2026-11-28T10:10:56.428104Z"
+    },
+    {
+      "id": "g3_t1_u1_q063",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: e l e h w",
+        "question": "e l e h w",
+        "words": [
+          "e",
+          "l",
+          "e",
+          "h",
+          "w"
+        ],
+        "letters": [
+          "e",
+          "l",
+          "e",
+          "h",
+          "w"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/9a92c529-7f8e-4a29-80e8-eb2e5cc281f2.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/9a92c529-7f8e-4a29-80e8-eb2e5cc281f2.jpg",
+        "displayOrder": 62
+      },
+      "answerData": {
+        "correct": "wheel",
+        "correctText": "wheel",
+        "correctSentence": "wheel",
+        "correctWord": "wheel",
+        "acceptedAnswers": [
+          "wheel"
+        ]
+      },
+      "media": [
+        {
+          "id": "9a92c529-7f8e-4a29-80e8-eb2e5cc281f2",
+          "kind": "image",
+          "relativePath": "exam_media/images/9a92c529-7f8e-4a29-80e8-eb2e5cc281f2.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/9a92c529-7f8e-4a29-80e8-eb2e5cc281f2.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q063.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.429970Z",
+      "updatedAt": "2026-11-28T10:10:58.094296Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.692997"
+}
