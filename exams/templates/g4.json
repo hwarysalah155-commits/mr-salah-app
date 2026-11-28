@@ -30,8 +30,8 @@
       "id": "sec_pu_reading",
       "type": "readingMcq",
       "title": "3. قطعة القراءة (Reading)",
-      "questionCount": 1,
-      "requiresTeacherConfig": false,
+      "questionCount": null,
+      "requiresTeacherConfig": true,
       "displayOrder": 3,
       "enabled": true,
       "alternateTypes": [
@@ -60,8 +60,8 @@
       "id": "sec_pu_punct",
       "type": "punctuation",
       "title": "6. علامات الترقيم (Punctuation)",
-      "questionCount": 2,
-      "requiresTeacherConfig": false,
+      "questionCount": null,
+      "requiresTeacherConfig": true,
       "displayOrder": 6,
       "enabled": true
     }
@@ -79,6 +79,6 @@
     "correctWord",
     "trueFalse"
   ],
-  "updatedAt": "2026-11-28T18:15:47.007163Z",
-  "_lastModified": "2026-11-28T20:15:48.188910"
+  "updatedAt": "2026-11-28T18:16:06.571584Z",
+  "_lastModified": "2026-11-28T20:16:06.587344"
 }
