@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "completePassage",
+  "updatedAt": "2026-11-28T10:11:30.358633Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q015",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "Ayat: Hello! My name is Ayat.\nManal: Good [1], my name is Manal.\nAyat: How are you, Manal?\nManal: I'm [2], thank you.",
+        "passage": "Ayat: Hello! My name is Ayat.\nManal: Good [1], my name is Manal.\nAyat: How are you, Manal?\nManal: I'm [2], thank you.",
+        "wordBank": [
+          "old",
+          "fine",
+          "morning"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 14
+      },
+      "answerData": {
+        "correct": [
+          "morning",
+          "fine"
+        ],
+        "correctText": "[morning, fine]",
+        "correctSentence": "[morning, fine]",
+        "correctWord": "[morning, fine]",
+        "answers": [
+          "morning",
+          "fine"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.271675Z",
+      "updatedAt": "2026-11-28T10:10:46.995299Z"
+    },
+    {
+      "id": "g3_t1_u1_q020",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "My name is Sondos. I am 8 [1] old. I am in [2] 3. I am from Egypt.",
+        "passage": "My name is Sondos. I am 8 [1] old. I am in [2] 3. I am from Egypt.",
+        "wordBank": [
+          "Primary",
+          "name",
+          "years"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 19
+      },
+      "answerData": {
+        "correct": [
+          "years",
+          "Primary"
+        ],
+        "correctText": "[years, Primary]",
+        "correctSentence": "[years, Primary]",
+        "correctWord": "[years, Primary]",
+        "answers": [
+          "years",
+          "Primary"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.308935Z",
+      "updatedAt": "2026-11-28T10:10:46.996477Z"
+    },
+    {
+      "id": "g3_t1_u1_q237",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "Omar: What's your name?\nWael: My [1] is Wael.\nOmar: How old are you?\nWael: I'm 8 [2] old.",
+        "passage": "Omar: What's your name?\nWael: My [1] is Wael.\nOmar: How old are you?\nWael: I'm 8 [2] old.",
+        "wordBank": [
+          "years",
+          "helpful",
+          "name"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 236
+      },
+      "answerData": {
+        "correct": [
+          "name",
+          "years"
+        ],
+        "correctText": "[name, years]",
+        "correctSentence": "[name, years]",
+        "correctWord": "[name, years]",
+        "answers": [
+          "name",
+          "years"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.606549Z",
+      "updatedAt": "2026-11-28T10:11:07.837835Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.381969"
+}
