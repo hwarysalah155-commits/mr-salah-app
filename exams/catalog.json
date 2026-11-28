@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-11-28T10:11:32.234825Z",
+  "items": [
+    {
+      "examId": "lesson_4_practice",
+      "title": "Daily Routines - Practice Quiz",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_4_practice.json",
+      "questionCount": 14,
+      "selectedLessonIds": [
+        "t1_u1_l4"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:32.170188Z"
+    },
+    {
+      "examId": "lesson_3_practice",
+      "title": "Describing People - Practice Quiz",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_3_practice.json",
+      "questionCount": 14,
+      "selectedLessonIds": [
+        "t1_u1_l3"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:32.122062Z"
+    },
+    {
+      "examId": "lesson_2_practice",
+      "title": "Classroom Rules - Practice Quiz",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_2_practice.json",
+      "questionCount": 16,
+      "selectedLessonIds": [
+        "t1_u1_l2"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:32.092190Z"
+    },
+    {
+      "examId": "lesson_1_practice",
+      "title": "Greetings and Introductions - Practice Quiz",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_1_practice.json",
+      "questionCount": 14,
+      "selectedLessonIds": [
+        "t1_u1_l1"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:31.963446Z"
+    },
+    {
+      "examId": "lesson_4_Daily-Routines",
+      "title": "Daily Routines",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_4_Daily-Routines.json",
+      "questionCount": 52,
+      "selectedLessonIds": [
+        "t1_u1_l4"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:31.908293Z"
+    },
+    {
+      "examId": "lesson_3_Describing-People",
+      "title": "Describing People",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_3_Describing-People.json",
+      "questionCount": 67,
+      "selectedLessonIds": [
+        "t1_u1_l3"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:31.806034Z"
+    },
+    {
+      "examId": "lesson_2_Classroom-Rules",
+      "title": "Classroom Rules",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_2_Classroom-Rules.json",
+      "questionCount": 55,
+      "selectedLessonIds": [
+        "t1_u1_l2"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:31.746975Z"
+    },
+    {
+      "examId": "lesson_1_Greetings-and-Introductions",
+      "title": "Greetings and Introductions",
+      "grade": 3,
+      "term": 1,
+      "sourceType": "fixed",
+      "published": false,
+      "storagePath": "exams/drafts/lesson_1_Greetings-and-Introductions.json",
+      "questionCount": 44,
+      "selectedLessonIds": [
+        "t1_u1_l1"
+      ],
+      "selectedQuestionTypes": [],
+      "updatedAt": "2026-11-28T10:11:31.471408Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:32.247160"
+}
