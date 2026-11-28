@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "letterUnscramble",
+  "updatedAt": "2026-11-28T10:11:31.172206Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q162",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: e i r w t",
+        "question": "e i r w t",
+        "words": [
+          "e",
+          "i",
+          "r",
+          "w",
+          "t"
+        ],
+        "letters": [
+          "e",
+          "i",
+          "r",
+          "w",
+          "t"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+        "displayOrder": 161
+      },
+      "answerData": {
+        "correct": "write",
+        "correctText": "write",
+        "correctSentence": "write",
+        "correctWord": "write",
+        "acceptedAnswers": [
+          "write"
+        ]
+      },
+      "media": [
+        {
+          "id": "50b062c6-a2b4-4ae5-a582-754d2e1249c3",
+          "kind": "image",
+          "relativePath": "exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/50b062c6-a2b4-4ae5-a582-754d2e1249c3.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q162.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.520150Z",
+      "updatedAt": "2026-11-28T10:11:04.543775Z"
+    },
+    {
+      "id": "g3_t1_u1_q163",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: p e l s e",
+        "question": "p e l s e",
+        "words": [
+          "p",
+          "e",
+          "l",
+          "s",
+          "e"
+        ],
+        "letters": [
+          "p",
+          "e",
+          "l",
+          "s",
+          "e"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+        "displayOrder": 162
+      },
+      "answerData": {
+        "correct": "sleep",
+        "correctText": "sleep",
+        "correctSentence": "sleep",
+        "correctWord": "sleep",
+        "acceptedAnswers": [
+          "sleep"
+        ]
+      },
+      "media": [
+        {
+          "id": "637a7056-a692-4d8a-8b85-6961b266768a",
+          "kind": "image",
+          "relativePath": "exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/637a7056-a692-4d8a-8b85-6961b266768a.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q163.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.521153Z",
+      "updatedAt": "2026-11-28T10:11:06.184517Z"
+    },
+    {
+      "id": "g3_t1_u1_q164",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: a e t",
+        "question": "a e t",
+        "words": [
+          "a",
+          "e",
+          "t"
+        ],
+        "letters": [
+          "a",
+          "e",
+          "t"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+        "displayOrder": 163
+      },
+      "answerData": {
+        "correct": "eat",
+        "correctText": "eat",
+        "correctSentence": "eat",
+        "correctWord": "eat",
+        "acceptedAnswers": [
+          "eat"
+        ]
+      },
+      "media": [
+        {
+          "id": "f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0",
+          "kind": "image",
+          "relativePath": "exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/f6ccdc56-f1b3-4c56-b0fb-50b5d7b741a0.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q164.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.521883Z",
+      "updatedAt": "2026-11-28T10:11:07.830694Z"
+    },
+    {
+      "id": "g3_t1_u1_q239",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: t a w h c",
+        "question": "t a w h c",
+        "words": [
+          "t",
+          "a",
+          "w",
+          "h",
+          "c"
+        ],
+        "letters": [
+          "t",
+          "a",
+          "w",
+          "h",
+          "c"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/9514d921-f4bc-48a6-b486-36c4b7e430b8.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/9514d921-f4bc-48a6-b486-36c4b7e430b8.jpg",
+        "displayOrder": 238
+      },
+      "answerData": {
+        "correct": "watch",
+        "correctText": "watch",
+        "correctSentence": "watch",
+        "correctWord": "watch",
+        "acceptedAnswers": [
+          "watch"
+        ]
+      },
+      "media": [
+        {
+          "id": "9514d921-f4bc-48a6-b486-36c4b7e430b8",
+          "kind": "image",
+          "relativePath": "exam_media/images/9514d921-f4bc-48a6-b486-36c4b7e430b8.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/9514d921-f4bc-48a6-b486-36c4b7e430b8.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q239.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.608360Z",
+      "updatedAt": "2026-11-28T10:11:11.612439Z"
+    },
+    {
+      "id": "g3_t1_u1_q262",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "letterUnscramble",
+      "typeCode": "letter_unscramble",
+      "payload": {
+        "prompt": "رتب الحروف لتكوين كلمة صحيحة: l p e s e",
+        "question": "l p e s e",
+        "words": [
+          "l",
+          "p",
+          "e",
+          "s",
+          "e"
+        ],
+        "letters": [
+          "l",
+          "p",
+          "e",
+          "s",
+          "e"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "imagePath": "exam_media/images/59e00bc4-e4a5-40c2-b5a4-cf2099a82099.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/59e00bc4-e4a5-40c2-b5a4-cf2099a82099.jpg",
+        "displayOrder": 261
+      },
+      "answerData": {
+        "correct": "sleep",
+        "correctText": "sleep",
+        "correctSentence": "sleep",
+        "correctWord": "sleep",
+        "acceptedAnswers": [
+          "sleep"
+        ]
+      },
+      "media": [
+        {
+          "id": "59e00bc4-e4a5-40c2-b5a4-cf2099a82099",
+          "kind": "image",
+          "relativePath": "exam_media/images/59e00bc4-e4a5-40c2-b5a4-cf2099a82099.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/59e00bc4-e4a5-40c2-b5a4-cf2099a82099.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q262.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.647599Z",
+      "updatedAt": "2026-11-28T10:11:16.523335Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.177901"
+}
