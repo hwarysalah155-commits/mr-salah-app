@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "punctuation",
+  "updatedAt": "2026-11-28T10:11:30.500892Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q026",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "how are you",
+        "question": "how are you",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 25
+      },
+      "answerData": {
+        "correct": "How are you?",
+        "correctText": "How are you?",
+        "correctSentence": "How are you?",
+        "correctWord": "How are you?",
+        "acceptedAnswers": [
+          "How are you?"
+        ],
+        "fullSentence": "How are you?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "How are you?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.391476Z",
+      "updatedAt": "2026-11-28T10:10:53.286814Z"
+    },
+    {
+      "id": "g3_t1_u1_q027",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "my name is Ali",
+        "question": "my name is Ali",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 26
+      },
+      "answerData": {
+        "correct": "My name is Ali.",
+        "correctText": "My name is Ali.",
+        "correctSentence": "My name is Ali.",
+        "correctWord": "My name is Ali.",
+        "acceptedAnswers": [
+          "My name is Ali."
+        ],
+        "fullSentence": "My name is Ali.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "My name is Ali."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.393574Z",
+      "updatedAt": "2026-11-28T10:10:53.288521Z"
+    },
+    {
+      "id": "g3_t1_u1_q270",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "how old are you",
+        "question": "how old are you",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 269
+      },
+      "answerData": {
+        "correct": "How old are you?",
+        "correctText": "How old are you?",
+        "correctSentence": "How old are you?",
+        "correctWord": "How old are you?",
+        "acceptedAnswers": [
+          "How old are you?"
+        ],
+        "fullSentence": "How old are you?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "How old are you?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.660369Z",
+      "updatedAt": "2026-11-28T10:11:18.373339Z"
+    },
+    {
+      "id": "g3_t1_u1_q284",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "how are you",
+        "question": "how are you",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 283
+      },
+      "answerData": {
+        "correct": "How are you?",
+        "correctText": "How are you?",
+        "correctSentence": "How are you?",
+        "correctWord": "How are you?",
+        "acceptedAnswers": [
+          "How are you?"
+        ],
+        "fullSentence": "How are you?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "How are you?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.683106Z",
+      "updatedAt": "2026-11-28T10:11:24.216229Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.506114"
+}
