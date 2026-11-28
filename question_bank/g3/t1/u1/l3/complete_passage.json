@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "completePassage",
+  "updatedAt": "2026-11-28T10:11:31.018745Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q125",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "My name is Laila. I am 9 years old. I am short and [1]. I have [2] hair. I have green eyes.",
+        "passage": "My name is Laila. I am 9 years old. I am short and [1]. I have [2] hair. I have green eyes.",
+        "wordBank": [
+          "eyes",
+          "straight",
+          "friendly"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 124
+      },
+      "answerData": {
+        "correct": [
+          "friendly",
+          "straight"
+        ],
+        "correctText": "[friendly, straight]",
+        "correctSentence": "[friendly, straight]",
+        "correctWord": "[friendly, straight]",
+        "answers": [
+          "friendly",
+          "straight"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.478708Z",
+      "updatedAt": "2026-11-28T10:10:58.098342Z"
+    },
+    {
+      "id": "g3_t1_u1_q126",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has [1] hair and big brown eyes. She is also very [2]. She can reach the top shelf easily.",
+        "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has [1] hair and big brown eyes. She is also very [2]. She can reach the top shelf easily.",
+        "wordBank": [
+          "laugh",
+          "curly",
+          "tall"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 125
+      },
+      "answerData": {
+        "correct": [
+          "curly",
+          "tall"
+        ],
+        "correctText": "[curly, tall]",
+        "correctSentence": "[curly, tall]",
+        "correctWord": "[curly, tall]",
+        "answers": [
+          "curly",
+          "tall"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.479419Z",
+      "updatedAt": "2026-11-28T10:10:58.099620Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.023917"
+}
