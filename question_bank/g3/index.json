@@ -1,26 +1,88 @@
 {
   "schemaVersion": 2,
   "grade": 3,
-  "updatedAt": "2026-11-27T17:16:23.023384Z",
+  "updatedAt": "2026-11-28T10:11:31.457314Z",
   "activeCounts": {
-    "t1_u1_l1|mcq": 68,
-    "t1_u1_l2|mcq": 39,
-    "t1_u1_l3|mcq": 57,
-    "t1_u1_l4|mcq": 47,
-    "t1_u1_l1|sentenceOrder": 2
+    "t1_u1_l1|mcq": 99,
+    "t1_u1_l2|mcq": 76,
+    "t1_u1_l3|mcq": 108,
+    "t1_u1_l4|mcq": 87,
+    "t1_u1_l1|sentenceOrder": 10,
+    "t1_u1_l1|completePassage": 3,
+    "t1_u1_l1|readingMcq": 2,
+    "t1_u1_l1|letterUnscramble": 3,
+    "t1_u1_l1|punctuation": 4,
+    "t1_u1_l2|missingLetters": 18,
+    "t1_u1_l2|completePassage": 1,
+    "t1_u1_l2|punctuation": 2,
+    "t1_u1_l2|letterUnscramble": 3,
+    "t1_u1_l2|readingMcq": 2,
+    "t1_u1_l2|readingTextSelection": 2,
+    "t1_u1_l2|sentenceOrder": 6,
+    "t1_u1_l1|fillBlank": 4,
+    "t1_u1_l3|readingMcq": 4,
+    "t1_u1_l3|readingTextSelection": 3,
+    "t1_u1_l3|sentenceOrder": 14,
+    "t1_u1_l3|completePassage": 2,
+    "t1_u1_l3|letterUnscramble": 7,
+    "t1_u1_l3|punctuation": 5,
+    "t1_u1_l4|letterUnscramble": 5,
+    "t1_u1_l4|readingMcq": 4,
+    "t1_u1_l4|sentenceOrder": 11,
+    "t1_u1_l4|punctuation": 5,
+    "t1_u1_l4|completePassage": 2,
+    "t1_u1_l3|fillBlank": 4,
+    "t1_u1_l3|missingLetters": 1,
+    "t1_u1_l1|missingLetters": 1,
+    "t1_u1_l4|missingLetters": 4
   },
   "totalCounts": {
-    "t1_u1_l1|mcq": 68,
-    "t1_u1_l2|mcq": 39,
-    "t1_u1_l3|mcq": 57,
-    "t1_u1_l4|mcq": 47,
-    "t1_u1_l1|sentenceOrder": 2
+    "t1_u1_l1|mcq": 99,
+    "t1_u1_l2|mcq": 76,
+    "t1_u1_l3|mcq": 108,
+    "t1_u1_l4|mcq": 87,
+    "t1_u1_l1|sentenceOrder": 10,
+    "t1_u1_l1|completePassage": 3,
+    "t1_u1_l1|readingMcq": 2,
+    "t1_u1_l1|letterUnscramble": 3,
+    "t1_u1_l1|punctuation": 4,
+    "t1_u1_l2|missingLetters": 18,
+    "t1_u1_l2|completePassage": 1,
+    "t1_u1_l2|punctuation": 2,
+    "t1_u1_l2|letterUnscramble": 3,
+    "t1_u1_l2|readingMcq": 2,
+    "t1_u1_l2|readingTextSelection": 2,
+    "t1_u1_l2|sentenceOrder": 6,
+    "t1_u1_l1|fillBlank": 4,
+    "t1_u1_l3|readingMcq": 4,
+    "t1_u1_l3|readingTextSelection": 3,
+    "t1_u1_l3|sentenceOrder": 14,
+    "t1_u1_l3|completePassage": 2,
+    "t1_u1_l3|letterUnscramble": 7,
+    "t1_u1_l3|punctuation": 5,
+    "t1_u1_l4|letterUnscramble": 5,
+    "t1_u1_l4|readingMcq": 4,
+    "t1_u1_l4|sentenceOrder": 11,
+    "t1_u1_l4|punctuation": 5,
+    "t1_u1_l4|completePassage": 2,
+    "t1_u1_l3|fillBlank": 4,
+    "t1_u1_l3|missingLetters": 1,
+    "t1_u1_l1|missingLetters": 1,
+    "t1_u1_l4|missingLetters": 4
   },
   "unitTitles": {
     "t1_u1": "Let's Learn Together!"
   },
+  "multiLessonShards": {
+    "t1_u1_l2|fillBlank": [
+      "question_bank/g3/t1/u1/l1/fill_blank.json"
+    ],
+    "t1_u1_l4|fillBlank": [
+      "question_bank/g3/t1/u1/l3/fill_blank.json"
+    ]
+  },
   "lessonTitles": {
     "t1_u1_l1": "Unit 1 – Sample Test 1"
   },
-  "_lastModified": "2026-11-27T19:16:23.037389"
+  "_lastModified": "2026-11-28T12:11:31.465439"
 }
