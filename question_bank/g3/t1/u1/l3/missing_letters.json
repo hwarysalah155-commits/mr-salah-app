@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "missingLetters",
+  "updatedAt": "2026-11-28T10:11:31.376369Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q277",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "h_p_y",
+        "question": "h_p_y",
+        "displayPattern": "h_p_y",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/1c9b8b47-9772-4703-8a07-a0700843070e.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/1c9b8b47-9772-4703-8a07-a0700843070e.jpg",
+        "displayOrder": 276
+      },
+      "answerData": {
+        "correct": "ap",
+        "correctText": "ap",
+        "correctSentence": "ap",
+        "correctWord": "happy",
+        "completedWord": "happy",
+        "missingLetters": "ap",
+        "acceptedAnswers": [
+          "ap"
+        ]
+      },
+      "media": [
+        {
+          "id": "1c9b8b47-9772-4703-8a07-a0700843070e",
+          "kind": "image",
+          "relativePath": "exam_media/images/1c9b8b47-9772-4703-8a07-a0700843070e.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/1c9b8b47-9772-4703-8a07-a0700843070e.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q277.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.671321Z",
+      "updatedAt": "2026-11-28T10:11:21.367595Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.385298"
+}
