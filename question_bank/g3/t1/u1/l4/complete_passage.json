@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "completePassage",
+  "updatedAt": "2026-11-28T10:11:31.303055Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q179",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "Ali: What time do you wake up?\nLina: At 6:30 a.m. Then, I eat my [1].\nAli: What do you do after school?\nLina: I do my [2] and go to sleep.",
+        "passage": "Ali: What time do you wake up?\nLina: At 6:30 a.m. Then, I eat my [1].\nAli: What do you do after school?\nLina: I do my [2] and go to sleep.",
+        "wordBank": [
+          "breakfast",
+          "homework",
+          "friends"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 178
+      },
+      "answerData": {
+        "correct": [
+          "breakfast",
+          "homework"
+        ],
+        "correctText": "[breakfast, homework]",
+        "correctSentence": "[breakfast, homework]",
+        "correctWord": "[breakfast, homework]",
+        "answers": [
+          "breakfast",
+          "homework"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.544375Z",
+      "updatedAt": "2026-11-28T10:11:07.834194Z"
+    },
+    {
+      "id": "g3_t1_u1_q260",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "completePassage",
+      "typeCode": "complete_passage",
+      "payload": {
+        "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+        "question": "After school, I go home and do my homework in my room. Then I [1] TV for some time. In the evening, I [2] with my friends and enjoy my day.",
+        "passage": "After school, I go home and do my homework in my room. Then I [1] TV for some time. In the evening, I [2] with my friends and enjoy my day.",
+        "wordBank": [
+          "watch",
+          "sleep",
+          "play"
+        ],
+        "blankCount": 2,
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 259
+      },
+      "answerData": {
+        "correct": [
+          "watch",
+          "play"
+        ],
+        "correctText": "[watch, play]",
+        "correctSentence": "[watch, play]",
+        "correctWord": "[watch, play]",
+        "answers": [
+          "watch",
+          "play"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.644407Z",
+      "updatedAt": "2026-11-28T10:11:13.160026Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.308153"
+}
