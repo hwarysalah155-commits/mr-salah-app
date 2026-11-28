@@ -5,8 +5,1340 @@
   "unit": 1,
   "lesson": 2,
   "questionType": "mcq",
-  "updatedAt": "2026-11-27T16:52:36.000192Z",
+  "updatedAt": "2026-11-28T10:11:30.538148Z",
   "items": [
+    {
+      "id": "g3_t1_u1_q029",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "When the teacher talks, you should ___ carefully.",
+        "options": [
+          "eat",
+          "shout",
+          "listen"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 28
+      },
+      "answerData": {
+        "correct": "listen",
+        "correctText": "listen",
+        "correctSentence": "listen",
+        "correctWord": "listen",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "listen"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.402369Z",
+      "updatedAt": "2026-11-28T10:10:53.288686Z"
+    },
+    {
+      "id": "g3_t1_u1_q030",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in class.",
+        "options": [
+          "shout",
+          "listen",
+          "write"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 29
+      },
+      "answerData": {
+        "correct": "shout",
+        "correctText": "shout",
+        "correctSentence": "shout",
+        "correctWord": "shout",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "shout"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.403710Z",
+      "updatedAt": "2026-11-28T10:10:53.288748Z"
+    },
+    {
+      "id": "g3_t1_u1_q031",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ down, when class starts.",
+        "options": [
+          "Run",
+          "Sit",
+          "Stand"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 30
+      },
+      "answerData": {
+        "correct": "Sit",
+        "correctText": "Sit",
+        "correctSentence": "Sit",
+        "correctWord": "Sit",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "Sit"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.405305Z",
+      "updatedAt": "2026-11-28T10:10:53.288794Z"
+    },
+    {
+      "id": "g3_t1_u1_q032",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "If you want to answer, ___ your hand.",
+        "options": [
+          "run",
+          "raise",
+          "close"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 31
+      },
+      "answerData": {
+        "correct": "raise",
+        "correctText": "raise",
+        "correctSentence": "raise",
+        "correctWord": "raise",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "raise"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.406722Z",
+      "updatedAt": "2026-11-28T10:10:53.288832Z"
+    },
+    {
+      "id": "g3_t1_u1_q033",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Be ___ to your classmates.",
+        "options": [
+          "bad",
+          "kind",
+          "angry"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 32
+      },
+      "answerData": {
+        "correct": "kind",
+        "correctText": "kind",
+        "correctSentence": "kind",
+        "correctWord": "kind",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "kind"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.407657Z",
+      "updatedAt": "2026-11-28T10:10:53.288875Z"
+    },
+    {
+      "id": "g3_t1_u1_q034",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your book on page 6.",
+        "options": [
+          "Sit",
+          "Stand",
+          "Open"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 33
+      },
+      "answerData": {
+        "correct": "Open",
+        "correctText": "Open",
+        "correctSentence": "Open",
+        "correctWord": "Open",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "Open"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.408277Z",
+      "updatedAt": "2026-11-28T10:10:53.288915Z"
+    },
+    {
+      "id": "g3_t1_u1_q035",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ at the board.",
+        "options": [
+          "Look",
+          "Looks",
+          "Looking"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 34
+      },
+      "answerData": {
+        "correct": "Look",
+        "correctText": "Look",
+        "correctSentence": "Look",
+        "correctWord": "Look",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "Look"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.408749Z",
+      "updatedAt": "2026-11-28T10:10:53.288954Z"
+    },
+    {
+      "id": "g3_t1_u1_q036",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your homework.",
+        "options": [
+          "Write",
+          "Writes",
+          "Writing"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 35
+      },
+      "answerData": {
+        "correct": "Write",
+        "correctText": "Write",
+        "correctSentence": "Write",
+        "correctWord": "Write",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "Write"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.409294Z",
+      "updatedAt": "2026-11-28T10:10:53.289035Z"
+    },
+    {
+      "id": "g3_t1_u1_q037",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ sleep in class.",
+        "options": [
+          "Aren't",
+          "Isn't",
+          "Don't"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 36
+      },
+      "answerData": {
+        "correct": "Don't",
+        "correctText": "Don't",
+        "correctSentence": "Don't",
+        "correctWord": "Don't",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "Don't"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.409760Z",
+      "updatedAt": "2026-11-28T10:10:53.289111Z"
+    },
+    {
+      "id": "g3_t1_u1_q038",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ down, please.",
+        "options": [
+          "Sit",
+          "Sitting",
+          "To sit"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 37
+      },
+      "answerData": {
+        "correct": "Sit",
+        "correctText": "Sit",
+        "correctSentence": "Sit",
+        "correctWord": "Sit",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "Sit"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.410256Z",
+      "updatedAt": "2026-11-28T10:10:53.289148Z"
+    },
+    {
+      "id": "g3_t1_u1_q039",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in the classroom.",
+        "options": [
+          "eating",
+          "eats",
+          "eat"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 38
+      },
+      "answerData": {
+        "correct": "eat",
+        "correctText": "eat",
+        "correctSentence": "eat",
+        "correctWord": "eat",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "eat"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.410705Z",
+      "updatedAt": "2026-11-28T10:10:53.289189Z"
+    },
+    {
+      "id": "g3_t1_u1_q040",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ to your teachers carefully.",
+        "options": [
+          "Listening",
+          "Listen",
+          "Listened"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 39
+      },
+      "answerData": {
+        "correct": "Listen",
+        "correctText": "Listen",
+        "correctSentence": "Listen",
+        "correctWord": "Listen",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "Listen"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.411187Z",
+      "updatedAt": "2026-11-28T10:10:53.289233Z"
+    },
+    {
+      "id": "g3_t1_u1_q041",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your classroom clean.",
+        "options": [
+          "Keeping",
+          "Keeps",
+          "Keep"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 40
+      },
+      "answerData": {
+        "correct": "Keep",
+        "correctText": "Keep",
+        "correctSentence": "Keep",
+        "correctWord": "Keep",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "Keep"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.412075Z",
+      "updatedAt": "2026-11-28T10:10:53.289273Z"
+    },
+    {
+      "id": "g3_t1_u1_q042",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your hand when the teacher asks.",
+        "options": [
+          "Raise",
+          "To raise",
+          "Raised"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 41
+      },
+      "answerData": {
+        "correct": "Raise",
+        "correctText": "Raise",
+        "correctSentence": "Raise",
+        "correctWord": "Raise",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "Raise"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.413425Z",
+      "updatedAt": "2026-11-28T10:10:53.289313Z"
+    },
+    {
+      "id": "g3_t1_u1_q051",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my classroom clean.",
+        "options": [
+          "read",
+          "keep",
+          "ask"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 50
+      },
+      "answerData": {
+        "correct": "keep",
+        "correctText": "keep",
+        "correctSentence": "keep",
+        "correctWord": "keep",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "keep"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.422784Z",
+      "updatedAt": "2026-11-28T10:10:53.289689Z"
+    },
+    {
+      "id": "g3_t1_u1_q052",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ run in class.",
+        "options": [
+          "Am not",
+          "Isn't",
+          "Don't"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 51
+      },
+      "answerData": {
+        "correct": "Don't",
+        "correctText": "Don't",
+        "correctSentence": "Don't",
+        "correctWord": "Don't",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "Don't"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.423219Z",
+      "updatedAt": "2026-11-28T10:10:53.289726Z"
+    },
+    {
+      "id": "g3_t1_u1_q053",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Please, ___ and listen carefully.",
+        "options": [
+          "sit down",
+          "shout",
+          "cry"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 52
+      },
+      "answerData": {
+        "correct": "sit down",
+        "correctText": "sit down",
+        "correctSentence": "sit down",
+        "correctWord": "sit down",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "sit down"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.423695Z",
+      "updatedAt": "2026-11-28T10:10:53.289766Z"
+    },
+    {
+      "id": "g3_t1_u1_q054",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I don't ___ in classroom.",
+        "options": [
+          "shouting",
+          "shouts",
+          "shout"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 53
+      },
+      "answerData": {
+        "correct": "shout",
+        "correctText": "shout",
+        "correctSentence": "shout",
+        "correctWord": "shout",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "shout"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.424130Z",
+      "updatedAt": "2026-11-28T10:10:53.289806Z"
+    },
+    {
+      "id": "g3_t1_u1_q055",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "We should be ___ and help others.",
+        "options": [
+          "angry",
+          "kind",
+          "lazy"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 54
+      },
+      "answerData": {
+        "correct": "kind",
+        "correctText": "kind",
+        "correctSentence": "kind",
+        "correctWord": "kind",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "kind"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.424585Z",
+      "updatedAt": "2026-11-28T10:10:53.289845Z"
+    },
+    {
+      "id": "g3_t1_u1_q056",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ your hands before eating.",
+        "options": [
+          "Wash",
+          "Washes",
+          "Washed"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 55
+      },
+      "answerData": {
+        "correct": "Wash",
+        "correctText": "Wash",
+        "correctSentence": "Wash",
+        "correctWord": "Wash",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "Wash"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.425057Z",
+      "updatedAt": "2026-11-28T10:10:53.289885Z"
+    },
+    {
+      "id": "g3_t1_u1_q259",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in the library.",
+        "options": [
+          "shout",
+          "shouted",
+          "shouting"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 258
+      },
+      "answerData": {
+        "correct": "shout",
+        "correctText": "shout",
+        "correctSentence": "shout",
+        "correctWord": "shout",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "shout"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.643029Z",
+      "updatedAt": "2026-11-28T10:11:13.159986Z"
+    },
+    {
+      "id": "g3_t1_u1_q281",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Don't ___ in class.",
+        "options": [
+          "shout",
+          "listen",
+          "write"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 280
+      },
+      "answerData": {
+        "correct": "shout",
+        "correctText": "shout",
+        "correctSentence": "shout",
+        "correctWord": "shout",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "shout"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.677666Z",
+      "updatedAt": "2026-11-28T10:11:24.216066Z"
+    },
+    {
+      "id": "g3_t1_u1_q298",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ carefully to my teachers.",
+        "options": [
+          "close",
+          "play",
+          "listen"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 297
+      },
+      "answerData": {
+        "correct": "listen",
+        "correctText": "listen",
+        "correctSentence": "listen",
+        "correctWord": "listen",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "listen"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.699982Z",
+      "updatedAt": "2026-11-28T10:11:30.254990Z"
+    },
+    {
+      "id": "g3_t1_u1_q322",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Raise your hand.",
+        "options": [
+          "ارفع يدك.",
+          "كن عطوفًا.",
+          "قف."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 321
+      },
+      "answerData": {
+        "correct": "ارفع يدك.",
+        "correctText": "ارفع يدك.",
+        "correctSentence": "ارفع يدك.",
+        "correctWord": "ارفع يدك.",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "ارفع يدك."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.738437Z",
+      "updatedAt": "2026-11-28T10:11:30.259232Z"
+    },
+    {
+      "id": "g3_t1_u1_q323",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Be kind.",
+        "options": [
+          "قف.",
+          "كن عطوفًا.",
+          "اجلس."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 322
+      },
+      "answerData": {
+        "correct": "كن عطوفًا.",
+        "correctText": "كن عطوفًا.",
+        "correctSentence": "كن عطوفًا.",
+        "correctWord": "كن عطوفًا.",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "كن عطوفًا."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.739779Z",
+      "updatedAt": "2026-11-28T10:11:30.259306Z"
+    },
+    {
+      "id": "g3_t1_u1_q324",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Stand up.",
+        "options": [
+          "اجلس.",
+          "استمع بحرص.",
+          "قف."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 323
+      },
+      "answerData": {
+        "correct": "قف.",
+        "correctText": "قف.",
+        "correctSentence": "قف.",
+        "correctWord": "قف.",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "قف."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.741278Z",
+      "updatedAt": "2026-11-28T10:11:30.259381Z"
+    },
+    {
+      "id": "g3_t1_u1_q325",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Sit down.",
+        "options": [
+          "اجلس.",
+          "استمع بحرص.",
+          "افتح كتابك."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 324
+      },
+      "answerData": {
+        "correct": "اجلس.",
+        "correctText": "اجلس.",
+        "correctSentence": "اجلس.",
+        "correctWord": "اجلس.",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "اجلس."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.743437Z",
+      "updatedAt": "2026-11-28T10:11:30.259457Z"
+    },
+    {
+      "id": "g3_t1_u1_q326",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Listen carefully.",
+        "options": [
+          "افتح كتابك.",
+          "استمع بحرص.",
+          "فصل دراسي"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 325
+      },
+      "answerData": {
+        "correct": "استمع بحرص.",
+        "correctText": "استمع بحرص.",
+        "correctSentence": "استمع بحرص.",
+        "correctWord": "استمع بحرص.",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "استمع بحرص."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.744784Z",
+      "updatedAt": "2026-11-28T10:11:30.259525Z"
+    },
+    {
+      "id": "g3_t1_u1_q327",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Open your book.",
+        "options": [
+          "فصل دراسي",
+          "لا تصرخ.",
+          "افتح كتابك."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 326
+      },
+      "answerData": {
+        "correct": "افتح كتابك.",
+        "correctText": "افتح كتابك.",
+        "correctSentence": "افتح كتابك.",
+        "correctWord": "افتح كتابك.",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "افتح كتابك."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.746489Z",
+      "updatedAt": "2026-11-28T10:11:30.259599Z"
+    },
+    {
+      "id": "g3_t1_u1_q328",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: classroom",
+        "options": [
+          "فصل دراسي",
+          "لا تصرخ.",
+          "ارفع يدك."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 327
+      },
+      "answerData": {
+        "correct": "فصل دراسي",
+        "correctText": "فصل دراسي",
+        "correctSentence": "فصل دراسي",
+        "correctWord": "فصل دراسي",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "فصل دراسي"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.748233Z",
+      "updatedAt": "2026-11-28T10:11:30.259671Z"
+    },
+    {
+      "id": "g3_t1_u1_q329",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Don't shout.",
+        "options": [
+          "ارفع يدك.",
+          "لا تصرخ.",
+          "كن عطوفًا."
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 328
+      },
+      "answerData": {
+        "correct": "لا تصرخ.",
+        "correctText": "لا تصرخ.",
+        "correctSentence": "لا تصرخ.",
+        "correctWord": "لا تصرخ.",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "لا تصرخ."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.749942Z",
+      "updatedAt": "2026-11-28T10:11:30.259753Z"
+    },
+    {
+      "id": "g3_t1_u1_q365",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: talk",
+        "options": [
+          "talked",
+          "answered",
+          "started"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 364
+      },
+      "answerData": {
+        "correct": "talked",
+        "correctText": "talked",
+        "correctSentence": "talked",
+        "correctWord": "talked",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "talked"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.851987Z",
+      "updatedAt": "2026-11-28T10:11:30.264385Z"
+    },
+    {
+      "id": "g3_t1_u1_q366",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: answer",
+        "options": [
+          "started",
+          "answered",
+          "kept"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 365
+      },
+      "answerData": {
+        "correct": "answered",
+        "correctText": "answered",
+        "correctSentence": "answered",
+        "correctWord": "answered",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "answered"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.861155Z",
+      "updatedAt": "2026-11-28T10:11:30.264422Z"
+    },
+    {
+      "id": "g3_t1_u1_q367",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: start",
+        "options": [
+          "kept",
+          "ran",
+          "started"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 366
+      },
+      "answerData": {
+        "correct": "started",
+        "correctText": "started",
+        "correctSentence": "started",
+        "correctWord": "started",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "started"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.864173Z",
+      "updatedAt": "2026-11-28T10:11:30.264462Z"
+    },
+    {
+      "id": "g3_t1_u1_q368",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: keep",
+        "options": [
+          "kept",
+          "ran",
+          "left"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 367
+      },
+      "answerData": {
+        "correct": "kept",
+        "correctText": "kept",
+        "correctSentence": "kept",
+        "correctWord": "kept",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "kept"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.865563Z",
+      "updatedAt": "2026-11-28T10:11:30.264504Z"
+    },
+    {
+      "id": "g3_t1_u1_q369",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: run",
+        "options": [
+          "left",
+          "ran",
+          "talked"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 368
+      },
+      "answerData": {
+        "correct": "ran",
+        "correctText": "ran",
+        "correctSentence": "ran",
+        "correctWord": "ran",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "ran"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.867323Z",
+      "updatedAt": "2026-11-28T10:11:30.264569Z"
+    },
+    {
+      "id": "g3_t1_u1_q370",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: leave",
+        "options": [
+          "talked",
+          "answered",
+          "left"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 369
+      },
+      "answerData": {
+        "correct": "left",
+        "correctText": "left",
+        "correctSentence": "left",
+        "correctWord": "left",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "left"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.872749Z",
+      "updatedAt": "2026-11-28T10:11:30.264615Z"
+    },
     {
       "id": "65cfcfcc-cf2a-489b-825f-edaf02fda537",
       "schemaVersion": 2,
@@ -1022,5 +2354,5 @@
       "updatedAt": "2026-11-27T16:52:30.094733Z"
     }
   ],
-  "_lastModified": "2026-11-27T18:52:36.087569"
+  "_lastModified": "2026-11-28T12:11:30.565354"
 }
