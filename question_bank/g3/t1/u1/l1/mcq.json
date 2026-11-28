@@ -5,8 +5,1124 @@
   "unit": 1,
   "lesson": 1,
   "questionType": "mcq",
-  "updatedAt": "2026-11-27T17:16:22.909897Z",
+  "updatedAt": "2026-11-28T10:11:30.294890Z",
   "items": [
+    {
+      "id": "g3_t1_u1_q001",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I can ___ many animals in the zoo.",
+        "options": [
+          "thank",
+          "run",
+          "see"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 0
+      },
+      "answerData": {
+        "correct": "see",
+        "correctText": "see",
+        "correctSentence": "see",
+        "correctWord": "see",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "see"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.206502Z",
+      "updatedAt": "2026-11-28T10:10:46.994332Z"
+    },
+    {
+      "id": "g3_t1_u1_q002",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nice to ___ you.",
+        "options": [
+          "meet",
+          "ask",
+          "count"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 1
+      },
+      "answerData": {
+        "correct": "meet",
+        "correctText": "meet",
+        "correctSentence": "meet",
+        "correctWord": "meet",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "meet"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.217046Z",
+      "updatedAt": "2026-11-28T10:10:46.994597Z"
+    },
+    {
+      "id": "g3_t1_u1_q003",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Hello! My ___ is Amal.",
+        "options": [
+          "later",
+          "name",
+          "old"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 2
+      },
+      "answerData": {
+        "correct": "name",
+        "correctText": "name",
+        "correctSentence": "name",
+        "correctWord": "name",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "name"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.219196Z",
+      "updatedAt": "2026-11-28T10:10:46.994654Z"
+    },
+    {
+      "id": "g3_t1_u1_q004",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "How ___ are you? - I am 8 years old.",
+        "options": [
+          "old",
+          "name",
+          "friend"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 3
+      },
+      "answerData": {
+        "correct": "old",
+        "correctText": "old",
+        "correctSentence": "old",
+        "correctWord": "old",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "old"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.221542Z",
+      "updatedAt": "2026-11-28T10:10:46.994703Z"
+    },
+    {
+      "id": "g3_t1_u1_q005",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "In the morning, we say ___ to our friends.",
+        "options": [
+          "goodbye",
+          "good morning",
+          "good night"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 4
+      },
+      "answerData": {
+        "correct": "good morning",
+        "correctText": "good morning",
+        "correctSentence": "good morning",
+        "correctWord": "good morning",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "good morning"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.224178Z",
+      "updatedAt": "2026-11-28T10:10:46.994756Z"
+    },
+    {
+      "id": "g3_t1_u1_q006",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name is ___.",
+        "options": [
+          "goodbye",
+          "Youssef",
+          "years"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 5
+      },
+      "answerData": {
+        "correct": "Youssef",
+        "correctText": "Youssef",
+        "correctSentence": "Youssef",
+        "correctWord": "Youssef",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "Youssef"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.226125Z",
+      "updatedAt": "2026-11-28T10:10:46.994810Z"
+    },
+    {
+      "id": "g3_t1_u1_q007",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I'm ___ years old.",
+        "options": [
+          "nine",
+          "Lina",
+          "meet"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 6
+      },
+      "answerData": {
+        "correct": "nine",
+        "correctText": "nine",
+        "correctSentence": "nine",
+        "correctWord": "nine",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "nine"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.227974Z",
+      "updatedAt": "2026-11-28T10:10:46.994865Z"
+    },
+    {
+      "id": "g3_t1_u1_q008",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I'm from ___.",
+        "options": [
+          "Noha",
+          "Heba",
+          "Egypt"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 7
+      },
+      "answerData": {
+        "correct": "Egypt",
+        "correctText": "Egypt",
+        "correctSentence": "Egypt",
+        "correctWord": "Egypt",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "Egypt"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.230121Z",
+      "updatedAt": "2026-11-28T10:10:46.994945Z"
+    },
+    {
+      "id": "g3_t1_u1_q009",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Nice to ___ you, Noura.",
+        "options": [
+          "say",
+          "meet",
+          "eat"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 8
+      },
+      "answerData": {
+        "correct": "meet",
+        "correctText": "meet",
+        "correctSentence": "meet",
+        "correctWord": "meet",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "meet"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.236438Z",
+      "updatedAt": "2026-11-28T10:10:46.994996Z"
+    },
+    {
+      "id": "g3_t1_u1_q010",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "___ are you? - I'm fine, thank you.",
+        "options": [
+          "What",
+          "When",
+          "How"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 9
+      },
+      "answerData": {
+        "correct": "How",
+        "correctText": "How",
+        "correctSentence": "How",
+        "correctWord": "How",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "How"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.240587Z",
+      "updatedAt": "2026-11-28T10:10:46.995051Z"
+    },
+    {
+      "id": "g3_t1_u1_q011",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ eight years old.",
+        "options": [
+          "is",
+          "am",
+          "are"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 10
+      },
+      "answerData": {
+        "correct": "am",
+        "correctText": "am",
+        "correctSentence": "am",
+        "correctWord": "am",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "am"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.243226Z",
+      "updatedAt": "2026-11-28T10:10:46.995102Z"
+    },
+    {
+      "id": "g3_t1_u1_q012",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "What is your ___? - I'm Dina.",
+        "options": [
+          "old",
+          "number",
+          "name"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 11
+      },
+      "answerData": {
+        "correct": "name",
+        "correctText": "name",
+        "correctSentence": "name",
+        "correctWord": "name",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "name"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.245382Z",
+      "updatedAt": "2026-11-28T10:10:46.995154Z"
+    },
+    {
+      "id": "g3_t1_u1_q013",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "My name ___ Laila.",
+        "options": [
+          "am",
+          "is",
+          "are"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 12
+      },
+      "answerData": {
+        "correct": "is",
+        "correctText": "is",
+        "correctSentence": "is",
+        "correctWord": "is",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "is"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.247414Z",
+      "updatedAt": "2026-11-28T10:10:46.995205Z"
+    },
+    {
+      "id": "g3_t1_u1_q014",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "I ___ my friends at school.",
+        "options": [
+          "eat",
+          "buy",
+          "see"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 13
+      },
+      "answerData": {
+        "correct": "see",
+        "correctText": "see",
+        "correctSentence": "see",
+        "correctWord": "see",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "see"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.249651Z",
+      "updatedAt": "2026-11-28T10:10:46.995249Z"
+    },
+    {
+      "id": "g3_t1_u1_q309",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Good morning!",
+        "options": [
+          "صباح الخير!",
+          "تصبح على خير!",
+          "إلى اللقاء!"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 308
+      },
+      "answerData": {
+        "correct": "صباح الخير!",
+        "correctText": "صباح الخير!",
+        "correctSentence": "صباح الخير!",
+        "correctWord": "صباح الخير!",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "صباح الخير!"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.715499Z",
+      "updatedAt": "2026-11-28T10:11:30.258247Z"
+    },
+    {
+      "id": "g3_t1_u1_q310",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Good night!",
+        "options": [
+          "إلى اللقاء!",
+          "تصبح على خير!",
+          "مرحبًا!"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 309
+      },
+      "answerData": {
+        "correct": "تصبح على خير!",
+        "correctText": "تصبح على خير!",
+        "correctSentence": "تصبح على خير!",
+        "correctWord": "تصبح على خير!",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "تصبح على خير!"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.717298Z",
+      "updatedAt": "2026-11-28T10:11:30.258325Z"
+    },
+    {
+      "id": "g3_t1_u1_q311",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Goodbye!",
+        "options": [
+          "مرحبًا!",
+          "المرحلة الابتدائية",
+          "إلى اللقاء!"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 310
+      },
+      "answerData": {
+        "correct": "إلى اللقاء!",
+        "correctText": "إلى اللقاء!",
+        "correctSentence": "إلى اللقاء!",
+        "correctWord": "إلى اللقاء!",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "إلى اللقاء!"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.718855Z",
+      "updatedAt": "2026-11-28T10:11:30.258379Z"
+    },
+    {
+      "id": "g3_t1_u1_q312",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Hello!",
+        "options": [
+          "مرحبًا!",
+          "المرحلة الابتدائية",
+          "صديق"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 311
+      },
+      "answerData": {
+        "correct": "مرحبًا!",
+        "correctText": "مرحبًا!",
+        "correctSentence": "مرحبًا!",
+        "correctWord": "مرحبًا!",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "مرحبًا!"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.720335Z",
+      "updatedAt": "2026-11-28T10:11:30.258438Z"
+    },
+    {
+      "id": "g3_t1_u1_q313",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: primary",
+        "options": [
+          "صديق",
+          "المرحلة الابتدائية",
+          "مصر"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 312
+      },
+      "answerData": {
+        "correct": "المرحلة الابتدائية",
+        "correctText": "المرحلة الابتدائية",
+        "correctSentence": "المرحلة الابتدائية",
+        "correctWord": "المرحلة الابتدائية",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "المرحلة الابتدائية"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.723138Z",
+      "updatedAt": "2026-11-28T10:11:30.258505Z"
+    },
+    {
+      "id": "g3_t1_u1_q314",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: friend",
+        "options": [
+          "مصر",
+          "اسم",
+          "صديق"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 313
+      },
+      "answerData": {
+        "correct": "صديق",
+        "correctText": "صديق",
+        "correctSentence": "صديق",
+        "correctWord": "صديق",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "صديق"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.724475Z",
+      "updatedAt": "2026-11-28T10:11:30.258599Z"
+    },
+    {
+      "id": "g3_t1_u1_q315",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: Egypt",
+        "options": [
+          "مصر",
+          "اسم",
+          "بخير"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 314
+      },
+      "answerData": {
+        "correct": "مصر",
+        "correctText": "مصر",
+        "correctSentence": "مصر",
+        "correctWord": "مصر",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "مصر"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.726290Z",
+      "updatedAt": "2026-11-28T10:11:30.258675Z"
+    },
+    {
+      "id": "g3_t1_u1_q316",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: name",
+        "options": [
+          "بخير",
+          "اسم",
+          "لطيف"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 315
+      },
+      "answerData": {
+        "correct": "اسم",
+        "correctText": "اسم",
+        "correctSentence": "اسم",
+        "correctWord": "اسم",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "اسم"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.727909Z",
+      "updatedAt": "2026-11-28T10:11:30.258743Z"
+    },
+    {
+      "id": "g3_t1_u1_q317",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: fine",
+        "options": [
+          "لطيف",
+          "جديد",
+          "بخير"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 316
+      },
+      "answerData": {
+        "correct": "بخير",
+        "correctText": "بخير",
+        "correctSentence": "بخير",
+        "correctWord": "بخير",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "بخير"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.729381Z",
+      "updatedAt": "2026-11-28T10:11:30.258865Z"
+    },
+    {
+      "id": "g3_t1_u1_q318",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: nice",
+        "options": [
+          "لطيف",
+          "جديد",
+          "مقابلة"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 317
+      },
+      "answerData": {
+        "correct": "لطيف",
+        "correctText": "لطيف",
+        "correctSentence": "لطيف",
+        "correctWord": "لطيف",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "لطيف"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.730950Z",
+      "updatedAt": "2026-11-28T10:11:30.258944Z"
+    },
+    {
+      "id": "g3_t1_u1_q319",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: new",
+        "options": [
+          "مقابلة",
+          "جديد",
+          "شخص ما"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 318
+      },
+      "answerData": {
+        "correct": "جديد",
+        "correctText": "جديد",
+        "correctSentence": "جديد",
+        "correctWord": "جديد",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "جديد"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.732583Z",
+      "updatedAt": "2026-11-28T10:11:30.259019Z"
+    },
+    {
+      "id": "g3_t1_u1_q320",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: meeting",
+        "options": [
+          "شخص ما",
+          "صباح الخير!",
+          "مقابلة"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 319
+      },
+      "answerData": {
+        "correct": "مقابلة",
+        "correctText": "مقابلة",
+        "correctSentence": "مقابلة",
+        "correctWord": "مقابلة",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "مقابلة"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.733952Z",
+      "updatedAt": "2026-11-28T10:11:30.259094Z"
+    },
+    {
+      "id": "g3_t1_u1_q321",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the Arabic meaning of: someone",
+        "options": [
+          "شخص ما",
+          "صباح الخير!",
+          "تصبح على خير!"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 320
+      },
+      "answerData": {
+        "correct": "شخص ما",
+        "correctText": "شخص ما",
+        "correctSentence": "شخص ما",
+        "correctWord": "شخص ما",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "شخص ما"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.735248Z",
+      "updatedAt": "2026-11-28T10:11:30.259162Z"
+    },
+    {
+      "id": "g3_t1_u1_q361",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: check",
+        "options": [
+          "checked",
+          "met",
+          "saw"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 360
+      },
+      "answerData": {
+        "correct": "checked",
+        "correctText": "checked",
+        "correctSentence": "checked",
+        "correctWord": "checked",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "checked"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.833894Z",
+      "updatedAt": "2026-11-28T10:11:30.264220Z"
+    },
+    {
+      "id": "g3_t1_u1_q362",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: meet",
+        "options": [
+          "saw",
+          "met",
+          "said"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 361
+      },
+      "answerData": {
+        "correct": "met",
+        "correctText": "met",
+        "correctSentence": "met",
+        "correctWord": "met",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "met"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.836479Z",
+      "updatedAt": "2026-11-28T10:11:30.264261Z"
+    },
+    {
+      "id": "g3_t1_u1_q363",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: see",
+        "options": [
+          "said",
+          "checked",
+          "saw"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 362
+      },
+      "answerData": {
+        "correct": "saw",
+        "correctText": "saw",
+        "correctSentence": "saw",
+        "correctWord": "saw",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "saw"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.848458Z",
+      "updatedAt": "2026-11-28T10:11:30.264304Z"
+    },
+    {
+      "id": "g3_t1_u1_q364",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "mcq",
+      "typeCode": "mcq",
+      "payload": {
+        "question": "Choose the past form of: say",
+        "options": [
+          "said",
+          "checked",
+          "met"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 363
+      },
+      "answerData": {
+        "correct": "said",
+        "correctText": "said",
+        "correctSentence": "said",
+        "correctWord": "said",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "said"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.850367Z",
+      "updatedAt": "2026-11-28T10:11:30.264345Z"
+    },
     {
       "id": "76dba8e0-0a57-411a-ba2d-58fbf6150e01",
       "schemaVersion": 2,
@@ -1840,5 +2956,5 @@
       "updatedAt": "2026-11-27T17:16:09.233485Z"
     }
   ],
-  "_lastModified": "2026-11-27T19:16:22.971643"
+  "_lastModified": "2026-11-28T12:11:30.319327"
 }
