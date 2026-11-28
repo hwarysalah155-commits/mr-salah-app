@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "readingTextSelection",
+  "updatedAt": "2026-11-28T18:07:09.883749Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q154",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "What does Amir do after school?",
+        "question": "What does Amir do after school?",
+        "passage": "Hello, I am Amir. Every day, I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.",
+        "passageId": "amir",
+        "referenceAnswer": "He goes home and does his homework.",
+        "modelAnswer": "He goes home and does his homework.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 153
+      },
+      "answerData": {
+        "correct": "He goes home and does his homework.",
+        "correctText": "He goes home and does his homework.",
+        "correctSentence": "He goes home and does his homework.",
+        "correctWord": "He goes home and does his homework.",
+        "acceptedAnswers": [
+          "He goes home and does his homework."
+        ],
+        "startWordIndex": 36,
+        "endWordIndex": 42,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 36,
+            "endWordIndex": 42,
+            "text": "I go home and do my homework."
+          }
+        ],
+        "selectionAnswer": {
+          "text": "I go home and do my homework.",
+          "startWordIndex": 36,
+          "endWordIndex": 42,
+          "matchKind": "pronounShift",
+          "confidence": 0.87,
+          "pronounShiftApplied": true,
+          "shiftNotes": [
+            "he → i",
+            "goes → go",
+            "does → do",
+            "his → my"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.028369Z",
+      "updatedAt": "2026-11-28T18:07:09.571956Z"
+    },
+    {
+      "id": "g3_t1_u1_q267",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "What does Zyad do after having breakfast?",
+        "question": "What does Zyad do after having breakfast?",
+        "passage": "I am Zyad. I wake up at 6 a.m. I brush my teeth and get dressed. After I have breakfast, I go to school. I learn and play with my friends. After school, I go home and do my homework.",
+        "passageId": "zyad",
+        "referenceAnswer": "He goes to school.",
+        "modelAnswer": "He goes to school.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 266
+      },
+      "answerData": {
+        "correct": "He goes to school.",
+        "correctText": "He goes to school.",
+        "correctSentence": "He goes to school.",
+        "correctWord": "He goes to school.",
+        "acceptedAnswers": [
+          "He goes to school."
+        ],
+        "startWordIndex": 20,
+        "endWordIndex": 23,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 20,
+            "endWordIndex": 23,
+            "text": "I go to school."
+          }
+        ],
+        "selectionAnswer": {
+          "text": "I go to school.",
+          "startWordIndex": 20,
+          "endWordIndex": 23,
+          "matchKind": "pronounShift",
+          "confidence": 0.87,
+          "pronounShiftApplied": true,
+          "shiftNotes": [
+            "he → i",
+            "goes → go"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:45.400191Z",
+      "updatedAt": "2026-11-28T18:07:09.573071Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T20:07:09.889175"
+}
