@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 1,
+  "questionType": "readingMcq",
+  "updatedAt": "2026-11-28T10:11:30.392792Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q016",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "Adam's teachers are ___.",
+        "passage": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!",
+        "options": [
+          "bad",
+          "sad",
+          "kind"
+        ],
+        "passageId": "adam",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 15
+      },
+      "answerData": {
+        "correct": "kind",
+        "correctText": "kind",
+        "correctSentence": "kind",
+        "correctWord": "kind",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "kind"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.279182Z",
+      "updatedAt": "2026-11-28T10:10:46.996356Z"
+    },
+    {
+      "id": "g3_t1_u1_q017",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "Adam meets Eyad in the ___.",
+        "passage": "My name is Adam. I'm eight years old. I'm in Primary three. I love my school. My teachers are kind. My friend's name is Eyad. We play together. We meet in the morning at school. At the end of the day, we say goodbye!",
+        "options": [
+          "morning",
+          "evening",
+          "afternoon"
+        ],
+        "passageId": "adam",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 16
+      },
+      "answerData": {
+        "correct": "morning",
+        "correctText": "morning",
+        "correctSentence": "morning",
+        "correctWord": "morning",
+        "correctIndex": 0,
+        "acceptedAnswers": [
+          "morning"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.280784Z",
+      "updatedAt": "2026-11-28T10:10:46.996420Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.416585"
+}
