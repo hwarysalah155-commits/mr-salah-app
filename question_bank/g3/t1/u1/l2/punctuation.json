@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 2,
+  "questionType": "punctuation",
+  "updatedAt": "2026-11-28T10:11:30.656017Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q058",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "raise your hand to speak",
+        "question": "raise your hand to speak",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 57
+      },
+      "answerData": {
+        "correct": "Raise your hand to speak.",
+        "correctText": "Raise your hand to speak.",
+        "correctSentence": "Raise your hand to speak.",
+        "correctWord": "Raise your hand to speak.",
+        "acceptedAnswers": [
+          "Raise your hand to speak."
+        ],
+        "fullSentence": "Raise your hand to speak.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "Raise your hand to speak."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.426169Z",
+      "updatedAt": "2026-11-28T10:10:53.291254Z"
+    },
+    {
+      "id": "g3_t1_u1_q059",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "where do you live",
+        "question": "where do you live",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 58
+      },
+      "answerData": {
+        "correct": "Where do you live?",
+        "correctText": "Where do you live?",
+        "correctSentence": "Where do you live?",
+        "correctWord": "Where do you live?",
+        "acceptedAnswers": [
+          "Where do you live?"
+        ],
+        "fullSentence": "Where do you live?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "Where do you live?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.426893Z",
+      "updatedAt": "2026-11-28T10:10:53.291535Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.673900"
+}
