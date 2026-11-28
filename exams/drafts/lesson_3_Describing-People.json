@@ -1,0 +1,2662 @@
+{
+  "examId": "lesson_3_Describing-People",
+  "schemaVersion": 2,
+  "sourceType": "fixed",
+  "title": "Describing People",
+  "grade": 3,
+  "term": 1,
+  "selectedUnitIds": [
+    1
+  ],
+  "selectedLessonIds": [
+    "t1_u1_l3"
+  ],
+  "selectedQuestionTypes": [],
+  "sections": [
+    {
+      "id": "lesson_3_Describing-People_sec_1",
+      "title": "اختيار من متعدد",
+      "questionType": "mcq",
+      "displayOrder": 1,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q098",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Nadeen has ___ eyes.",
+            "options": [
+              "short",
+              "curly",
+              "brown"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 97
+          },
+          "answerData": {
+            "correct": "brown",
+            "correctText": "brown",
+            "correctSentence": "brown",
+            "correctWord": "brown",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "brown"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.457017Z",
+          "updatedAt": "2026-11-28T10:10:58.096762Z"
+        },
+        {
+          "id": "g3_t1_u1_q099",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Nader is tall. He isn't ___.",
+            "options": [
+              "short",
+              "straight",
+              "curly"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 98
+          },
+          "answerData": {
+            "correct": "short",
+            "correctText": "short",
+            "correctSentence": "short",
+            "correctWord": "short",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "short"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.457829Z",
+          "updatedAt": "2026-11-28T10:10:58.096819Z"
+        },
+        {
+          "id": "g3_t1_u1_q100",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Laila has curly ___.",
+            "options": [
+              "hair",
+              "nose",
+              "face"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 99
+          },
+          "answerData": {
+            "correct": "hair",
+            "correctText": "hair",
+            "correctSentence": "hair",
+            "correctWord": "hair",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "hair"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.458528Z",
+          "updatedAt": "2026-11-28T10:10:58.096868Z"
+        },
+        {
+          "id": "g3_t1_u1_q101",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I'm ___. I make my friends laugh.",
+            "options": [
+              "shy",
+              "angry",
+              "funny"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 100
+          },
+          "answerData": {
+            "correct": "funny",
+            "correctText": "funny",
+            "correctSentence": "funny",
+            "correctWord": "funny",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "funny"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.459177Z",
+          "updatedAt": "2026-11-28T10:10:58.096912Z"
+        },
+        {
+          "id": "g3_t1_u1_q102",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She is ___. She helps her friends do their homework.",
+            "options": [
+              "loud",
+              "helpful",
+              "short"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 101
+          },
+          "answerData": {
+            "correct": "helpful",
+            "correctText": "helpful",
+            "correctSentence": "helpful",
+            "correctWord": "helpful",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "helpful"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.459867Z",
+          "updatedAt": "2026-11-28T10:10:58.097038Z"
+        },
+        {
+          "id": "g3_t1_u1_q103",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He is ___. He says hello to everyone.",
+            "options": [
+              "friendly",
+              "straight",
+              "brown"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 102
+          },
+          "answerData": {
+            "correct": "friendly",
+            "correctText": "friendly",
+            "correctSentence": "friendly",
+            "correctWord": "friendly",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "friendly"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.460591Z",
+          "updatedAt": "2026-11-28T10:10:58.097093Z"
+        },
+        {
+          "id": "g3_t1_u1_q108",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "My mother ___ very kind.",
+            "options": [
+              "am",
+              "are",
+              "is"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 107
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.465582Z",
+          "updatedAt": "2026-11-28T10:10:58.097437Z"
+        },
+        {
+          "id": "g3_t1_u1_q109",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ Egyptian.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 108
+          },
+          "answerData": {
+            "correct": "am",
+            "correctText": "am",
+            "correctSentence": "am",
+            "correctWord": "am",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "am"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.466341Z",
+          "updatedAt": "2026-11-28T10:10:58.097494Z"
+        },
+        {
+          "id": "g3_t1_u1_q110",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ brown eyes.",
+            "options": [
+              "am",
+              "has",
+              "have"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 109
+          },
+          "answerData": {
+            "correct": "have",
+            "correctText": "have",
+            "correctSentence": "have",
+            "correctWord": "have",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "have"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.467228Z",
+          "updatedAt": "2026-11-28T10:10:58.097546Z"
+        },
+        {
+          "id": "g3_t1_u1_q111",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He ___ my brother.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 110
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.468203Z",
+          "updatedAt": "2026-11-28T10:10:58.097595Z"
+        },
+        {
+          "id": "g3_t1_u1_q112",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She ___ green eyes.",
+            "options": [
+              "has",
+              "have",
+              "is"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 111
+          },
+          "answerData": {
+            "correct": "has",
+            "correctText": "has",
+            "correctSentence": "has",
+            "correctWord": "has",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "has"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.468990Z",
+          "updatedAt": "2026-11-28T10:10:58.097646Z"
+        },
+        {
+          "id": "g3_t1_u1_q113",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "We ___ in the classroom.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 112
+          },
+          "answerData": {
+            "correct": "are",
+            "correctText": "are",
+            "correctSentence": "are",
+            "correctWord": "are",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "are"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.469755Z",
+          "updatedAt": "2026-11-28T10:10:58.097692Z"
+        },
+        {
+          "id": "g3_t1_u1_q114",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He ___ my dad.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 113
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.470481Z",
+          "updatedAt": "2026-11-28T10:10:58.097740Z"
+        },
+        {
+          "id": "g3_t1_u1_q115",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "You ___ very kind.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 114
+          },
+          "answerData": {
+            "correct": "are",
+            "correctText": "are",
+            "correctSentence": "are",
+            "correctWord": "are",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "are"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.471143Z",
+          "updatedAt": "2026-11-28T10:10:58.097789Z"
+        },
+        {
+          "id": "g3_t1_u1_q116",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She ___ my mom.",
+            "options": [
+              "is",
+              "am",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 115
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.471825Z",
+          "updatedAt": "2026-11-28T10:10:58.097841Z"
+        },
+        {
+          "id": "g3_t1_u1_q117",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "They ___ my friends.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 116
+          },
+          "answerData": {
+            "correct": "are",
+            "correctText": "are",
+            "correctSentence": "are",
+            "correctWord": "are",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "are"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.472422Z",
+          "updatedAt": "2026-11-28T10:10:58.097890Z"
+        },
+        {
+          "id": "g3_t1_u1_q118",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ eight years old.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 117
+          },
+          "answerData": {
+            "correct": "am",
+            "correctText": "am",
+            "correctSentence": "am",
+            "correctWord": "am",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "am"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.473155Z",
+          "updatedAt": "2026-11-28T10:10:58.097936Z"
+        },
+        {
+          "id": "g3_t1_u1_q119",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He ___ friendly.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 118
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.473907Z",
+          "updatedAt": "2026-11-28T10:10:58.097985Z"
+        },
+        {
+          "id": "g3_t1_u1_q133",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Seif is ___. He always has a smile on his face.",
+            "options": [
+              "late",
+              "angry",
+              "funny"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 132
+          },
+          "answerData": {
+            "correct": "funny",
+            "correctText": "funny",
+            "correctSentence": "funny",
+            "correctWord": "funny",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "funny"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.484884Z",
+          "updatedAt": "2026-11-28T10:11:02.713788Z"
+        },
+        {
+          "id": "g3_t1_u1_q134",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "He is ___ and fit, so he is good at playing basketball.",
+            "options": [
+              "tall",
+              "short",
+              "lazy"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 133
+          },
+          "answerData": {
+            "correct": "tall",
+            "correctText": "tall",
+            "correctSentence": "tall",
+            "correctWord": "tall",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "tall"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.485893Z",
+          "updatedAt": "2026-11-28T10:11:02.713848Z"
+        },
+        {
+          "id": "g3_t1_u1_q135",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She ___ very helpful.",
+            "options": [
+              "am",
+              "are",
+              "is"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 134
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.486974Z",
+          "updatedAt": "2026-11-28T10:11:02.713889Z"
+        },
+        {
+          "id": "g3_t1_u1_q136",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "She is ___ when someone needs help.",
+            "options": [
+              "tall",
+              "short",
+              "helpful"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 135
+          },
+          "answerData": {
+            "correct": "helpful",
+            "correctText": "helpful",
+            "correctSentence": "helpful",
+            "correctWord": "helpful",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "helpful"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.490883Z",
+          "updatedAt": "2026-11-28T10:11:02.713929Z"
+        },
+        {
+          "id": "g3_t1_u1_q137",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Lana ___ my best friend.",
+            "options": [
+              "is",
+              "are",
+              "am"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 136
+          },
+          "answerData": {
+            "correct": "is",
+            "correctText": "is",
+            "correctSentence": "is",
+            "correctWord": "is",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "is"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.492085Z",
+          "updatedAt": "2026-11-28T10:11:02.713968Z"
+        },
+        {
+          "id": "g3_t1_u1_q138",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "I ___ a student.",
+            "options": [
+              "am",
+              "is",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 137
+          },
+          "answerData": {
+            "correct": "am",
+            "correctText": "am",
+            "correctSentence": "am",
+            "correctWord": "am",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "am"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.493236Z",
+          "updatedAt": "2026-11-28T10:11:02.714003Z"
+        },
+        {
+          "id": "g3_t1_u1_q330",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: long hair",
+            "options": [
+              "شعر طويل",
+              "شعر قصير",
+              "شعر مجعد"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 329
+          },
+          "answerData": {
+            "correct": "شعر طويل",
+            "correctText": "شعر طويل",
+            "correctSentence": "شعر طويل",
+            "correctWord": "شعر طويل",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "شعر طويل"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.751299Z",
+          "updatedAt": "2026-11-28T10:11:30.259827Z"
+        },
+        {
+          "id": "g3_t1_u1_q331",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: short hair",
+            "options": [
+              "شعر مجعد",
+              "شعر قصير",
+              "شعر مستقيم"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 330
+          },
+          "answerData": {
+            "correct": "شعر قصير",
+            "correctText": "شعر قصير",
+            "correctSentence": "شعر قصير",
+            "correctWord": "شعر قصير",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "شعر قصير"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.752590Z",
+          "updatedAt": "2026-11-28T10:11:30.259930Z"
+        },
+        {
+          "id": "g3_t1_u1_q332",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: curly hair",
+            "options": [
+              "شعر مستقيم",
+              "عيون بنية",
+              "شعر مجعد"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 331
+          },
+          "answerData": {
+            "correct": "شعر مجعد",
+            "correctText": "شعر مجعد",
+            "correctSentence": "شعر مجعد",
+            "correctWord": "شعر مجعد",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "شعر مجعد"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.757570Z",
+          "updatedAt": "2026-11-28T10:11:30.260010Z"
+        },
+        {
+          "id": "g3_t1_u1_q333",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: straight hair",
+            "options": [
+              "شعر مستقيم",
+              "عيون بنية",
+              "مرح"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 332
+          },
+          "answerData": {
+            "correct": "شعر مستقيم",
+            "correctText": "شعر مستقيم",
+            "correctSentence": "شعر مستقيم",
+            "correctWord": "شعر مستقيم",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "شعر مستقيم"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.759292Z",
+          "updatedAt": "2026-11-28T10:11:30.260085Z"
+        },
+        {
+          "id": "g3_t1_u1_q334",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: brown eyes",
+            "options": [
+              "مرح",
+              "عيون بنية",
+              "خجول"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 333
+          },
+          "answerData": {
+            "correct": "عيون بنية",
+            "correctText": "عيون بنية",
+            "correctSentence": "عيون بنية",
+            "correctWord": "عيون بنية",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "عيون بنية"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.760731Z",
+          "updatedAt": "2026-11-28T10:11:30.260159Z"
+        },
+        {
+          "id": "g3_t1_u1_q335",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: funny",
+            "options": [
+              "خجول",
+              "ودود",
+              "مرح"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 334
+          },
+          "answerData": {
+            "correct": "مرح",
+            "correctText": "مرح",
+            "correctSentence": "مرح",
+            "correctWord": "مرح",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "مرح"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.762554Z",
+          "updatedAt": "2026-11-28T10:11:30.260234Z"
+        },
+        {
+          "id": "g3_t1_u1_q336",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: shy",
+            "options": [
+              "خجول",
+              "ودود",
+              "متعاون"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 335
+          },
+          "answerData": {
+            "correct": "خجول",
+            "correctText": "خجول",
+            "correctSentence": "خجول",
+            "correctWord": "خجول",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "خجول"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.764230Z",
+          "updatedAt": "2026-11-28T10:11:30.262840Z"
+        },
+        {
+          "id": "g3_t1_u1_q337",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: friendly",
+            "options": [
+              "متعاون",
+              "ودود",
+              "مهذب"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 336
+          },
+          "answerData": {
+            "correct": "ودود",
+            "correctText": "ودود",
+            "correctSentence": "ودود",
+            "correctWord": "ودود",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "ودود"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.765995Z",
+          "updatedAt": "2026-11-28T10:11:30.263061Z"
+        },
+        {
+          "id": "g3_t1_u1_q338",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: helpful",
+            "options": [
+              "مهذب",
+              "عطوف",
+              "متعاون"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 337
+          },
+          "answerData": {
+            "correct": "متعاون",
+            "correctText": "متعاون",
+            "correctSentence": "متعاون",
+            "correctWord": "متعاون",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "متعاون"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.767625Z",
+          "updatedAt": "2026-11-28T10:11:30.263116Z"
+        },
+        {
+          "id": "g3_t1_u1_q339",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: polite",
+            "options": [
+              "مهذب",
+              "عطوف",
+              "غاضب"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 338
+          },
+          "answerData": {
+            "correct": "مهذب",
+            "correctText": "مهذب",
+            "correctSentence": "مهذب",
+            "correctWord": "مهذب",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "مهذب"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.771955Z",
+          "updatedAt": "2026-11-28T10:11:30.263163Z"
+        },
+        {
+          "id": "g3_t1_u1_q340",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: kind",
+            "options": [
+              "غاضب",
+              "عطوف",
+              "هادئ"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 339
+          },
+          "answerData": {
+            "correct": "عطوف",
+            "correctText": "عطوف",
+            "correctSentence": "عطوف",
+            "correctWord": "عطوف",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "عطوف"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.774608Z",
+          "updatedAt": "2026-11-28T10:11:30.263207Z"
+        },
+        {
+          "id": "g3_t1_u1_q341",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: angry",
+            "options": [
+              "هادئ",
+              "مطبخ",
+              "غاضب"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 340
+          },
+          "answerData": {
+            "correct": "غاضب",
+            "correctText": "غاضب",
+            "correctSentence": "غاضب",
+            "correctWord": "غاضب",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "غاضب"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.777284Z",
+          "updatedAt": "2026-11-28T10:11:30.263246Z"
+        },
+        {
+          "id": "g3_t1_u1_q342",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: quiet",
+            "options": [
+              "هادئ",
+              "مطبخ",
+              "مهرج"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 341
+          },
+          "answerData": {
+            "correct": "هادئ",
+            "correctText": "هادئ",
+            "correctSentence": "هادئ",
+            "correctWord": "هادئ",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "هادئ"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.779681Z",
+          "updatedAt": "2026-11-28T10:11:30.263289Z"
+        },
+        {
+          "id": "g3_t1_u1_q343",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: kitchen",
+            "options": [
+              "مهرج",
+              "مطبخ",
+              "جميل"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 342
+          },
+          "answerData": {
+            "correct": "مطبخ",
+            "correctText": "مطبخ",
+            "correctSentence": "مطبخ",
+            "correctWord": "مطبخ",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "مطبخ"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.781060Z",
+          "updatedAt": "2026-11-28T10:11:30.263465Z"
+        },
+        {
+          "id": "g3_t1_u1_q344",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: clown",
+            "options": [
+              "جميل",
+              "مصري",
+              "مهرج"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 343
+          },
+          "answerData": {
+            "correct": "مهرج",
+            "correctText": "مهرج",
+            "correctSentence": "مهرج",
+            "correctWord": "مهرج",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "مهرج"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.782612Z",
+          "updatedAt": "2026-11-28T10:11:30.263512Z"
+        },
+        {
+          "id": "g3_t1_u1_q345",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: pretty",
+            "options": [
+              "جميل",
+              "مصري",
+              "شعر طويل"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 344
+          },
+          "answerData": {
+            "correct": "جميل",
+            "correctText": "جميل",
+            "correctSentence": "جميل",
+            "correctWord": "جميل",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "جميل"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.786309Z",
+          "updatedAt": "2026-11-28T10:11:30.263557Z"
+        },
+        {
+          "id": "g3_t1_u1_q346",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the Arabic meaning of: Egyptian",
+            "options": [
+              "شعر طويل",
+              "مصري",
+              "شعر قصير"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 345
+          },
+          "answerData": {
+            "correct": "مصري",
+            "correctText": "مصري",
+            "correctSentence": "مصري",
+            "correctWord": "مصري",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "مصري"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.788722Z",
+          "updatedAt": "2026-11-28T10:11:30.263594Z"
+        },
+        {
+          "id": "g3_t1_u1_q371",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the past form of: laugh",
+            "options": [
+              "laughed",
+              "reached",
+              "shared"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 370
+          },
+          "answerData": {
+            "correct": "laughed",
+            "correctText": "laughed",
+            "correctSentence": "laughed",
+            "correctWord": "laughed",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "laughed"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.874983Z",
+          "updatedAt": "2026-11-28T10:11:30.264653Z"
+        },
+        {
+          "id": "g3_t1_u1_q372",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the past form of: reach",
+            "options": [
+              "shared",
+              "reached",
+              "smiled"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 371
+          },
+          "answerData": {
+            "correct": "reached",
+            "correctText": "reached",
+            "correctSentence": "reached",
+            "correctWord": "reached",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "reached"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.877817Z",
+          "updatedAt": "2026-11-28T10:11:30.264694Z"
+        },
+        {
+          "id": "g3_t1_u1_q373",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the past form of: share",
+            "options": [
+              "smiled",
+              "laughed",
+              "shared"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 372
+          },
+          "answerData": {
+            "correct": "shared",
+            "correctText": "shared",
+            "correctSentence": "shared",
+            "correctWord": "shared",
+            "correctIndex": 2,
+            "acceptedAnswers": [
+              "shared"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.880372Z",
+          "updatedAt": "2026-11-28T10:11:30.264735Z"
+        },
+        {
+          "id": "g3_t1_u1_q374",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "mcq",
+          "typeCode": "mcq",
+          "payload": {
+            "question": "Choose the past form of: smile",
+            "options": [
+              "smiled",
+              "laughed",
+              "reached"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 373
+          },
+          "answerData": {
+            "correct": "smiled",
+            "correctText": "smiled",
+            "correctSentence": "smiled",
+            "correctWord": "smiled",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "smiled"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.881653Z",
+          "updatedAt": "2026-11-28T10:11:30.264776Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_Describing-People_sec_2",
+      "title": "قراءة (اختياري)",
+      "questionType": "readingMcq",
+      "displayOrder": 2,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q104",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "Laila always ___ and helps others.",
+            "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.",
+            "options": [
+              "throws",
+              "smiles",
+              "hurts"
+            ],
+            "passageId": "laila",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 103
+          },
+          "answerData": {
+            "correct": "smiles",
+            "correctText": "smiles",
+            "correctSentence": "smiles",
+            "correctWord": "smiles",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "smiles"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.461497Z",
+          "updatedAt": "2026-11-28T10:10:58.097151Z"
+        },
+        {
+          "id": "g3_t1_u1_q105",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "Laila is very ___.",
+            "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has curly hair and big brown eyes. She is also very tall. She can reach the top shelf easily.",
+            "options": [
+              "tall",
+              "short",
+              "fat"
+            ],
+            "passageId": "laila",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 104
+          },
+          "answerData": {
+            "correct": "tall",
+            "correctText": "tall",
+            "correctSentence": "tall",
+            "correctWord": "tall",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "tall"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.462524Z",
+          "updatedAt": "2026-11-28T10:10:58.097208Z"
+        },
+        {
+          "id": "g3_t1_u1_q139",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "The opposite of the underlined word \"long\" is ___.",
+            "passage": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.",
+            "options": [
+              "big",
+              "short",
+              "small"
+            ],
+            "passageId": "tala",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 138
+          },
+          "answerData": {
+            "correct": "short",
+            "correctText": "short",
+            "correctSentence": "short",
+            "correctWord": "short",
+            "correctIndex": 1,
+            "acceptedAnswers": [
+              "short"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.494190Z",
+          "updatedAt": "2026-11-28T10:11:02.714043Z"
+        },
+        {
+          "id": "g3_t1_u1_q140",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "readingMcq",
+          "typeCode": "reading_mcq",
+          "payload": {
+            "question": "Tala has ___ eyes.",
+            "passage": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.",
+            "options": [
+              "brown",
+              "green",
+              "blue"
+            ],
+            "passageId": "tala",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 139
+          },
+          "answerData": {
+            "correct": "brown",
+            "correctText": "brown",
+            "correctSentence": "brown",
+            "correctWord": "brown",
+            "correctIndex": 0,
+            "acceptedAnswers": [
+              "brown"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.495652Z",
+          "updatedAt": "2026-11-28T10:11:02.714087Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_Describing-People_sec_3",
+      "title": "ترتيب الجملة",
+      "questionType": "sentenceOrder",
+      "displayOrder": 3,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q120",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "is - brother - He - my.",
+            "question": "is - brother - He - my.",
+            "words": [
+              "is",
+              "brother",
+              "He",
+              "my"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 119
+          },
+          "answerData": {
+            "correct": "He is my brother.",
+            "correctText": "He is my brother.",
+            "correctSentence": "He is my brother.",
+            "correctWord": "He is my brother.",
+            "acceptedAnswers": [
+              "He is my brother."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.474832Z",
+          "updatedAt": "2026-11-28T10:10:58.098034Z"
+        },
+        {
+          "id": "g3_t1_u1_q121",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "in - classroom - We - the - are.",
+            "question": "in - classroom - We - the - are.",
+            "words": [
+              "in",
+              "classroom",
+              "We",
+              "the",
+              "are"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 120
+          },
+          "answerData": {
+            "correct": "We are in the classroom.",
+            "correctText": "We are in the classroom.",
+            "correctSentence": "We are in the classroom.",
+            "correctWord": "We are in the classroom.",
+            "acceptedAnswers": [
+              "We are in the classroom."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.475805Z",
+          "updatedAt": "2026-11-28T10:10:58.098121Z"
+        },
+        {
+          "id": "g3_t1_u1_q122",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "has - She - green - eyes.",
+            "question": "has - She - green - eyes.",
+            "words": [
+              "has",
+              "She",
+              "green",
+              "eyes"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 121
+          },
+          "answerData": {
+            "correct": "She has green eyes.",
+            "correctText": "She has green eyes.",
+            "correctSentence": "She has green eyes.",
+            "correctWord": "She has green eyes.",
+            "acceptedAnswers": [
+              "She has green eyes."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.476637Z",
+          "updatedAt": "2026-11-28T10:10:58.098178Z"
+        },
+        {
+          "id": "g3_t1_u1_q123",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "is - teacher - My - tall.",
+            "question": "is - teacher - My - tall.",
+            "words": [
+              "is",
+              "teacher",
+              "My",
+              "tall"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 122
+          },
+          "answerData": {
+            "correct": "My teacher is tall.",
+            "correctText": "My teacher is tall.",
+            "correctSentence": "My teacher is tall.",
+            "correctWord": "My teacher is tall.",
+            "acceptedAnswers": [
+              "My teacher is tall."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.477376Z",
+          "updatedAt": "2026-11-28T10:10:58.098227Z"
+        },
+        {
+          "id": "g3_t1_u1_q124",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "hair - She - long - has.",
+            "question": "hair - She - long - has.",
+            "words": [
+              "hair",
+              "She",
+              "long",
+              "has"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 123
+          },
+          "answerData": {
+            "correct": "She has long hair.",
+            "correctText": "She has long hair.",
+            "correctSentence": "She has long hair.",
+            "correctWord": "She has long hair.",
+            "acceptedAnswers": [
+              "She has long hair."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.477982Z",
+          "updatedAt": "2026-11-28T10:10:58.098285Z"
+        },
+        {
+          "id": "g3_t1_u1_q143",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "is - sister - She - my.",
+            "question": "is - sister - She - my.",
+            "words": [
+              "is",
+              "sister",
+              "She",
+              "my"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 142
+          },
+          "answerData": {
+            "correct": "She is my sister.",
+            "correctText": "She is my sister.",
+            "correctSentence": "She is my sister.",
+            "correctWord": "She is my sister.",
+            "acceptedAnswers": [
+              "She is my sister."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.498481Z",
+          "updatedAt": "2026-11-28T10:11:02.715785Z"
+        },
+        {
+          "id": "g3_t1_u1_q144",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "make - I - friends - my - laugh.",
+            "question": "make - I - friends - my - laugh.",
+            "words": [
+              "make",
+              "I",
+              "friends",
+              "my",
+              "laugh"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 143
+          },
+          "answerData": {
+            "correct": "I make my friends laugh.",
+            "correctText": "I make my friends laugh.",
+            "correctSentence": "I make my friends laugh.",
+            "correctWord": "I make my friends laugh.",
+            "acceptedAnswers": [
+              "I make my friends laugh."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.499022Z",
+          "updatedAt": "2026-11-28T10:11:02.715915Z"
+        },
+        {
+          "id": "g3_t1_u1_q212",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "very - are - You - kind.",
+            "question": "very - are - You - kind.",
+            "words": [
+              "very",
+              "are",
+              "You",
+              "kind"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 211
+          },
+          "answerData": {
+            "correct": "You are very kind.",
+            "correctText": "You are very kind.",
+            "correctSentence": "You are very kind.",
+            "correctWord": "You are very kind.",
+            "acceptedAnswers": [
+              "You are very kind."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.574181Z",
+          "updatedAt": "2026-11-28T10:11:07.836834Z"
+        },
+        {
+          "id": "g3_t1_u1_q219",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "new - Laila - is - my - friend.",
+            "question": "new - Laila - is - my - friend.",
+            "words": [
+              "new",
+              "Laila",
+              "is",
+              "my",
+              "friend"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 218
+          },
+          "answerData": {
+            "correct": "Laila is my new friend.",
+            "correctText": "Laila is my new friend.",
+            "correctSentence": "Laila is my new friend.",
+            "correctWord": "Laila is my new friend.",
+            "acceptedAnswers": [
+              "Laila is my new friend."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.581351Z",
+          "updatedAt": "2026-11-28T10:11:07.837261Z"
+        },
+        {
+          "id": "g3_t1_u1_q220",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "funny - is - She.",
+            "question": "funny - is - She.",
+            "words": [
+              "funny",
+              "is",
+              "She"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 219
+          },
+          "answerData": {
+            "correct": "She is funny.",
+            "correctText": "She is funny.",
+            "correctSentence": "She is funny.",
+            "correctWord": "She is funny.",
+            "acceptedAnswers": [
+              "She is funny."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.582619Z",
+          "updatedAt": "2026-11-28T10:11:07.837347Z"
+        },
+        {
+          "id": "g3_t1_u1_q221",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "sentenceOrder",
+          "typeCode": "sentence_order",
+          "payload": {
+            "prompt": "hair - has - She - curly.",
+            "question": "hair - has - She - curly.",
+            "words": [
+              "hair",
+              "has",
+              "She",
+              "curly"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 220
+          },
+          "answerData": {
+            "correct": "She has curly hair.",
+            "correctText": "She has curly hair.",
+            "correctSentence": "She has curly hair.",
+            "correctWord": "She has curly hair.",
+            "acceptedAnswers": [
+              "She has curly hair."
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.583737Z",
+          "updatedAt": "2026-11-28T10:11:07.837396Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_Describing-People_sec_4",
+      "title": "أكمل الفقرة من الصندوق",
+      "questionType": "completePassage",
+      "displayOrder": 4,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q125",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "completePassage",
+          "typeCode": "complete_passage",
+          "payload": {
+            "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+            "question": "My name is Laila. I am 9 years old. I am short and [1]. I have [2] hair. I have green eyes.",
+            "passage": "My name is Laila. I am 9 years old. I am short and [1]. I have [2] hair. I have green eyes.",
+            "wordBank": [
+              "eyes",
+              "straight",
+              "friendly"
+            ],
+            "blankCount": 2,
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 124
+          },
+          "answerData": {
+            "correct": [
+              "friendly",
+              "straight"
+            ],
+            "correctText": "[friendly, straight]",
+            "correctSentence": "[friendly, straight]",
+            "correctWord": "[friendly, straight]",
+            "answers": [
+              "friendly",
+              "straight"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.478708Z",
+          "updatedAt": "2026-11-28T10:10:58.098342Z"
+        },
+        {
+          "id": "g3_t1_u1_q126",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "completePassage",
+          "typeCode": "complete_passage",
+          "payload": {
+            "prompt": "أكمل الفراغات باستخدام الكلمات المناسبة:",
+            "question": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has [1] hair and big brown eyes. She is also very [2]. She can reach the top shelf easily.",
+            "passage": "This is my new friend Laila. She is very friendly. She always smiles and helps others. She has [1] hair and big brown eyes. She is also very [2]. She can reach the top shelf easily.",
+            "wordBank": [
+              "laugh",
+              "curly",
+              "tall"
+            ],
+            "blankCount": 2,
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 125
+          },
+          "answerData": {
+            "correct": [
+              "curly",
+              "tall"
+            ],
+            "correctText": "[curly, tall]",
+            "correctSentence": "[curly, tall]",
+            "correctWord": "[curly, tall]",
+            "answers": [
+              "curly",
+              "tall"
+            ]
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.479419Z",
+          "updatedAt": "2026-11-28T10:10:58.099620Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_Describing-People_sec_5",
+      "title": "ترتيب الحروف",
+      "questionType": "letterUnscramble",
+      "displayOrder": 5,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q127",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: y n u f n",
+            "question": "y n u f n",
+            "words": [
+              "y",
+              "n",
+              "u",
+              "f",
+              "n"
+            ],
+            "letters": [
+              "y",
+              "n",
+              "u",
+              "f",
+              "n"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+            "displayOrder": 126
+          },
+          "answerData": {
+            "correct": "funny",
+            "correctText": "funny",
+            "correctSentence": "funny",
+            "correctWord": "funny",
+            "acceptedAnswers": [
+              "funny"
+            ]
+          },
+          "media": [
+            {
+              "id": "ce3ccc27-b197-4647-9200-ed3843250e7a",
+              "kind": "image",
+              "relativePath": "exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/ce3ccc27-b197-4647-9200-ed3843250e7a.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q127.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.480176Z",
+          "updatedAt": "2026-11-28T10:10:59.829187Z"
+        },
+        {
+          "id": "g3_t1_u1_q128",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: l a t l",
+            "question": "l a t l",
+            "words": [
+              "l",
+              "a",
+              "t",
+              "l"
+            ],
+            "letters": [
+              "l",
+              "a",
+              "t",
+              "l"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+            "displayOrder": 127
+          },
+          "answerData": {
+            "correct": "tall",
+            "correctText": "tall",
+            "correctSentence": "tall",
+            "correctWord": "tall",
+            "acceptedAnswers": [
+              "tall"
+            ]
+          },
+          "media": [
+            {
+              "id": "70598c4a-ec41-4cbf-9938-6769ae979b73",
+              "kind": "image",
+              "relativePath": "exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/70598c4a-ec41-4cbf-9938-6769ae979b73.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q128.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.481005Z",
+          "updatedAt": "2026-11-28T10:11:01.174629Z"
+        },
+        {
+          "id": "g3_t1_u1_q129",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "letterUnscramble",
+          "typeCode": "letter_unscramble",
+          "payload": {
+            "prompt": "رتب الحروف لتكوين كلمة صحيحة: n w r b o",
+            "question": "n w r b o",
+            "words": [
+              "n",
+              "w",
+              "r",
+              "b",
+              "o"
+            ],
+            "letters": [
+              "n",
+              "w",
+              "r",
+              "b",
+              "o"
+            ],
+            "grading": "automatic",
+            "points": 1.0,
+            "imagePath": "exam_media/images/a67374f2-d1a5-4852-a4b4-ec4680230fab.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/a67374f2-d1a5-4852-a4b4-ec4680230fab.jpg",
+            "displayOrder": 128
+          },
+          "answerData": {
+            "correct": "brown",
+            "correctText": "brown",
+            "correctSentence": "brown",
+            "correctWord": "brown",
+            "acceptedAnswers": [
+              "brown"
+            ]
+          },
+          "media": [
+            {
+              "id": "a67374f2-d1a5-4852-a4b4-ec4680230fab",
+              "kind": "image",
+              "relativePath": "exam_media/images/a67374f2-d1a5-4852-a4b4-ec4680230fab.jpg",
+              "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/a67374f2-d1a5-4852-a4b4-ec4680230fab.jpg",
+              "mimeType": "image/jpeg",
+              "name": "g3_t1_u1_q129.jpg",
+              "slotKey": "main"
+            }
+          ],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.481718Z",
+          "updatedAt": "2026-11-28T10:11:02.710069Z"
+        }
+      ]
+    },
+    {
+      "id": "lesson_3_Describing-People_sec_6",
+      "title": "الترقيم (جملة كاملة)",
+      "questionType": "punctuation",
+      "displayOrder": 6,
+      "questions": [
+        {
+          "id": "g3_t1_u1_q130",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "how are you today",
+            "question": "how are you today",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 129
+          },
+          "answerData": {
+            "correct": "How are you today?",
+            "correctText": "How are you today?",
+            "correctSentence": "How are you today?",
+            "correctWord": "How are you today?",
+            "acceptedAnswers": [
+              "How are you today?"
+            ],
+            "fullSentence": "How are you today?",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "How are you today?"
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.482512Z",
+          "updatedAt": "2026-11-28T10:11:02.710332Z"
+        },
+        {
+          "id": "g3_t1_u1_q131",
+          "schemaVersion": 2,
+          "grade": 3,
+          "term": 1,
+          "unit": 1,
+          "lesson": 3,
+          "unitTitle": "Let's Learn Together!",
+          "type": "punctuation",
+          "typeCode": "punctuation",
+          "payload": {
+            "prompt": "the clown is funny",
+            "question": "the clown is funny",
+            "grading": "automatic",
+            "points": 1.0,
+            "displayOrder": 130
+          },
+          "answerData": {
+            "correct": "The clown is funny.",
+            "correctText": "The clown is funny.",
+            "correctSentence": "The clown is funny.",
+            "correctWord": "The clown is funny.",
+            "acceptedAnswers": [
+              "The clown is funny."
+            ],
+            "fullSentence": "The clown is funny.",
+            "correctionPolicy": {
+              "caseSensitive": true,
+              "punctuationSensitive": true,
+              "trimWhitespace": true,
+              "collapseRepeatedWhitespace": true,
+              "acceptedAnswers": [
+                "The clown is funny."
+              ]
+            }
+          },
+          "media": [],
+          "active": true,
+          "createdAt": "2026-11-28T10:06:53.483585Z",
+          "updatedAt": "2026-11-28T10:11:02.713581Z"
+        }
+      ]
+    }
+  ],
+  "sourceQuestionIds": [
+    "g3_t1_u1_q098",
+    "g3_t1_u1_q099",
+    "g3_t1_u1_q100",
+    "g3_t1_u1_q101",
+    "g3_t1_u1_q102",
+    "g3_t1_u1_q103",
+    "g3_t1_u1_q104",
+    "g3_t1_u1_q105",
+    "g3_t1_u1_q108",
+    "g3_t1_u1_q109",
+    "g3_t1_u1_q110",
+    "g3_t1_u1_q111",
+    "g3_t1_u1_q112",
+    "g3_t1_u1_q113",
+    "g3_t1_u1_q114",
+    "g3_t1_u1_q115",
+    "g3_t1_u1_q116",
+    "g3_t1_u1_q117",
+    "g3_t1_u1_q118",
+    "g3_t1_u1_q119",
+    "g3_t1_u1_q120",
+    "g3_t1_u1_q121",
+    "g3_t1_u1_q122",
+    "g3_t1_u1_q123",
+    "g3_t1_u1_q124",
+    "g3_t1_u1_q125",
+    "g3_t1_u1_q126",
+    "g3_t1_u1_q127",
+    "g3_t1_u1_q128",
+    "g3_t1_u1_q129",
+    "g3_t1_u1_q130",
+    "g3_t1_u1_q131",
+    "g3_t1_u1_q133",
+    "g3_t1_u1_q134",
+    "g3_t1_u1_q135",
+    "g3_t1_u1_q136",
+    "g3_t1_u1_q137",
+    "g3_t1_u1_q138",
+    "g3_t1_u1_q139",
+    "g3_t1_u1_q140",
+    "g3_t1_u1_q143",
+    "g3_t1_u1_q144",
+    "g3_t1_u1_q212",
+    "g3_t1_u1_q219",
+    "g3_t1_u1_q220",
+    "g3_t1_u1_q221",
+    "g3_t1_u1_q330",
+    "g3_t1_u1_q331",
+    "g3_t1_u1_q332",
+    "g3_t1_u1_q333",
+    "g3_t1_u1_q334",
+    "g3_t1_u1_q335",
+    "g3_t1_u1_q336",
+    "g3_t1_u1_q337",
+    "g3_t1_u1_q338",
+    "g3_t1_u1_q339",
+    "g3_t1_u1_q340",
+    "g3_t1_u1_q341",
+    "g3_t1_u1_q342",
+    "g3_t1_u1_q343",
+    "g3_t1_u1_q344",
+    "g3_t1_u1_q345",
+    "g3_t1_u1_q346",
+    "g3_t1_u1_q371",
+    "g3_t1_u1_q372",
+    "g3_t1_u1_q373",
+    "g3_t1_u1_q374"
+  ],
+  "generated": false,
+  "published": false,
+  "supportedModes": [
+    "normal",
+    "adventureGates",
+    "racing",
+    "treasureHunt",
+    "spaceMission"
+  ],
+  "createdAt": "2026-11-28T10:11:31.806025Z",
+  "updatedAt": "2026-11-28T10:11:31.806034Z",
+  "_lastModified": "2026-11-28T12:11:31.856490"
+}
