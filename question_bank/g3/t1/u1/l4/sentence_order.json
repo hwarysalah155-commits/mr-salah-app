@@ -1,0 +1,423 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "sentenceOrder",
+  "updatedAt": "2026-11-28T10:11:31.237095Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q169",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "do - school - What - do - you - after?",
+        "question": "do - school - What - do - you - after?",
+        "words": [
+          "do",
+          "school",
+          "What",
+          "do",
+          "you",
+          "after"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 168
+      },
+      "answerData": {
+        "correct": "What do you do after school?",
+        "correctText": "What do you do after school?",
+        "correctSentence": "What do you do after school?",
+        "correctWord": "What do you do after school?",
+        "acceptedAnswers": [
+          "What do you do after school?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.531360Z",
+      "updatedAt": "2026-11-28T10:11:07.831035Z"
+    },
+    {
+      "id": "g3_t1_u1_q170",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "go - to - school - I - a.m. - at - 8.",
+        "question": "go - to - school - I - a.m. - at - 8.",
+        "words": [
+          "go",
+          "to",
+          "school",
+          "I",
+          "a.m.",
+          "at",
+          "8"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 169
+      },
+      "answerData": {
+        "correct": "I go to school at 8 a.m.",
+        "correctText": "I go to school at 8 a.m.",
+        "correctSentence": "I go to school at 8 a.m.",
+        "correctWord": "I go to school at 8 a.m.",
+        "acceptedAnswers": [
+          "I go to school at 8 a.m."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.532716Z",
+      "updatedAt": "2026-11-28T10:11:07.831103Z"
+    },
+    {
+      "id": "g3_t1_u1_q213",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "play - my friends - with - I.",
+        "question": "play - my friends - with - I.",
+        "words": [
+          "play",
+          "my friends",
+          "with",
+          "I"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 212
+      },
+      "answerData": {
+        "correct": "I play with my friends.",
+        "correctText": "I play with my friends.",
+        "correctSentence": "I play with my friends.",
+        "correctWord": "I play with my friends.",
+        "acceptedAnswers": [
+          "I play with my friends."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.575058Z",
+      "updatedAt": "2026-11-28T10:11:07.836884Z"
+    },
+    {
+      "id": "g3_t1_u1_q214",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "homework - does - her - She - every day.",
+        "question": "homework - does - her - She - every day.",
+        "words": [
+          "homework",
+          "does",
+          "her",
+          "She",
+          "every day"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 213
+      },
+      "answerData": {
+        "correct": "She does her homework every day.",
+        "correctText": "She does her homework every day.",
+        "correctSentence": "She does her homework every day.",
+        "correctWord": "She does her homework every day.",
+        "acceptedAnswers": [
+          "She does her homework every day."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.575960Z",
+      "updatedAt": "2026-11-28T10:11:07.836939Z"
+    },
+    {
+      "id": "g3_t1_u1_q217",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "wake up - does - What time - Amir?",
+        "question": "wake up - does - What time - Amir?",
+        "words": [
+          "wake up",
+          "does",
+          "What time",
+          "Amir"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 216
+      },
+      "answerData": {
+        "correct": "What time does Amir wake up?",
+        "correctText": "What time does Amir wake up?",
+        "correctSentence": "What time does Amir wake up?",
+        "correctWord": "What time does Amir wake up?",
+        "acceptedAnswers": [
+          "What time does Amir wake up?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.579014Z",
+      "updatedAt": "2026-11-28T10:11:07.837148Z"
+    },
+    {
+      "id": "g3_t1_u1_q218",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "for breakfast - What - you - do - eat?",
+        "question": "for breakfast - What - you - do - eat?",
+        "words": [
+          "for breakfast",
+          "What",
+          "you",
+          "do",
+          "eat"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 217
+      },
+      "answerData": {
+        "correct": "What do you eat for breakfast?",
+        "correctText": "What do you eat for breakfast?",
+        "correctSentence": "What do you eat for breakfast?",
+        "correctWord": "What do you eat for breakfast?",
+        "acceptedAnswers": [
+          "What do you eat for breakfast?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.580115Z",
+      "updatedAt": "2026-11-28T10:11:07.837204Z"
+    },
+    {
+      "id": "g3_t1_u1_q222",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "at 7 - I - wake up.",
+        "question": "at 7 - I - wake up.",
+        "words": [
+          "at 7",
+          "I",
+          "wake up"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 221
+      },
+      "answerData": {
+        "correct": "I wake up at 7.",
+        "correctText": "I wake up at 7.",
+        "correctSentence": "I wake up at 7.",
+        "correctWord": "I wake up at 7.",
+        "acceptedAnswers": [
+          "I wake up at 7."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.584840Z",
+      "updatedAt": "2026-11-28T10:11:07.837453Z"
+    },
+    {
+      "id": "g3_t1_u1_q223",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "brush - my teeth - I.",
+        "question": "brush - my teeth - I.",
+        "words": [
+          "brush",
+          "my teeth",
+          "I"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 222
+      },
+      "answerData": {
+        "correct": "I brush my teeth.",
+        "correctText": "I brush my teeth.",
+        "correctSentence": "I brush my teeth.",
+        "correctWord": "I brush my teeth.",
+        "acceptedAnswers": [
+          "I brush my teeth."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.586201Z",
+      "updatedAt": "2026-11-28T10:11:07.837505Z"
+    },
+    {
+      "id": "g3_t1_u1_q224",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "breakfast - have - I.",
+        "question": "breakfast - have - I.",
+        "words": [
+          "breakfast",
+          "have",
+          "I"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 223
+      },
+      "answerData": {
+        "correct": "I have breakfast.",
+        "correctText": "I have breakfast.",
+        "correctSentence": "I have breakfast.",
+        "correctWord": "I have breakfast.",
+        "acceptedAnswers": [
+          "I have breakfast."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.587373Z",
+      "updatedAt": "2026-11-28T10:11:07.837566Z"
+    },
+    {
+      "id": "g3_t1_u1_q286",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "brush - my - I - teeth.",
+        "question": "brush - my - I - teeth.",
+        "words": [
+          "brush",
+          "my",
+          "I",
+          "teeth"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 285
+      },
+      "answerData": {
+        "correct": "I brush my teeth.",
+        "correctText": "I brush my teeth.",
+        "correctSentence": "I brush my teeth.",
+        "correctWord": "I brush my teeth.",
+        "acceptedAnswers": [
+          "I brush my teeth."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.685516Z",
+      "updatedAt": "2026-11-28T10:11:24.219283Z"
+    },
+    {
+      "id": "g3_t1_u1_q289",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "make - I - bed - my.",
+        "question": "make - I - bed - my.",
+        "words": [
+          "make",
+          "I",
+          "bed",
+          "my"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 288
+      },
+      "answerData": {
+        "correct": "I make my bed.",
+        "correctText": "I make my bed.",
+        "correctSentence": "I make my bed.",
+        "correctWord": "I make my bed.",
+        "acceptedAnswers": [
+          "I make my bed."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.689584Z",
+      "updatedAt": "2026-11-28T10:11:24.219488Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.242816"
+}
