@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 4,
+  "questionType": "punctuation",
+  "updatedAt": "2026-11-28T10:11:31.270320Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q171",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "what do you do in the morning",
+        "question": "what do you do in the morning",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 170
+      },
+      "answerData": {
+        "correct": "What do you do in the morning?",
+        "correctText": "What do you do in the morning?",
+        "correctSentence": "What do you do in the morning?",
+        "correctWord": "What do you do in the morning?",
+        "acceptedAnswers": [
+          "What do you do in the morning?"
+        ],
+        "fullSentence": "What do you do in the morning?",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "What do you do in the morning?"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.534471Z",
+      "updatedAt": "2026-11-28T10:11:07.831172Z"
+    },
+    {
+      "id": "g3_t1_u1_q172",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "i have long hair",
+        "question": "i have long hair",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 171
+      },
+      "answerData": {
+        "correct": "I have long hair.",
+        "correctText": "I have long hair.",
+        "correctSentence": "I have long hair.",
+        "correctWord": "I have long hair.",
+        "acceptedAnswers": [
+          "I have long hair."
+        ],
+        "fullSentence": "I have long hair.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "I have long hair."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.535916Z",
+      "updatedAt": "2026-11-28T10:11:07.833503Z"
+    },
+    {
+      "id": "g3_t1_u1_q271",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "i play with my friends",
+        "question": "i play with my friends",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 270
+      },
+      "answerData": {
+        "correct": "I play with my friends.",
+        "correctText": "I play with my friends.",
+        "correctSentence": "I play with my friends.",
+        "correctWord": "I play with my friends.",
+        "acceptedAnswers": [
+          "I play with my friends."
+        ],
+        "fullSentence": "I play with my friends.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "I play with my friends."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.662055Z",
+      "updatedAt": "2026-11-28T10:11:18.375848Z"
+    },
+    {
+      "id": "g3_t1_u1_q285",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "i eat my breakfast and go to school",
+        "question": "i eat my breakfast and go to school",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 284
+      },
+      "answerData": {
+        "correct": "I eat my breakfast and go to school.",
+        "correctText": "I eat my breakfast and go to school.",
+        "correctSentence": "I eat my breakfast and go to school.",
+        "correctWord": "I eat my breakfast and go to school.",
+        "acceptedAnswers": [
+          "I eat my breakfast and go to school."
+        ],
+        "fullSentence": "I eat my breakfast and go to school.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "I eat my breakfast and go to school."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.684108Z",
+      "updatedAt": "2026-11-28T10:11:24.218980Z"
+    },
+    {
+      "id": "g3_t1_u1_q303",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 4,
+      "unitTitle": "Let's Learn Together!",
+      "type": "punctuation",
+      "typeCode": "punctuation",
+      "payload": {
+        "prompt": "i go to school every day",
+        "question": "i go to school every day",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 302
+      },
+      "answerData": {
+        "correct": "I go to school every day.",
+        "correctText": "I go to school every day.",
+        "correctSentence": "I go to school every day.",
+        "correctWord": "I go to school every day.",
+        "acceptedAnswers": [
+          "I go to school every day."
+        ],
+        "fullSentence": "I go to school every day.",
+        "correctionPolicy": {
+          "caseSensitive": true,
+          "punctuationSensitive": true,
+          "trimWhitespace": true,
+          "collapseRepeatedWhitespace": true,
+          "acceptedAnswers": [
+            "I go to school every day."
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.707784Z",
+      "updatedAt": "2026-11-28T10:11:30.257757Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:31.275726"
+}
