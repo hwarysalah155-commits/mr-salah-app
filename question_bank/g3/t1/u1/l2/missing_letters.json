@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 2,
+  "questionType": "missingLetters",
+  "updatedAt": "2026-11-28T10:11:30.584274Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q043",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__at",
+        "question": "__at",
+        "displayPattern": "__at",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 42
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "what",
+        "completedWord": "what",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.415520Z",
+      "updatedAt": "2026-11-28T10:10:53.289348Z"
+    },
+    {
+      "id": "g3_t1_u1_q044",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__en",
+        "question": "__en",
+        "displayPattern": "__en",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 43
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "when",
+        "completedWord": "when",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.417484Z",
+      "updatedAt": "2026-11-28T10:10:53.289397Z"
+    },
+    {
+      "id": "g3_t1_u1_q045",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ere",
+        "question": "__ere",
+        "displayPattern": "__ere",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 44
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "where",
+        "completedWord": "where",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.418926Z",
+      "updatedAt": "2026-11-28T10:10:53.289439Z"
+    },
+    {
+      "id": "g3_t1_u1_q046",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__y",
+        "question": "__y",
+        "displayPattern": "__y",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 45
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "why",
+        "completedWord": "why",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.420220Z",
+      "updatedAt": "2026-11-28T10:10:53.289482Z"
+    },
+    {
+      "id": "g3_t1_u1_q047",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ale",
+        "question": "__ale",
+        "displayPattern": "__ale",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 46
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "whale",
+        "completedWord": "whale",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.420896Z",
+      "updatedAt": "2026-11-28T10:10:53.289524Z"
+    },
+    {
+      "id": "g3_t1_u1_q048",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__eel",
+        "question": "__eel",
+        "displayPattern": "__eel",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 47
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "wheel",
+        "completedWord": "wheel",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.421471Z",
+      "updatedAt": "2026-11-28T10:10:53.289562Z"
+    },
+    {
+      "id": "g3_t1_u1_q049",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ite",
+        "question": "__ite",
+        "displayPattern": "__ite",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 48
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "white",
+        "completedWord": "white",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.421878Z",
+      "updatedAt": "2026-11-28T10:10:53.289601Z"
+    },
+    {
+      "id": "g3_t1_u1_q050",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__y",
+        "question": "__y",
+        "displayPattern": "__y",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 49
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "why",
+        "completedWord": "why",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.422308Z",
+      "updatedAt": "2026-11-28T10:10:53.289646Z"
+    },
+    {
+      "id": "g3_t1_u1_q227",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__y",
+        "question": "__y",
+        "displayPattern": "__y",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 226
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "why",
+        "completedWord": "why",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.590199Z",
+      "updatedAt": "2026-11-28T10:11:07.837626Z"
+    },
+    {
+      "id": "g3_t1_u1_q228",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ale",
+        "question": "__ale",
+        "displayPattern": "__ale",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 227
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "whale",
+        "completedWord": "whale",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.591485Z",
+      "updatedAt": "2026-11-28T10:11:07.837683Z"
+    },
+    {
+      "id": "g3_t1_u1_q229",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__eel",
+        "question": "__eel",
+        "displayPattern": "__eel",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 228
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "wheel",
+        "completedWord": "wheel",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.592871Z",
+      "updatedAt": "2026-11-28T10:11:07.837729Z"
+    },
+    {
+      "id": "g3_t1_u1_q230",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ite",
+        "question": "__ite",
+        "displayPattern": "__ite",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 229
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "white",
+        "completedWord": "white",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.594425Z",
+      "updatedAt": "2026-11-28T10:11:07.837783Z"
+    },
+    {
+      "id": "g3_t1_u1_q250",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ere",
+        "question": "__ere",
+        "displayPattern": "__ere",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 249
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "where",
+        "completedWord": "where",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.617358Z",
+      "updatedAt": "2026-11-28T10:11:13.159568Z"
+    },
+    {
+      "id": "g3_t1_u1_q251",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__en",
+        "question": "__en",
+        "displayPattern": "__en",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 250
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "when",
+        "completedWord": "when",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.631621Z",
+      "updatedAt": "2026-11-28T10:11:13.159626Z"
+    },
+    {
+      "id": "g3_t1_u1_q252",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ite",
+        "question": "__ite",
+        "displayPattern": "__ite",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 251
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "white",
+        "completedWord": "white",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.632850Z",
+      "updatedAt": "2026-11-28T10:11:13.159673Z"
+    },
+    {
+      "id": "g3_t1_u1_q253",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ale",
+        "question": "__ale",
+        "displayPattern": "__ale",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "displayOrder": 252
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "whale",
+        "completedWord": "whale",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.633988Z",
+      "updatedAt": "2026-11-28T10:11:13.159720Z"
+    },
+    {
+      "id": "g3_t1_u1_q276",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "__ale",
+        "question": "__ale",
+        "displayPattern": "__ale",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/bcdecebe-e0fd-489c-be92-73f87cf9bac0.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/bcdecebe-e0fd-489c-be92-73f87cf9bac0.jpg",
+        "displayOrder": 275
+      },
+      "answerData": {
+        "correct": "wh",
+        "correctText": "wh",
+        "correctSentence": "wh",
+        "correctWord": "whale",
+        "completedWord": "whale",
+        "missingLetters": "wh",
+        "acceptedAnswers": [
+          "wh"
+        ]
+      },
+      "media": [
+        {
+          "id": "bcdecebe-e0fd-489c-be92-73f87cf9bac0",
+          "kind": "image",
+          "relativePath": "exam_media/images/bcdecebe-e0fd-489c-be92-73f87cf9bac0.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/bcdecebe-e0fd-489c-be92-73f87cf9bac0.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q276.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.669175Z",
+      "updatedAt": "2026-11-28T10:11:19.913932Z"
+    },
+    {
+      "id": "g3_t1_u1_q297",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "missingLetters",
+      "typeCode": "missing_letters",
+      "payload": {
+        "prompt": "w_it_",
+        "question": "w_it_",
+        "displayPattern": "w_it_",
+        "grading": "automatic",
+        "answerInput": "missing_letters_left_to_right",
+        "points": 1.0,
+        "imagePath": "exam_media/images/146b8615-14a4-4d25-8d58-5b44e3d60e96.jpg",
+        "imageUrl": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/146b8615-14a4-4d25-8d58-5b44e3d60e96.jpg",
+        "displayOrder": 296
+      },
+      "answerData": {
+        "correct": "he",
+        "correctText": "he",
+        "correctSentence": "he",
+        "correctWord": "white",
+        "completedWord": "white",
+        "missingLetters": "he",
+        "acceptedAnswers": [
+          "he"
+        ]
+      },
+      "media": [
+        {
+          "id": "146b8615-14a4-4d25-8d58-5b44e3d60e96",
+          "kind": "image",
+          "relativePath": "exam_media/images/146b8615-14a4-4d25-8d58-5b44e3d60e96.jpg",
+          "url": "https://raw.githubusercontent.com/hwarysalah155-commits/mr-salah-app/main/exam_media/images/146b8615-14a4-4d25-8d58-5b44e3d60e96.jpg",
+          "mimeType": "image/jpeg",
+          "name": "g3_t1_u1_q297.jpg",
+          "slotKey": "main"
+        }
+      ],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.698716Z",
+      "updatedAt": "2026-11-28T10:11:30.254810Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.590635"
+}
