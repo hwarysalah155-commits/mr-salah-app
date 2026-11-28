@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 2,
+  "questionType": "readingMcq",
+  "updatedAt": "2026-11-28T10:11:30.720206Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q064",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "Asser listens carefully to his ___.",
+        "passage": "Asser is a student in Primary three. He loves his school. He listens to his teachers carefully. He raises his hand when he wants to speak. In the class, he doesn't run or shout. He keeps his desk clean. If he needs to use the bathroom, he asks his teacher. He is very kind to his classmates.",
+        "options": [
+          "friends",
+          "teachers",
+          "books"
+        ],
+        "passageId": "asser",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 63
+      },
+      "answerData": {
+        "correct": "teachers",
+        "correctText": "teachers",
+        "correctSentence": "teachers",
+        "correctWord": "teachers",
+        "correctIndex": 1,
+        "acceptedAnswers": [
+          "teachers"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.430850Z",
+      "updatedAt": "2026-11-28T10:10:58.094537Z"
+    },
+    {
+      "id": "g3_t1_u1_q065",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 2,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingMcq",
+      "typeCode": "reading_mcq",
+      "payload": {
+        "question": "The opposite of the underlined word \"clean\" is ___.",
+        "passage": "Asser is a student in Primary three. He loves his school. He listens to his teachers carefully. He raises his hand when he wants to speak. In the class, he doesn't run or shout. He keeps his desk clean. If he needs to use the bathroom, he asks his teacher. He is very kind to his classmates.",
+        "options": [
+          "delicious",
+          "beautiful",
+          "dirty"
+        ],
+        "passageId": "asser",
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 64
+      },
+      "answerData": {
+        "correct": "dirty",
+        "correctText": "dirty",
+        "correctSentence": "dirty",
+        "correctWord": "dirty",
+        "correctIndex": 2,
+        "acceptedAnswers": [
+          "dirty"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.431650Z",
+      "updatedAt": "2026-11-28T10:10:58.094604Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.725382"
+}
