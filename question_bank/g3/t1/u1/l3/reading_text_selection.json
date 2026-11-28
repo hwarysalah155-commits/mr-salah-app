@@ -5,7 +5,7 @@
   "unit": 1,
   "lesson": 3,
   "questionType": "readingTextSelection",
-  "updatedAt": "2026-11-28T10:11:30.955079Z",
+  "updatedAt": "2026-11-28T18:07:09.844268Z",
   "items": [
     {
       "id": "g3_t1_u1_q106",
@@ -49,6 +49,61 @@
       "active": true,
       "createdAt": "2026-11-28T10:06:53.463692Z",
       "updatedAt": "2026-11-28T10:10:58.097257Z"
+    },
+    {
+      "id": "g3_t1_u1_q141",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "How does Tala help friends?",
+        "question": "How does Tala help friends?",
+        "passage": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.",
+        "passageId": "tala",
+        "referenceAnswer": "She helps her friends do their homework.",
+        "modelAnswer": "She helps her friends do their homework.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 140
+      },
+      "answerData": {
+        "correct": "She helps her friends do their homework.",
+        "correctText": "She helps her friends do their homework.",
+        "correctSentence": "She helps her friends do their homework.",
+        "correctWord": "She helps her friends do their homework.",
+        "acceptedAnswers": [
+          "She helps her friends do their homework."
+        ],
+        "startWordIndex": 13,
+        "endWordIndex": 19,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 13,
+            "endWordIndex": 19,
+            "text": "helps her friends do their homework. She"
+          }
+        ],
+        "selectionAnswer": {
+          "text": "helps her friends do their homework. She",
+          "startWordIndex": 13,
+          "endWordIndex": 19,
+          "matchKind": "pronounShift",
+          "confidence": 0.88,
+          "pronounShiftApplied": true,
+          "shiftNotes": [
+            "their → her"
+          ]
+        }
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T17:59:44.884388Z",
+      "updatedAt": "2026-11-28T18:07:09.571782Z"
     },
     {
       "id": "g3_t1_u1_q142",
@@ -137,5 +192,5 @@
       "updatedAt": "2026-11-28T10:11:13.156628Z"
     }
   ],
-  "_lastModified": "2026-11-28T12:11:30.960080"
+  "_lastModified": "2026-11-28T20:07:09.850556"
 }
