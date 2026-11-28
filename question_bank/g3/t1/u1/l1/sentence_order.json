@@ -5,8 +5,304 @@
   "unit": 1,
   "lesson": 1,
   "questionType": "sentenceOrder",
-  "updatedAt": "2026-11-27T17:16:23.007222Z",
+  "updatedAt": "2026-11-28T10:11:30.467476Z",
   "items": [
+    {
+      "id": "g3_t1_u1_q024",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "meet - Nice - to - you.",
+        "question": "meet - Nice - to - you.",
+        "words": [
+          "meet",
+          "Nice",
+          "to",
+          "you"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 23
+      },
+      "answerData": {
+        "correct": "Nice to meet you.",
+        "correctText": "Nice to meet you.",
+        "correctSentence": "Nice to meet you.",
+        "correctWord": "Nice to meet you.",
+        "acceptedAnswers": [
+          "Nice to meet you."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.326416Z",
+      "updatedAt": "2026-11-28T10:10:53.286658Z"
+    },
+    {
+      "id": "g3_t1_u1_q025",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "name - Adam - My - is.",
+        "question": "name - Adam - My - is.",
+        "words": [
+          "name",
+          "Adam",
+          "My",
+          "is"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 24
+      },
+      "answerData": {
+        "correct": "My name is Adam.",
+        "correctText": "My name is Adam.",
+        "correctSentence": "My name is Adam.",
+        "correctWord": "My name is Adam.",
+        "acceptedAnswers": [
+          "My name is Adam."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.328031Z",
+      "updatedAt": "2026-11-28T10:10:53.286732Z"
+    },
+    {
+      "id": "g3_t1_u1_q209",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "am - 8 years - I - old.",
+        "question": "am - 8 years - I - old.",
+        "words": [
+          "am",
+          "8 years",
+          "I",
+          "old"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 208
+      },
+      "answerData": {
+        "correct": "I am 8 years old.",
+        "correctText": "I am 8 years old.",
+        "correctSentence": "I am 8 years old.",
+        "correctWord": "I am 8 years old.",
+        "acceptedAnswers": [
+          "I am 8 years old."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.571584Z",
+      "updatedAt": "2026-11-28T10:11:07.836645Z"
+    },
+    {
+      "id": "g3_t1_u1_q216",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "today - are - you - How?",
+        "question": "today - are - you - How?",
+        "words": [
+          "today",
+          "are",
+          "you",
+          "How"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 215
+      },
+      "answerData": {
+        "correct": "How are you today?",
+        "correctText": "How are you today?",
+        "correctSentence": "How are you today?",
+        "correctWord": "How are you today?",
+        "acceptedAnswers": [
+          "How are you today?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.577902Z",
+      "updatedAt": "2026-11-28T10:11:07.837093Z"
+    },
+    {
+      "id": "g3_t1_u1_q269",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "your - What - name - is?",
+        "question": "your - What - name - is?",
+        "words": [
+          "your",
+          "What",
+          "name",
+          "is"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 268
+      },
+      "answerData": {
+        "correct": "What is your name?",
+        "correctText": "What is your name?",
+        "correctSentence": "What is your name?",
+        "correctWord": "What is your name?",
+        "acceptedAnswers": [
+          "What is your name?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.658914Z",
+      "updatedAt": "2026-11-28T10:11:18.373270Z"
+    },
+    {
+      "id": "g3_t1_u1_q287",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "old - you - How - are?",
+        "question": "old - you - How - are?",
+        "words": [
+          "old",
+          "you",
+          "How",
+          "are"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 286
+      },
+      "answerData": {
+        "correct": "How old are you?",
+        "correctText": "How old are you?",
+        "correctSentence": "How old are you?",
+        "correctWord": "How old are you?",
+        "acceptedAnswers": [
+          "How old are you?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.686913Z",
+      "updatedAt": "2026-11-28T10:11:24.219362Z"
+    },
+    {
+      "id": "g3_t1_u1_q288",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "to - meet - you - Nice.",
+        "question": "to - meet - you - Nice.",
+        "words": [
+          "to",
+          "meet",
+          "you",
+          "Nice"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 287
+      },
+      "answerData": {
+        "correct": "Nice to meet you.",
+        "correctText": "Nice to meet you.",
+        "correctSentence": "Nice to meet you.",
+        "correctWord": "Nice to meet you.",
+        "acceptedAnswers": [
+          "Nice to meet you."
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.688289Z",
+      "updatedAt": "2026-11-28T10:11:24.219418Z"
+    },
+    {
+      "id": "g3_t1_u1_q306",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 1,
+      "unitTitle": "Let's Learn Together!",
+      "type": "sentenceOrder",
+      "typeCode": "sentence_order",
+      "payload": {
+        "prompt": "name - What - is - your?",
+        "question": "name - What - is - your?",
+        "words": [
+          "name",
+          "What",
+          "is",
+          "your"
+        ],
+        "grading": "automatic",
+        "points": 1.0,
+        "displayOrder": 305
+      },
+      "answerData": {
+        "correct": "What is your name?",
+        "correctText": "What is your name?",
+        "correctSentence": "What is your name?",
+        "correctWord": "What is your name?",
+        "acceptedAnswers": [
+          "What is your name?"
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.711658Z",
+      "updatedAt": "2026-11-28T10:11:30.258118Z"
+    },
     {
       "id": "g3_t1_u1_q245",
       "schemaVersion": 2,
@@ -64,5 +360,5 @@
       "updatedAt": "2026-11-27T17:16:09.233695Z"
     }
   ],
-  "_lastModified": "2026-11-27T19:16:23.022413"
+  "_lastModified": "2026-11-28T12:11:30.473417"
 }
