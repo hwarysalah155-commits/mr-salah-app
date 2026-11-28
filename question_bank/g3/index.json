@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "grade": 3,
-  "updatedAt": "2026-11-28T10:11:31.457314Z",
+  "updatedAt": "2026-11-28T18:07:09.984375Z",
   "activeCounts": {
     "t1_u1_l1|mcq": 99,
     "t1_u1_l2|mcq": 76,
@@ -12,7 +12,7 @@
     "t1_u1_l1|readingMcq": 2,
     "t1_u1_l1|letterUnscramble": 3,
     "t1_u1_l1|punctuation": 4,
-    "t1_u1_l2|missingLetters": 18,
+    "t1_u1_l2|missingLetters": 20,
     "t1_u1_l2|completePassage": 1,
     "t1_u1_l2|punctuation": 2,
     "t1_u1_l2|letterUnscramble": 3,
@@ -21,7 +21,7 @@
     "t1_u1_l2|sentenceOrder": 6,
     "t1_u1_l1|fillBlank": 4,
     "t1_u1_l3|readingMcq": 4,
-    "t1_u1_l3|readingTextSelection": 3,
+    "t1_u1_l3|readingTextSelection": 4,
     "t1_u1_l3|sentenceOrder": 14,
     "t1_u1_l3|completePassage": 2,
     "t1_u1_l3|letterUnscramble": 7,
@@ -32,9 +32,13 @@
     "t1_u1_l4|punctuation": 5,
     "t1_u1_l4|completePassage": 2,
     "t1_u1_l3|fillBlank": 4,
-    "t1_u1_l3|missingLetters": 1,
-    "t1_u1_l1|missingLetters": 1,
-    "t1_u1_l4|missingLetters": 4
+    "t1_u1_l3|missingLetters": 5,
+    "t1_u1_l1|missingLetters": 3,
+    "t1_u1_l4|missingLetters": 8,
+    "t1_u1_l1|readingTextSelection": 2,
+    "t1_u1_l1|translationMcq": 1,
+    "t1_u1_l4|readingTextSelection": 2,
+    "t1_u1_l3|translationMcq": 12
   },
   "totalCounts": {
     "t1_u1_l1|mcq": 99,
@@ -46,7 +50,7 @@
     "t1_u1_l1|readingMcq": 2,
     "t1_u1_l1|letterUnscramble": 3,
     "t1_u1_l1|punctuation": 4,
-    "t1_u1_l2|missingLetters": 18,
+    "t1_u1_l2|missingLetters": 20,
     "t1_u1_l2|completePassage": 1,
     "t1_u1_l2|punctuation": 2,
     "t1_u1_l2|letterUnscramble": 3,
@@ -55,7 +59,7 @@
     "t1_u1_l2|sentenceOrder": 6,
     "t1_u1_l1|fillBlank": 4,
     "t1_u1_l3|readingMcq": 4,
-    "t1_u1_l3|readingTextSelection": 3,
+    "t1_u1_l3|readingTextSelection": 4,
     "t1_u1_l3|sentenceOrder": 14,
     "t1_u1_l3|completePassage": 2,
     "t1_u1_l3|letterUnscramble": 7,
@@ -66,9 +70,13 @@
     "t1_u1_l4|punctuation": 5,
     "t1_u1_l4|completePassage": 2,
     "t1_u1_l3|fillBlank": 4,
-    "t1_u1_l3|missingLetters": 1,
-    "t1_u1_l1|missingLetters": 1,
-    "t1_u1_l4|missingLetters": 4
+    "t1_u1_l3|missingLetters": 5,
+    "t1_u1_l1|missingLetters": 3,
+    "t1_u1_l4|missingLetters": 8,
+    "t1_u1_l1|readingTextSelection": 2,
+    "t1_u1_l1|translationMcq": 1,
+    "t1_u1_l4|readingTextSelection": 2,
+    "t1_u1_l3|translationMcq": 12
   },
   "unitTitles": {
     "t1_u1": "Let's Learn Together!"
@@ -84,5 +92,5 @@
   "lessonTitles": {
     "t1_u1_l1": "Unit 1 – Sample Test 1"
   },
-  "_lastModified": "2026-11-28T12:11:31.465439"
+  "_lastModified": "2026-11-28T20:07:09.990464"
 }
