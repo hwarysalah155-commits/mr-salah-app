@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 2,
+  "grade": 3,
+  "term": 1,
+  "unit": 1,
+  "lesson": 3,
+  "questionType": "readingTextSelection",
+  "updatedAt": "2026-11-28T10:11:30.955079Z",
+  "items": [
+    {
+      "id": "g3_t1_u1_q106",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "What kind of person is Mona?",
+        "question": "What kind of person is Mona?",
+        "passage": "This is my friend Mona. She is very friendly, kind, and funny. She always tells jokes and helps her friends. Mona has long black hair and brown eyes. Everyone likes to play with her.",
+        "passageId": "mona",
+        "referenceAnswer": "She is very friendly, kind, and funny.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 105
+      },
+      "answerData": {
+        "correct": "She is very friendly, kind, and funny.",
+        "correctText": "She is very friendly, kind, and funny.",
+        "correctSentence": "She is very friendly, kind, and funny.",
+        "correctWord": "She is very friendly, kind, and funny.",
+        "acceptedAnswers": [
+          "She is very friendly, kind, and funny."
+        ],
+        "startWordIndex": 5,
+        "endWordIndex": 11,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 5,
+            "endWordIndex": 11,
+            "text": "She is very friendly, kind, and funny."
+          }
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.463692Z",
+      "updatedAt": "2026-11-28T10:10:58.097257Z"
+    },
+    {
+      "id": "g3_t1_u1_q142",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "What kind of person is Tala?",
+        "question": "What kind of person is Tala?",
+        "passage": "This is my friend Tala. She is very helpful and funny. She always helps her friends do their homework. She has long black hair and brown eyes. We all like to play and talk with her.",
+        "passageId": "tala",
+        "referenceAnswer": "She is very helpful and funny.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 141
+      },
+      "answerData": {
+        "correct": "She is very helpful and funny.",
+        "correctText": "She is very helpful and funny.",
+        "correctSentence": "She is very helpful and funny.",
+        "correctWord": "She is very helpful and funny.",
+        "acceptedAnswers": [
+          "She is very helpful and funny."
+        ],
+        "startWordIndex": 5,
+        "endWordIndex": 10,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 5,
+            "endWordIndex": 10,
+            "text": "She is very helpful and funny."
+          }
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.497761Z",
+      "updatedAt": "2026-11-28T10:11:02.714128Z"
+    },
+    {
+      "id": "g3_t1_u1_q243",
+      "schemaVersion": 2,
+      "grade": 3,
+      "term": 1,
+      "unit": 1,
+      "lesson": 3,
+      "unitTitle": "Let's Learn Together!",
+      "type": "readingTextSelection",
+      "typeCode": "reading_text_selection",
+      "payload": {
+        "prompt": "How old is Samira?",
+        "question": "How old is Samira?",
+        "passage": "This is my friend Samira. She is eight years old. She is very friendly, kind and funny. She always tells jokes and helps her friends. Samira has long black hair and brown eyes. Everyone likes to play with her.",
+        "passageId": "samira",
+        "referenceAnswer": "She is eight years old.",
+        "grading": "manual_or_exact_match",
+        "points": null,
+        "displayOrder": 242
+      },
+      "answerData": {
+        "correct": "She is eight years old.",
+        "correctText": "She is eight years old.",
+        "correctSentence": "She is eight years old.",
+        "correctWord": "She is eight years old.",
+        "acceptedAnswers": [
+          "She is eight years old."
+        ],
+        "startWordIndex": 5,
+        "endWordIndex": 9,
+        "acceptedSpans": [
+          {
+            "startWordIndex": 5,
+            "endWordIndex": 9,
+            "text": "She is eight years old."
+          }
+        ]
+      },
+      "media": [],
+      "active": true,
+      "createdAt": "2026-11-28T10:06:53.612028Z",
+      "updatedAt": "2026-11-28T10:11:13.156628Z"
+    }
+  ],
+  "_lastModified": "2026-11-28T12:11:30.960080"
+}
